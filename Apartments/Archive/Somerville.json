@@ -1,0 +1,6178 @@
+[
+  {
+    "zpid": "42.39318--71.07791",
+    "id": "42.39318--71.07791",
+    "providerListingId": "y8vwx97wjpcw",
+    "imgSrc": "https://photos.zillowstatic.com/fp/ae78c1c6378b6718076c00184c7f0a8e-p_e.jpg",
+    "hasImage": true,
+    "detailUrl": "/apartments/somerville-ma/miscela/CjrQTL/",
+    "statusType": "FOR_RENT",
+    "statusText": "Miscela",
+    "address": "485 Foley St, Somerville, MA",
+    "addressStreet": "485 Foley St   # 840",
+    "addressCity": "Somerville",
+    "addressState": "MA",
+    "addressZipcode": "02145",
+    "units": [
+      {
+        "price": "$2,715+",
+        "beds": "0",
+        "roomForRent": false
+      },
+      {
+        "price": "$3,045+",
+        "beds": "1",
+        "roomForRent": false
+      },
+      {
+        "price": "$3,825+",
+        "beds": "2",
+        "roomForRent": false
+      },
+      {
+        "price": "$5,355+",
+        "beds": "3",
+        "roomForRent": false
+      }
+    ],
+    "lotId": 2748918048,
+    "latLong": {
+      "latitude": 42.39318,
+      "longitude": -71.07791
+    },
+    "listCardRecommendation": {
+      "flexFieldRecommendations": [
+        {
+          "displayString": "Shimmering pool",
+          "contentType": "homeInsight"
+        },
+        {
+          "displayString": "Special Offer",
+          "contentType": "frSpecialOffer"
+        }
+      ]
+    },
+    "isSaved": false,
+    "buildingName": "Miscela",
+    "isBuilding": true,
+    "canSaveBuilding": true,
+    "has3DModel": true,
+    "isFeaturedListing": true,
+    "isShowcaseListing": false,
+    "list": true,
+    "relaxed": false,
+    "carouselPhotosComposable": {
+      "baseUrl": "https://photos.zillowstatic.com/fp/{photoKey}-p_e.jpg",
+      "communityBaseUrl": null,
+      "photoData": [
+        {
+          "photoKey": "ae78c1c6378b6718076c00184c7f0a8e"
+        },
+        {
+          "photoKey": "8e21706d3037651082b7d80fed7a5e74"
+        },
+        {
+          "photoKey": "3f9ebffb14180455e44ce7a23260d03e"
+        },
+        {
+          "photoKey": "ce7c1bef6d2b7e7f7fd74a350f75521f"
+        },
+        {
+          "photoKey": "e44911856e9b62df1b2974684b5141f9"
+        },
+        {
+          "photoKey": "dd0883e0d1752f7ea8fea3865420d8d7"
+        },
+        {
+          "photoKey": "b2d0ace5f6f1df33307e7fa2e939085a"
+        },
+        {
+          "photoKey": "55a55a176251766bade06f1b7b39bb58"
+        },
+        {
+          "photoKey": "fd61a3e77bf63ea1a46c492be8431883"
+        },
+        {
+          "photoKey": "902c4b433ff670736a2f15c63f56cbb0"
+        },
+        {
+          "photoKey": "123f5f1527305cb19a84565628329fe0"
+        },
+        {
+          "photoKey": "8a78ca0989999e5c615df4d96237dd1d"
+        },
+        {
+          "photoKey": "db0b49e7e575e1fefc455d284a3f5d00"
+        },
+        {
+          "photoKey": "f81511faffd20f78d73eac56af4af5fe"
+        },
+        {
+          "photoKey": "3955b70c4a150591db234174fa632cb5"
+        },
+        {
+          "photoKey": "5e7434012dd462374ff8a1b45878e3b3"
+        },
+        {
+          "photoKey": "2a3ab2e96bd123ac62432568bd1b5644"
+        },
+        {
+          "photoKey": "c9acdc6f21bd167bfd8cc2abc8791a0a"
+        },
+        {
+          "photoKey": "3654864c7c807f35296b9e2c1a2e38a1"
+        },
+        {
+          "photoKey": "774f234a51839b405abf132335cbf076"
+        },
+        {
+          "photoKey": "7c6c919161ef577b47c3331d9908b36f"
+        },
+        {
+          "photoKey": "79d48845dce2e28ddc6e645a2b7f98ce"
+        },
+        {
+          "photoKey": "a0d33fd693f3a034d49c6988eb93fe1c"
+        },
+        {
+          "photoKey": "aa96d4548924cc06ed6998c7c2411b96"
+        },
+        {
+          "photoKey": "8fb40259fc9d857ab2f5ec3b656c2443"
+        },
+        {
+          "photoKey": "a08d33e807d4dd5ba25c85271e69eed5"
+        },
+        {
+          "photoKey": "cb406545bacd1db24c60377cf9641236"
+        },
+        {
+          "photoKey": "7231f1fb054d6a9bc0c2e4f197e0701b"
+        },
+        {
+          "photoKey": "462ef7b337a0949e4cc1a557ca11a604"
+        },
+        {
+          "photoKey": "142c823ec4429b339ab500da4ff04826"
+        },
+        {
+          "photoKey": "3c491ef01f5cbda3b4618f26e72b2a2c"
+        },
+        {
+          "photoKey": "d230014d5b9cf3f07c7b462f05df7a55"
+        },
+        {
+          "photoKey": "02e92ad307803625a1755a9008dcb395"
+        },
+        {
+          "photoKey": "070ed169d9f3e4c1166b4f60e5bfd722"
+        },
+        {
+          "photoKey": "09743899b24b6713ca21e49221fc9107"
+        },
+        {
+          "photoKey": "36b19d81f99fb539137cc4e8e55d9fa7"
+        },
+        {
+          "photoKey": "b44a76b2232f316a304fe5c57d038272"
+        },
+        {
+          "photoKey": "3c2942cb00836ee0e78521622d37137c"
+        },
+        {
+          "photoKey": "6fd8c7d15736154f9836b0b10510b6d1"
+        },
+        {
+          "photoKey": "d417047fa35640845b6644950ba7e742"
+        },
+        {
+          "photoKey": "da6cdf7d8771a867c4b2f7aea71aa538"
+        },
+        {
+          "photoKey": "3c71e18e0c0087cbb9b4d28d92f00126"
+        },
+        {
+          "photoKey": "3d8fb3f80831783051128089ce2750ac"
+        },
+        {
+          "photoKey": "d619b00e616f90b851bf15c7aa384b7f"
+        },
+        {
+          "photoKey": "1940cfe72d253bf5a0471e17a174e718"
+        },
+        {
+          "photoKey": "8311f0a78fe952095074c81625bd0284"
+        },
+        {
+          "photoKey": "d281b8100d1b66b829c117433fcf3abe"
+        },
+        {
+          "photoKey": "56ab1f0fe3065d6d82df8fe8e557cdcc"
+        },
+        {
+          "photoKey": "76d1cfda7b9a42232d90dcc1a4389adf"
+        },
+        {
+          "photoKey": "b300ef5a260a17f600e6b0c417d55f95"
+        },
+        {
+          "photoKey": "571ae05a1f2eaec62a9ccce3bd3cecdd"
+        },
+        {
+          "photoKey": "1428706c93a18ab8a0599e11d7161421"
+        },
+        {
+          "photoKey": "ea9168a10ea497ad7fb5aba204211235"
+        },
+        {
+          "photoKey": "25bd97737f2daa483f43b9f7e65becdb"
+        },
+        {
+          "photoKey": "7f5ddee7b69b9cbd9bb91c63a78f2f46"
+        },
+        {
+          "photoKey": "a0346551a2e9e338d3551bbbdd7121d4"
+        },
+        {
+          "photoKey": "98a2cc679cd501c081a8a2f1f733933b"
+        },
+        {
+          "photoKey": "8c60ab8abc4e463e3c4e06a45bde22ff"
+        },
+        {
+          "photoKey": "1e74e06817658bd4da57d2a03b527576"
+        },
+        {
+          "photoKey": "4c45ebbf6120b7e8879676ab945bd226"
+        }
+      ],
+      "communityPhotoData": null,
+      "isStaticUrls": false
+    },
+    "availabilityCount": 37,
+    "marketingTreatments": [
+      "trustedListing",
+      "paid",
+      "multiFamilySalesListing",
+      "paidOrUnpaidMultifamily",
+      "paidMultifamily",
+      "multifamilyPinnaclePackage"
+    ],
+    "listPriceIncludesRequiredMonthlyFees": true,
+    "minBaseRent": 2715,
+    "maxBaseRent": 5565,
+    "isInstantTourEnabled": false,
+    "isContactable": true,
+    "isPaidBuilderNewConstruction": false
+  },
+  {
+    "zpid": "42.39387--71.07819",
+    "id": "42.39387--71.07819",
+    "providerListingId": "9a2u762vrzh7",
+    "imgSrc": "https://photos.zillowstatic.com/fp/972e794cb2c3f1261ea366ec6ac7e138-p_e.jpg",
+    "hasImage": true,
+    "detailUrl": "/apartments/somerville-ma/montaje/CmPcHz/",
+    "statusType": "FOR_RENT",
+    "statusText": "Montaje",
+    "address": "449 Canal St, Somerville, MA",
+    "addressStreet": "449 Canal St # 1210",
+    "addressCity": "Somerville",
+    "addressState": "MA",
+    "addressZipcode": "02145",
+    "units": [
+      {
+        "price": "$2,980+",
+        "beds": "0",
+        "roomForRent": false
+      },
+      {
+        "price": "$2,710+",
+        "beds": "1",
+        "roomForRent": false
+      },
+      {
+        "price": "$4,135+",
+        "beds": "2",
+        "roomForRent": false
+      }
+    ],
+    "lotId": 2757882924,
+    "latLong": {
+      "latitude": 42.39387,
+      "longitude": -71.07819
+    },
+    "listCardRecommendation": {
+      "flexFieldRecommendations": [
+        {
+          "displayString": "Industrial past",
+          "contentType": "homeInsight"
+        },
+        {
+          "displayString": "Special Offer",
+          "contentType": "frSpecialOffer"
+        }
+      ]
+    },
+    "isSaved": false,
+    "buildingName": "Montaje",
+    "isBuilding": true,
+    "canSaveBuilding": true,
+    "has3DModel": true,
+    "isFeaturedListing": true,
+    "isShowcaseListing": false,
+    "list": true,
+    "relaxed": false,
+    "carouselPhotosComposable": {
+      "baseUrl": "https://photos.zillowstatic.com/fp/{photoKey}-p_e.jpg",
+      "communityBaseUrl": null,
+      "photoData": [
+        {
+          "photoKey": "972e794cb2c3f1261ea366ec6ac7e138"
+        },
+        {
+          "photoKey": "92a8d6ba8f28a7fb1b7e35242e31da71"
+        },
+        {
+          "photoKey": "004bda8e7f780d66883eb0efa2a10509"
+        },
+        {
+          "photoKey": "d49e7032a43bef14425a5e282beb51d2"
+        },
+        {
+          "photoKey": "6a9a1f286ef493db00c085754a1196d3"
+        },
+        {
+          "photoKey": "20a1fa90ea3abfc63d0af834b219aab1"
+        },
+        {
+          "photoKey": "9e48140ec7bd6b50d295ff2aa37ed06e"
+        },
+        {
+          "photoKey": "7357f0fd5c2bcc24d5d19010a4ebbeff"
+        },
+        {
+          "photoKey": "91a43db444ee3921d28b47cf92eff487"
+        },
+        {
+          "photoKey": "21713685e912c630d39672d0108ffd67"
+        },
+        {
+          "photoKey": "214da5c433c21549b410a31728b90b6d"
+        },
+        {
+          "photoKey": "25247fa9cd5f5557f1ae982e9ce57751"
+        },
+        {
+          "photoKey": "cdedf064e98fa6ca6f8f652c97433ed5"
+        },
+        {
+          "photoKey": "1dbf6d13f6bc8ec6abafae73c6cecf6c"
+        },
+        {
+          "photoKey": "2e8d9d04d4168e916526348ac335d29b"
+        },
+        {
+          "photoKey": "8e61500f9dd3c6f434920715d34ec750"
+        },
+        {
+          "photoKey": "c886f959737e922a2514cf9bed69ea1d"
+        },
+        {
+          "photoKey": "58c8caa41ec28a04124269305b4b5a6b"
+        },
+        {
+          "photoKey": "fa138222a26ec7291d10069b5740b2cf"
+        },
+        {
+          "photoKey": "b75c08c7a22efb1a4c8f65e438aabc22"
+        },
+        {
+          "photoKey": "3df34710604b422f7ba70df246c996a1"
+        },
+        {
+          "photoKey": "fa9386818b142f13d34ef8bd2aace986"
+        },
+        {
+          "photoKey": "d4faf2362e51206e76e5692a9e3a36b0"
+        },
+        {
+          "photoKey": "b09d420ebfc950a970e6ef3400c02558"
+        },
+        {
+          "photoKey": "3194b41208e6c987da78b7766fdbf81d"
+        },
+        {
+          "photoKey": "10216ac74bddd1af9dcc70b519693c4f"
+        },
+        {
+          "photoKey": "2e69fac5b721598f59eb701bd1b022cd"
+        },
+        {
+          "photoKey": "786b1336b982f71af59ddbd33a5d6bdc"
+        },
+        {
+          "photoKey": "e0c10916b44520b6017a23b402cb1c7f"
+        },
+        {
+          "photoKey": "4cd564cd2d61315392e3b1ad75f851aa"
+        },
+        {
+          "photoKey": "56813e1f51506cadfcbf2858b404412c"
+        },
+        {
+          "photoKey": "f16243153dc0925e830158e181a46553"
+        },
+        {
+          "photoKey": "9df8254a217567c506032f090a755112"
+        },
+        {
+          "photoKey": "33cace6657b9e3850e198fbb7e472962"
+        },
+        {
+          "photoKey": "d8d8b5f2a97a7556c6b6c1c954d07f9e"
+        },
+        {
+          "photoKey": "cc47f4d87de97dd63c4a4a90588748df"
+        },
+        {
+          "photoKey": "546ec19638d53e900dd5cc706b3e492e"
+        },
+        {
+          "photoKey": "033b9ceb620489c0d9ff423a21e8fe2b"
+        },
+        {
+          "photoKey": "b6055f0209d61ba14111c4c9c1fa8313"
+        }
+      ],
+      "communityPhotoData": null,
+      "isStaticUrls": false
+    },
+    "availabilityCount": 35,
+    "marketingTreatments": [
+      "trustedListing",
+      "paid",
+      "multiFamilySalesListing",
+      "paidOrUnpaidMultifamily",
+      "paidMultifamily",
+      "multifamilyPinnaclePackage"
+    ],
+    "listPriceIncludesRequiredMonthlyFees": true,
+    "minBaseRent": 2710,
+    "maxBaseRent": 4925,
+    "isInstantTourEnabled": false,
+    "isContactable": true,
+    "isPaidBuilderNewConstruction": false
+  },
+  {
+    "zpid": "42.373844--71.08804",
+    "id": "42.373844--71.08804",
+    "providerListingId": "423ca2mjfz65c",
+    "imgSrc": "https://photos.zillowstatic.com/fp/adc39598f2b0ae3c3ff98bfe8bc17a52-p_e.jpg",
+    "hasImage": true,
+    "detailUrl": "/apartments/somerville-ma/verge-residences/CfWGNh/",
+    "statusType": "FOR_RENT",
+    "statusText": "Verge Residences",
+    "address": "16-20 Medford St, Somerville, MA",
+    "addressStreet": "16-20 Medford St # 212",
+    "addressCity": "Somerville",
+    "addressState": "MA",
+    "addressZipcode": "02143",
+    "units": [
+      {
+        "price": "$2,650+",
+        "beds": "0",
+        "roomForRent": false
+      },
+      {
+        "price": "$3,200+",
+        "beds": "1",
+        "roomForRent": false
+      },
+      {
+        "price": "$3,900+",
+        "beds": "2",
+        "roomForRent": false
+      }
+    ],
+    "lotId": 2729721826,
+    "latLong": {
+      "latitude": 42.373844,
+      "longitude": -71.08804
+    },
+    "listCardRecommendation": {
+      "flexFieldRecommendations": [
+        {
+          "displayString": "Passive house design",
+          "contentType": "homeInsight"
+        },
+        {
+          "displayString": "16 available units",
+          "contentType": "frUnitsAvailable"
+        }
+      ]
+    },
+    "isSaved": false,
+    "buildingName": "Verge Residences",
+    "isBuilding": true,
+    "canSaveBuilding": true,
+    "has3DModel": false,
+    "isFeaturedListing": true,
+    "isShowcaseListing": false,
+    "list": true,
+    "relaxed": false,
+    "carouselPhotosComposable": {
+      "baseUrl": "https://photos.zillowstatic.com/fp/{photoKey}-p_e.jpg",
+      "communityBaseUrl": null,
+      "photoData": [
+        {
+          "photoKey": "adc39598f2b0ae3c3ff98bfe8bc17a52"
+        },
+        {
+          "photoKey": "b3ab28ec74a1388d5c052eb997d0dc5c"
+        },
+        {
+          "photoKey": "c13b458e41338ef118f34aa6d4a26d43"
+        },
+        {
+          "photoKey": "5c25bb4c65f089b17cdd08d3e68c06ca"
+        },
+        {
+          "photoKey": "910ed9d12014c53257b389f9bef8b499"
+        },
+        {
+          "photoKey": "fc3a04d4ceddefe50911cb30c70153fc"
+        },
+        {
+          "photoKey": "4557cafecc3ac1abecbc3d1b4cf8ae54"
+        },
+        {
+          "photoKey": "a1ff62db42b9281f8f8f7bb7282396b9"
+        },
+        {
+          "photoKey": "7fec9324f888810de7ed08d6c66ed222"
+        },
+        {
+          "photoKey": "ad457a7dc9b466e7fdfb4c831dbb20c6"
+        },
+        {
+          "photoKey": "21bf25599f1b55326e5ed3edbd9ff799"
+        },
+        {
+          "photoKey": "2f884458713b169f76f3fce08ecc6b98"
+        },
+        {
+          "photoKey": "76bca75249ad696da9012c6b3bea045b"
+        },
+        {
+          "photoKey": "673a65b294678789d169c9bfde8963d0"
+        },
+        {
+          "photoKey": "38d27f86e19aa917e33896747aef9523"
+        },
+        {
+          "photoKey": "04e9308432e18fbd6583503c8218d226"
+        },
+        {
+          "photoKey": "455a91c6f90ec24fd7a26af5c1e2c903"
+        }
+      ],
+      "communityPhotoData": null,
+      "isStaticUrls": false
+    },
+    "availabilityCount": 16,
+    "marketingTreatments": [
+      "trustedListing",
+      "paid",
+      "multiFamilySalesListing",
+      "paidOrUnpaidMultifamily",
+      "paidMultifamily",
+      "multifamilyPinnaclePackage"
+    ],
+    "listPriceIncludesRequiredMonthlyFees": false,
+    "isInstantTourEnabled": false,
+    "isContactable": true,
+    "isPaidBuilderNewConstruction": false
+  },
+  {
+    "zpid": "42.381584--71.09061",
+    "id": "42.381584--71.09061",
+    "providerListingId": "tcu0k4tpxrdr",
+    "imgSrc": "https://photos.zillowstatic.com/fp/3c899d99a36692058a5ab8ce312024ad-p_e.jpg",
+    "hasImage": true,
+    "detailUrl": "/apartments/somerville-ma/the-nia/96F296/",
+    "statusType": "FOR_RENT",
+    "statusText": "The Nia",
+    "address": "394 McGrath Hwy, Somerville, MA",
+    "addressStreet": "394 McGrath Hwy # 302",
+    "addressCity": "Somerville",
+    "addressState": "MA",
+    "addressZipcode": "02143",
+    "units": [
+      {
+        "price": "$3,500+",
+        "beds": "2",
+        "roomForRent": false
+      }
+    ],
+    "lotId": 2001680433,
+    "latLong": {
+      "latitude": 42.381584,
+      "longitude": -71.09061
+    },
+    "listCardRecommendation": {
+      "flexFieldRecommendations": [
+        {
+          "displayString": "Private storage units",
+          "contentType": "homeInsight"
+        },
+        {
+          "displayString": "Special Offer",
+          "contentType": "frSpecialOffer"
+        }
+      ]
+    },
+    "isSaved": false,
+    "buildingName": "The Nia",
+    "isBuilding": true,
+    "canSaveBuilding": true,
+    "has3DModel": false,
+    "isFeaturedListing": true,
+    "isShowcaseListing": false,
+    "list": true,
+    "relaxed": false,
+    "carouselPhotosComposable": {
+      "baseUrl": "https://photos.zillowstatic.com/fp/{photoKey}-p_e.jpg",
+      "communityBaseUrl": null,
+      "photoData": [
+        {
+          "photoKey": "3c899d99a36692058a5ab8ce312024ad"
+        },
+        {
+          "photoKey": "322bab20ebc7c63c706c167a4b0fa5e2"
+        },
+        {
+          "photoKey": "4d620718a2b31c8d74fd79b2b38ab6ef"
+        },
+        {
+          "photoKey": "729da2b0f4093eed1669c64ac51e6dcf"
+        },
+        {
+          "photoKey": "27b658021fabfa5c336f4341d1f1d7db"
+        },
+        {
+          "photoKey": "48203c427c967f07a4613f0f794af2f6"
+        },
+        {
+          "photoKey": "53a8c66ebbf0632337ab18d6f5203263"
+        },
+        {
+          "photoKey": "7621424b22de23e9495d4bd743a18a7d"
+        },
+        {
+          "photoKey": "8641be8fbde51944234e2ab4589034b6"
+        },
+        {
+          "photoKey": "5217959c415237e769bdf0a0c364c127"
+        },
+        {
+          "photoKey": "1fc77a252f3827098d35dcba8d1e87b3"
+        },
+        {
+          "photoKey": "5914f5b0aa22904bf944dd1b88903c0f"
+        },
+        {
+          "photoKey": "284e7c30eecb1f10a75ca1ba8ecddf1c"
+        },
+        {
+          "photoKey": "f71f1384cc3549ba42c55d3cd7a1ff33"
+        },
+        {
+          "photoKey": "20711901c8d7edec233a1b71e8e7adc8"
+        },
+        {
+          "photoKey": "f3ceb804787375186c9f550b490f37f9"
+        },
+        {
+          "photoKey": "0b66f89cd2e20fea58c1c9d7c9c00ee5"
+        },
+        {
+          "photoKey": "064a26183b6a8efdd89a3d422177d2b4"
+        },
+        {
+          "photoKey": "9f035b1ea75a5e5902b8e58febde9a4e"
+        },
+        {
+          "photoKey": "f9d06210ea9e38c50f70d9f8450f7155"
+        },
+        {
+          "photoKey": "ae7a8a24f4f7fb0def43ed2ab9b7b761"
+        },
+        {
+          "photoKey": "4ae58969a318fde817a16b60a8df0615"
+        },
+        {
+          "photoKey": "2701e02c5eb8b8d1181f4c05c41f8003"
+        },
+        {
+          "photoKey": "083de53a9719f7fd15fd7f7b35286d66"
+        },
+        {
+          "photoKey": "55df5f6a90b0f6c051941434dc27d7b7"
+        },
+        {
+          "photoKey": "237d3465a3223b61730098f8fbd8ac05"
+        },
+        {
+          "photoKey": "aed6be2c55f29c0487cd5ec1d2ef5af3"
+        },
+        {
+          "photoKey": "3661dd8e0b08f3066067efddb0aa1594"
+        },
+        {
+          "photoKey": "7e1872af3506c7cfcbd78ad81bee26dd"
+        },
+        {
+          "photoKey": "b9918508bd5954f9cbc23c68ce45fce6"
+        },
+        {
+          "photoKey": "94f17e4907e5d09285dda42b102d1c1a"
+        },
+        {
+          "photoKey": "030fdf3d9f45553a0620a4ce1c710548"
+        },
+        {
+          "photoKey": "0db2689e3d22e4fd546ac66f86259217"
+        },
+        {
+          "photoKey": "9a80782e110e7cc6a6b6886d59e52c17"
+        },
+        {
+          "photoKey": "814cf409586039a7409897c579eca5a4"
+        },
+        {
+          "photoKey": "bac118a425acc16897563d006783a3f9"
+        },
+        {
+          "photoKey": "99fce24e5d6895440413d808161a545d"
+        },
+        {
+          "photoKey": "babad659f15c1d43d5630bc04bd473d9"
+        },
+        {
+          "photoKey": "d22faa46b740013ab857843370fe559f"
+        }
+      ],
+      "communityPhotoData": null,
+      "isStaticUrls": false
+    },
+    "availabilityCount": 2,
+    "marketingTreatments": [
+      "trustedListing",
+      "paid",
+      "multiFamilySalesListing",
+      "paidOrUnpaidMultifamily",
+      "paidMultifamily",
+      "multifamilyPremium"
+    ],
+    "listPriceIncludesRequiredMonthlyFees": false,
+    "isInstantTourEnabled": false,
+    "isContactable": true,
+    "isPaidBuilderNewConstruction": false
+  },
+  {
+    "zpid": "42.39455--71.088135",
+    "id": "42.39455--71.088135",
+    "providerListingId": "1bhp6e11467ky",
+    "imgSrc": "https://photos.zillowstatic.com/fp/6e39cff4c50125e336f763bdaddaa4ac-p_e.jpg",
+    "hasImage": true,
+    "detailUrl": "/apartments/somerville-ma/400@mystic/CmGm7D/",
+    "statusType": "FOR_RENT",
+    "statusText": "400@Mystic",
+    "address": "400 Mystic Ave, Somerville, MA",
+    "addressStreet": "400 Mystic Ave # 304",
+    "addressCity": "Somerville",
+    "addressState": "MA",
+    "addressZipcode": "02145",
+    "units": [
+      {
+        "price": "$2,945+",
+        "beds": "2",
+        "roomForRent": false
+      }
+    ],
+    "lotId": 2757075758,
+    "latLong": {
+      "latitude": 42.39455,
+      "longitude": -71.088135
+    },
+    "listCardRecommendation": {
+      "flexFieldRecommendations": [
+        {
+          "displayString": "Energy-efficient central air system",
+          "contentType": "homeInsight"
+        },
+        {
+          "displayString": "Special Offer",
+          "contentType": "frSpecialOffer"
+        }
+      ]
+    },
+    "isSaved": false,
+    "buildingName": "400@Mystic",
+    "isBuilding": true,
+    "canSaveBuilding": true,
+    "has3DModel": false,
+    "isFeaturedListing": true,
+    "isShowcaseListing": false,
+    "list": true,
+    "relaxed": false,
+    "carouselPhotosComposable": {
+      "baseUrl": "https://photos.zillowstatic.com/fp/{photoKey}-p_e.jpg",
+      "communityBaseUrl": null,
+      "photoData": [
+        {
+          "photoKey": "6e39cff4c50125e336f763bdaddaa4ac"
+        },
+        {
+          "photoKey": "df8b50b94be31724b492ab005adb9e51"
+        },
+        {
+          "photoKey": "c36231dd9b08a885dce667762c9e0215"
+        },
+        {
+          "photoKey": "5b6eb93802aeb95ed8efd8ff30b0925c"
+        },
+        {
+          "photoKey": "853e189f3f80838b7a91ade2edb06900"
+        },
+        {
+          "photoKey": "a1f948c51e605d58a9c44d379a4a4217"
+        },
+        {
+          "photoKey": "8464344505fd31a194899232fdf04a9b"
+        },
+        {
+          "photoKey": "f03d00ed1a65d1c062f9ef6c73690db6"
+        },
+        {
+          "photoKey": "de6fdea4e1964a9ea75ec0797ca4ca98"
+        },
+        {
+          "photoKey": "85b42b7dc531fd34e9c53e57135cabef"
+        },
+        {
+          "photoKey": "361c68a6182c855e0ba86af32a7fc0bc"
+        },
+        {
+          "photoKey": "4be63b4222e362c675b2c69c994e3d30"
+        },
+        {
+          "photoKey": "4d6c968ebfcfd8f6669dc316670305da"
+        },
+        {
+          "photoKey": "f8ec4dc4f431f69f9fa72db200ec0113"
+        },
+        {
+          "photoKey": "924d7e946c88bd5098af49baee9a2a73"
+        },
+        {
+          "photoKey": "922aa65ace34c169230a5ce7d6478834"
+        },
+        {
+          "photoKey": "167584ec92aa9a9544d7d6917b29fbf2"
+        },
+        {
+          "photoKey": "b691f99d03cd0c3728f1e566720960c1"
+        },
+        {
+          "photoKey": "e52950b48ece64e0bf1e29615d83fdc1"
+        },
+        {
+          "photoKey": "9add9faf42facce6ef0e2f16f9dd84ec"
+        },
+        {
+          "photoKey": "c82ff6955e54c7328bd8bfbaa4ed6dc0"
+        },
+        {
+          "photoKey": "6dc9aa3a914fb69ff68159134d3423bf"
+        },
+        {
+          "photoKey": "4130701b85859276133a52bc510a916c"
+        },
+        {
+          "photoKey": "a0a5989915f088210c79b132e53bf0f3"
+        },
+        {
+          "photoKey": "ca871f354049ff760db2288f9a2d2509"
+        },
+        {
+          "photoKey": "2529f6bf66b7abfb4b7f7ae4fdb8bd94"
+        },
+        {
+          "photoKey": "dc405d8e17481edad8e212f25791bdd2"
+        },
+        {
+          "photoKey": "3606e7253e33b115ae962eb8489bdd2f"
+        },
+        {
+          "photoKey": "b0700c1341615917960a9d5c40d60fcf"
+        },
+        {
+          "photoKey": "f21c18b8c916a3734a391bb7a6f8e5ed"
+        },
+        {
+          "photoKey": "621cb6e17cfe94909a405a9a244ed2b2"
+        },
+        {
+          "photoKey": "a5d8f4fc477e224632ecdde972692d84"
+        },
+        {
+          "photoKey": "b5e9c57eda7573b73e6b66ab880d029d"
+        },
+        {
+          "photoKey": "e134c2866b7564845e57efd299d0d4a0"
+        },
+        {
+          "photoKey": "e3173385d3e5224b2a2e297e28e8ec91"
+        },
+        {
+          "photoKey": "a7398fedd577d87d915150b0c5f52685"
+        },
+        {
+          "photoKey": "466b2ff88ca638e5df95ef0a711701d0"
+        },
+        {
+          "photoKey": "7838afe274a3e669547f1b1e3a5a92eb"
+        },
+        {
+          "photoKey": "98340171d37ab4fcf0aedcf01226f80a"
+        }
+      ],
+      "communityPhotoData": null,
+      "isStaticUrls": false
+    },
+    "availabilityCount": 2,
+    "marketingTreatments": [
+      "trustedListing",
+      "paid",
+      "multiFamilySalesListing",
+      "paidOrUnpaidMultifamily",
+      "paidMultifamily",
+      "multifamilyPremium"
+    ],
+    "listPriceIncludesRequiredMonthlyFees": false,
+    "isInstantTourEnabled": false,
+    "isContactable": true,
+    "isPaidBuilderNewConstruction": false
+  },
+  {
+    "zpid": "42.380657--71.09844",
+    "id": "42.380657--71.09844",
+    "providerListingId": "13fqrkbedchrp",
+    "imgSrc": "https://photos.zillowstatic.com/fp/e84b726de30be11bfb572a5e2aebcf4a-p_e.jpg",
+    "hasImage": true,
+    "detailUrl": "/apartments/somerville-ma/union-346/CkCRkB/",
+    "statusType": "FOR_RENT",
+    "statusText": "Union 346",
+    "address": "346 Somerville Ave, Somerville, MA",
+    "addressStreet": "346 Somerville Ave # 2-414",
+    "addressCity": "Somerville",
+    "addressState": "MA",
+    "addressZipcode": "02143",
+    "units": [
+      {
+        "price": "$2,500+",
+        "beds": "0",
+        "roomForRent": false
+      }
+    ],
+    "lotId": 2750921111,
+    "latLong": {
+      "latitude": 42.380657,
+      "longitude": -71.09844
+    },
+    "isSaved": false,
+    "buildingName": "Union 346",
+    "isBuilding": true,
+    "canSaveBuilding": true,
+    "has3DModel": false,
+    "isFeaturedListing": true,
+    "isShowcaseListing": false,
+    "list": true,
+    "relaxed": false,
+    "carouselPhotosComposable": {
+      "baseUrl": "https://photos.zillowstatic.com/fp/{photoKey}-p_e.jpg",
+      "communityBaseUrl": null,
+      "photoData": [
+        {
+          "photoKey": "e84b726de30be11bfb572a5e2aebcf4a"
+        },
+        {
+          "photoKey": "85f72bc6078921e48fd45f26b66f5e78"
+        },
+        {
+          "photoKey": "0705caf412ee9863702fd2b015f5c92f"
+        },
+        {
+          "photoKey": "58dca17ecd1fd26602259202393fedad"
+        },
+        {
+          "photoKey": "a83b5af2a5be5e77d7dbad3d2616cb91"
+        },
+        {
+          "photoKey": "831122f5d0bbe4fe9ca8251617c91b5c"
+        },
+        {
+          "photoKey": "1b8c66ec080406385bdaac7973eb3cc8"
+        },
+        {
+          "photoKey": "5a6fe04c28511a7ca0482475801ad2ee"
+        },
+        {
+          "photoKey": "43028f230e787c4fda9953bb85d2fdaa"
+        },
+        {
+          "photoKey": "1f74abe81745f2d4e2a4a7ef30ca21d6"
+        },
+        {
+          "photoKey": "76174aedc9c3daccb0c0915d4807ee39"
+        },
+        {
+          "photoKey": "8c6ef5492163fd387ab2f566dea1c5f9"
+        },
+        {
+          "photoKey": "dd2292439bae7e0e8ad9cc177fe4d363"
+        },
+        {
+          "photoKey": "58ee5fdba98b51760776a0eaaa36bcb1"
+        },
+        {
+          "photoKey": "607e76fb32343b3dc7d3a719981a424c"
+        },
+        {
+          "photoKey": "05505b3e072b6e256119edd662c9efad"
+        },
+        {
+          "photoKey": "002144e1b602ad979af1e34d084d5c5d"
+        },
+        {
+          "photoKey": "cd1005691e16c429ca0afac679385751"
+        },
+        {
+          "photoKey": "1a92b22958b161fe02d8e88b60d91cb5"
+        },
+        {
+          "photoKey": "f957b3cfa69183fbb2b26259c962eb34"
+        },
+        {
+          "photoKey": "5da1b847faadd2d769d9ba041e8cb85d"
+        },
+        {
+          "photoKey": "dd0d969baada674cbacc01e5b3970753"
+        },
+        {
+          "photoKey": "716af6bd3a5c93607c769ab437dbb6e8"
+        },
+        {
+          "photoKey": "9977fe19dab308bcdad2c7ffe2f6e158"
+        },
+        {
+          "photoKey": "4370215de2224c9651c239539ea2dd2d"
+        },
+        {
+          "photoKey": "aa86487cf1cdc368c64c2ff8202b3266"
+        },
+        {
+          "photoKey": "dee91434111d91412addcd1b3956d537"
+        },
+        {
+          "photoKey": "7733a8519c0249ad477f076b38877813"
+        },
+        {
+          "photoKey": "41e05cdac5b299d42f952d4030f3cc61"
+        },
+        {
+          "photoKey": "e513bf31480c40ba97f2598e411579ca"
+        },
+        {
+          "photoKey": "b6d7c49134c49081119bf5433725338e"
+        },
+        {
+          "photoKey": "7e51e989198455ce23032aa7625b46c9"
+        },
+        {
+          "photoKey": "3cb2892c998d83eb239d5db7507fd887"
+        },
+        {
+          "photoKey": "63071bc6677d7a77b90fe17ddfeb9274"
+        },
+        {
+          "photoKey": "0e78bb6ae92db1b337668354ae1c49e0"
+        },
+        {
+          "photoKey": "0de4525b134dca70bcce8196343e96cc"
+        },
+        {
+          "photoKey": "47f80acf78b887b6b2005dd68fa1b900"
+        },
+        {
+          "photoKey": "42db8dc4e605e986bb3a0a86612563ff"
+        },
+        {
+          "photoKey": "ad7a1e9c5eda082ae78309768aea43ff"
+        },
+        {
+          "photoKey": "405e4ae1e682027f5b87e8a096d7b180"
+        }
+      ],
+      "communityPhotoData": null,
+      "isStaticUrls": false
+    },
+    "availabilityCount": 13,
+    "marketingTreatments": [
+      "trustedListing",
+      "paid",
+      "multiFamilySalesListing",
+      "paidOrUnpaidMultifamily",
+      "paidMultifamily",
+      "multifamilyEnhancedPackage"
+    ],
+    "listPriceIncludesRequiredMonthlyFees": true,
+    "minBaseRent": 2500,
+    "maxBaseRent": 2820,
+    "isInstantTourEnabled": false,
+    "isContactable": true,
+    "isPaidBuilderNewConstruction": false
+  },
+  {
+    "zpid": "42.38085--71.08074",
+    "id": "42.38085--71.08074",
+    "providerListingId": "bcdess40wy0h",
+    "imgSrc": "https://photos.zillowstatic.com/fp/fc6a468ddb17a5c4821d6b56f093baef-p_e.jpg",
+    "hasImage": true,
+    "detailUrl": "/apartments/somerville-ma/arris/CgHqNy/",
+    "statusType": "FOR_RENT",
+    "statusText": "Arris",
+    "address": "10 Inner Belt Rd, Somerville, MA",
+    "addressStreet": "10 Inner Belt Rd # 222",
+    "addressCity": "Somerville",
+    "addressState": "MA",
+    "addressZipcode": "02143",
+    "units": [
+      {
+        "price": "$2,802+",
+        "beds": "0",
+        "roomForRent": false
+      },
+      {
+        "price": "$3,099+",
+        "beds": "1",
+        "roomForRent": false
+      },
+      {
+        "price": "$4,110+",
+        "beds": "2",
+        "roomForRent": false
+      }
+    ],
+    "lotId": 2734142080,
+    "latLong": {
+      "latitude": 42.38085,
+      "longitude": -71.08074
+    },
+    "listCardRecommendation": {
+      "flexFieldRecommendations": [
+        {
+          "displayString": "3D Tour",
+          "contentType": "threeDHome"
+        }
+      ]
+    },
+    "isSaved": false,
+    "buildingName": "Arris",
+    "isBuilding": true,
+    "canSaveBuilding": true,
+    "has3DModel": true,
+    "isFeaturedListing": true,
+    "isShowcaseListing": false,
+    "list": true,
+    "relaxed": false,
+    "carouselPhotosComposable": {
+      "baseUrl": "https://photos.zillowstatic.com/fp/{photoKey}-p_e.jpg",
+      "communityBaseUrl": null,
+      "photoData": [
+        {
+          "photoKey": "fc6a468ddb17a5c4821d6b56f093baef"
+        },
+        {
+          "photoKey": "6cc034cb29adf305aa8dcaa629810bfe"
+        },
+        {
+          "photoKey": "2becfef7076d6fa98d554cb605fde51c"
+        },
+        {
+          "photoKey": "e3f71ba108e6cb2cee529869d9ce77d0"
+        },
+        {
+          "photoKey": "73474aeaa71679ffb5a63ff685a0dc74"
+        },
+        {
+          "photoKey": "325684f4c45ec92489e35b4ca58199e1"
+        },
+        {
+          "photoKey": "4dd848d9e7d9ba17e4ad0571472fdb90"
+        },
+        {
+          "photoKey": "7bf6ecad666b04a4946b2acc4b240fea"
+        },
+        {
+          "photoKey": "705ba0468b87e9ab1d5a42d61f72b354"
+        },
+        {
+          "photoKey": "15fb680db10372496c3ec86a1626474f"
+        },
+        {
+          "photoKey": "15e7546afb8c0df8e57c56220e76f648"
+        },
+        {
+          "photoKey": "13ad78d8ab9d4cc149ab72ee7ed1f6c4"
+        },
+        {
+          "photoKey": "2bb568f166af7edecf16d60a18d41d01"
+        },
+        {
+          "photoKey": "6cf84053d48945c536ff2d1a2d450cc9"
+        },
+        {
+          "photoKey": "c5c10b3de21b9fa6cac1d41917894e8a"
+        },
+        {
+          "photoKey": "fc86ea836f6df49017511e4eb42d8d24"
+        },
+        {
+          "photoKey": "f826da6220fa68b53f5ec0f6c2c686b3"
+        },
+        {
+          "photoKey": "5f6ce996df4d64b0dd01d088daf847ef"
+        },
+        {
+          "photoKey": "854c35370bf31ce5863877c0f027d244"
+        },
+        {
+          "photoKey": "181c9a7c8627ddc800d370cd90919f0b"
+        },
+        {
+          "photoKey": "e1a46cd70db06420d6419d710393fc23"
+        },
+        {
+          "photoKey": "c28ae9c958ba13c28c8035e85e9373c8"
+        },
+        {
+          "photoKey": "277b3f29bb5a5270e8e3b41b5d22eebb"
+        },
+        {
+          "photoKey": "7f30089cc4777ec4737fa6e55438a9fc"
+        },
+        {
+          "photoKey": "06165920a11208f7248f760202342ab4"
+        },
+        {
+          "photoKey": "cb891da9cc6db3169b50b18ef8af6ffe"
+        },
+        {
+          "photoKey": "7f762d87e23b75854882f8fedc6b16f9"
+        },
+        {
+          "photoKey": "7339724fd718041901cc9f374806162c"
+        },
+        {
+          "photoKey": "86a49a080acb27f13775b105de2492fc"
+        },
+        {
+          "photoKey": "0ab3b2566ecff9741c918de6f17b5006"
+        },
+        {
+          "photoKey": "bce1d4579fd0105d19a5c80c4a79ac59"
+        },
+        {
+          "photoKey": "bacfe9b2ec3e4f0fe952d01efe174e86"
+        }
+      ],
+      "communityPhotoData": null,
+      "isStaticUrls": false
+    },
+    "availabilityCount": 14,
+    "marketingTreatments": [
+      "trustedListing",
+      "paid",
+      "multiFamilySalesListing",
+      "paidOrUnpaidMultifamily",
+      "paidMultifamily",
+      "multifamilyPayPerLease"
+    ],
+    "listPriceIncludesRequiredMonthlyFees": true,
+    "minBaseRent": 2802,
+    "maxBaseRent": 4110,
+    "isInstantTourEnabled": true,
+    "isContactable": true,
+    "isPaidBuilderNewConstruction": false
+  },
+  {
+    "zpid": "42.395462--71.080414",
+    "id": "42.395462--71.080414",
+    "providerListingId": "rfbryevc1mkp",
+    "imgSrc": "https://photos.zillowstatic.com/fp/4ffc96f23c5a05670b28d916624ff8dd-p_e.jpg",
+    "hasImage": true,
+    "detailUrl": "/apartments/somerville-ma/avalon-at-assembly-row/5h3jHW/",
+    "statusType": "FOR_RENT",
+    "statusText": "Avalon at Assembly Row",
+    "address": "333 Great River Rd, Somerville, MA",
+    "addressStreet": "333 Great River Rd # 2B-2Ba-1089Sqft",
+    "addressCity": "Somerville",
+    "addressState": "MA",
+    "addressZipcode": "02145",
+    "units": [
+      {
+        "price": "$2,957+",
+        "beds": "0",
+        "roomForRent": false
+      },
+      {
+        "price": "$3,092+",
+        "beds": "1",
+        "roomForRent": false
+      },
+      {
+        "price": "$4,249+",
+        "beds": "2",
+        "roomForRent": false
+      },
+      {
+        "price": "$6,947+",
+        "beds": "3",
+        "roomForRent": false
+      }
+    ],
+    "lotId": 1043631327,
+    "latLong": {
+      "latitude": 42.395462,
+      "longitude": -71.080414
+    },
+    "isSaved": false,
+    "buildingName": "Avalon at Assembly Row",
+    "isBuilding": true,
+    "canSaveBuilding": true,
+    "has3DModel": false,
+    "isFeaturedListing": true,
+    "isShowcaseListing": false,
+    "list": true,
+    "relaxed": false,
+    "carouselPhotosComposable": {
+      "baseUrl": "https://photos.zillowstatic.com/fp/{photoKey}-p_e.jpg",
+      "communityBaseUrl": null,
+      "photoData": [
+        {
+          "photoKey": "4ffc96f23c5a05670b28d916624ff8dd"
+        },
+        {
+          "photoKey": "54a05def2aef46fa276530dfca8fc5f4"
+        },
+        {
+          "photoKey": "d6ebe02a607413d8f7dbe4063586adf1"
+        },
+        {
+          "photoKey": "9deeff599e0c1efbc54fe9926b1b7f5c"
+        },
+        {
+          "photoKey": "4ec92dbf86b019a630e43e5999743609"
+        },
+        {
+          "photoKey": "7485dd0470088bf5d9384102a8c96d56"
+        },
+        {
+          "photoKey": "bd8e941de9dda912e8ca8988b262aa09"
+        },
+        {
+          "photoKey": "0391fc9ba5cb2b7b072b2740f0206208"
+        },
+        {
+          "photoKey": "43be3a27c81b09ed973daeeba6438d54"
+        },
+        {
+          "photoKey": "ad7682199641b06cd4361029773fa733"
+        },
+        {
+          "photoKey": "55eaa0174d46df2f7d4605eef0d86808"
+        },
+        {
+          "photoKey": "053b7279836481efa74833d408cd430b"
+        },
+        {
+          "photoKey": "54e4973ec103918ab1e206950303bf85"
+        },
+        {
+          "photoKey": "07181c60cf1a493c18842c03c5cc00df"
+        },
+        {
+          "photoKey": "b6ebb79791864032d8adddb526ec661e"
+        },
+        {
+          "photoKey": "8bee08845cbc2e8031c61fd74af83f75"
+        },
+        {
+          "photoKey": "ef55a3f1eaecf0f089c5bc0ac08ec945"
+        },
+        {
+          "photoKey": "8b8695eae446f1dfd83411ef82d14a8c"
+        },
+        {
+          "photoKey": "d5b38fac8132505468cc8d56945024ca"
+        },
+        {
+          "photoKey": "a853a05fe4d4099a8de36b63e41f2fb6"
+        },
+        {
+          "photoKey": "721477263cd9562e55a6bdf9628114d4"
+        },
+        {
+          "photoKey": "0f62e1d975a357923ad2879147e14d7d"
+        },
+        {
+          "photoKey": "7fd5a8ecd335b280ed5c222cf8a11631"
+        },
+        {
+          "photoKey": "351d1119153647dcd495f670f93c3415"
+        },
+        {
+          "photoKey": "8dd81e3647e3f10ff1532f2c1e029ad8"
+        },
+        {
+          "photoKey": "0d11ee44df888e5114d83db34519383e"
+        },
+        {
+          "photoKey": "5f604a0b63d62fefa92e94a3293fea8e"
+        },
+        {
+          "photoKey": "f8c1fb28316da0ec82fef09f26900bc0"
+        },
+        {
+          "photoKey": "92f8988a0d78a115d47863a3b5088d62"
+        },
+        {
+          "photoKey": "6e9e0fb8161e2a28dff9426061b485ab"
+        },
+        {
+          "photoKey": "40d9ae40d94189410351e7a36060afe3"
+        },
+        {
+          "photoKey": "a1c22c8463ad385be67b1e9a12505590"
+        },
+        {
+          "photoKey": "65b423f992fd13b2a3228f3c16e63e28"
+        },
+        {
+          "photoKey": "6d137a9908c43e0c25852674b128a8ec"
+        },
+        {
+          "photoKey": "8990bef2e6257a2b86cb336e369d46c4"
+        }
+      ],
+      "communityPhotoData": null,
+      "isStaticUrls": false
+    },
+    "availabilityCount": 13,
+    "marketingTreatments": [
+      "trustedListing",
+      "paid",
+      "multiFamilySalesListing",
+      "paidOrUnpaidMultifamily",
+      "paidMultifamily",
+      "multifamilyPayPerLease"
+    ],
+    "listPriceIncludesRequiredMonthlyFees": true,
+    "totalRequiredMonthlyMinFee": 57,
+    "totalRequiredMonthlyMaxFee": 57,
+    "minBaseRent": 2900,
+    "maxBaseRent": 6890,
+    "isInstantTourEnabled": false,
+    "isContactable": true,
+    "isPaidBuilderNewConstruction": false
+  },
+  {
+    "zpid": "42.383823--71.10621",
+    "id": "42.383823--71.10621",
+    "providerListingId": "2z39teuru1g23",
+    "imgSrc": "https://photos.zillowstatic.com/fp/f1c9eb28e0f0d670b935a5916b7ecc4c-p_e.jpg",
+    "hasImage": true,
+    "detailUrl": "/apartments/somerville-ma/ennea/CkBWWd/",
+    "statusType": "FOR_RENT",
+    "statusText": "Ennea",
+    "address": "9 Central St, Somerville, MA",
+    "addressStreet": "9 Central St # 207",
+    "addressCity": "Somerville",
+    "addressState": "MA",
+    "addressZipcode": "02143",
+    "units": [
+      {
+        "price": "$2,850+",
+        "beds": "0",
+        "roomForRent": false
+      },
+      {
+        "price": "$3,000+",
+        "beds": "1",
+        "roomForRent": false
+      },
+      {
+        "price": "$4,600+",
+        "beds": "3",
+        "roomForRent": false
+      }
+    ],
+    "lotId": 2750812550,
+    "latLong": {
+      "latitude": 42.383823,
+      "longitude": -71.10621
+    },
+    "isSaved": false,
+    "buildingName": "Ennea",
+    "isBuilding": true,
+    "canSaveBuilding": true,
+    "has3DModel": false,
+    "isFeaturedListing": true,
+    "isShowcaseListing": false,
+    "list": true,
+    "relaxed": false,
+    "carouselPhotosComposable": {
+      "baseUrl": "https://photos.zillowstatic.com/fp/{photoKey}-p_e.jpg",
+      "communityBaseUrl": null,
+      "photoData": [
+        {
+          "photoKey": "f1c9eb28e0f0d670b935a5916b7ecc4c"
+        },
+        {
+          "photoKey": "b8f791b953f03c9ea11be10b2682b9a5"
+        },
+        {
+          "photoKey": "999ec3169185b64304468a5f4ce32cbc"
+        },
+        {
+          "photoKey": "dd7bad29e8aac26401b0178a7c70f91e"
+        },
+        {
+          "photoKey": "74d1cd17094bb70f318462e6e47de85e"
+        },
+        {
+          "photoKey": "3a372a1bbad83b50c0ea5de21b7785a2"
+        },
+        {
+          "photoKey": "72763eeb5c36e8aedc3b57d691d7d8bc"
+        },
+        {
+          "photoKey": "568c25cfb39eb28fb8e0c8b20154f766"
+        },
+        {
+          "photoKey": "327226583f06b3a8319665a12d2e975a"
+        },
+        {
+          "photoKey": "5d0a78f984ead74d4fbfff7b2894c5dc"
+        },
+        {
+          "photoKey": "28c651456c468bb32911ca3e0ebaa716"
+        },
+        {
+          "photoKey": "dadece2fc1aac7098aa087a132075b1f"
+        },
+        {
+          "photoKey": "4b20685f0e4f65fbdd615786abb1defd"
+        },
+        {
+          "photoKey": "be22c852056aeee7d5e2e464156bab4b"
+        },
+        {
+          "photoKey": "8705a3dd22a279ee807c8caa2844338e"
+        },
+        {
+          "photoKey": "e99af1ca720c51acaa5ca2c908ed824b"
+        },
+        {
+          "photoKey": "186c1f0dfbd649e5b349f27a5d436b6c"
+        },
+        {
+          "photoKey": "6991522d12602d7f4f9e12c708f1cd4c"
+        },
+        {
+          "photoKey": "be7936f0b0c2a288e692167894988d82"
+        },
+        {
+          "photoKey": "b2e42467c93d358b3ce05f55fc805fe8"
+        },
+        {
+          "photoKey": "c8ac040746edd41417cd5c6cc11faae8"
+        },
+        {
+          "photoKey": "8a5184d857078457d2e126dafd4e9de5"
+        },
+        {
+          "photoKey": "62dad63c8350b96c7cc3a4001a7fa99f"
+        },
+        {
+          "photoKey": "8029bd6130d84334ccb8cb5f7d7ac709"
+        },
+        {
+          "photoKey": "78da91cd095abf302103069352f478ac"
+        },
+        {
+          "photoKey": "f2d61528277bfba053e285706ccc4a10"
+        },
+        {
+          "photoKey": "69914e99e3c20143819d066ce5fda298"
+        },
+        {
+          "photoKey": "077df25eb697544d128cc030c9e61d99"
+        },
+        {
+          "photoKey": "635fd9201cc17a8a3d8b4ac6e6835e26"
+        },
+        {
+          "photoKey": "bdbfb1734c481ec08ae5f659b9f2207f"
+        },
+        {
+          "photoKey": "68b8dd29e6f5fb4c55e095b3462f065c"
+        },
+        {
+          "photoKey": "7b9474413ae9590490e3f87731702f12"
+        },
+        {
+          "photoKey": "4d2ebb9e9fd8338e45a55dc8b268ff91"
+        },
+        {
+          "photoKey": "e03e60634611830b0eb332b42ee163d5"
+        },
+        {
+          "photoKey": "62c402eacbb6baae5d96fd07ab799f22"
+        },
+        {
+          "photoKey": "66731a0c0eb6900934d539c06fd25eff"
+        },
+        {
+          "photoKey": "109f3e1761f351797bb9e862e9fa42c2"
+        },
+        {
+          "photoKey": "176e1addb0cc052ca1a32ea3f4f5e19e"
+        },
+        {
+          "photoKey": "727fd3064ff5fc08985f287497c73328"
+        },
+        {
+          "photoKey": "e84b838f36b5fbc3ccc6ee30f1ebd791"
+        },
+        {
+          "photoKey": "3bce7b10f23af6bb324715e6e11280c4"
+        },
+        {
+          "photoKey": "f3c8671acc7317e36fafa98f763ce5e9"
+        },
+        {
+          "photoKey": "f6c56978a0ac800455b96ba67d0c7332"
+        },
+        {
+          "photoKey": "0d8a87adc6398427cafe88d9a57f9552"
+        },
+        {
+          "photoKey": "f69cf1e1f6451c365bdbf64215ea6563"
+        },
+        {
+          "photoKey": "0c8432acbd5624958a382b408f41622b"
+        },
+        {
+          "photoKey": "deca4beb45097a5404a811ff054776e3"
+        },
+        {
+          "photoKey": "5e72470584df8bd35f112cb5f8ca5fc1"
+        },
+        {
+          "photoKey": "539973fcad01980f61b060f836210957"
+        },
+        {
+          "photoKey": "847ac467ce9e5de2adff709c17c3e627"
+        },
+        {
+          "photoKey": "e643e05b1c09f7d35c98b029a8fe50d7"
+        },
+        {
+          "photoKey": "6c3ad43bed3b8d0f125fd6f1c5dbe0e6"
+        }
+      ],
+      "communityPhotoData": null,
+      "isStaticUrls": false
+    },
+    "availabilityCount": 7,
+    "marketingTreatments": [
+      "trustedListing",
+      "paid",
+      "zillowRentalManager",
+      "multiFamilySalesListing",
+      "paidOrUnpaidMultifamily",
+      "paidMultifamily",
+      "multifamilyEnhancedPackage"
+    ],
+    "listPriceIncludesRequiredMonthlyFees": false,
+    "isInstantTourEnabled": false,
+    "isContactable": true,
+    "isPaidBuilderNewConstruction": false
+  },
+  {
+    "zpid": "42.394794--71.078354",
+    "id": "42.394794--71.078354",
+    "providerListingId": "1fcyptq2mkkc9",
+    "imgSrc": "https://photos.zillowstatic.com/fp/a1336996c1fffd30eb43066ab57d764a-p_e.jpg",
+    "hasImage": true,
+    "detailUrl": "/apartments/somerville-ma/ava-somerville/CmQy76/",
+    "statusType": "FOR_RENT",
+    "statusText": "AVA Somerville",
+    "address": "445 Artisan Way, Somerville, MA",
+    "addressStreet": "445 Artisan Way # 2B-2Ba-982Sqft",
+    "addressCity": "Somerville",
+    "addressState": "MA",
+    "addressZipcode": "02145",
+    "units": [
+      {
+        "price": "$2,232+",
+        "beds": "0",
+        "roomForRent": false
+      },
+      {
+        "price": "$2,927+",
+        "beds": "1",
+        "roomForRent": false
+      },
+      {
+        "price": "$3,437+",
+        "beds": "2",
+        "roomForRent": false
+      }
+    ],
+    "lotId": 2758040954,
+    "latLong": {
+      "latitude": 42.394794,
+      "longitude": -71.078354
+    },
+    "isSaved": false,
+    "buildingName": "AVA Somerville",
+    "isBuilding": true,
+    "canSaveBuilding": true,
+    "has3DModel": false,
+    "isFeaturedListing": true,
+    "isShowcaseListing": false,
+    "list": true,
+    "relaxed": false,
+    "carouselPhotosComposable": {
+      "baseUrl": "https://photos.zillowstatic.com/fp/{photoKey}-p_e.jpg",
+      "communityBaseUrl": null,
+      "photoData": [
+        {
+          "photoKey": "a1336996c1fffd30eb43066ab57d764a"
+        },
+        {
+          "photoKey": "0f9d7d78b37c61b2d9334de23306db60"
+        },
+        {
+          "photoKey": "a50fdc1ed46951237f564a286397348e"
+        },
+        {
+          "photoKey": "44da1ac56db9668b3e1cddf3c4acd726"
+        },
+        {
+          "photoKey": "6306685040d73f68a6d90caf09974db4"
+        },
+        {
+          "photoKey": "e90252181d8332c58ec91136991301fe"
+        },
+        {
+          "photoKey": "fc826ea5758a6689e800902879684d3c"
+        },
+        {
+          "photoKey": "70bdedac05f3884a71f258acb49be58a"
+        },
+        {
+          "photoKey": "43fb5e5140af12992f30545ac4feb2e0"
+        },
+        {
+          "photoKey": "330cf09a1b597e7d73bb5cb80cf98b77"
+        },
+        {
+          "photoKey": "3e8052751b0ab47da84d5de985af7a2b"
+        },
+        {
+          "photoKey": "01bd6baaf12dcdec78e36c990e303881"
+        },
+        {
+          "photoKey": "d03df9550eb9a7302bd6e3b2e0532458"
+        },
+        {
+          "photoKey": "4d120451c8b8a7ae1e4c62637f3c582f"
+        },
+        {
+          "photoKey": "51774ca803185ac42c6e3e421271b625"
+        },
+        {
+          "photoKey": "e4f6ac109b3d73f3076ba01fe329faa6"
+        },
+        {
+          "photoKey": "118a01bcc3799ee56acf04872e759793"
+        },
+        {
+          "photoKey": "eab8b0f9099944327cae4b6456a60a97"
+        },
+        {
+          "photoKey": "6ecafe5c41ce5a0403698ffe927f49a3"
+        },
+        {
+          "photoKey": "13d5f6c5b83e3c76ea0e6a4f7bb66150"
+        },
+        {
+          "photoKey": "71360e8e373b0dcc05e7f07a108d685f"
+        },
+        {
+          "photoKey": "2071facf7215d9d75ec8b2e39770e948"
+        },
+        {
+          "photoKey": "1b0f74d01efd9059aa5fd91c4d288eff"
+        },
+        {
+          "photoKey": "e8cf49f314842a5801253d18ce57cc9f"
+        },
+        {
+          "photoKey": "a05fcd459a0a879d18e8df69efb8ee66"
+        },
+        {
+          "photoKey": "dfe06353c5779f9058695d811b05e938"
+        },
+        {
+          "photoKey": "a644b62a9b8ee8f444c9b02a4a55d2a6"
+        },
+        {
+          "photoKey": "ec846060b822537b286db0f4979f971c"
+        },
+        {
+          "photoKey": "6527fcec147c418ed9ba7e44e10ba779"
+        },
+        {
+          "photoKey": "c665766a91cf2aff6d3ab5b1d4269148"
+        },
+        {
+          "photoKey": "9ced47eee4cd6afbacfd8b432533a422"
+        },
+        {
+          "photoKey": "f0a388a6d520b70bc7a0075c5925b7df"
+        },
+        {
+          "photoKey": "b4aa53ff89b050135662ac2dc8d449fc"
+        },
+        {
+          "photoKey": "4e2e0f9d48d8da8034d90c32d7d8c083"
+        },
+        {
+          "photoKey": "e0d5acd2f43cf1b667d8db64bef04678"
+        },
+        {
+          "photoKey": "0c4c81746374195347b76cd839ddae58"
+        }
+      ],
+      "communityPhotoData": null,
+      "isStaticUrls": false
+    },
+    "availabilityCount": 9,
+    "marketingTreatments": [
+      "trustedListing",
+      "paid",
+      "multiFamilySalesListing",
+      "paidOrUnpaidMultifamily",
+      "paidMultifamily",
+      "multifamilyPayPerLease"
+    ],
+    "listPriceIncludesRequiredMonthlyFees": true,
+    "totalRequiredMonthlyMinFee": 57,
+    "totalRequiredMonthlyMaxFee": 57,
+    "minBaseRent": 2175,
+    "maxBaseRent": 3840,
+    "isInstantTourEnabled": false,
+    "isContactable": true,
+    "isPaidBuilderNewConstruction": false
+  },
+  {
+    "zpid": "42.37752--71.094765",
+    "id": "42.37752--71.094765",
+    "providerListingId": "5auqu3nyauvg2",
+    "imgSrc": "https://photos.zillowstatic.com/fp/3835633b84b13d89a6bfd9c7f53ca602-p_e.jpg",
+    "hasImage": true,
+    "detailUrl": "/apartments/somerville-ma/prospect-union-square/CgHXRK/",
+    "statusType": "FOR_RENT",
+    "statusText": "Prospect Union Square",
+    "address": "50 Prospect St, Somerville, MA",
+    "addressStreet": "50 Prospect St # 2205",
+    "addressCity": "Somerville",
+    "addressState": "MA",
+    "addressZipcode": "02143",
+    "units": [
+      {
+        "price": "$2,910+",
+        "beds": "0",
+        "roomForRent": false
+      },
+      {
+        "price": "$3,290+",
+        "beds": "1",
+        "roomForRent": false
+      },
+      {
+        "price": "$3,981+",
+        "beds": "2",
+        "roomForRent": false
+      }
+    ],
+    "lotId": 2734108581,
+    "latLong": {
+      "latitude": 42.37752,
+      "longitude": -71.094765
+    },
+    "isSaved": false,
+    "buildingName": "Prospect Union Square",
+    "isBuilding": true,
+    "canSaveBuilding": true,
+    "has3DModel": false,
+    "isFeaturedListing": true,
+    "isShowcaseListing": false,
+    "list": true,
+    "relaxed": false,
+    "carouselPhotosComposable": {
+      "baseUrl": "https://photos.zillowstatic.com/fp/{photoKey}-p_e.jpg",
+      "communityBaseUrl": null,
+      "photoData": [
+        {
+          "photoKey": "3835633b84b13d89a6bfd9c7f53ca602"
+        },
+        {
+          "photoKey": "a1e82529f094e350df75d14a9eecb38b"
+        },
+        {
+          "photoKey": "d82e6963261f75a630312667afb0f9e1"
+        },
+        {
+          "photoKey": "e000f3b3706287285895ee7d66e5a9f6"
+        },
+        {
+          "photoKey": "a3593fbb8d3593781826cd33d155d75b"
+        },
+        {
+          "photoKey": "377f9ff7510d8b1495dffe07ccc02d0b"
+        },
+        {
+          "photoKey": "11cef2e8d293610f2402e6c0848609db"
+        },
+        {
+          "photoKey": "3dc135c6a6069639942c6027dde9ef68"
+        },
+        {
+          "photoKey": "293e7e933572d309176974a0c7a142f9"
+        },
+        {
+          "photoKey": "6ad32acf7d03daba1e5a6086a41127de"
+        },
+        {
+          "photoKey": "489b535fb0466eac6820eee9ed9b8f93"
+        },
+        {
+          "photoKey": "9a6e3b71ebd52744fd602a35f8b1b3ab"
+        },
+        {
+          "photoKey": "da901e49ca9f0f2aeffa11b217a54199"
+        },
+        {
+          "photoKey": "2a1065d07e08faca0bfaf4320799d74a"
+        },
+        {
+          "photoKey": "db49d5268e076a84e6271d139187a3e1"
+        },
+        {
+          "photoKey": "6bf920f15558745af6f1a2935682eada"
+        },
+        {
+          "photoKey": "345ae5ef348d72cadc555413e058feb9"
+        },
+        {
+          "photoKey": "9019e6176e2e4712aa8710403bb68d2a"
+        },
+        {
+          "photoKey": "7b03b29a9291e31e0261fac2c54c4e32"
+        },
+        {
+          "photoKey": "6e7e1319cb33816f60141f7ba148eaa4"
+        },
+        {
+          "photoKey": "694f6b476a0bf8604c044a00d3369575"
+        },
+        {
+          "photoKey": "7ff4b01dff26173f0eda0d5a71ad5043"
+        },
+        {
+          "photoKey": "ca9d13f07a334ec8ec7e3147c1355e31"
+        },
+        {
+          "photoKey": "f8d6d263ad213987ae22201b06d1a826"
+        },
+        {
+          "photoKey": "ad06c440b19092b756d87c1b7f5c1d6d"
+        },
+        {
+          "photoKey": "87b4cc9de4dd9d6562ef575d0993eaec"
+        },
+        {
+          "photoKey": "bdb0ed7b09b5cda25b1f463b6db4e7ad"
+        },
+        {
+          "photoKey": "1318353cad0127ce46c01bfc38977101"
+        },
+        {
+          "photoKey": "e4302236926a027898f75ea2c22b72f4"
+        },
+        {
+          "photoKey": "7b2bfe4113633661ca8e1d1a7e9ce552"
+        },
+        {
+          "photoKey": "a56a739dc19feead6f75f35555c00a4d"
+        },
+        {
+          "photoKey": "351bf467c347b4820630fcf108060011"
+        },
+        {
+          "photoKey": "ea8ea03e770d7b01422310784b9f0880"
+        },
+        {
+          "photoKey": "72fd9aef23eecf7aae257febfa3121bf"
+        },
+        {
+          "photoKey": "cefc7bdc10991ab20e55e19664b4d095"
+        },
+        {
+          "photoKey": "e5603ac8e6c09b527d780456cc375735"
+        },
+        {
+          "photoKey": "04084888ea32060a77c9e9c548fe9d09"
+        },
+        {
+          "photoKey": "106abc02dc9b1b1ee703111470854e0c"
+        },
+        {
+          "photoKey": "6bb3bfbc95f93e0f3acdd656bf2a0d96"
+        },
+        {
+          "photoKey": "adf091512c07a9bd0ae950dfcfcf7815"
+        },
+        {
+          "photoKey": "399702bfb010f4d9d6cfd6043a0e7817"
+        },
+        {
+          "photoKey": "a2966dbdbd3077b1cc79a97078e58317"
+        },
+        {
+          "photoKey": "8b7e1fc6e1024b80019a0dd355d6a406"
+        },
+        {
+          "photoKey": "9f91ec3894bfc44e4d6b1f13c20fcbfd"
+        },
+        {
+          "photoKey": "cc9741f34b65f1aa6a3f8002c357d172"
+        },
+        {
+          "photoKey": "4d5cdd10cc7abcab9a6d17aea6bbc95e"
+        },
+        {
+          "photoKey": "693e17b6e89d3485f8dacb38f6e09cc5"
+        },
+        {
+          "photoKey": "05154771f094de4bc53a3b635ae530f5"
+        },
+        {
+          "photoKey": "46978b4bca735c7c2b5769180b741d37"
+        },
+        {
+          "photoKey": "ec6b7c620ea40057945e05f51668dc23"
+        },
+        {
+          "photoKey": "2e8084a359f428a0c257d8c9b10c7d87"
+        },
+        {
+          "photoKey": "d1b6972c3e93c9247d8230c440815de5"
+        },
+        {
+          "photoKey": "d9005b6df9574b7eab41cc3c81e2a57e"
+        },
+        {
+          "photoKey": "11106e6070ef64f2005222dacf405418"
+        },
+        {
+          "photoKey": "3e07f950114c186dfa86012d37ab9589"
+        },
+        {
+          "photoKey": "057054cd9f7bd98d1484aaefac0a0a14"
+        },
+        {
+          "photoKey": "aeb0fa835b07166a168c072ba581da71"
+        }
+      ],
+      "communityPhotoData": null,
+      "isStaticUrls": false
+    },
+    "availabilityCount": 26,
+    "marketingTreatments": [
+      "trustedListing",
+      "paid",
+      "multiFamilySalesListing",
+      "paidOrUnpaidMultifamily",
+      "paidMultifamily"
+    ],
+    "listPriceIncludesRequiredMonthlyFees": true,
+    "minBaseRent": 2910,
+    "maxBaseRent": 4625,
+    "isInstantTourEnabled": false,
+    "isContactable": true,
+    "isPaidBuilderNewConstruction": false
+  },
+  {
+    "zpid": "42.391296--71.08028",
+    "id": "42.391296--71.08028",
+    "providerListingId": "4rxp1p20jhy29",
+    "imgSrc": "https://photos.zillowstatic.com/fp/4619b602d57bc81e39087c0693e218f0-p_e.jpg",
+    "hasImage": true,
+    "detailUrl": "/apartments/somerville-ma/revolution-at-assembly-row/ChqdRG/",
+    "statusType": "FOR_RENT",
+    "statusText": "Revolution at Assembly Row",
+    "address": "290 Revolution Dr, Somerville, MA",
+    "addressStreet": "290 Revolution Dr   # 315",
+    "addressCity": "Somerville",
+    "addressState": "MA",
+    "addressZipcode": "02145",
+    "units": [
+      {
+        "price": "$2,632+",
+        "beds": "0",
+        "roomForRent": false
+      },
+      {
+        "price": "$3,178+",
+        "beds": "1",
+        "roomForRent": false
+      },
+      {
+        "price": "$5,115+",
+        "beds": "2",
+        "roomForRent": false
+      },
+      {
+        "price": "$5,502+",
+        "beds": "3",
+        "roomForRent": false
+      }
+    ],
+    "lotId": 2743061907,
+    "latLong": {
+      "latitude": 42.391296,
+      "longitude": -71.08028
+    },
+    "listCardRecommendation": {
+      "flexFieldRecommendations": [
+        {
+          "displayString": "Updated yesterday",
+          "contentType": "timeOnInfo"
+        }
+      ]
+    },
+    "isSaved": false,
+    "buildingName": "Revolution at Assembly Row",
+    "isBuilding": true,
+    "canSaveBuilding": true,
+    "has3DModel": false,
+    "isFeaturedListing": true,
+    "isShowcaseListing": false,
+    "list": true,
+    "relaxed": false,
+    "carouselPhotosComposable": {
+      "baseUrl": "https://photos.zillowstatic.com/fp/{photoKey}-p_e.jpg",
+      "communityBaseUrl": null,
+      "photoData": [
+        {
+          "photoKey": "4619b602d57bc81e39087c0693e218f0"
+        },
+        {
+          "photoKey": "62c3eed5c67597edf9ccf92715e483da"
+        },
+        {
+          "photoKey": "4cb4bb938bf9544d3c2f654aa66f6271"
+        },
+        {
+          "photoKey": "4674d5ec3620304f761ff469a69e0c00"
+        },
+        {
+          "photoKey": "825a1b607cfbe4e760cee1a3bf536581"
+        },
+        {
+          "photoKey": "50a56e40e504a0ddb2f3f2b3e91c7683"
+        },
+        {
+          "photoKey": "dfb58383b477fc54f01064fb938a9185"
+        },
+        {
+          "photoKey": "43dd4b694b1a84044c94a5e8e6088909"
+        },
+        {
+          "photoKey": "79397912d29f8ed2d44fa837a00734ad"
+        },
+        {
+          "photoKey": "db6289d5131aadfc75942b8046c85149"
+        },
+        {
+          "photoKey": "a8b347f6fcf4146941c4a8b57b951b63"
+        },
+        {
+          "photoKey": "86ec579d48fb74e83cb05056012e42e8"
+        },
+        {
+          "photoKey": "9ed006b822cb9a49c480f41bb815992a"
+        },
+        {
+          "photoKey": "6c5d9da796938b0491e7ca6f8dbf68cc"
+        },
+        {
+          "photoKey": "d95b2c6b314c64e86c064c5e84b422a9"
+        },
+        {
+          "photoKey": "fe4071a511db98c659f92d6a49ef8191"
+        },
+        {
+          "photoKey": "e67b06f0e8ac4602e7272de4bc38b9a1"
+        },
+        {
+          "photoKey": "340e11b522beb8b4068716e7e1e24c9b"
+        },
+        {
+          "photoKey": "625bccc11c636c66bec4357039b7f13d"
+        },
+        {
+          "photoKey": "2e2c3275af870b550097679bbc9f9f26"
+        },
+        {
+          "photoKey": "5ca937677348b5cdfb655a6149c86213"
+        },
+        {
+          "photoKey": "affd097d5189080d377b9da197fb55c0"
+        },
+        {
+          "photoKey": "1846737dcd3872c35dd4c0478ff0d72a"
+        },
+        {
+          "photoKey": "00bbab9bdb8f79bb78ef1d4142583a26"
+        },
+        {
+          "photoKey": "34cfcfc8beb3d18c363cb503d6956b78"
+        },
+        {
+          "photoKey": "d18599468514c99c348912217813ca52"
+        }
+      ],
+      "communityPhotoData": null,
+      "isStaticUrls": false
+    },
+    "availabilityCount": 13,
+    "marketingTreatments": [
+      "trustedListing",
+      "paid",
+      "multiFamilySalesListing",
+      "paidOrUnpaidMultifamily",
+      "paidMultifamily"
+    ],
+    "listPriceIncludesRequiredMonthlyFees": true,
+    "minBaseRent": 2632,
+    "maxBaseRent": 5914,
+    "isInstantTourEnabled": false,
+    "isContactable": true,
+    "isPaidBuilderNewConstruction": false
+  },
+  {
+    "zpid": "450654685",
+    "palsId": "100066001_58fc508bec6dc354b81b04e9c6e3f567c354f2a1b5e1b4db9a5aa1b4c4e86764",
+    "id": "450654685",
+    "rawHomeStatusCd": "ForRent",
+    "marketingStatusSimplifiedCd": "For Rent",
+    "providerListingId": "4pt1waxct88e2",
+    "imgSrc": "https://photos.zillowstatic.com/fp/727e6e6624ee1d37ba1627fd22d22e8a-p_e.jpg",
+    "hasImage": true,
+    "detailUrl": "https://www.zillow.com/apartments/somerville-ma/379-383-broadway/CkBHfL/",
+    "statusType": "FOR_RENT",
+    "statusText": "Apartment for rent",
+    "countryCurrency": "$",
+    "price": "$2,700+/mo",
+    "unformattedPrice": 2700,
+    "address": "379-383 Broadway, 383 Broadway, Somerville, MA 02145",
+    "addressStreet": "383 Broadway #2E1ABC0DD",
+    "addressCity": "Somerville",
+    "addressState": "MA",
+    "addressZipcode": "02145",
+    "isUndisclosedAddress": false,
+    "beds": 3,
+    "baths": 1,
+    "area": 1350,
+    "latLong": {
+      "latitude": 42.394928,
+      "longitude": -71.09685
+    },
+    "isZillowOwned": false,
+    "listCardRecommendation": {
+      "ctaRecommendations": [
+        {
+          "displayString": "Request a tour",
+          "contentType": "REQUEST_A_TOUR"
+        }
+      ]
+    },
+    "hdpData": {
+      "homeInfo": {
+        "zpid": 450654685,
+        "streetAddress": "383 Broadway #2E1ABC0DD",
+        "zipcode": "02145",
+        "city": "Somerville",
+        "state": "MA",
+        "latitude": 42.394928,
+        "longitude": -71.09685,
+        "price": 2700,
+        "datePriceChanged": 1762243200000,
+        "bathrooms": 1,
+        "bedrooms": 3,
+        "livingArea": 1350,
+        "homeType": "APARTMENT",
+        "homeStatus": "FOR_RENT",
+        "daysOnZillow": 200,
+        "isFeatured": true,
+        "shouldHighlight": false,
+        "isRentalWithBasePrice": false,
+        "listing_sub_type": {},
+        "priceReduction": "$150 (Nov 4)",
+        "isUnmappable": false,
+        "isPreforeclosureAuction": false,
+        "homeStatusForHDP": "FOR_RENT",
+        "priceForHDP": 2700,
+        "priceChange": -150,
+        "timeOnZillow": 17356324000,
+        "isNonOwnerOccupied": true,
+        "isPremierBuilder": false,
+        "isZillowOwned": false,
+        "currency": "USD",
+        "country": "USA",
+        "unit": "# 2e1abc0dd",
+        "isShowcaseListing": false
+      }
+    },
+    "isSaved": false,
+    "isUserClaimingOwner": false,
+    "isUserConfirmedClaim": false,
+    "pgapt": "ForRent",
+    "sgapt": "For Rent",
+    "shouldShowZestimateAsPrice": false,
+    "has3DModel": false,
+    "hasVideo": false,
+    "isHomeRec": false,
+    "hasAdditionalAttributions": false,
+    "isFeaturedListing": true,
+    "isShowcaseListing": false,
+    "list": true,
+    "relaxed": false,
+    "carouselPhotosComposable": {
+      "baseUrl": "https://photos.zillowstatic.com/fp/{photoKey}-p_e.jpg",
+      "communityBaseUrl": null,
+      "photoData": [
+        {
+          "photoKey": "727e6e6624ee1d37ba1627fd22d22e8a"
+        },
+        {
+          "photoKey": "2900e7ecdf29d2fcd7c8ac32aa0c48aa"
+        },
+        {
+          "photoKey": "9096e7cb8829339facc9c1dd6de21ebf"
+        },
+        {
+          "photoKey": "de7f72aa10788ee8dda4868e33d33971"
+        },
+        {
+          "photoKey": "e0a61382fe472fc57f772f3a718052f1"
+        },
+        {
+          "photoKey": "6da05393585d069117d2415436895a29"
+        },
+        {
+          "photoKey": "f919c37b826a43bb98089d40b44b10db"
+        },
+        {
+          "photoKey": "41a54149a84a99442302bab86a3fbb22"
+        },
+        {
+          "photoKey": "235843589050583001ba30809f673a01"
+        },
+        {
+          "photoKey": "3b305c12f8fde913aab39e38da21c479"
+        },
+        {
+          "photoKey": "93ba94c1b255a1df80f42d38cbb47f12"
+        },
+        {
+          "photoKey": "5904761dc9410bee3378c84fb36f1ed9"
+        },
+        {
+          "photoKey": "5789822bac96abd1925c0570f1003947"
+        },
+        {
+          "photoKey": "7e9bd47c916e25105b40ac737773a997"
+        },
+        {
+          "photoKey": "a92c520a5f59f298e9f3fa7686b84025"
+        },
+        {
+          "photoKey": "4c51d324e2c247088928d66653104980"
+        },
+        {
+          "photoKey": "b58fcbac81df20739eabd59325dad711"
+        },
+        {
+          "photoKey": "61d4fa4d5ccb5f98b034b13e981b5db7"
+        },
+        {
+          "photoKey": "8c54f7b3b19125f2a6001e2d21b2682a"
+        },
+        {
+          "photoKey": "dc068768b9ecc10e8a3cc2dac8ba256e"
+        },
+        {
+          "photoKey": "f09d152d1a995c38d3d9d8a765aefe5d"
+        },
+        {
+          "photoKey": "a980f0f790db4abd309e249bbc8268c0"
+        }
+      ],
+      "communityPhotoData": null,
+      "isStaticUrls": false
+    },
+    "marketingTreatments": [
+      "trustedListing",
+      "paid",
+      "zillowRentalManager",
+      "multiFamilySalesListing",
+      "paidOrUnpaidMultifamily",
+      "paidMultifamily",
+      "multifamilyEnhancedPackage"
+    ],
+    "rooms": [],
+    "listPriceIncludesRequiredMonthlyFees": false,
+    "isPaidBuilderNewConstruction": false,
+    "factsAndFeatures": {
+      "fullBathroomCount": 1,
+      "hasFireplace": false,
+      "hasAirConditioning": false,
+      "hasSpa": false,
+      "hasPool": false
+    }
+  },
+  {
+    "zpid": "448741013",
+    "palsId": "100066001_16c49d76b86413dcc2fd572b3bde48974f1999897a61c6879aad63b3b121b908",
+    "id": "448741013",
+    "rawHomeStatusCd": "ForRent",
+    "marketingStatusSimplifiedCd": "For Rent",
+    "providerListingId": "381t8ktnqpnpq",
+    "imgSrc": "https://photos.zillowstatic.com/fp/b6350f081701e1ea025d7dd087679426-p_e.jpg",
+    "hasImage": true,
+    "detailUrl": "https://www.zillow.com/apartments/somerville-ma/431-433-broadway/5XjJ6L/",
+    "statusType": "FOR_RENT",
+    "statusText": "Apartment for rent",
+    "countryCurrency": "$",
+    "price": "$4,995/mo",
+    "unformattedPrice": 4995,
+    "address": "431-433 Broadway, 431 Broadway #76, Somerville, MA 02145",
+    "addressStreet": "431 Broadway #76",
+    "addressCity": "Somerville",
+    "addressState": "MA",
+    "addressZipcode": "02145",
+    "isUndisclosedAddress": false,
+    "beds": 0,
+    "baths": 1,
+    "area": 400,
+    "latLong": {
+      "latitude": 42.39636,
+      "longitude": -71.1001
+    },
+    "isZillowOwned": false,
+    "listCardRecommendation": {
+      "ctaRecommendations": [
+        {
+          "displayString": "Request a tour",
+          "contentType": "REQUEST_A_TOUR"
+        }
+      ]
+    },
+    "hdpData": {
+      "homeInfo": {
+        "zpid": 448741013,
+        "streetAddress": "431 Broadway #76",
+        "zipcode": "02145",
+        "city": "Somerville",
+        "state": "MA",
+        "latitude": 42.39636,
+        "longitude": -71.1001,
+        "price": 4995,
+        "datePriceChanged": 1749798000000,
+        "bathrooms": 1,
+        "bedrooms": 0,
+        "livingArea": 400,
+        "homeType": "APARTMENT",
+        "homeStatus": "FOR_RENT",
+        "daysOnZillow": 238,
+        "isFeatured": true,
+        "shouldHighlight": false,
+        "isRentalWithBasePrice": false,
+        "listing_sub_type": {},
+        "isUnmappable": false,
+        "isPreforeclosureAuction": false,
+        "homeStatusForHDP": "FOR_RENT",
+        "priceForHDP": 4995,
+        "priceChange": 3000,
+        "timeOnZillow": 20635162000,
+        "isNonOwnerOccupied": true,
+        "isPremierBuilder": false,
+        "isZillowOwned": false,
+        "currency": "USD",
+        "country": "USA",
+        "unit": "# 76",
+        "isShowcaseListing": false
+      }
+    },
+    "isSaved": false,
+    "isUserClaimingOwner": false,
+    "isUserConfirmedClaim": false,
+    "pgapt": "ForRent",
+    "sgapt": "For Rent",
+    "shouldShowZestimateAsPrice": false,
+    "has3DModel": false,
+    "hasVideo": false,
+    "isHomeRec": false,
+    "hasAdditionalAttributions": false,
+    "isFeaturedListing": true,
+    "isShowcaseListing": false,
+    "list": true,
+    "relaxed": false,
+    "carouselPhotosComposable": {
+      "baseUrl": "https://photos.zillowstatic.com/fp/{photoKey}-p_e.jpg",
+      "communityBaseUrl": null,
+      "photoData": [
+        {
+          "photoKey": "b6350f081701e1ea025d7dd087679426"
+        },
+        {
+          "photoKey": "4aa4db8d755909187982f10d59bb1a6b"
+        },
+        {
+          "photoKey": "6f93b0391c3dce2b17fd61006574a2f2"
+        },
+        {
+          "photoKey": "2f540f83e6a8b5adad5fc2ae7cfbcf90"
+        },
+        {
+          "photoKey": "8e33367d0d57c80444d8a27241605db0"
+        },
+        {
+          "photoKey": "4acc66e5108c6c64387056d490233591"
+        },
+        {
+          "photoKey": "de596afab2413442ad51965b02c6a7da"
+        },
+        {
+          "photoKey": "850285da83e2925bf7e9ed58380ef555"
+        },
+        {
+          "photoKey": "fd11b45c1eac9f578e884ec1c9c28695"
+        },
+        {
+          "photoKey": "7a70b2868aae01ffb8e5577dee8e2661"
+        },
+        {
+          "photoKey": "d9be081152b95932d56dc6456ef13d14"
+        }
+      ],
+      "communityPhotoData": null,
+      "isStaticUrls": false
+    },
+    "marketingTreatments": [
+      "trustedListing",
+      "paid",
+      "zillowRentalManager",
+      "multiFamilySalesListing",
+      "paidOrUnpaidMultifamily",
+      "paidMultifamily",
+      "multifamilyBasePackage"
+    ],
+    "rooms": [],
+    "listPriceIncludesRequiredMonthlyFees": false,
+    "isPaidBuilderNewConstruction": false,
+    "factsAndFeatures": {
+      "fullBathroomCount": 1,
+      "hasFireplace": false,
+      "hasAirConditioning": false,
+      "hasSpa": false,
+      "hasPool": false
+    }
+  },
+  {
+    "zpid": "42.39991--71.11766",
+    "id": "42.39991--71.11766",
+    "providerListingId": "1a251k4jum38m",
+    "imgSrc": "https://photos.zillowstatic.com/fp/ffc29880ea2a6e3d1916828e3c081b85-p_e.jpg",
+    "hasImage": true,
+    "detailUrl": "/apartments/somerville-ma/119-powderhouse/CkBJNF/",
+    "statusType": "FOR_RENT",
+    "statusText": "119 PowderHouse",
+    "address": "119 College Ave, Somerville, MA",
+    "addressStreet": "119 College Ave  # 22",
+    "addressCity": "Somerville",
+    "addressState": "MA",
+    "addressZipcode": "02144",
+    "units": [
+      {
+        "price": "$2,900+",
+        "beds": "1",
+        "roomForRent": false
+      }
+    ],
+    "lotId": 2750785776,
+    "latLong": {
+      "latitude": 42.39991,
+      "longitude": -71.11766
+    },
+    "isSaved": false,
+    "buildingName": "119 PowderHouse",
+    "isBuilding": true,
+    "canSaveBuilding": true,
+    "has3DModel": false,
+    "isFeaturedListing": true,
+    "isShowcaseListing": false,
+    "list": true,
+    "relaxed": false,
+    "carouselPhotosComposable": {
+      "baseUrl": "https://photos.zillowstatic.com/fp/{photoKey}-p_e.jpg",
+      "communityBaseUrl": null,
+      "photoData": [
+        {
+          "photoKey": "ffc29880ea2a6e3d1916828e3c081b85"
+        },
+        {
+          "photoKey": "2047ae2b7402a3ce8430fb1159c0cf8b"
+        },
+        {
+          "photoKey": "8a56bf933a6e04bace31f49f73d151ef"
+        },
+        {
+          "photoKey": "0726fd087528227e80979c60bbebc7ad"
+        },
+        {
+          "photoKey": "2b3ae063828cd442e6caf7a8e5e572f2"
+        },
+        {
+          "photoKey": "c8e9c0957b26cb43ab9c5712afc41331"
+        },
+        {
+          "photoKey": "355470b9c58949e1903272b7316cb4a8"
+        }
+      ],
+      "communityPhotoData": null,
+      "isStaticUrls": false
+    },
+    "availabilityCount": 4,
+    "marketingTreatments": [
+      "trustedListing",
+      "paid",
+      "zillowRentalManager",
+      "multiFamilySalesListing",
+      "paidOrUnpaidMultifamily",
+      "paidMultifamily",
+      "multifamilyBasePackage"
+    ],
+    "listPriceIncludesRequiredMonthlyFees": false,
+    "isInstantTourEnabled": false,
+    "isContactable": true,
+    "isPaidBuilderNewConstruction": false
+  },
+  {
+    "zpid": "455572789",
+    "palsId": "100066001_1e0d4be81c97b7c5e2bcdec1c289c4b60b99c926994779b09f8afb05bed82a58",
+    "id": "455572789",
+    "rawHomeStatusCd": "ForRent",
+    "marketingStatusSimplifiedCd": "For Rent",
+    "providerListingId": "492nnwu0011eb",
+    "imgSrc": "https://photos.zillowstatic.com/fp/ed591acda39592a95c89ae01902efcec-p_e.jpg",
+    "hasImage": true,
+    "detailUrl": "https://www.zillow.com/apartments/somerville-ma/somerset/5XjQGP/",
+    "statusType": "FOR_RENT",
+    "statusText": "Apartment for rent",
+    "countryCurrency": "$",
+    "price": "$2,450+/mo",
+    "unformattedPrice": 2450,
+    "address": "Somerset, 158 Summer St, Somerville, MA 02143",
+    "addressStreet": "158 Summer St #62BC14469",
+    "addressCity": "Somerville",
+    "addressState": "MA",
+    "addressZipcode": "02143",
+    "isUndisclosedAddress": false,
+    "beds": 1,
+    "baths": 1,
+    "latLong": {
+      "latitude": 42.38627,
+      "longitude": -71.10579
+    },
+    "isZillowOwned": false,
+    "listCardRecommendation": {
+      "ctaRecommendations": [
+        {
+          "displayString": "Request a tour",
+          "contentType": "REQUEST_A_TOUR"
+        }
+      ]
+    },
+    "hdpData": {
+      "homeInfo": {
+        "zpid": 455572789,
+        "streetAddress": "158 Summer St #62BC14469",
+        "zipcode": "02143",
+        "city": "Somerville",
+        "state": "MA",
+        "latitude": 42.38627,
+        "longitude": -71.10579,
+        "price": 2450,
+        "bathrooms": 1,
+        "bedrooms": 1,
+        "homeType": "APARTMENT",
+        "homeStatus": "FOR_RENT",
+        "daysOnZillow": 110,
+        "isFeatured": true,
+        "shouldHighlight": false,
+        "isRentalWithBasePrice": false,
+        "listing_sub_type": {},
+        "isUnmappable": false,
+        "isPreforeclosureAuction": false,
+        "homeStatusForHDP": "FOR_RENT",
+        "priceForHDP": 2450,
+        "timeOnZillow": 9585861000,
+        "isNonOwnerOccupied": true,
+        "isPremierBuilder": false,
+        "isZillowOwned": false,
+        "currency": "USD",
+        "country": "USA",
+        "unit": "# 62bc14469",
+        "isShowcaseListing": false
+      }
+    },
+    "isSaved": false,
+    "isUserClaimingOwner": false,
+    "isUserConfirmedClaim": false,
+    "pgapt": "ForRent",
+    "sgapt": "For Rent",
+    "shouldShowZestimateAsPrice": false,
+    "has3DModel": false,
+    "hasVideo": false,
+    "isHomeRec": false,
+    "hasAdditionalAttributions": false,
+    "isFeaturedListing": true,
+    "isShowcaseListing": false,
+    "list": true,
+    "relaxed": false,
+    "carouselPhotosComposable": {
+      "baseUrl": "https://photos.zillowstatic.com/fp/{photoKey}-p_e.jpg",
+      "communityBaseUrl": null,
+      "photoData": [
+        {
+          "photoKey": "ed591acda39592a95c89ae01902efcec"
+        },
+        {
+          "photoKey": "a09eb0b1529aab60c52c443d72ea56e3"
+        },
+        {
+          "photoKey": "e179a65b1b66777956489bf84d72a130"
+        },
+        {
+          "photoKey": "8d02db5cc3cd1956d859f56ad80af65b"
+        },
+        {
+          "photoKey": "e62ac1542828aa29738ac67d8827de12"
+        },
+        {
+          "photoKey": "f0dc5359e4b2b1f86f92ad88027a6c3d"
+        }
+      ],
+      "communityPhotoData": null,
+      "isStaticUrls": false
+    },
+    "marketingTreatments": [
+      "trustedListing",
+      "paid",
+      "zillowRentalManager",
+      "multiFamilySalesListing",
+      "paidOrUnpaidMultifamily",
+      "paidMultifamily",
+      "multifamilyBasePackage"
+    ],
+    "rooms": [],
+    "listPriceIncludesRequiredMonthlyFees": false,
+    "isPaidBuilderNewConstruction": false,
+    "factsAndFeatures": {
+      "fullBathroomCount": 1,
+      "hasFireplace": false,
+      "hasAirConditioning": false,
+      "hasSpa": false,
+      "hasPool": false
+    }
+  },
+  {
+    "zpid": "455973848",
+    "palsId": "100066001_39cb45ac3a3b3964777eb0824fb6cfe36266d3b0e40b2587c206b479f948201c",
+    "id": "455973848",
+    "rawHomeStatusCd": "ForRent",
+    "marketingStatusSimplifiedCd": "For Rent",
+    "providerListingId": "ehu3nqubshvm",
+    "imgSrc": "https://photos.zillowstatic.com/fp/4ca53eb6358c8bfee65b42bd9208d4b5-p_e.jpg",
+    "hasImage": true,
+    "detailUrl": "https://www.zillow.com/apartments/somerville-ma/625-mcgrath-apartments/5hWQRP/",
+    "statusType": "FOR_RENT",
+    "statusText": "Apartment for rent",
+    "countryCurrency": "$",
+    "price": "$5,995/mo",
+    "unformattedPrice": 5995,
+    "address": "625 McGrath Apartments, 625 McGrath Hwy #403, Somerville, MA 02145",
+    "addressStreet": "625 McGrath Hwy #403",
+    "addressCity": "Somerville",
+    "addressState": "MA",
+    "addressZipcode": "02145",
+    "isUndisclosedAddress": false,
+    "beds": 1,
+    "baths": 1,
+    "area": 907,
+    "latLong": {
+      "latitude": 42.388065,
+      "longitude": -71.08896
+    },
+    "isZillowOwned": false,
+    "listCardRecommendation": {
+      "ctaRecommendations": [
+        {
+          "displayString": "Request a tour",
+          "contentType": "REQUEST_A_TOUR"
+        }
+      ]
+    },
+    "hdpData": {
+      "homeInfo": {
+        "zpid": 455973848,
+        "streetAddress": "625 McGrath Hwy #403",
+        "zipcode": "02145",
+        "city": "Somerville",
+        "state": "MA",
+        "latitude": 42.388065,
+        "longitude": -71.08896,
+        "price": 5995,
+        "datePriceChanged": 1758092400000,
+        "bathrooms": 1,
+        "bedrooms": 1,
+        "livingArea": 907,
+        "homeType": "APARTMENT",
+        "homeStatus": "FOR_RENT",
+        "daysOnZillow": 95,
+        "isFeatured": true,
+        "shouldHighlight": false,
+        "isRentalWithBasePrice": false,
+        "listing_sub_type": {},
+        "isUnmappable": false,
+        "isPreforeclosureAuction": false,
+        "homeStatusForHDP": "FOR_RENT",
+        "priceForHDP": 5995,
+        "priceChange": 3000,
+        "timeOnZillow": 8276665000,
+        "isNonOwnerOccupied": true,
+        "isPremierBuilder": false,
+        "isZillowOwned": false,
+        "currency": "USD",
+        "country": "USA",
+        "unit": "# 403",
+        "isShowcaseListing": false
+      }
+    },
+    "isSaved": false,
+    "isUserClaimingOwner": false,
+    "isUserConfirmedClaim": false,
+    "pgapt": "ForRent",
+    "sgapt": "For Rent",
+    "shouldShowZestimateAsPrice": false,
+    "has3DModel": false,
+    "hasVideo": false,
+    "isHomeRec": false,
+    "hasAdditionalAttributions": false,
+    "isFeaturedListing": true,
+    "isShowcaseListing": false,
+    "list": true,
+    "relaxed": false,
+    "carouselPhotosComposable": {
+      "baseUrl": "https://photos.zillowstatic.com/fp/{photoKey}-p_e.jpg",
+      "communityBaseUrl": null,
+      "photoData": [
+        {
+          "photoKey": "4ca53eb6358c8bfee65b42bd9208d4b5"
+        },
+        {
+          "photoKey": "81a16e693e7601aaa6c8f25d2a4f130e"
+        },
+        {
+          "photoKey": "18bd145a8629ccbe31208bba7bf01ef7"
+        },
+        {
+          "photoKey": "18bd145a8629ccbe31208bba7bf01ef7"
+        }
+      ],
+      "communityPhotoData": null,
+      "isStaticUrls": false
+    },
+    "marketingTreatments": [
+      "trustedListing",
+      "paid",
+      "zillowRentalManager",
+      "multiFamilySalesListing",
+      "paidOrUnpaidMultifamily",
+      "paidMultifamily",
+      "multifamilyBasePackage"
+    ],
+    "rooms": [],
+    "listPriceIncludesRequiredMonthlyFees": false,
+    "isPaidBuilderNewConstruction": false,
+    "factsAndFeatures": {
+      "fullBathroomCount": 1,
+      "hasFireplace": false,
+      "hasAirConditioning": false,
+      "hasSpa": false,
+      "hasPool": false
+    }
+  },
+  {
+    "zpid": "42.387688--71.102135",
+    "id": "42.387688--71.102135",
+    "providerListingId": "vms14vr5h794",
+    "imgSrc": "https://photos.zillowstatic.com/fp/8b21aeba6a9c9e154c8b99dbd5a689de-p_e.jpg",
+    "hasImage": true,
+    "detailUrl": "/b/136-and-138-highland-avenue-somerville-ma-BcRpRk/",
+    "statusType": "FOR_RENT",
+    "statusText": "136 & 138 Highland Avenue",
+    "address": "136-5 Highland Ave, Somerville, MA",
+    "addressStreet": "136-5 Highland Ave  # 28",
+    "addressCity": "Somerville",
+    "addressState": "MA",
+    "addressZipcode": "02143",
+    "units": [
+      {
+        "price": "$2,150+",
+        "beds": "0",
+        "roomForRent": false
+      },
+      {
+        "price": "$2,645+",
+        "beds": "1",
+        "roomForRent": false
+      }
+    ],
+    "lotId": 2435311355,
+    "latLong": {
+      "latitude": 42.387688,
+      "longitude": -71.102135
+    },
+    "isSaved": false,
+    "buildingName": "136 & 138 Highland Avenue",
+    "isBuilding": true,
+    "canSaveBuilding": false,
+    "has3DModel": false,
+    "isFeaturedListing": true,
+    "isShowcaseListing": false,
+    "list": true,
+    "relaxed": false,
+    "carouselPhotosComposable": {
+      "baseUrl": "https://photos.zillowstatic.com/fp/{photoKey}-p_e.jpg",
+      "communityBaseUrl": null,
+      "photoData": [
+        {
+          "photoKey": "8b21aeba6a9c9e154c8b99dbd5a689de"
+        },
+        {
+          "photoKey": "fbf69f35d203a7fd160ac46fc27d793a"
+        },
+        {
+          "photoKey": "4e57b897052722204eda5797a47f64b8"
+        },
+        {
+          "photoKey": "0fd4df3806620b50881ded0f39634df6"
+        },
+        {
+          "photoKey": "0d4487430bae96244b73bfdbb195c116"
+        },
+        {
+          "photoKey": "6c55c11fe9e96a0229ca681802a404d3"
+        },
+        {
+          "photoKey": "cfb76715c9a6c8d2f7dcf3ca3d77b357"
+        },
+        {
+          "photoKey": "5af11001072091264f71d294fef4bed8"
+        },
+        {
+          "photoKey": "63a3fa4c98aa1bbf4bca1be51609dd58"
+        },
+        {
+          "photoKey": "f2176edcc5c3bda31fee8d5d8e9b0a30"
+        },
+        {
+          "photoKey": "d3fe434b143cea17b4962a9595f8d92c"
+        },
+        {
+          "photoKey": "22b16f82b0a92274bed5e1fd7667d7a5"
+        },
+        {
+          "photoKey": "ce65a963c081a9a83fa0a6cfd0358927"
+        },
+        {
+          "photoKey": "67159e08cb88fc7f27b04e16f89fdc05"
+        },
+        {
+          "photoKey": "73e997dd7f356544eec93beb94d9cf24"
+        },
+        {
+          "photoKey": "3615bd5ad3aab5e0169f9b48336b7664"
+        },
+        {
+          "photoKey": "5fe4aa5d229b4f7e0351181feb9cee2c"
+        },
+        {
+          "photoKey": "4fd38712b1c14fe9492b44f4097fa791"
+        },
+        {
+          "photoKey": "f754be93e7e6f2cc9567af370058b147"
+        },
+        {
+          "photoKey": "c375200042ac7fad6ef4402cfec22c41"
+        },
+        {
+          "photoKey": "6f9dec0f7f06df0b5d9674a6c58dc396"
+        },
+        {
+          "photoKey": "f9bfd2d3689cebd3c978922af1938793"
+        }
+      ],
+      "communityPhotoData": null,
+      "isStaticUrls": false
+    },
+    "availabilityCount": 12,
+    "marketingTreatments": [
+      "trustedListing",
+      "paid",
+      "multiFamilySalesListing",
+      "paidOrUnpaidMultifamily",
+      "paidMultifamily",
+      "multifamilyBasePackage"
+    ],
+    "listPriceIncludesRequiredMonthlyFees": true,
+    "minBaseRent": 2150,
+    "maxBaseRent": 2645,
+    "isInstantTourEnabled": false,
+    "isContactable": false,
+    "isPaidBuilderNewConstruction": false
+  },
+  {
+    "zpid": "42.382736--71.1124",
+    "id": "42.382736--71.1124",
+    "providerListingId": "4xupvezvfafey",
+    "imgSrc": "https://photos.zillowstatic.com/fp/8fe1d470a6553eaec0918d26ad7e4eb5-p_e.jpg",
+    "hasImage": true,
+    "detailUrl": "/apartments/somerville-ma/278-beacon-street/CkB47C/",
+    "statusType": "FOR_RENT",
+    "statusText": "278 Beacon Street",
+    "address": "278 Beacon St, Somerville, MA",
+    "addressStreet": "278 Beacon St Apt 51",
+    "addressCity": "Somerville",
+    "addressState": "MA",
+    "addressZipcode": "02143",
+    "units": [
+      {
+        "price": "$2,700+",
+        "beds": "1",
+        "roomForRent": false
+      },
+      {
+        "price": "$2,950+",
+        "beds": "2",
+        "roomForRent": false
+      }
+    ],
+    "lotId": 2750756325,
+    "latLong": {
+      "latitude": 42.382736,
+      "longitude": -71.1124
+    },
+    "isSaved": false,
+    "buildingName": "278 Beacon Street",
+    "isBuilding": true,
+    "canSaveBuilding": true,
+    "has3DModel": false,
+    "isFeaturedListing": true,
+    "isShowcaseListing": false,
+    "list": true,
+    "relaxed": false,
+    "carouselPhotosComposable": {
+      "baseUrl": "https://photos.zillowstatic.com/fp/{photoKey}-p_e.jpg",
+      "communityBaseUrl": null,
+      "photoData": [
+        {
+          "photoKey": "8fe1d470a6553eaec0918d26ad7e4eb5"
+        },
+        {
+          "photoKey": "5110ddb7d1638be243453c4c0d89ba11"
+        },
+        {
+          "photoKey": "b0591149d8ee8fa80a50519978933e94"
+        },
+        {
+          "photoKey": "069ee0cc5e39e19903d03c89bfe6b0a0"
+        },
+        {
+          "photoKey": "46a5485e652406790f361583a9cc5b88"
+        },
+        {
+          "photoKey": "b379b67759409d0154592a200e83aecc"
+        },
+        {
+          "photoKey": "226c962891ae5d43fe088013a90cbb57"
+        },
+        {
+          "photoKey": "cfc0eb5853409938a86849deec003cb0"
+        },
+        {
+          "photoKey": "db02879905453eb7787512095a18a8c0"
+        },
+        {
+          "photoKey": "855c8975ee858d498fe2ac109f715810"
+        },
+        {
+          "photoKey": "837644b22703e0fdf26ba32c773cf1fb"
+        },
+        {
+          "photoKey": "c6108156c3014906c8fce17471a86cdd"
+        },
+        {
+          "photoKey": "5b253cb3b7f7ca0bc9112030855d3cca"
+        },
+        {
+          "photoKey": "9c460e4cc68484a2ac609d3eb50fdf48"
+        },
+        {
+          "photoKey": "79396bbcdfbe66970d431a7486344095"
+        },
+        {
+          "photoKey": "bb8c7703f6625bd6b87b343b3046e109"
+        },
+        {
+          "photoKey": "cecd1418eb2287d8cc85971fb43a5719"
+        },
+        {
+          "photoKey": "ada6495a9c0cbc602199efc91338d22c"
+        },
+        {
+          "photoKey": "1e3106af4f7445f19c285cef39fb3fe2"
+        },
+        {
+          "photoKey": "04c8907b0edac711885a1f097b102d4d"
+        },
+        {
+          "photoKey": "7508c02b1e80dcf1ae46400050bfa676"
+        },
+        {
+          "photoKey": "e8274f377e0c5b59a44498c5c11cd28e"
+        },
+        {
+          "photoKey": "7b7227d41e32c8d1989558361704c688"
+        },
+        {
+          "photoKey": "02369690d4f068f853a23ed4cd23e620"
+        },
+        {
+          "photoKey": "5c326b4d310ead92631a2b86a4c91ed9"
+        },
+        {
+          "photoKey": "1aa5b0427d8c5c0e937b97aec64ac2b9"
+        },
+        {
+          "photoKey": "6323b1b77cdbb38cba0684d3bd5eda35"
+        },
+        {
+          "photoKey": "79396bbcdfbe66970d431a7486344095"
+        }
+      ],
+      "communityPhotoData": null,
+      "isStaticUrls": false
+    },
+    "availabilityCount": 3,
+    "marketingTreatments": [
+      "trustedListing",
+      "paid",
+      "zillowRentalManager",
+      "multiFamilySalesListing",
+      "paidOrUnpaidMultifamily",
+      "paidMultifamily",
+      "multifamilyBasePackage"
+    ],
+    "listPriceIncludesRequiredMonthlyFees": false,
+    "isInstantTourEnabled": false,
+    "isContactable": true,
+    "isPaidBuilderNewConstruction": false
+  },
+  {
+    "zpid": "42.39273--71.09336",
+    "id": "42.39273--71.09336",
+    "providerListingId": "2pdyqj1fv6mwj",
+    "imgSrc": "https://photos.zillowstatic.com/fp/dd726340a4303817b48b0b38c447b89d-p_e.jpg",
+    "hasImage": true,
+    "detailUrl": "/apartments/somerville-ma/315-broadway/CgJBMz/",
+    "statusType": "FOR_RENT",
+    "statusText": "315 Broadway",
+    "address": "315 Broadway, Somerville, MA",
+    "addressStreet": "315 Broadway Apt 407",
+    "addressCity": "Somerville",
+    "addressState": "MA",
+    "addressZipcode": "02145",
+    "units": [
+      {
+        "price": "$2,995+",
+        "beds": "1",
+        "roomForRent": false
+      },
+      {
+        "price": "$3,595+",
+        "beds": "2",
+        "roomForRent": false
+      }
+    ],
+    "lotId": 2734182849,
+    "latLong": {
+      "latitude": 42.39273,
+      "longitude": -71.09336
+    },
+    "isSaved": false,
+    "buildingName": "315 Broadway",
+    "isBuilding": true,
+    "canSaveBuilding": true,
+    "has3DModel": false,
+    "isFeaturedListing": true,
+    "isShowcaseListing": false,
+    "list": true,
+    "relaxed": false,
+    "carouselPhotosComposable": {
+      "baseUrl": "https://photos.zillowstatic.com/fp/{photoKey}-p_e.jpg",
+      "communityBaseUrl": null,
+      "photoData": [
+        {
+          "photoKey": "dd726340a4303817b48b0b38c447b89d"
+        },
+        {
+          "photoKey": "7e33903630ea3e1576aeafdd23d732c5"
+        },
+        {
+          "photoKey": "413b7b6dd266c405956707c1f047a6d3"
+        },
+        {
+          "photoKey": "12e5d2a23662810d9b5e660706ab1dd0"
+        },
+        {
+          "photoKey": "a449e37bb3fa420ef0e3bfd9219715fb"
+        },
+        {
+          "photoKey": "d383817a6e2a82851813b0f8d5d54f8a"
+        },
+        {
+          "photoKey": "e14ffe11d4891bbe8e008e308a9d5a02"
+        },
+        {
+          "photoKey": "042680ed09e90d4108cc597e04c9c249"
+        },
+        {
+          "photoKey": "a47f7a955baafc03afeba7ee66eaa540"
+        },
+        {
+          "photoKey": "e9938046a503be320a1a9df55bd6e4e0"
+        },
+        {
+          "photoKey": "6d20281e8a8a817efad7fe2d6f54b85b"
+        },
+        {
+          "photoKey": "33b8f99f644cd1fe5e620ad80e5b13b9"
+        },
+        {
+          "photoKey": "da3356dcedb2c92308d8e735cea30bb9"
+        },
+        {
+          "photoKey": "696c5e02bc5611a7fc861d6eb804b38a"
+        },
+        {
+          "photoKey": "a79395b708488c0ca829556d66961e71"
+        },
+        {
+          "photoKey": "31065a2192c4a9dcc9ac2404adb7b82e"
+        },
+        {
+          "photoKey": "948b2254fbc7e57e8c8a0c7d811e0e80"
+        },
+        {
+          "photoKey": "af231f4256e63ed8747f86f932f43f18"
+        },
+        {
+          "photoKey": "0c47212b67ff559515100e0b44715a7d"
+        },
+        {
+          "photoKey": "7ebb915186a224960af4d0e74a4712c1"
+        },
+        {
+          "photoKey": "75c7c1bc77bff746aa91629f90d1401a"
+        },
+        {
+          "photoKey": "2cff3a06f4137c74cb84f617915e1105"
+        },
+        {
+          "photoKey": "86b6f838b91f75997b1edd87d2c68aa7"
+        },
+        {
+          "photoKey": "9fe4e4331d3cab007657f3f98ff9cbbb"
+        },
+        {
+          "photoKey": "802a497255ede1130fc354685c694393"
+        },
+        {
+          "photoKey": "b489dc7f3055548509c374de915e8c16"
+        },
+        {
+          "photoKey": "104db9e350242166d3c84bd847350013"
+        }
+      ],
+      "communityPhotoData": null,
+      "isStaticUrls": false
+    },
+    "availabilityCount": 2,
+    "marketingTreatments": [
+      "trustedListing",
+      "paid",
+      "zillowRentalManager",
+      "multiFamilySalesListing",
+      "paidOrUnpaidMultifamily",
+      "paidMultifamily",
+      "multifamilyBasePackage"
+    ],
+    "listPriceIncludesRequiredMonthlyFees": false,
+    "isInstantTourEnabled": false,
+    "isContactable": true,
+    "isPaidBuilderNewConstruction": false
+  },
+  {
+    "zpid": "42.386314--71.10932",
+    "id": "42.386314--71.10932",
+    "providerListingId": "1sbwuu6qqh9r0",
+    "imgSrc": "https://photos.zillowstatic.com/fp/feb9fc52068d01e17ca94b1e97ce3224-p_e.jpg",
+    "hasImage": true,
+    "detailUrl": "/apartments/somerville-ma/41-belmont/CkNqjq/",
+    "statusType": "FOR_RENT",
+    "statusText": "41 Belmont",
+    "address": "41 Belmont St, Somerville, MA",
+    "addressStreet": "41 Belmont St # c320bbe3f",
+    "addressCity": "Somerville",
+    "addressState": "MA",
+    "addressZipcode": "02143",
+    "units": [
+      {
+        "price": "$2,500+",
+        "beds": "1",
+        "roomForRent": false
+      },
+      {
+        "price": "$2,600+",
+        "beds": "2",
+        "roomForRent": false
+      }
+    ],
+    "lotId": 2752025554,
+    "latLong": {
+      "latitude": 42.386314,
+      "longitude": -71.10932
+    },
+    "isSaved": false,
+    "buildingName": "41 Belmont",
+    "isBuilding": true,
+    "canSaveBuilding": true,
+    "has3DModel": false,
+    "isFeaturedListing": true,
+    "isShowcaseListing": false,
+    "list": true,
+    "relaxed": false,
+    "carouselPhotosComposable": {
+      "baseUrl": "https://photos.zillowstatic.com/fp/{photoKey}-p_e.jpg",
+      "communityBaseUrl": null,
+      "photoData": [
+        {
+          "photoKey": "feb9fc52068d01e17ca94b1e97ce3224"
+        },
+        {
+          "photoKey": "0235dd2823aa2e64d073f19e69e42f8b"
+        },
+        {
+          "photoKey": "96f02465c277112530374702417f39e5"
+        },
+        {
+          "photoKey": "0241c10eebeff0a49325c05bab8a6fb9"
+        },
+        {
+          "photoKey": "fa33dceb09f6e37be2209c329b01ab14"
+        },
+        {
+          "photoKey": "797bb767d8d8b33a9ee1f5372ba21949"
+        },
+        {
+          "photoKey": "d20bb166687c24a9dc5b4b2bdce8797e"
+        },
+        {
+          "photoKey": "b74a43bfd64a6b99973b228466759f1f"
+        },
+        {
+          "photoKey": "7d3463f91e000dfb166da39420d864cf"
+        },
+        {
+          "photoKey": "b1ca5ad47c809e9afa9e73b34b15a2ae"
+        },
+        {
+          "photoKey": "8ba6c5aa47a31e658886d055d43b2ff6"
+        },
+        {
+          "photoKey": "2635261ba6199cfe0d606936d65c6a94"
+        },
+        {
+          "photoKey": "cb1f696d0940397aa71b7dfa1edfdfe9"
+        },
+        {
+          "photoKey": "b5359d0c4b1aa001fc43fcbb1f0f897f"
+        },
+        {
+          "photoKey": "96114e5930561d555f5145056de1cbf8"
+        }
+      ],
+      "communityPhotoData": null,
+      "isStaticUrls": false
+    },
+    "availabilityCount": 3,
+    "marketingTreatments": [
+      "trustedListing",
+      "paid",
+      "zillowRentalManager",
+      "multiFamilySalesListing",
+      "paidOrUnpaidMultifamily",
+      "paidMultifamily",
+      "multifamilyBasePackage"
+    ],
+    "listPriceIncludesRequiredMonthlyFees": false,
+    "isInstantTourEnabled": false,
+    "isContactable": true,
+    "isPaidBuilderNewConstruction": false
+  },
+  {
+    "zpid": "80389925",
+    "palsId": "100066001_cca0309dbad2fd4a597cc69f292e756f7eb7e29ace33c5e20b4491699e9f6162",
+    "id": "80389925",
+    "rawHomeStatusCd": "ForRent",
+    "marketingStatusSimplifiedCd": "For Rent",
+    "providerListingId": "1rshmsqfpt78c",
+    "imgSrc": "https://photos.zillowstatic.com/fp/70ac9f1279020e14e110a48f02ec6bc5-p_e.jpg",
+    "hasImage": true,
+    "detailUrl": "https://www.zillow.com/homedetails/20-Cottage-Ave-2-Somerville-MA-02144/80389925_zpid/",
+    "statusType": "FOR_RENT",
+    "statusText": "Apartment for rent",
+    "countryCurrency": "$",
+    "price": "$3,800/mo",
+    "unformattedPrice": 3800,
+    "address": "20 Cottage Ave #2, Somerville, MA 02144",
+    "addressStreet": "20 Cottage Ave #2",
+    "addressCity": "Somerville",
+    "addressState": "MA",
+    "addressZipcode": "02144",
+    "isUndisclosedAddress": false,
+    "beds": 2,
+    "baths": 1,
+    "latLong": {
+      "latitude": 42.393974,
+      "longitude": -71.12251
+    },
+    "isZillowOwned": false,
+    "listCardRecommendation": {
+      "flexFieldRecommendations": [
+        {
+          "displayString": "4 hours ago",
+          "contentType": "timeOnInfo"
+        },
+        {
+          "displayString": "Apply instantly",
+          "contentType": "frZillowApplication"
+        }
+      ],
+      "ctaRecommendations": [
+        {
+          "displayString": "Request a tour",
+          "contentType": "REQUEST_A_TOUR"
+        }
+      ]
+    },
+    "hdpData": {
+      "homeInfo": {
+        "zpid": 80389925,
+        "streetAddress": "20 Cottage Ave #2",
+        "zipcode": "02144",
+        "city": "Somerville",
+        "state": "MA",
+        "latitude": 42.393974,
+        "longitude": -71.12251,
+        "price": 3800,
+        "bathrooms": 1,
+        "bedrooms": 2,
+        "homeType": "APARTMENT",
+        "homeStatus": "FOR_RENT",
+        "daysOnZillow": 0,
+        "isFeatured": true,
+        "shouldHighlight": false,
+        "isRentalWithBasePrice": false,
+        "zestimate": 785000,
+        "rentZestimate": 3720,
+        "listing_sub_type": {},
+        "isUnmappable": false,
+        "isPreforeclosureAuction": false,
+        "homeStatusForHDP": "FOR_RENT",
+        "priceForHDP": 3800,
+        "timeOnZillow": 16359000,
+        "isNonOwnerOccupied": true,
+        "isPremierBuilder": false,
+        "isZillowOwned": false,
+        "currency": "USD",
+        "country": "USA",
+        "taxAssessedValue": 742700,
+        "unit": "# 2",
+        "isShowcaseListing": false
+      }
+    },
+    "isSaved": false,
+    "isUserClaimingOwner": false,
+    "isUserConfirmedClaim": false,
+    "pgapt": "ForRent",
+    "sgapt": "For Rent",
+    "zestimate": 785000,
+    "shouldShowZestimateAsPrice": false,
+    "has3DModel": false,
+    "hasVideo": false,
+    "isHomeRec": false,
+    "hasAdditionalAttributions": false,
+    "isFeaturedListing": true,
+    "isShowcaseListing": false,
+    "availabilityDate": "2025-11-19 00:00:00",
+    "list": true,
+    "relaxed": false,
+    "carouselPhotosComposable": {
+      "baseUrl": "https://photos.zillowstatic.com/fp/{photoKey}-p_e.jpg",
+      "communityBaseUrl": null,
+      "photoData": [
+        {
+          "photoKey": "70ac9f1279020e14e110a48f02ec6bc5"
+        },
+        {
+          "photoKey": "e6b0861a2157708be80c3271ce3dc18f"
+        },
+        {
+          "photoKey": "6c3ee1534ac9fbea9107f9799fe26866"
+        },
+        {
+          "photoKey": "2640ddca913bcb9d912db3ced56b5475"
+        },
+        {
+          "photoKey": "c37addcb54291ca64e1ed6f305385ec3"
+        },
+        {
+          "photoKey": "5bbfe9e089c856db707b9a813b345d05"
+        },
+        {
+          "photoKey": "a03311c0079135fd80a13f2958040aad"
+        }
+      ],
+      "communityPhotoData": null,
+      "isStaticUrls": false
+    },
+    "marketingTreatments": [
+      "trustedListing",
+      "paid",
+      "zillowRentalManager",
+      "singleFamilyPaid",
+      "feedConnectFlatFeeFeedConnect"
+    ],
+    "rooms": [],
+    "listPriceIncludesRequiredMonthlyFees": true,
+    "baseRent": 3800,
+    "isPaidBuilderNewConstruction": false,
+    "factsAndFeatures": {
+      "fullBathroomCount": 1,
+      "hasFireplace": false,
+      "hasAirConditioning": false,
+      "hasSpa": false,
+      "hasPool": false
+    }
+  },
+  {
+    "zpid": "458398096",
+    "palsId": "100066001_ee93e518d8a6987f53fe85e39d5d11265b528a95e7f48c6d931e8bd824e66f98",
+    "id": "458398096",
+    "rawHomeStatusCd": "ForRent",
+    "marketingStatusSimplifiedCd": "For Rent",
+    "providerListingId": "4fgzcxxm74zsx",
+    "imgSrc": "https://photos.zillowstatic.com/fp/6c3ee1534ac9fbea9107f9799fe26866-p_e.jpg",
+    "hasImage": true,
+    "detailUrl": "https://www.zillow.com/homedetails/99-Orchard-St-9-Somerville-MA-02144/458398096_zpid/",
+    "statusType": "FOR_RENT",
+    "statusText": "Apartment for rent",
+    "countryCurrency": "$",
+    "price": "$2,800/mo",
+    "unformattedPrice": 2800,
+    "address": "99 Orchard St #9, Somerville, MA 02144",
+    "addressStreet": "99 Orchard St #9",
+    "addressCity": "Somerville",
+    "addressState": "MA",
+    "addressZipcode": "02144",
+    "isUndisclosedAddress": false,
+    "beds": 1,
+    "baths": 1,
+    "latLong": {
+      "latitude": 42.393574,
+      "longitude": -71.12279
+    },
+    "isZillowOwned": false,
+    "listCardRecommendation": {
+      "flexFieldRecommendations": [
+        {
+          "displayString": "5 hours ago",
+          "contentType": "timeOnInfo"
+        },
+        {
+          "displayString": "Apply instantly",
+          "contentType": "frZillowApplication"
+        }
+      ],
+      "ctaRecommendations": [
+        {
+          "displayString": "Request a tour",
+          "contentType": "REQUEST_A_TOUR"
+        }
+      ]
+    },
+    "hdpData": {
+      "homeInfo": {
+        "zpid": 458398096,
+        "streetAddress": "99 Orchard St #9",
+        "zipcode": "02144",
+        "city": "Somerville",
+        "state": "MA",
+        "latitude": 42.393574,
+        "longitude": -71.12279,
+        "price": 2800,
+        "bathrooms": 1,
+        "bedrooms": 1,
+        "homeType": "APARTMENT",
+        "homeStatus": "FOR_RENT",
+        "daysOnZillow": 0,
+        "isFeatured": true,
+        "shouldHighlight": false,
+        "isRentalWithBasePrice": false,
+        "listing_sub_type": {},
+        "isUnmappable": false,
+        "isPreforeclosureAuction": false,
+        "homeStatusForHDP": "FOR_RENT",
+        "priceForHDP": 2800,
+        "timeOnZillow": 18270000,
+        "isNonOwnerOccupied": true,
+        "isPremierBuilder": false,
+        "isZillowOwned": false,
+        "currency": "USD",
+        "country": "USA",
+        "unit": "# 9",
+        "isShowcaseListing": false
+      }
+    },
+    "isSaved": false,
+    "isUserClaimingOwner": false,
+    "isUserConfirmedClaim": false,
+    "pgapt": "ForRent",
+    "sgapt": "For Rent",
+    "shouldShowZestimateAsPrice": false,
+    "has3DModel": false,
+    "hasVideo": false,
+    "isHomeRec": false,
+    "hasAdditionalAttributions": false,
+    "isFeaturedListing": true,
+    "isShowcaseListing": false,
+    "availabilityDate": "2025-11-19 00:00:00",
+    "list": true,
+    "relaxed": false,
+    "carouselPhotosComposable": {
+      "baseUrl": "https://photos.zillowstatic.com/fp/{photoKey}-p_e.jpg",
+      "communityBaseUrl": null,
+      "photoData": [
+        {
+          "photoKey": "6c3ee1534ac9fbea9107f9799fe26866"
+        },
+        {
+          "photoKey": "2640ddca913bcb9d912db3ced56b5475"
+        },
+        {
+          "photoKey": "70ac9f1279020e14e110a48f02ec6bc5"
+        },
+        {
+          "photoKey": "e6b0861a2157708be80c3271ce3dc18f"
+        },
+        {
+          "photoKey": "c37addcb54291ca64e1ed6f305385ec3"
+        },
+        {
+          "photoKey": "5bbfe9e089c856db707b9a813b345d05"
+        },
+        {
+          "photoKey": "a03311c0079135fd80a13f2958040aad"
+        }
+      ],
+      "communityPhotoData": null,
+      "isStaticUrls": false
+    },
+    "marketingTreatments": [
+      "trustedListing",
+      "paid",
+      "zillowRentalManager",
+      "singleFamilyPaid",
+      "feedConnectFlatFeeFeedConnect"
+    ],
+    "rooms": [],
+    "listPriceIncludesRequiredMonthlyFees": true,
+    "baseRent": 2800,
+    "isPaidBuilderNewConstruction": false,
+    "factsAndFeatures": {
+      "fullBathroomCount": 1,
+      "hasFireplace": false,
+      "hasAirConditioning": false,
+      "hasSpa": false,
+      "hasPool": false
+    }
+  },
+  {
+    "zpid": "2098402433",
+    "palsId": "100066001_8ac848230e5112a4183f9aaa5a6f7370e2e421ac5ae54dd921a105c3f5ed4947",
+    "id": "2098402433",
+    "rawHomeStatusCd": "ForRent",
+    "marketingStatusSimplifiedCd": "For Rent",
+    "providerListingId": "35z1r1ky984bb",
+    "imgSrc": "https://photos.zillowstatic.com/fp/e6b0861a2157708be80c3271ce3dc18f-p_e.jpg",
+    "hasImage": true,
+    "detailUrl": "https://www.zillow.com/homedetails/23-Cottage-Ave-2-Somerville-MA-02144/2098402433_zpid/",
+    "statusType": "FOR_RENT",
+    "statusText": "Apartment for rent",
+    "countryCurrency": "$",
+    "price": "$3,200/mo",
+    "unformattedPrice": 3200,
+    "address": "23 Cottage Ave #2, Somerville, MA 02144",
+    "addressStreet": "23 Cottage Ave #2",
+    "addressCity": "Somerville",
+    "addressState": "MA",
+    "addressZipcode": "02144",
+    "isUndisclosedAddress": false,
+    "beds": 2,
+    "baths": 1,
+    "latLong": {
+      "latitude": 42.394314,
+      "longitude": -71.12231
+    },
+    "isZillowOwned": false,
+    "listCardRecommendation": {
+      "flexFieldRecommendations": [
+        {
+          "displayString": "5 hours ago",
+          "contentType": "timeOnInfo"
+        },
+        {
+          "displayString": "Apply instantly",
+          "contentType": "frZillowApplication"
+        }
+      ],
+      "ctaRecommendations": [
+        {
+          "displayString": "Request a tour",
+          "contentType": "REQUEST_A_TOUR"
+        }
+      ]
+    },
+    "hdpData": {
+      "homeInfo": {
+        "zpid": 2098402433,
+        "streetAddress": "23 Cottage Ave #2",
+        "zipcode": "02144",
+        "city": "Somerville",
+        "state": "MA",
+        "latitude": 42.394314,
+        "longitude": -71.12231,
+        "price": 3200,
+        "bathrooms": 1,
+        "bedrooms": 2,
+        "homeType": "APARTMENT",
+        "homeStatus": "FOR_RENT",
+        "daysOnZillow": 0,
+        "isFeatured": true,
+        "shouldHighlight": false,
+        "isRentalWithBasePrice": false,
+        "rentZestimate": 4807,
+        "listing_sub_type": {},
+        "isUnmappable": false,
+        "isPreforeclosureAuction": false,
+        "homeStatusForHDP": "FOR_RENT",
+        "priceForHDP": 3200,
+        "timeOnZillow": 18714000,
+        "isNonOwnerOccupied": true,
+        "isPremierBuilder": false,
+        "isZillowOwned": false,
+        "currency": "USD",
+        "country": "USA",
+        "unit": "# 2",
+        "isShowcaseListing": false
+      }
+    },
+    "isSaved": false,
+    "isUserClaimingOwner": false,
+    "isUserConfirmedClaim": false,
+    "pgapt": "ForRent",
+    "sgapt": "For Rent",
+    "shouldShowZestimateAsPrice": false,
+    "has3DModel": false,
+    "hasVideo": false,
+    "isHomeRec": false,
+    "hasAdditionalAttributions": false,
+    "isFeaturedListing": true,
+    "isShowcaseListing": false,
+    "availabilityDate": "2025-11-19 00:00:00",
+    "list": true,
+    "relaxed": false,
+    "carouselPhotosComposable": {
+      "baseUrl": "https://photos.zillowstatic.com/fp/{photoKey}-p_e.jpg",
+      "communityBaseUrl": null,
+      "photoData": [
+        {
+          "photoKey": "e6b0861a2157708be80c3271ce3dc18f"
+        },
+        {
+          "photoKey": "c37addcb54291ca64e1ed6f305385ec3"
+        },
+        {
+          "photoKey": "2640ddca913bcb9d912db3ced56b5475"
+        },
+        {
+          "photoKey": "a03311c0079135fd80a13f2958040aad"
+        },
+        {
+          "photoKey": "6c3ee1534ac9fbea9107f9799fe26866"
+        },
+        {
+          "photoKey": "5bbfe9e089c856db707b9a813b345d05"
+        },
+        {
+          "photoKey": "70ac9f1279020e14e110a48f02ec6bc5"
+        }
+      ],
+      "communityPhotoData": null,
+      "isStaticUrls": false
+    },
+    "marketingTreatments": [
+      "trustedListing",
+      "paid",
+      "zillowRentalManager",
+      "singleFamilyPaid",
+      "feedConnectFlatFeeFeedConnect"
+    ],
+    "rooms": [],
+    "listPriceIncludesRequiredMonthlyFees": true,
+    "baseRent": 3200,
+    "isPaidBuilderNewConstruction": false,
+    "factsAndFeatures": {
+      "fullBathroomCount": 1,
+      "hasFireplace": false,
+      "hasAirConditioning": false,
+      "hasSpa": false,
+      "hasPool": false
+    }
+  },
+  {
+    "zpid": "458289359",
+    "palsId": "100066001_91d2a32710e9f3616c8358945de00bdc499328a6d7f9574e3bea5e2be498a93b",
+    "id": "458289359",
+    "rawHomeStatusCd": "ForRent",
+    "marketingStatusSimplifiedCd": "For Rent",
+    "providerListingId": "2kxkm24b0rf6w",
+    "imgSrc": "https://photos.zillowstatic.com/fp/6673e56ca77dcb09d67f5d6508b7b216-p_e.jpg",
+    "hasImage": true,
+    "detailUrl": "https://www.zillow.com/homedetails/42-Walker-St-24-Somerville-MA-02144/458289359_zpid/",
+    "statusType": "FOR_RENT",
+    "statusText": "Apartment for rent",
+    "countryCurrency": "$",
+    "price": "$4,200/mo",
+    "unformattedPrice": 4200,
+    "address": "42 Walker St #24, Somerville, MA 02144",
+    "addressStreet": "42 Walker St #24",
+    "addressCity": "Somerville",
+    "addressState": "MA",
+    "addressZipcode": "02144",
+    "isUndisclosedAddress": false,
+    "beds": 4,
+    "baths": 2,
+    "latLong": {
+      "latitude": 42.40139,
+      "longitude": -71.11966
+    },
+    "isZillowOwned": false,
+    "listCardRecommendation": {
+      "flexFieldRecommendations": [
+        {
+          "displayString": "2 days ago",
+          "contentType": "timeOnInfo"
+        },
+        {
+          "displayString": "Apply instantly",
+          "contentType": "frZillowApplication"
+        }
+      ],
+      "ctaRecommendations": [
+        {
+          "displayString": "Request a tour",
+          "contentType": "REQUEST_A_TOUR"
+        }
+      ]
+    },
+    "hdpData": {
+      "homeInfo": {
+        "zpid": 458289359,
+        "streetAddress": "42 Walker St #24",
+        "zipcode": "02144",
+        "city": "Somerville",
+        "state": "MA",
+        "latitude": 42.40139,
+        "longitude": -71.11966,
+        "price": 4200,
+        "bathrooms": 2,
+        "bedrooms": 4,
+        "homeType": "APARTMENT",
+        "homeStatus": "FOR_RENT",
+        "daysOnZillow": 2,
+        "isFeatured": true,
+        "shouldHighlight": false,
+        "isRentalWithBasePrice": false,
+        "listing_sub_type": {},
+        "isUnmappable": false,
+        "isPreforeclosureAuction": false,
+        "homeStatusForHDP": "FOR_RENT",
+        "priceForHDP": 4200,
+        "timeOnZillow": 245820000,
+        "isNonOwnerOccupied": true,
+        "isPremierBuilder": false,
+        "isZillowOwned": false,
+        "currency": "USD",
+        "country": "USA",
+        "unit": "# 24",
+        "isShowcaseListing": false
+      }
+    },
+    "isSaved": false,
+    "isUserClaimingOwner": false,
+    "isUserConfirmedClaim": false,
+    "pgapt": "ForRent",
+    "sgapt": "For Rent",
+    "shouldShowZestimateAsPrice": false,
+    "has3DModel": false,
+    "hasVideo": false,
+    "isHomeRec": false,
+    "hasAdditionalAttributions": false,
+    "isFeaturedListing": true,
+    "isShowcaseListing": false,
+    "availabilityDate": "2025-11-16 00:00:00",
+    "list": true,
+    "relaxed": false,
+    "carouselPhotosComposable": {
+      "baseUrl": "https://photos.zillowstatic.com/fp/{photoKey}-p_e.jpg",
+      "communityBaseUrl": null,
+      "photoData": [
+        {
+          "photoKey": "6673e56ca77dcb09d67f5d6508b7b216"
+        },
+        {
+          "photoKey": "9831be6982b4c8da3f4643d034f2c861"
+        },
+        {
+          "photoKey": "e00ffd12405ffd0a7dce73a222ebfbe7"
+        },
+        {
+          "photoKey": "2d244825b09da5c616fab936877283dd"
+        },
+        {
+          "photoKey": "084b5f9faae229456a7bf59ad32b91b4"
+        },
+        {
+          "photoKey": "3653468a711cb8995df9dae6055f8701"
+        },
+        {
+          "photoKey": "3327d06e826b6a2b2ae1a7de43e7ac58"
+        }
+      ],
+      "communityPhotoData": null,
+      "isStaticUrls": false
+    },
+    "marketingTreatments": [
+      "trustedListing",
+      "paid",
+      "zillowRentalManager",
+      "singleFamilyPaid",
+      "feedConnectFlatFeeFeedConnect"
+    ],
+    "rooms": [],
+    "listPriceIncludesRequiredMonthlyFees": true,
+    "baseRent": 4200,
+    "isPaidBuilderNewConstruction": false,
+    "factsAndFeatures": {
+      "fullBathroomCount": 2,
+      "hasFireplace": false,
+      "hasAirConditioning": false,
+      "hasSpa": false,
+      "hasPool": false
+    }
+  },
+  {
+    "zpid": "458289385",
+    "palsId": "100066001_2493da3b0af8b0cea09f744e23cdebc7907da19163c54c84755605c21759f7ea",
+    "id": "458289385",
+    "rawHomeStatusCd": "ForRent",
+    "marketingStatusSimplifiedCd": "For Rent",
+    "providerListingId": "3syw7j20re459",
+    "imgSrc": "https://photos.zillowstatic.com/fp/2d244825b09da5c616fab936877283dd-p_e.jpg",
+    "hasImage": true,
+    "detailUrl": "https://www.zillow.com/homedetails/28-Walker-St-85-Somerville-MA-02144/458289385_zpid/",
+    "statusType": "FOR_RENT",
+    "statusText": "Apartment for rent",
+    "countryCurrency": "$",
+    "price": "$4,200/mo",
+    "unformattedPrice": 4200,
+    "address": "28 Walker St #85, Somerville, MA 02144",
+    "addressStreet": "28 Walker St #85",
+    "addressCity": "Somerville",
+    "addressState": "MA",
+    "addressZipcode": "02144",
+    "isUndisclosedAddress": false,
+    "beds": 4,
+    "baths": 2,
+    "latLong": {
+      "latitude": 42.401222,
+      "longitude": -71.11901
+    },
+    "isZillowOwned": false,
+    "listCardRecommendation": {
+      "flexFieldRecommendations": [
+        {
+          "displayString": "2 days ago",
+          "contentType": "timeOnInfo"
+        },
+        {
+          "displayString": "Apply instantly",
+          "contentType": "frZillowApplication"
+        }
+      ],
+      "ctaRecommendations": [
+        {
+          "displayString": "Request a tour",
+          "contentType": "REQUEST_A_TOUR"
+        }
+      ]
+    },
+    "hdpData": {
+      "homeInfo": {
+        "zpid": 458289385,
+        "streetAddress": "28 Walker St #85",
+        "zipcode": "02144",
+        "city": "Somerville",
+        "state": "MA",
+        "latitude": 42.401222,
+        "longitude": -71.11901,
+        "price": 4200,
+        "bathrooms": 2,
+        "bedrooms": 4,
+        "homeType": "APARTMENT",
+        "homeStatus": "FOR_RENT",
+        "daysOnZillow": 2,
+        "isFeatured": true,
+        "shouldHighlight": false,
+        "isRentalWithBasePrice": false,
+        "listing_sub_type": {},
+        "isUnmappable": false,
+        "isPreforeclosureAuction": false,
+        "homeStatusForHDP": "FOR_RENT",
+        "priceForHDP": 4200,
+        "timeOnZillow": 245303000,
+        "isNonOwnerOccupied": true,
+        "isPremierBuilder": false,
+        "isZillowOwned": false,
+        "currency": "USD",
+        "country": "USA",
+        "unit": "# 85",
+        "isShowcaseListing": false
+      }
+    },
+    "isSaved": false,
+    "isUserClaimingOwner": false,
+    "isUserConfirmedClaim": false,
+    "pgapt": "ForRent",
+    "sgapt": "For Rent",
+    "shouldShowZestimateAsPrice": false,
+    "has3DModel": false,
+    "hasVideo": false,
+    "isHomeRec": false,
+    "hasAdditionalAttributions": false,
+    "isFeaturedListing": true,
+    "isShowcaseListing": false,
+    "availabilityDate": "2025-11-16 00:00:00",
+    "list": true,
+    "relaxed": false,
+    "carouselPhotosComposable": {
+      "baseUrl": "https://photos.zillowstatic.com/fp/{photoKey}-p_e.jpg",
+      "communityBaseUrl": null,
+      "photoData": [
+        {
+          "photoKey": "2d244825b09da5c616fab936877283dd"
+        },
+        {
+          "photoKey": "3653468a711cb8995df9dae6055f8701"
+        },
+        {
+          "photoKey": "9831be6982b4c8da3f4643d034f2c861"
+        },
+        {
+          "photoKey": "6673e56ca77dcb09d67f5d6508b7b216"
+        },
+        {
+          "photoKey": "084b5f9faae229456a7bf59ad32b91b4"
+        },
+        {
+          "photoKey": "e00ffd12405ffd0a7dce73a222ebfbe7"
+        },
+        {
+          "photoKey": "3327d06e826b6a2b2ae1a7de43e7ac58"
+        }
+      ],
+      "communityPhotoData": null,
+      "isStaticUrls": false
+    },
+    "marketingTreatments": [
+      "trustedListing",
+      "paid",
+      "zillowRentalManager",
+      "singleFamilyPaid",
+      "feedConnectFlatFeeFeedConnect"
+    ],
+    "rooms": [],
+    "listPriceIncludesRequiredMonthlyFees": true,
+    "baseRent": 4200,
+    "isPaidBuilderNewConstruction": false,
+    "factsAndFeatures": {
+      "fullBathroomCount": 2,
+      "hasFireplace": false,
+      "hasAirConditioning": false,
+      "hasSpa": false,
+      "hasPool": false
+    }
+  },
+  {
+    "zpid": "42.398003--71.09857",
+    "id": "42.398003--71.09857",
+    "providerListingId": "2d65p05607tdq",
+    "imgSrc": "https://photos.zillowstatic.com/fp/d8089f499e2712cecb66b6cc8bf47208-p_e.jpg",
+    "hasImage": true,
+    "detailUrl": "/b/32-fremont-st-somerville-ma-96F7Xz/",
+    "statusType": "FOR_RENT",
+    "statusText": "For Rent",
+    "address": "32 Fremont St, Somerville, MA",
+    "addressStreet": "32 Fremont St # 3",
+    "addressCity": "Somerville",
+    "addressState": "MA",
+    "addressZipcode": "02145",
+    "units": [
+      {
+        "price": "$3,350+",
+        "beds": "3",
+        "roomForRent": false
+      }
+    ],
+    "lotId": 2001693413,
+    "latLong": {
+      "latitude": 42.398003,
+      "longitude": -71.09857
+    },
+    "isSaved": false,
+    "isBuilding": true,
+    "canSaveBuilding": false,
+    "has3DModel": false,
+    "isFeaturedListing": true,
+    "isShowcaseListing": false,
+    "list": true,
+    "relaxed": false,
+    "carouselPhotosComposable": {
+      "baseUrl": "https://photos.zillowstatic.com/fp/{photoKey}-p_e.jpg",
+      "communityBaseUrl": null,
+      "photoData": [
+        {
+          "photoKey": "d8089f499e2712cecb66b6cc8bf47208"
+        },
+        {
+          "photoKey": "6c7c5256deddaf6ae431debae09719d5"
+        },
+        {
+          "photoKey": "8c831fadd6f8281823437077d8631eb3"
+        },
+        {
+          "photoKey": "f2f43a7e2351e0849c516955df3d58cd"
+        },
+        {
+          "photoKey": "3c575612671cf4e4caf60fbaeba59486"
+        },
+        {
+          "photoKey": "5a35c936e9fa779a222efc485eb79216"
+        }
+      ],
+      "communityPhotoData": null,
+      "isStaticUrls": false
+    },
+    "availabilityCount": 2,
+    "marketingTreatments": [
+      "trustedListing",
+      "paid",
+      "zillowRentalManager",
+      "singleFamilyPaid",
+      "feedConnectFlatFeeFeedConnect"
+    ],
+    "listPriceIncludesRequiredMonthlyFees": false,
+    "isInstantTourEnabled": false,
+    "isContactable": false,
+    "isPaidBuilderNewConstruction": false
+  },
+  {
+    "zpid": "2097820013",
+    "palsId": "100066001_a9fa94c2b5c0cf910a20c5de33fee424471289cfd9758bac373d01e9bb36cc00",
+    "id": "2097820013",
+    "rawHomeStatusCd": "ForRent",
+    "marketingStatusSimplifiedCd": "For Rent",
+    "providerListingId": "20fvckt5zzgus",
+    "imgSrc": "https://photos.zillowstatic.com/fp/dfb30bfb169f578bf4e2d066a08b7c9b-p_e.jpg",
+    "hasImage": true,
+    "detailUrl": "https://www.zillow.com/homedetails/Somerville-MA-02143/2097820013_zpid/",
+    "statusType": "FOR_RENT",
+    "statusText": "Apartment for rent",
+    "countryCurrency": "$",
+    "price": "$3,100/mo",
+    "unformattedPrice": 3100,
+    "address": "(undisclosed Address), Somerville, MA 02143",
+    "addressStreet": "(undisclosed Address)",
+    "addressCity": "Somerville",
+    "addressState": "MA",
+    "addressZipcode": "02143",
+    "isUndisclosedAddress": true,
+    "beds": 1,
+    "baths": 1,
+    "area": 650,
+    "latLong": {},
+    "isZillowOwned": false,
+    "listCardRecommendation": {
+      "flexFieldRecommendations": [
+        {
+          "displayString": "4 days ago",
+          "contentType": "timeOnInfo"
+        },
+        {
+          "displayString": "Apply instantly",
+          "contentType": "frZillowApplication"
+        }
+      ],
+      "ctaRecommendations": [
+        {
+          "displayString": "Request a tour",
+          "contentType": "REQUEST_A_TOUR"
+        }
+      ]
+    },
+    "hdpData": {
+      "homeInfo": {
+        "zpid": 2097820013,
+        "streetAddress": "(undisclosed Address)",
+        "zipcode": "02143",
+        "city": "Somerville",
+        "state": "MA",
+        "price": 3100,
+        "bathrooms": 1,
+        "bedrooms": 1,
+        "livingArea": 650,
+        "homeType": "APARTMENT",
+        "homeStatus": "FOR_RENT",
+        "daysOnZillow": 4,
+        "isFeatured": true,
+        "shouldHighlight": false,
+        "isRentalWithBasePrice": false,
+        "rentZestimate": 2725,
+        "listing_sub_type": {},
+        "isUnmappable": false,
+        "isPreforeclosureAuction": false,
+        "homeStatusForHDP": "FOR_RENT",
+        "priceForHDP": 3100,
+        "timeOnZillow": 406925000,
+        "isNonOwnerOccupied": true,
+        "isPremierBuilder": false,
+        "isZillowOwned": false,
+        "currency": "USD",
+        "country": "USA",
+        "isShowcaseListing": false
+      }
+    },
+    "isSaved": false,
+    "isUserClaimingOwner": false,
+    "isUserConfirmedClaim": false,
+    "pgapt": "ForRent",
+    "sgapt": "For Rent",
+    "shouldShowZestimateAsPrice": false,
+    "has3DModel": false,
+    "hasVideo": false,
+    "isHomeRec": false,
+    "hasAdditionalAttributions": false,
+    "isFeaturedListing": true,
+    "isShowcaseListing": false,
+    "availabilityDate": "2025-12-01 00:00:00",
+    "list": true,
+    "relaxed": false,
+    "carouselPhotosComposable": {
+      "baseUrl": "https://photos.zillowstatic.com/fp/{photoKey}-p_e.jpg",
+      "communityBaseUrl": null,
+      "photoData": [
+        {
+          "photoKey": "dfb30bfb169f578bf4e2d066a08b7c9b"
+        },
+        {
+          "photoKey": "526203f18475e252e8ce4568e6b0acff"
+        },
+        {
+          "photoKey": "453317728e07c1e789b3b8d4654eea39"
+        },
+        {
+          "photoKey": "63a660c086ebd21a6c4909efc210b873"
+        },
+        {
+          "photoKey": "d328b270eb42a48083bfa5965cb37daa"
+        },
+        {
+          "photoKey": "ea25bed7ec0df0710474ff52cccb0dac"
+        },
+        {
+          "photoKey": "3cc13f594dafc4f2773fda93240a6367"
+        },
+        {
+          "photoKey": "2f598463a0af80ff95193ffaf4b2eb19"
+        },
+        {
+          "photoKey": "4ab820ac1beeb0ddc8eca754cbc2b48d"
+        },
+        {
+          "photoKey": "cee13ac3e022642e11f7748870234bdf"
+        },
+        {
+          "photoKey": "eb78e6ff111fd6d855ae414368e3f1a7"
+        },
+        {
+          "photoKey": "ff0a68a5bb18a1437e9e0c6614758ebf"
+        },
+        {
+          "photoKey": "9af8c38de0b6ad96140b04af2fd06e1d"
+        },
+        {
+          "photoKey": "75e5c5644b9e6684892008de83801c04"
+        },
+        {
+          "photoKey": "af965e0970dde053466d7be146e4c4f3"
+        },
+        {
+          "photoKey": "3858e9a2b021475d35a7fea5ae3c61ce"
+        },
+        {
+          "photoKey": "c918261ebf78c22f92f4ca6d50824c28"
+        },
+        {
+          "photoKey": "4dfca8552d0bc6a43fab9855486ff5e3"
+        }
+      ],
+      "communityPhotoData": null,
+      "isStaticUrls": false
+    },
+    "marketingTreatments": [
+      "paid",
+      "zillowRentalManager"
+    ],
+    "rooms": [],
+    "listPriceIncludesRequiredMonthlyFees": true,
+    "baseRent": 3100,
+    "isPaidBuilderNewConstruction": false,
+    "factsAndFeatures": {
+      "fullBathroomCount": 1,
+      "hasFireplace": false,
+      "hasAirConditioning": false,
+      "hasSpa": false,
+      "hasPool": false
+    }
+  },
+  {
+    "zpid": "458291597",
+    "palsId": "100066001_341f1a38b8379f52cf5c78181c2e8c22842da86ec808211dd7a618f66ba35c09",
+    "id": "458291597",
+    "rawHomeStatusCd": "ForRent",
+    "marketingStatusSimplifiedCd": "For Rent",
+    "providerListingId": "ea69bkpzbqwg",
+    "imgSrc": "https://photos.zillowstatic.com/fp/8c831fadd6f8281823437077d8631eb3-p_e.jpg",
+    "hasImage": true,
+    "detailUrl": "https://www.zillow.com/homedetails/48-Fremont-St-8-Somerville-MA-02145/458291597_zpid/",
+    "statusType": "FOR_RENT",
+    "statusText": "Apartment for rent",
+    "countryCurrency": "$",
+    "price": "$3,200/mo",
+    "unformattedPrice": 3200,
+    "address": "48 Fremont St #8, Somerville, MA 02145",
+    "addressStreet": "48 Fremont St #8",
+    "addressCity": "Somerville",
+    "addressState": "MA",
+    "addressZipcode": "02145",
+    "isUndisclosedAddress": false,
+    "beds": 3,
+    "baths": 1,
+    "latLong": {
+      "latitude": 42.39818,
+      "longitude": -71.09805
+    },
+    "isZillowOwned": false,
+    "listCardRecommendation": {
+      "flexFieldRecommendations": [
+        {
+          "displayString": "2 days ago",
+          "contentType": "timeOnInfo"
+        },
+        {
+          "displayString": "Apply instantly",
+          "contentType": "frZillowApplication"
+        }
+      ],
+      "ctaRecommendations": [
+        {
+          "displayString": "Request a tour",
+          "contentType": "REQUEST_A_TOUR"
+        }
+      ]
+    },
+    "hdpData": {
+      "homeInfo": {
+        "zpid": 458291597,
+        "streetAddress": "48 Fremont St #8",
+        "zipcode": "02145",
+        "city": "Somerville",
+        "state": "MA",
+        "latitude": 42.39818,
+        "longitude": -71.09805,
+        "price": 3200,
+        "bathrooms": 1,
+        "bedrooms": 3,
+        "homeType": "APARTMENT",
+        "homeStatus": "FOR_RENT",
+        "daysOnZillow": 2,
+        "isFeatured": true,
+        "shouldHighlight": false,
+        "isRentalWithBasePrice": false,
+        "listing_sub_type": {},
+        "isUnmappable": false,
+        "isPreforeclosureAuction": false,
+        "homeStatusForHDP": "FOR_RENT",
+        "priceForHDP": 3200,
+        "timeOnZillow": 243958000,
+        "isNonOwnerOccupied": true,
+        "isPremierBuilder": false,
+        "isZillowOwned": false,
+        "currency": "USD",
+        "country": "USA",
+        "unit": "# 8",
+        "isShowcaseListing": false
+      }
+    },
+    "isSaved": false,
+    "isUserClaimingOwner": false,
+    "isUserConfirmedClaim": false,
+    "pgapt": "ForRent",
+    "sgapt": "For Rent",
+    "shouldShowZestimateAsPrice": false,
+    "has3DModel": false,
+    "hasVideo": false,
+    "isHomeRec": false,
+    "hasAdditionalAttributions": false,
+    "isFeaturedListing": true,
+    "isShowcaseListing": false,
+    "availabilityDate": "2025-12-14 00:00:00",
+    "list": true,
+    "relaxed": false,
+    "carouselPhotosComposable": {
+      "baseUrl": "https://photos.zillowstatic.com/fp/{photoKey}-p_e.jpg",
+      "communityBaseUrl": null,
+      "photoData": [
+        {
+          "photoKey": "8c831fadd6f8281823437077d8631eb3"
+        },
+        {
+          "photoKey": "f2f43a7e2351e0849c516955df3d58cd"
+        },
+        {
+          "photoKey": "d8089f499e2712cecb66b6cc8bf47208"
+        },
+        {
+          "photoKey": "6c7c5256deddaf6ae431debae09719d5"
+        },
+        {
+          "photoKey": "3c575612671cf4e4caf60fbaeba59486"
+        },
+        {
+          "photoKey": "5a35c936e9fa779a222efc485eb79216"
+        }
+      ],
+      "communityPhotoData": null,
+      "isStaticUrls": false
+    },
+    "marketingTreatments": [
+      "trustedListing",
+      "paid",
+      "zillowRentalManager",
+      "singleFamilyPaid",
+      "feedConnectFlatFeeFeedConnect"
+    ],
+    "rooms": [],
+    "listPriceIncludesRequiredMonthlyFees": true,
+    "baseRent": 3200,
+    "isPaidBuilderNewConstruction": false,
+    "factsAndFeatures": {
+      "fullBathroomCount": 1,
+      "hasFireplace": false,
+      "hasAirConditioning": false,
+      "hasSpa": false,
+      "hasPool": false
+    }
+  },
+  {
+    "zpid": "458075905",
+    "palsId": "100066001_fde999f4267f855ee171ad6e0b64c7a47fa757acf632074b0c2383125fec1d6e",
+    "id": "458075905",
+    "rawHomeStatusCd": "ForRent",
+    "marketingStatusSimplifiedCd": "For Rent",
+    "providerListingId": "45n17upu80az7",
+    "imgSrc": "https://photos.zillowstatic.com/fp/211e2dcc80a8f2b5e5ac0cb0ae7471da-p_e.jpg",
+    "hasImage": true,
+    "detailUrl": "https://www.zillow.com/homedetails/46-Hamilton-Rd-65-Somerville-MA-02144/458075905_zpid/",
+    "statusType": "FOR_RENT",
+    "statusText": "Apartment for rent",
+    "countryCurrency": "$",
+    "price": "$7,100/mo",
+    "unformattedPrice": 7100,
+    "address": "46 Hamilton Rd #65, Somerville, MA 02144",
+    "addressStreet": "46 Hamilton Rd #65",
+    "addressCity": "Somerville",
+    "addressState": "MA",
+    "addressZipcode": "02144",
+    "isUndisclosedAddress": false,
+    "beds": 6,
+    "baths": 7,
+    "latLong": {
+      "latitude": 42.406345,
+      "longitude": -71.12886
+    },
+    "isZillowOwned": false,
+    "listCardRecommendation": {
+      "flexFieldRecommendations": [
+        {
+          "displayString": "10 days ago",
+          "contentType": "timeOnInfo"
+        },
+        {
+          "displayString": "Apply instantly",
+          "contentType": "frZillowApplication"
+        }
+      ],
+      "ctaRecommendations": [
+        {
+          "displayString": "Request a tour",
+          "contentType": "REQUEST_A_TOUR"
+        }
+      ]
+    },
+    "hdpData": {
+      "homeInfo": {
+        "zpid": 458075905,
+        "streetAddress": "46 Hamilton Rd #65",
+        "zipcode": "02144",
+        "city": "Somerville",
+        "state": "MA",
+        "latitude": 42.406345,
+        "longitude": -71.12886,
+        "price": 7100,
+        "bathrooms": 7,
+        "bedrooms": 6,
+        "homeType": "APARTMENT",
+        "homeStatus": "FOR_RENT",
+        "daysOnZillow": 10,
+        "isFeatured": true,
+        "shouldHighlight": false,
+        "isRentalWithBasePrice": false,
+        "listing_sub_type": {},
+        "isUnmappable": false,
+        "isPreforeclosureAuction": false,
+        "homeStatusForHDP": "FOR_RENT",
+        "priceForHDP": 7100,
+        "timeOnZillow": 943213000,
+        "isNonOwnerOccupied": true,
+        "isPremierBuilder": false,
+        "isZillowOwned": false,
+        "currency": "USD",
+        "country": "USA",
+        "unit": "# 65",
+        "isShowcaseListing": false
+      }
+    },
+    "isSaved": false,
+    "isUserClaimingOwner": false,
+    "isUserConfirmedClaim": false,
+    "pgapt": "ForRent",
+    "sgapt": "For Rent",
+    "shouldShowZestimateAsPrice": false,
+    "has3DModel": false,
+    "hasVideo": false,
+    "isHomeRec": false,
+    "hasAdditionalAttributions": false,
+    "isFeaturedListing": true,
+    "isShowcaseListing": false,
+    "availabilityDate": "2025-11-08 00:00:00",
+    "list": true,
+    "relaxed": false,
+    "carouselPhotosComposable": {
+      "baseUrl": "https://photos.zillowstatic.com/fp/{photoKey}-p_e.jpg",
+      "communityBaseUrl": null,
+      "photoData": [
+        {
+          "photoKey": "211e2dcc80a8f2b5e5ac0cb0ae7471da"
+        },
+        {
+          "photoKey": "22116aa4e0ab42c0188382206a3ccc6b"
+        },
+        {
+          "photoKey": "c140134336b8ca64f9d8081365d5d837"
+        },
+        {
+          "photoKey": "dd9b922ffd27f8b8b87d9173d61e9e5b"
+        },
+        {
+          "photoKey": "4b7cdc48667d3c16c8c73868ff5cab9f"
+        },
+        {
+          "photoKey": "583e87eae9ec25613ce209c463cb6b7e"
+        },
+        {
+          "photoKey": "a92fe27815f54744228480b4557adc50"
+        },
+        {
+          "photoKey": "07c901cce9ece43a7aefdb05b0bcb355"
+        },
+        {
+          "photoKey": "ad33b1ae54008a9eaa53e71f832a8d0f"
+        },
+        {
+          "photoKey": "20400d57dd571cf131ae4e1b511ce71f"
+        },
+        {
+          "photoKey": "29cbd159f4692b6babde413f3773a663"
+        },
+        {
+          "photoKey": "025f45df08ef63bf8a1dcb704b0365d1"
+        }
+      ],
+      "communityPhotoData": null,
+      "isStaticUrls": false
+    },
+    "marketingTreatments": [
+      "trustedListing",
+      "paid",
+      "zillowRentalManager",
+      "singleFamilyPaid",
+      "feedConnectFlatFeeFeedConnect"
+    ],
+    "rooms": [],
+    "listPriceIncludesRequiredMonthlyFees": true,
+    "baseRent": 7100,
+    "isPaidBuilderNewConstruction": false,
+    "factsAndFeatures": {
+      "fullBathroomCount": 7,
+      "hasFireplace": false,
+      "hasAirConditioning": false,
+      "hasSpa": false,
+      "hasPool": false
+    }
+  },
+  {
+    "zpid": "458256866",
+    "palsId": "100066001_07f5df9b7dcc62f5faa53bb4d80e0da5a69611b6973b00408edf87fb714e97ca",
+    "id": "458256866",
+    "rawHomeStatusCd": "ForRent",
+    "marketingStatusSimplifiedCd": "For Rent",
+    "providerListingId": "41b5yzvw5s0e6",
+    "imgSrc": "https://photos.zillowstatic.com/fp/c2b6966fe645d44b9f2e3fa348a89c30-p_e.jpg",
+    "hasImage": true,
+    "detailUrl": "https://www.zillow.com/homedetails/200-North-St-APT-2-Somerville-MA-02144/458256866_zpid/",
+    "statusType": "FOR_RENT",
+    "statusText": "Apartment for rent",
+    "countryCurrency": "$",
+    "price": "$4,200/mo",
+    "unformattedPrice": 4200,
+    "address": "200 North St APT 2, Somerville, MA 02144",
+    "addressStreet": "200 North St APT 2",
+    "addressCity": "Somerville",
+    "addressState": "MA",
+    "addressZipcode": "02144",
+    "isUndisclosedAddress": false,
+    "beds": 4,
+    "baths": 2,
+    "latLong": {
+      "latitude": 42.412315,
+      "longitude": -71.1273
+    },
+    "isZillowOwned": false,
+    "listCardRecommendation": {
+      "flexFieldRecommendations": [
+        {
+          "displayString": "4 days ago",
+          "contentType": "timeOnInfo"
+        },
+        {
+          "displayString": "Apply instantly",
+          "contentType": "frZillowApplication"
+        }
+      ],
+      "ctaRecommendations": [
+        {
+          "displayString": "Request a tour",
+          "contentType": "REQUEST_A_TOUR"
+        }
+      ]
+    },
+    "hdpData": {
+      "homeInfo": {
+        "zpid": 458256866,
+        "streetAddress": "200 North St APT 2",
+        "zipcode": "02144",
+        "city": "Somerville",
+        "state": "MA",
+        "latitude": 42.412315,
+        "longitude": -71.1273,
+        "price": 4200,
+        "bathrooms": 2,
+        "bedrooms": 4,
+        "homeType": "APARTMENT",
+        "homeStatus": "FOR_RENT",
+        "daysOnZillow": 4,
+        "isFeatured": true,
+        "shouldHighlight": false,
+        "isRentalWithBasePrice": false,
+        "listing_sub_type": {},
+        "isUnmappable": false,
+        "isPreforeclosureAuction": false,
+        "homeStatusForHDP": "FOR_RENT",
+        "priceForHDP": 4200,
+        "timeOnZillow": 418746000,
+        "isNonOwnerOccupied": true,
+        "isPremierBuilder": false,
+        "isZillowOwned": false,
+        "currency": "USD",
+        "country": "USA",
+        "unit": "Apt 2",
+        "isShowcaseListing": false
+      }
+    },
+    "isSaved": false,
+    "isUserClaimingOwner": false,
+    "isUserConfirmedClaim": false,
+    "pgapt": "ForRent",
+    "sgapt": "For Rent",
+    "shouldShowZestimateAsPrice": false,
+    "has3DModel": false,
+    "hasVideo": false,
+    "isHomeRec": false,
+    "hasAdditionalAttributions": false,
+    "isFeaturedListing": true,
+    "isShowcaseListing": false,
+    "availabilityDate": "2025-11-14 00:00:00",
+    "list": true,
+    "relaxed": false,
+    "carouselPhotosComposable": {
+      "baseUrl": "https://photos.zillowstatic.com/fp/{photoKey}-p_e.jpg",
+      "communityBaseUrl": null,
+      "photoData": [
+        {
+          "photoKey": "c2b6966fe645d44b9f2e3fa348a89c30"
+        },
+        {
+          "photoKey": "1e5a9b8852b36a6da798740b87285dbd"
+        },
+        {
+          "photoKey": "4f7bdfe23e2be11568c33001685a6dd9"
+        },
+        {
+          "photoKey": "6b178ed29368610dfbe475d89894a25b"
+        },
+        {
+          "photoKey": "378b5460c53aec768c3176c647a8cb9b"
+        },
+        {
+          "photoKey": "a921b7dc03eee42627ca18823ccc0848"
+        },
+        {
+          "photoKey": "db1dd5c3b69a3a09f16f3cf49bd29380"
+        },
+        {
+          "photoKey": "99f346f554ac924890d8ff48bde31d74"
+        }
+      ],
+      "communityPhotoData": null,
+      "isStaticUrls": false
+    },
+    "marketingTreatments": [
+      "trustedListing",
+      "paid",
+      "zillowRentalManager",
+      "singleFamilyPaid",
+      "feedConnectFlatFeeFeedConnect"
+    ],
+    "rooms": [],
+    "listPriceIncludesRequiredMonthlyFees": true,
+    "baseRent": 4200,
+    "isPaidBuilderNewConstruction": false,
+    "factsAndFeatures": {
+      "fullBathroomCount": 2,
+      "hasFireplace": false,
+      "hasAirConditioning": false,
+      "hasSpa": false,
+      "hasPool": false
+    }
+  },
+  {
+    "zpid": "458272062",
+    "palsId": "100066001_6e2b5cdfa31359d92ea6af9fb2909472b43dd9626e178055435a89cd7f8feb96",
+    "id": "458272062",
+    "rawHomeStatusCd": "ForRent",
+    "marketingStatusSimplifiedCd": "For Rent",
+    "providerListingId": "141bpf0szwpu9",
+    "imgSrc": "https://photos.zillowstatic.com/fp/4f71ec064a7c3df8f9fbe025c1c78319-p_e.jpg",
+    "hasImage": true,
+    "detailUrl": "https://www.zillow.com/homedetails/72-Cedar-St-27-Somerville-MA-02143/458272062_zpid/",
+    "statusType": "FOR_RENT",
+    "statusText": "Apartment for rent",
+    "countryCurrency": "$",
+    "price": "$3,900/mo",
+    "unformattedPrice": 3900,
+    "address": "72 Cedar St #27, Somerville, MA 02143",
+    "addressStreet": "72 Cedar St #27",
+    "addressCity": "Somerville",
+    "addressState": "MA",
+    "addressZipcode": "02143",
+    "isUndisclosedAddress": false,
+    "beds": 3,
+    "baths": 1,
+    "latLong": {
+      "latitude": 42.391,
+      "longitude": -71.1135
+    },
+    "isZillowOwned": false,
+    "listCardRecommendation": {
+      "flexFieldRecommendations": [
+        {
+          "displayString": "3 days ago",
+          "contentType": "timeOnInfo"
+        },
+        {
+          "displayString": "Apply instantly",
+          "contentType": "frZillowApplication"
+        }
+      ],
+      "ctaRecommendations": [
+        {
+          "displayString": "Request a tour",
+          "contentType": "REQUEST_A_TOUR"
+        }
+      ]
+    },
+    "hdpData": {
+      "homeInfo": {
+        "zpid": 458272062,
+        "streetAddress": "72 Cedar St #27",
+        "zipcode": "02143",
+        "city": "Somerville",
+        "state": "MA",
+        "latitude": 42.391,
+        "longitude": -71.1135,
+        "price": 3900,
+        "bathrooms": 1,
+        "bedrooms": 3,
+        "homeType": "APARTMENT",
+        "homeStatus": "FOR_RENT",
+        "daysOnZillow": 3,
+        "isFeatured": true,
+        "shouldHighlight": false,
+        "isRentalWithBasePrice": false,
+        "listing_sub_type": {},
+        "isUnmappable": false,
+        "isPreforeclosureAuction": false,
+        "homeStatusForHDP": "FOR_RENT",
+        "priceForHDP": 3900,
+        "timeOnZillow": 334462000,
+        "isNonOwnerOccupied": true,
+        "isPremierBuilder": false,
+        "isZillowOwned": false,
+        "currency": "USD",
+        "country": "USA",
+        "unit": "# 27",
+        "isShowcaseListing": false
+      }
+    },
+    "isSaved": false,
+    "isUserClaimingOwner": false,
+    "isUserConfirmedClaim": false,
+    "pgapt": "ForRent",
+    "sgapt": "For Rent",
+    "shouldShowZestimateAsPrice": false,
+    "has3DModel": false,
+    "hasVideo": false,
+    "isHomeRec": false,
+    "hasAdditionalAttributions": false,
+    "isFeaturedListing": true,
+    "isShowcaseListing": false,
+    "availabilityDate": "2025-11-15 00:00:00",
+    "list": true,
+    "relaxed": false,
+    "carouselPhotosComposable": {
+      "baseUrl": "https://photos.zillowstatic.com/fp/{photoKey}-p_e.jpg",
+      "communityBaseUrl": null,
+      "photoData": [
+        {
+          "photoKey": "4f71ec064a7c3df8f9fbe025c1c78319"
+        },
+        {
+          "photoKey": "2f9df8aec1dbbd9c3d882978c72077bb"
+        },
+        {
+          "photoKey": "33fbf073520984fc094f4eff97be1855"
+        },
+        {
+          "photoKey": "104715ce8319668459607a55726b9667"
+        },
+        {
+          "photoKey": "b5c840b1a256199e967aaf89f962fcf2"
+        },
+        {
+          "photoKey": "009e8f30c8d7720c479a58509555b21e"
+        },
+        {
+          "photoKey": "b8b2c29d18bbd5d7e50fce22646d49ea"
+        },
+        {
+          "photoKey": "7e9889e56cdef0577c084d277c14b8b6"
+        }
+      ],
+      "communityPhotoData": null,
+      "isStaticUrls": false
+    },
+    "marketingTreatments": [
+      "trustedListing",
+      "paid",
+      "zillowRentalManager",
+      "singleFamilyPaid",
+      "feedConnectFlatFeeFeedConnect"
+    ],
+    "rooms": [],
+    "listPriceIncludesRequiredMonthlyFees": true,
+    "baseRent": 3900,
+    "isPaidBuilderNewConstruction": false,
+    "factsAndFeatures": {
+      "fullBathroomCount": 1,
+      "hasFireplace": false,
+      "hasAirConditioning": false,
+      "hasSpa": false,
+      "hasPool": false
+    }
+  },
+  {
+    "zpid": "458075926",
+    "palsId": "100066001_45a2cedfac52a558dd72060ec536279335fea86749b96e309c289c0facc92b7e",
+    "id": "458075926",
+    "rawHomeStatusCd": "ForRent",
+    "marketingStatusSimplifiedCd": "For Rent",
+    "providerListingId": "2egpbu8dzjtah",
+    "imgSrc": "https://photos.zillowstatic.com/fp/211e2dcc80a8f2b5e5ac0cb0ae7471da-p_e.jpg",
+    "hasImage": true,
+    "detailUrl": "https://www.zillow.com/homedetails/40-Hamilton-Rd-4-Somerville-MA-02144/458075926_zpid/",
+    "statusType": "FOR_RENT",
+    "statusText": "Apartment for rent",
+    "countryCurrency": "$",
+    "price": "$7,200/mo",
+    "unformattedPrice": 7200,
+    "address": "40 Hamilton Rd #4, Somerville, MA 02144",
+    "addressStreet": "40 Hamilton Rd #4",
+    "addressCity": "Somerville",
+    "addressState": "MA",
+    "addressZipcode": "02144",
+    "isUndisclosedAddress": false,
+    "beds": 6,
+    "baths": 7,
+    "latLong": {
+      "latitude": 42.40644,
+      "longitude": -71.129135
+    },
+    "isZillowOwned": false,
+    "listCardRecommendation": {
+      "flexFieldRecommendations": [
+        {
+          "displayString": "10 days ago",
+          "contentType": "timeOnInfo"
+        },
+        {
+          "displayString": "Apply instantly",
+          "contentType": "frZillowApplication"
+        }
+      ],
+      "ctaRecommendations": [
+        {
+          "displayString": "Request a tour",
+          "contentType": "REQUEST_A_TOUR"
+        }
+      ]
+    },
+    "hdpData": {
+      "homeInfo": {
+        "zpid": 458075926,
+        "streetAddress": "40 Hamilton Rd #4",
+        "zipcode": "02144",
+        "city": "Somerville",
+        "state": "MA",
+        "latitude": 42.40644,
+        "longitude": -71.129135,
+        "price": 7200,
+        "bathrooms": 7,
+        "bedrooms": 6,
+        "homeType": "APARTMENT",
+        "homeStatus": "FOR_RENT",
+        "daysOnZillow": 10,
+        "isFeatured": true,
+        "shouldHighlight": false,
+        "isRentalWithBasePrice": false,
+        "listing_sub_type": {},
+        "isUnmappable": false,
+        "isPreforeclosureAuction": false,
+        "homeStatusForHDP": "FOR_RENT",
+        "priceForHDP": 7200,
+        "timeOnZillow": 943000000,
+        "isNonOwnerOccupied": true,
+        "isPremierBuilder": false,
+        "isZillowOwned": false,
+        "currency": "USD",
+        "country": "USA",
+        "unit": "# 4",
+        "isShowcaseListing": false
+      }
+    },
+    "isSaved": false,
+    "isUserClaimingOwner": false,
+    "isUserConfirmedClaim": false,
+    "pgapt": "ForRent",
+    "sgapt": "For Rent",
+    "shouldShowZestimateAsPrice": false,
+    "has3DModel": false,
+    "hasVideo": false,
+    "isHomeRec": false,
+    "hasAdditionalAttributions": false,
+    "isFeaturedListing": true,
+    "isShowcaseListing": false,
+    "availabilityDate": "2025-11-08 00:00:00",
+    "list": true,
+    "relaxed": false,
+    "carouselPhotosComposable": {
+      "baseUrl": "https://photos.zillowstatic.com/fp/{photoKey}-p_e.jpg",
+      "communityBaseUrl": null,
+      "photoData": [
+        {
+          "photoKey": "211e2dcc80a8f2b5e5ac0cb0ae7471da"
+        },
+        {
+          "photoKey": "a92fe27815f54744228480b4557adc50"
+        },
+        {
+          "photoKey": "ad33b1ae54008a9eaa53e71f832a8d0f"
+        },
+        {
+          "photoKey": "c140134336b8ca64f9d8081365d5d837"
+        },
+        {
+          "photoKey": "583e87eae9ec25613ce209c463cb6b7e"
+        },
+        {
+          "photoKey": "4b7cdc48667d3c16c8c73868ff5cab9f"
+        },
+        {
+          "photoKey": "07c901cce9ece43a7aefdb05b0bcb355"
+        },
+        {
+          "photoKey": "dd9b922ffd27f8b8b87d9173d61e9e5b"
+        },
+        {
+          "photoKey": "29cbd159f4692b6babde413f3773a663"
+        },
+        {
+          "photoKey": "22116aa4e0ab42c0188382206a3ccc6b"
+        },
+        {
+          "photoKey": "20400d57dd571cf131ae4e1b511ce71f"
+        },
+        {
+          "photoKey": "025f45df08ef63bf8a1dcb704b0365d1"
+        }
+      ],
+      "communityPhotoData": null,
+      "isStaticUrls": false
+    },
+    "marketingTreatments": [
+      "trustedListing",
+      "paid",
+      "zillowRentalManager",
+      "singleFamilyPaid",
+      "feedConnectFlatFeeFeedConnect"
+    ],
+    "rooms": [],
+    "listPriceIncludesRequiredMonthlyFees": true,
+    "baseRent": 7200,
+    "isPaidBuilderNewConstruction": false,
+    "factsAndFeatures": {
+      "fullBathroomCount": 7,
+      "hasFireplace": false,
+      "hasAirConditioning": false,
+      "hasSpa": false,
+      "hasPool": false
+    }
+  },
+  {
+    "zpid": "458272043",
+    "palsId": "100066001_f3f50f7108d25f1a095848395ae123a8fb44e79db0ec6e4cf80448817b351c83",
+    "id": "458272043",
+    "rawHomeStatusCd": "ForRent",
+    "marketingStatusSimplifiedCd": "For Rent",
+    "providerListingId": "3h3hrmwdnphrn",
+    "imgSrc": "https://photos.zillowstatic.com/fp/4f71ec064a7c3df8f9fbe025c1c78319-p_e.jpg",
+    "hasImage": true,
+    "detailUrl": "https://www.zillow.com/homedetails/94-Cedar-St-47-Somerville-MA-02144/458272043_zpid/",
+    "statusType": "FOR_RENT",
+    "statusText": "Apartment for rent",
+    "countryCurrency": "$",
+    "price": "$4,600/mo",
+    "unformattedPrice": 4600,
+    "address": "94 Cedar St #47, Somerville, MA 02144",
+    "addressStreet": "94 Cedar St #47",
+    "addressCity": "Somerville",
+    "addressState": "MA",
+    "addressZipcode": "02144",
+    "isUndisclosedAddress": false,
+    "beds": 4,
+    "baths": 3,
+    "latLong": {
+      "latitude": 42.39197,
+      "longitude": -71.11283
+    },
+    "isZillowOwned": false,
+    "listCardRecommendation": {
+      "flexFieldRecommendations": [
+        {
+          "displayString": "3 days ago",
+          "contentType": "timeOnInfo"
+        },
+        {
+          "displayString": "Apply instantly",
+          "contentType": "frZillowApplication"
+        }
+      ],
+      "ctaRecommendations": [
+        {
+          "displayString": "Request a tour",
+          "contentType": "REQUEST_A_TOUR"
+        }
+      ]
+    },
+    "hdpData": {
+      "homeInfo": {
+        "zpid": 458272043,
+        "streetAddress": "94 Cedar St #47",
+        "zipcode": "02144",
+        "city": "Somerville",
+        "state": "MA",
+        "latitude": 42.39197,
+        "longitude": -71.11283,
+        "price": 4600,
+        "bathrooms": 3,
+        "bedrooms": 4,
+        "homeType": "APARTMENT",
+        "homeStatus": "FOR_RENT",
+        "daysOnZillow": 3,
+        "isFeatured": true,
+        "shouldHighlight": false,
+        "isRentalWithBasePrice": false,
+        "listing_sub_type": {},
+        "isUnmappable": false,
+        "isPreforeclosureAuction": false,
+        "homeStatusForHDP": "FOR_RENT",
+        "priceForHDP": 4600,
+        "timeOnZillow": 334605000,
+        "isNonOwnerOccupied": true,
+        "isPremierBuilder": false,
+        "isZillowOwned": false,
+        "currency": "USD",
+        "country": "USA",
+        "unit": "# 47",
+        "isShowcaseListing": false
+      }
+    },
+    "isSaved": false,
+    "isUserClaimingOwner": false,
+    "isUserConfirmedClaim": false,
+    "pgapt": "ForRent",
+    "sgapt": "For Rent",
+    "shouldShowZestimateAsPrice": false,
+    "has3DModel": false,
+    "hasVideo": false,
+    "isHomeRec": false,
+    "hasAdditionalAttributions": false,
+    "isFeaturedListing": true,
+    "isShowcaseListing": false,
+    "availabilityDate": "2025-11-15 00:00:00",
+    "list": true,
+    "relaxed": false,
+    "carouselPhotosComposable": {
+      "baseUrl": "https://photos.zillowstatic.com/fp/{photoKey}-p_e.jpg",
+      "communityBaseUrl": null,
+      "photoData": [
+        {
+          "photoKey": "4f71ec064a7c3df8f9fbe025c1c78319"
+        },
+        {
+          "photoKey": "b5c840b1a256199e967aaf89f962fcf2"
+        },
+        {
+          "photoKey": "b8b2c29d18bbd5d7e50fce22646d49ea"
+        },
+        {
+          "photoKey": "2f9df8aec1dbbd9c3d882978c72077bb"
+        },
+        {
+          "photoKey": "104715ce8319668459607a55726b9667"
+        },
+        {
+          "photoKey": "7e9889e56cdef0577c084d277c14b8b6"
+        },
+        {
+          "photoKey": "009e8f30c8d7720c479a58509555b21e"
+        },
+        {
+          "photoKey": "33fbf073520984fc094f4eff97be1855"
+        }
+      ],
+      "communityPhotoData": null,
+      "isStaticUrls": false
+    },
+    "marketingTreatments": [
+      "trustedListing",
+      "paid",
+      "zillowRentalManager",
+      "singleFamilyPaid",
+      "feedConnectFlatFeeFeedConnect"
+    ],
+    "rooms": [],
+    "listPriceIncludesRequiredMonthlyFees": true,
+    "baseRent": 4600,
+    "isPaidBuilderNewConstruction": false,
+    "factsAndFeatures": {
+      "fullBathroomCount": 3,
+      "hasFireplace": false,
+      "hasAirConditioning": false,
+      "hasSpa": false,
+      "hasPool": false
+    }
+  },
+  {
+    "zpid": "458272124",
+    "palsId": "100066001_e0a1ffa33b0d7103b186df368454263d26cdbe889366e38759e5c763f92c1b3a",
+    "id": "458272124",
+    "rawHomeStatusCd": "ForRent",
+    "marketingStatusSimplifiedCd": "For Rent",
+    "providerListingId": "4a5txeqtwg92v",
+    "imgSrc": "https://photos.zillowstatic.com/fp/d1f01a6679fa0a8ec1788b8e1c022c11-p_e.jpg",
+    "hasImage": true,
+    "detailUrl": "https://www.zillow.com/homedetails/7-West-St-6-Somerville-MA-02144/458272124_zpid/",
+    "statusType": "FOR_RENT",
+    "statusText": "Apartment for rent",
+    "countryCurrency": "$",
+    "price": "$3,400/mo",
+    "unformattedPrice": 3400,
+    "address": "7 West St #6, Somerville, MA 02144",
+    "addressStreet": "7 West St #6",
+    "addressCity": "Somerville",
+    "addressState": "MA",
+    "addressZipcode": "02144",
+    "isUndisclosedAddress": false,
+    "beds": 2,
+    "baths": 1,
+    "latLong": {
+      "latitude": 42.394524,
+      "longitude": -71.11867
+    },
+    "isZillowOwned": false,
+    "listCardRecommendation": {
+      "flexFieldRecommendations": [
+        {
+          "displayString": "3 days ago",
+          "contentType": "timeOnInfo"
+        },
+        {
+          "displayString": "Apply instantly",
+          "contentType": "frZillowApplication"
+        }
+      ],
+      "ctaRecommendations": [
+        {
+          "displayString": "Request a tour",
+          "contentType": "REQUEST_A_TOUR"
+        }
+      ]
+    },
+    "hdpData": {
+      "homeInfo": {
+        "zpid": 458272124,
+        "streetAddress": "7 West St #6",
+        "zipcode": "02144",
+        "city": "Somerville",
+        "state": "MA",
+        "latitude": 42.394524,
+        "longitude": -71.11867,
+        "price": 3400,
+        "bathrooms": 1,
+        "bedrooms": 2,
+        "homeType": "APARTMENT",
+        "homeStatus": "FOR_RENT",
+        "daysOnZillow": 3,
+        "isFeatured": true,
+        "shouldHighlight": false,
+        "isRentalWithBasePrice": false,
+        "listing_sub_type": {},
+        "isUnmappable": false,
+        "isPreforeclosureAuction": false,
+        "homeStatusForHDP": "FOR_RENT",
+        "priceForHDP": 3400,
+        "timeOnZillow": 333970000,
+        "isNonOwnerOccupied": true,
+        "isPremierBuilder": false,
+        "isZillowOwned": false,
+        "currency": "USD",
+        "country": "USA",
+        "unit": "# 6",
+        "isShowcaseListing": false
+      }
+    },
+    "isSaved": false,
+    "isUserClaimingOwner": false,
+    "isUserConfirmedClaim": false,
+    "pgapt": "ForRent",
+    "sgapt": "For Rent",
+    "shouldShowZestimateAsPrice": false,
+    "has3DModel": false,
+    "hasVideo": false,
+    "isHomeRec": false,
+    "hasAdditionalAttributions": false,
+    "isFeaturedListing": true,
+    "isShowcaseListing": false,
+    "availabilityDate": "2025-11-15 00:00:00",
+    "list": true,
+    "relaxed": false,
+    "carouselPhotosComposable": {
+      "baseUrl": "https://photos.zillowstatic.com/fp/{photoKey}-p_e.jpg",
+      "communityBaseUrl": null,
+      "photoData": [
+        {
+          "photoKey": "d1f01a6679fa0a8ec1788b8e1c022c11"
+        },
+        {
+          "photoKey": "4c21da7ec26b16c4c219bebf687e781b"
+        },
+        {
+          "photoKey": "d337fbb1de2a25722b5f0ba4e9522481"
+        },
+        {
+          "photoKey": "57a44f04ed4c72c53e38a1b35b439930"
+        },
+        {
+          "photoKey": "a3ade9fb9c4d80c50c59284955f591f8"
+        },
+        {
+          "photoKey": "44a39a5a7f7bea0fd891c3b682d1ead4"
+        },
+        {
+          "photoKey": "15b053c9533ca0dede5228fc3851a243"
+        }
+      ],
+      "communityPhotoData": null,
+      "isStaticUrls": false
+    },
+    "marketingTreatments": [
+      "trustedListing",
+      "paid",
+      "zillowRentalManager",
+      "singleFamilyPaid",
+      "feedConnectFlatFeeFeedConnect"
+    ],
+    "rooms": [],
+    "listPriceIncludesRequiredMonthlyFees": true,
+    "baseRent": 3400,
+    "isPaidBuilderNewConstruction": false,
+    "factsAndFeatures": {
+      "fullBathroomCount": 1,
+      "hasFireplace": false,
+      "hasAirConditioning": false,
+      "hasSpa": false,
+      "hasPool": false
+    }
+  },
+  {
+    "zpid": "458290594",
+    "palsId": "100066001_04a04b4523503355195b209db6e17260e570eaed6541a21843c749fcec7a79c2",
+    "id": "458290594",
+    "rawHomeStatusCd": "ForRent",
+    "marketingStatusSimplifiedCd": "For Rent",
+    "providerListingId": "bfpfn5qkg1yd",
+    "imgSrc": "https://photos.zillowstatic.com/fp/6673e56ca77dcb09d67f5d6508b7b216-p_e.jpg",
+    "hasImage": true,
+    "detailUrl": "https://www.zillow.com/homedetails/21-Walker-St-12-Somerville-MA-02144/458290594_zpid/",
+    "statusType": "FOR_RENT",
+    "statusText": "Apartment for rent",
+    "countryCurrency": "$",
+    "price": "$3,900/mo",
+    "unformattedPrice": 3900,
+    "address": "21 Walker St #12, Somerville, MA 02144",
+    "addressStreet": "21 Walker St #12",
+    "addressCity": "Somerville",
+    "addressState": "MA",
+    "addressZipcode": "02144",
+    "isUndisclosedAddress": false,
+    "beds": 4,
+    "baths": 2,
+    "latLong": {
+      "latitude": 42.40144,
+      "longitude": -71.11853
+    },
+    "isZillowOwned": false,
+    "listCardRecommendation": {
+      "flexFieldRecommendations": [
+        {
+          "displayString": "2 days ago",
+          "contentType": "timeOnInfo"
+        },
+        {
+          "displayString": "Apply instantly",
+          "contentType": "frZillowApplication"
+        }
+      ],
+      "ctaRecommendations": [
+        {
+          "displayString": "Request a tour",
+          "contentType": "REQUEST_A_TOUR"
+        }
+      ]
+    },
+    "hdpData": {
+      "homeInfo": {
+        "zpid": 458290594,
+        "streetAddress": "21 Walker St #12",
+        "zipcode": "02144",
+        "city": "Somerville",
+        "state": "MA",
+        "latitude": 42.40144,
+        "longitude": -71.11853,
+        "price": 3900,
+        "bathrooms": 2,
+        "bedrooms": 4,
+        "homeType": "APARTMENT",
+        "homeStatus": "FOR_RENT",
+        "daysOnZillow": 2,
+        "isFeatured": true,
+        "shouldHighlight": false,
+        "isRentalWithBasePrice": false,
+        "listing_sub_type": {},
+        "isUnmappable": false,
+        "isPreforeclosureAuction": false,
+        "homeStatusForHDP": "FOR_RENT",
+        "priceForHDP": 3900,
+        "timeOnZillow": 244424000,
+        "isNonOwnerOccupied": true,
+        "isPremierBuilder": false,
+        "isZillowOwned": false,
+        "currency": "USD",
+        "country": "USA",
+        "unit": "# 12",
+        "isShowcaseListing": false
+      }
+    },
+    "isSaved": false,
+    "isUserClaimingOwner": false,
+    "isUserConfirmedClaim": false,
+    "pgapt": "ForRent",
+    "sgapt": "For Rent",
+    "shouldShowZestimateAsPrice": false,
+    "has3DModel": false,
+    "hasVideo": false,
+    "isHomeRec": false,
+    "hasAdditionalAttributions": false,
+    "isFeaturedListing": true,
+    "isShowcaseListing": false,
+    "availabilityDate": "2025-11-16 00:00:00",
+    "list": true,
+    "relaxed": false,
+    "carouselPhotosComposable": {
+      "baseUrl": "https://photos.zillowstatic.com/fp/{photoKey}-p_e.jpg",
+      "communityBaseUrl": null,
+      "photoData": [
+        {
+          "photoKey": "6673e56ca77dcb09d67f5d6508b7b216"
+        },
+        {
+          "photoKey": "2d244825b09da5c616fab936877283dd"
+        },
+        {
+          "photoKey": "3327d06e826b6a2b2ae1a7de43e7ac58"
+        },
+        {
+          "photoKey": "e00ffd12405ffd0a7dce73a222ebfbe7"
+        },
+        {
+          "photoKey": "9831be6982b4c8da3f4643d034f2c861"
+        },
+        {
+          "photoKey": "084b5f9faae229456a7bf59ad32b91b4"
+        },
+        {
+          "photoKey": "3653468a711cb8995df9dae6055f8701"
+        }
+      ],
+      "communityPhotoData": null,
+      "isStaticUrls": false
+    },
+    "marketingTreatments": [
+      "trustedListing",
+      "paid",
+      "zillowRentalManager",
+      "singleFamilyPaid",
+      "feedConnectFlatFeeFeedConnect"
+    ],
+    "rooms": [],
+    "listPriceIncludesRequiredMonthlyFees": true,
+    "baseRent": 3900,
+    "isPaidBuilderNewConstruction": false,
+    "factsAndFeatures": {
+      "fullBathroomCount": 2,
+      "hasFireplace": false,
+      "hasAirConditioning": false,
+      "hasSpa": false,
+      "hasPool": false
+    }
+  },
+  {
+    "zpid": "458075870",
+    "palsId": "100066001_693cbd143d23501838b1bc695f7a0fc3d3b4f7df00e9f1cd0e32444455d98102",
+    "id": "458075870",
+    "rawHomeStatusCd": "ForRent",
+    "marketingStatusSimplifiedCd": "For Rent",
+    "providerListingId": "39a0jrdsy1z4f",
+    "imgSrc": "https://photos.zillowstatic.com/fp/31b3fefe3f18a89431180d83b4a38a5e-p_e.jpg",
+    "hasImage": true,
+    "detailUrl": "https://www.zillow.com/homedetails/222-Pearl-St-26-Somerville-MA-02145/458075870_zpid/",
+    "statusType": "FOR_RENT",
+    "statusText": "Apartment for rent",
+    "countryCurrency": "$",
+    "price": "$3,000/mo",
+    "unformattedPrice": 3000,
+    "address": "222 Pearl St #26, Somerville, MA 02145",
+    "addressStreet": "222 Pearl St #26",
+    "addressCity": "Somerville",
+    "addressState": "MA",
+    "addressZipcode": "02145",
+    "isUndisclosedAddress": false,
+    "beds": 1,
+    "baths": 1,
+    "latLong": {
+      "latitude": 42.387352,
+      "longitude": -71.09372
+    },
+    "isZillowOwned": false,
+    "listCardRecommendation": {
+      "flexFieldRecommendations": [
+        {
+          "displayString": "10 days ago",
+          "contentType": "timeOnInfo"
+        },
+        {
+          "displayString": "Apply instantly",
+          "contentType": "frZillowApplication"
+        }
+      ],
+      "ctaRecommendations": [
+        {
+          "displayString": "Request a tour",
+          "contentType": "REQUEST_A_TOUR"
+        }
+      ]
+    },
+    "hdpData": {
+      "homeInfo": {
+        "zpid": 458075870,
+        "streetAddress": "222 Pearl St #26",
+        "zipcode": "02145",
+        "city": "Somerville",
+        "state": "MA",
+        "latitude": 42.387352,
+        "longitude": -71.09372,
+        "price": 3000,
+        "bathrooms": 1,
+        "bedrooms": 1,
+        "homeType": "APARTMENT",
+        "homeStatus": "FOR_RENT",
+        "daysOnZillow": 10,
+        "isFeatured": true,
+        "shouldHighlight": false,
+        "isRentalWithBasePrice": false,
+        "listing_sub_type": {},
+        "isUnmappable": false,
+        "isPreforeclosureAuction": false,
+        "homeStatusForHDP": "FOR_RENT",
+        "priceForHDP": 3000,
+        "timeOnZillow": 943576000,
+        "isNonOwnerOccupied": true,
+        "isPremierBuilder": false,
+        "isZillowOwned": false,
+        "currency": "USD",
+        "country": "USA",
+        "unit": "# 26",
+        "isShowcaseListing": false
+      }
+    },
+    "isSaved": false,
+    "isUserClaimingOwner": false,
+    "isUserConfirmedClaim": false,
+    "pgapt": "ForRent",
+    "sgapt": "For Rent",
+    "shouldShowZestimateAsPrice": false,
+    "has3DModel": false,
+    "hasVideo": false,
+    "isHomeRec": false,
+    "hasAdditionalAttributions": false,
+    "isFeaturedListing": true,
+    "isShowcaseListing": false,
+    "availabilityDate": "2025-11-08 00:00:00",
+    "list": true,
+    "relaxed": false,
+    "carouselPhotosComposable": {
+      "baseUrl": "https://photos.zillowstatic.com/fp/{photoKey}-p_e.jpg",
+      "communityBaseUrl": null,
+      "photoData": [
+        {
+          "photoKey": "31b3fefe3f18a89431180d83b4a38a5e"
+        },
+        {
+          "photoKey": "850e147194f456ae3aed283edefcd544"
+        }
+      ],
+      "communityPhotoData": null,
+      "isStaticUrls": false
+    },
+    "marketingTreatments": [
+      "trustedListing",
+      "paid",
+      "zillowRentalManager",
+      "singleFamilyPaid",
+      "feedConnectFlatFeeFeedConnect"
+    ],
+    "rooms": [],
+    "listPriceIncludesRequiredMonthlyFees": true,
+    "baseRent": 3000,
+    "isPaidBuilderNewConstruction": false,
+    "factsAndFeatures": {
+      "fullBathroomCount": 1,
+      "hasFireplace": false,
+      "hasAirConditioning": false,
+      "hasSpa": false,
+      "hasPool": false
+    }
+  },
+  {
+    "zpid": "42.41151--71.12972",
+    "id": "42.41151--71.12972",
+    "providerListingId": "1nke366h7yhbg",
+    "imgSrc": "https://photos.zillowstatic.com/fp/a921b7dc03eee42627ca18823ccc0848-p_e.jpg",
+    "hasImage": true,
+    "detailUrl": "/b/42-fairfax-st-somerville-ma-96F5JC/",
+    "statusType": "FOR_RENT",
+    "statusText": "For Rent",
+    "address": "42 Fairfax St, Somerville, MA",
+    "addressStreet": "42 Fairfax St # 24",
+    "addressCity": "Somerville",
+    "addressState": "MA",
+    "addressZipcode": "02144",
+    "units": [
+      {
+        "price": "$3,950+",
+        "beds": "3",
+        "roomForRent": false
+      },
+      {
+        "price": "$4,000+",
+        "beds": "4",
+        "roomForRent": false
+      }
+    ],
+    "lotId": 2001687984,
+    "latLong": {
+      "latitude": 42.41151,
+      "longitude": -71.12972
+    },
+    "isSaved": false,
+    "isBuilding": true,
+    "canSaveBuilding": false,
+    "has3DModel": false,
+    "isFeaturedListing": true,
+    "isShowcaseListing": false,
+    "list": true,
+    "relaxed": false,
+    "carouselPhotosComposable": {
+      "baseUrl": "https://photos.zillowstatic.com/fp/{photoKey}-p_e.jpg",
+      "communityBaseUrl": null,
+      "photoData": [
+        {
+          "photoKey": "a921b7dc03eee42627ca18823ccc0848"
+        },
+        {
+          "photoKey": "4f7bdfe23e2be11568c33001685a6dd9"
+        },
+        {
+          "photoKey": "90e9b1bc761eae99c936c0b4890d2905"
+        },
+        {
+          "photoKey": "db1dd5c3b69a3a09f16f3cf49bd29380"
+        },
+        {
+          "photoKey": "6b178ed29368610dfbe475d89894a25b"
+        }
+      ],
+      "communityPhotoData": null,
+      "isStaticUrls": false
+    },
+    "availabilityCount": 2,
+    "marketingTreatments": [
+      "trustedListing",
+      "paid",
+      "zillowRentalManager",
+      "singleFamilyPaid",
+      "feedConnectFlatFeeFeedConnect"
+    ],
+    "listPriceIncludesRequiredMonthlyFees": false,
+    "isInstantTourEnabled": false,
+    "isContactable": false,
+    "isPaidBuilderNewConstruction": false
+  },
+  {
+    "zpid": "42.393013--71.113625",
+    "id": "42.393013--71.113625",
+    "providerListingId": "4sae67ynyxdu3",
+    "imgSrc": "https://photos.zillowstatic.com/fp/33c9b32904e56ed1c3082dbb1b618260-p_e.jpg",
+    "hasImage": true,
+    "detailUrl": "/b/307-highland-ave-somerville-ma-CjpNsK/",
+    "statusType": "FOR_RENT",
+    "statusText": "For Rent",
+    "address": "307 Highland Ave, Somerville, MA",
+    "addressStreet": "307 Highland Ave # 7",
+    "addressCity": "Somerville",
+    "addressState": "MA",
+    "addressZipcode": "02144",
+    "units": [
+      {
+        "price": "$4,500+",
+        "beds": "4",
+        "roomForRent": false
+      }
+    ],
+    "lotId": 2748678878,
+    "latLong": {
+      "latitude": 42.393013,
+      "longitude": -71.113625
+    },
+    "isSaved": false,
+    "isBuilding": true,
+    "canSaveBuilding": false,
+    "has3DModel": false,
+    "isFeaturedListing": true,
+    "isShowcaseListing": false,
+    "list": true,
+    "relaxed": false,
+    "carouselPhotosComposable": {
+      "baseUrl": "https://photos.zillowstatic.com/fp/{photoKey}-p_e.jpg",
+      "communityBaseUrl": null,
+      "photoData": [
+        {
+          "photoKey": "33c9b32904e56ed1c3082dbb1b618260"
+        },
+        {
+          "photoKey": "403749684096b5fceb26d7c28a3c3b78"
+        },
+        {
+          "photoKey": "12ff616f5a297fd8d490aa04cc14545c"
+        },
+        {
+          "photoKey": "1151ae8df9e83965c52d63212d3338ba"
+        },
+        {
+          "photoKey": "097db5d652a1df7bae4493a6dc2a2123"
+        },
+        {
+          "photoKey": "285fae01edecfe50cbbf8e9a39e0bde1"
+        },
+        {
+          "photoKey": "323dfa6b9da103642d1c896a82fe3ab8"
+        },
+        {
+          "photoKey": "492cf9fff30c4c146cbe7fb85ec6ad1a"
+        },
+        {
+          "photoKey": "f5aa3391aaaed13d7f8d0d21e6714b07"
+        },
+        {
+          "photoKey": "3e8e03a5b6356fc16321b56db668228f"
+        },
+        {
+          "photoKey": "a393726dd7f439163673aa0a50b43626"
+        },
+        {
+          "photoKey": "5445a9e2f89a08fa4cafbc56049cccbd"
+        },
+        {
+          "photoKey": "f5bab062d8f88c831d93aa18936ccfa7"
+        },
+        {
+          "photoKey": "0448229556346f741ba2b55001312810"
+        },
+        {
+          "photoKey": "15165bc8ce115f13015417271a70b526"
+        },
+        {
+          "photoKey": "46d4756c190bad8612b17e1ef195b55e"
+        },
+        {
+          "photoKey": "621f707a7baff93d0fa5a5b64a41e7fb"
+        },
+        {
+          "photoKey": "e14c9c00f7a753e9bd969ce380955d7d"
+        },
+        {
+          "photoKey": "73611d2130b2426d986b06638e82d05a"
+        },
+        {
+          "photoKey": "d1a2138c1da584d44ef85e3de632d419"
+        },
+        {
+          "photoKey": "6d8333cd0dab473ba1de3235523cebe5"
+        },
+        {
+          "photoKey": "1a1f33170ab320a42daba1a72ceee96c"
+        },
+        {
+          "photoKey": "ae696ce0379008fd99ca0492dea5279e"
+        },
+        {
+          "photoKey": "ce08f26815660c56fa537987b4a994bb"
+        },
+        {
+          "photoKey": "70b79f6ce600814b28789fc076327bc1"
+        },
+        {
+          "photoKey": "806f804c5f50fc2cf4995c7ae82c3945"
+        }
+      ],
+      "communityPhotoData": null,
+      "isStaticUrls": false
+    },
+    "availabilityCount": 3,
+    "marketingTreatments": [
+      "trustedListing",
+      "paid",
+      "zillowRentalManager",
+      "singleFamilyPaid",
+      "feedConnectFlatFeeFeedConnect"
+    ],
+    "listPriceIncludesRequiredMonthlyFees": false,
+    "isInstantTourEnabled": false,
+    "isContactable": false,
+    "isPaidBuilderNewConstruction": false
+  },
+  {
+    "zpid": "339567030",
+    "palsId": "100066001_e0f0bfbc893692e50cc033a03f68d14c53f9ba36ea8f92ab2a43d136ea6303b3",
+    "id": "339567030",
+    "rawHomeStatusCd": "ForRent",
+    "marketingStatusSimplifiedCd": "For Rent",
+    "providerListingId": "4uk89u2xsrzg2",
+    "imgSrc": "https://photos.zillowstatic.com/fp/3b2d3ba290f7227a219684dbc795867e-p_e.jpg",
+    "hasImage": true,
+    "detailUrl": "https://www.zillow.com/homedetails/5-Smith-Ave-4-Somerville-MA-02143/339567030_zpid/",
+    "statusType": "FOR_RENT",
+    "statusText": "Apartment for rent",
+    "countryCurrency": "$",
+    "price": "$4,200/mo",
+    "unformattedPrice": 4200,
+    "address": "5 Smith Ave #4, Somerville, MA 02143",
+    "addressStreet": "5 Smith Ave #4",
+    "addressCity": "Somerville",
+    "addressState": "MA",
+    "addressZipcode": "02143",
+    "isUndisclosedAddress": false,
+    "beds": 3,
+    "baths": 2,
+    "latLong": {
+      "latitude": 42.377243,
+      "longitude": -71.105606
+    },
+    "isZillowOwned": false,
+    "listCardRecommendation": {
+      "flexFieldRecommendations": [
+        {
+          "displayString": "7 days ago",
+          "contentType": "timeOnInfo"
+        },
+        {
+          "displayString": "Apply instantly",
+          "contentType": "frZillowApplication"
+        }
+      ],
+      "ctaRecommendations": [
+        {
+          "displayString": "Request a tour",
+          "contentType": "REQUEST_A_TOUR"
+        }
+      ]
+    },
+    "hdpData": {
+      "homeInfo": {
+        "zpid": 339567030,
+        "streetAddress": "5 Smith Ave #4",
+        "zipcode": "02143",
+        "city": "Somerville",
+        "state": "MA",
+        "latitude": 42.377243,
+        "longitude": -71.105606,
+        "price": 4200,
+        "bathrooms": 2,
+        "bedrooms": 3,
+        "homeType": "APARTMENT",
+        "homeStatus": "FOR_RENT",
+        "daysOnZillow": 7,
+        "isFeatured": true,
+        "shouldHighlight": false,
+        "isRentalWithBasePrice": false,
+        "zestimate": 1040200,
+        "rentZestimate": 4164,
+        "listing_sub_type": {},
+        "isUnmappable": false,
+        "isPreforeclosureAuction": false,
+        "homeStatusForHDP": "FOR_RENT",
+        "priceForHDP": 4200,
+        "timeOnZillow": 617942000,
+        "isNonOwnerOccupied": true,
+        "isPremierBuilder": false,
+        "isZillowOwned": false,
+        "currency": "USD",
+        "country": "USA",
+        "taxAssessedValue": 957100,
+        "unit": "# 4",
+        "isShowcaseListing": false
+      }
+    },
+    "isSaved": false,
+    "isUserClaimingOwner": false,
+    "isUserConfirmedClaim": false,
+    "pgapt": "ForRent",
+    "sgapt": "For Rent",
+    "zestimate": 1040200,
+    "shouldShowZestimateAsPrice": false,
+    "has3DModel": false,
+    "hasVideo": false,
+    "isHomeRec": false,
+    "hasAdditionalAttributions": false,
+    "isFeaturedListing": true,
+    "isShowcaseListing": false,
+    "availabilityDate": "2025-11-12 00:00:00",
+    "list": true,
+    "relaxed": false,
+    "carouselPhotosComposable": {
+      "baseUrl": "https://photos.zillowstatic.com/fp/{photoKey}-p_e.jpg",
+      "communityBaseUrl": null,
+      "photoData": [
+        {
+          "photoKey": "3b2d3ba290f7227a219684dbc795867e"
+        },
+        {
+          "photoKey": "ddeda149bb44616c5716bed3852a2948"
+        },
+        {
+          "photoKey": "5b5441276407c7a7a1b9506ef3132578"
+        },
+        {
+          "photoKey": "89e0cb7398cd9aa4c68e44b348447636"
+        },
+        {
+          "photoKey": "940919555b98c13d683e698fb578ea36"
+        },
+        {
+          "photoKey": "bf6a1377024aa04356cdec3ba70f2aae"
+        },
+        {
+          "photoKey": "9258a987f07cd426122ca474316efddc"
+        }
+      ],
+      "communityPhotoData": null,
+      "isStaticUrls": false
+    },
+    "marketingTreatments": [
+      "trustedListing",
+      "paid",
+      "zillowRentalManager",
+      "singleFamilyPaid",
+      "feedConnectFlatFeeFeedConnect"
+    ],
+    "rooms": [],
+    "listPriceIncludesRequiredMonthlyFees": true,
+    "baseRent": 4200,
+    "isPaidBuilderNewConstruction": false,
+    "factsAndFeatures": {
+      "fullBathroomCount": 2,
+      "hasFireplace": false,
+      "hasAirConditioning": false,
+      "hasSpa": false,
+      "hasPool": false
+    }
+  },
+  {
+    "zpid": "42.387314--71.09878",
+    "id": "42.387314--71.09878",
+    "providerListingId": "1qrq7rra95e30",
+    "imgSrc": "https://photos.zillowstatic.com/fp/1f32f79200612d7e0ddf5891500ce957-p_e.jpg",
+    "hasImage": true,
+    "detailUrl": "/b/136-school-st-somerville-ma-96DykS/",
+    "statusType": "FOR_RENT",
+    "statusText": "For Rent",
+    "address": "136 School St, Somerville, MA",
+    "addressStreet": "136 School St Apt 102",
+    "addressCity": "Somerville",
+    "addressState": "MA",
+    "addressZipcode": "02143",
+    "units": [
+      {
+        "price": "$2,150+",
+        "beds": "0",
+        "roomForRent": false
+      },
+      {
+        "price": "$2,350+",
+        "beds": "1",
+        "roomForRent": false
+      }
+    ],
+    "lotId": 2001677070,
+    "latLong": {
+      "latitude": 42.387314,
+      "longitude": -71.09878
+    },
+    "isSaved": false,
+    "isBuilding": true,
+    "canSaveBuilding": false,
+    "has3DModel": false,
+    "isFeaturedListing": true,
+    "isShowcaseListing": false,
+    "list": true,
+    "relaxed": false,
+    "carouselPhotosComposable": {
+      "baseUrl": "https://photos.zillowstatic.com/fp/{photoKey}-p_e.jpg",
+      "communityBaseUrl": null,
+      "photoData": [
+        {
+          "photoKey": "1f32f79200612d7e0ddf5891500ce957"
+        },
+        {
+          "photoKey": "9d288bf5093d30c4a8621edcd8657281"
+        },
+        {
+          "photoKey": "0feb0cc5a2f4c9d1a6d06e4d6b8ccbc9"
+        },
+        {
+          "photoKey": "5a0fb283e2166b4ace878deb8263d824"
+        },
+        {
+          "photoKey": "c256ec68a8e3bcd58ce16a1f6a212020"
+        }
+      ],
+      "communityPhotoData": null,
+      "isStaticUrls": false
+    },
+    "availabilityCount": 3,
+    "marketingTreatments": [
+      "paid",
+      "zillowRentalManager"
+    ],
+    "listPriceIncludesRequiredMonthlyFees": false,
+    "isInstantTourEnabled": false,
+    "isContactable": false,
+    "isPaidBuilderNewConstruction": false
+  }
+]

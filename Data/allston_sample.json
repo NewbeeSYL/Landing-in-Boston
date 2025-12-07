@@ -1,0 +1,2342 @@
+[
+  {
+    "zpid": "42.35233--71.13643",
+    "id": "42.35233--71.13643",
+    "providerListingId": "h2y7k7521bkk",
+    "imgSrc": "https://photos.zillowstatic.com/fp/b961b9a6a041feb053ef86499d8c5f70-p_e.jpg",
+    "hasImage": true,
+    "detailUrl": "/apartments/allston-ma/armington-street/CmpK9v/",
+    "statusType": "FOR_RENT",
+    "statusText": "Armington Street",
+    "address": "10-20 Armington St, Allston, MA",
+    "addressStreet": "10-20 Armington St   # 1",
+    "addressCity": "Allston",
+    "addressState": "MA",
+    "addressZipcode": "02134",
+    "units": [
+      {
+        "price": "$1,950+",
+        "beds": "0",
+        "roomForRent": false
+      },
+      {
+        "price": "$2,300+",
+        "beds": "1",
+        "roomForRent": false
+      }
+    ],
+    "lotId": 2760199591,
+    "latLong": {
+      "latitude": 42.35233,
+      "longitude": -71.13643
+    },
+    "isSaved": false,
+    "buildingName": "Armington Street",
+    "isBuilding": true,
+    "canSaveBuilding": true,
+    "has3DModel": false,
+    "isFeaturedListing": true,
+    "isShowcaseListing": false,
+    "list": true,
+    "relaxed": false,
+    "carouselPhotosComposable": {
+      "baseUrl": "https://photos.zillowstatic.com/fp/{photoKey}-p_e.jpg",
+      "communityBaseUrl": null,
+      "photoData": [
+        {
+          "photoKey": "b961b9a6a041feb053ef86499d8c5f70"
+        },
+        {
+          "photoKey": "1cb1c205e3223cc441e8fb115b9c4acc"
+        },
+        {
+          "photoKey": "98150a2f21d967f83f39de08b18c1d56"
+        },
+        {
+          "photoKey": "025ff3c1b834b8ab534b2b74bc9697eb"
+        },
+        {
+          "photoKey": "ccbcbb1ce30ccf24f6b29f77756ec0ae"
+        },
+        {
+          "photoKey": "fb715699b8022dda4f5f211d57895ef4"
+        },
+        {
+          "photoKey": "d308c3de62c05b8876192728e0c92f2c"
+        },
+        {
+          "photoKey": "9a48ec3a576f1878fba0c4208c0b90a4"
+        },
+        {
+          "photoKey": "2343e8e6924ae80ebc25c56df4666541"
+        },
+        {
+          "photoKey": "ffa2101d8e7c217117c277b05fb0c1a0"
+        },
+        {
+          "photoKey": "be3d6ebdd58dca28858c1fccc0598652"
+        },
+        {
+          "photoKey": "1f5a3c82c7210c73b805b2c80bb7f11c"
+        },
+        {
+          "photoKey": "86150670240272dca02b964308dd4498"
+        },
+        {
+          "photoKey": "af9da3c5b2f042779934610a52da5989"
+        },
+        {
+          "photoKey": "f1fe38a32d37cd1c7216fd835257ab79"
+        },
+        {
+          "photoKey": "3b7261592750559fe1459098a71808f2"
+        },
+        {
+          "photoKey": "3b7261592750559fe1459098a71808f2"
+        }
+      ],
+      "communityPhotoData": null,
+      "isStaticUrls": false
+    },
+    "availabilityCount": 3,
+    "marketingTreatments": [
+      "trustedListing",
+      "paid",
+      "multiFamilySalesListing",
+      "paidOrUnpaidMultifamily",
+      "paidMultifamily",
+      "multifamilyBasePackage"
+    ],
+    "listPriceIncludesRequiredMonthlyFees": false,
+    "isInstantTourEnabled": false,
+    "isContactable": true,
+    "isPaidBuilderNewConstruction": false
+  },
+  {
+    "zpid": "42.34803--71.13767",
+    "id": "42.34803--71.13767",
+    "providerListingId": "5af9qc6guwxyt",
+    "imgSrc": "https://photos.zillowstatic.com/fp/bfb2fa47bdc139f3b5a1b1db1133cd93-p_e.jpg",
+    "hasImage": true,
+    "detailUrl": "/apartments/boston-ma/1384-commonwealth/CjjCPn/",
+    "statusType": "FOR_RENT",
+    "statusText": "1384 Commonwealth",
+    "address": "1384 Commonwealth Ave, Allston, MA",
+    "addressStreet": "1384 Commonwealth Ave  # 919a29c13",
+    "addressCity": "Allston",
+    "addressState": "MA",
+    "addressZipcode": "02134",
+    "units": [
+      {
+        "price": "$1,950+",
+        "beds": "0",
+        "roomForRent": false
+      },
+      {
+        "price": "$2,300+",
+        "beds": "1",
+        "roomForRent": false
+      },
+      {
+        "price": "$2,650+",
+        "beds": "2",
+        "roomForRent": false
+      }
+    ],
+    "lotId": 2748185569,
+    "latLong": {
+      "latitude": 42.34803,
+      "longitude": -71.13767
+    },
+    "isSaved": false,
+    "buildingName": "1384 Commonwealth",
+    "isBuilding": true,
+    "canSaveBuilding": true,
+    "has3DModel": false,
+    "isFeaturedListing": true,
+    "isShowcaseListing": false,
+    "list": true,
+    "relaxed": false,
+    "carouselPhotosComposable": {
+      "baseUrl": "https://photos.zillowstatic.com/fp/{photoKey}-p_e.jpg",
+      "communityBaseUrl": null,
+      "photoData": [
+        {
+          "photoKey": "bfb2fa47bdc139f3b5a1b1db1133cd93"
+        },
+        {
+          "photoKey": "2d40df65961a3acae8479c3b9bf0ab86"
+        },
+        {
+          "photoKey": "f4a56bdcb20dee930aa0e6a212ee8a6a"
+        },
+        {
+          "photoKey": "5d71a7ca9530de4c439a3dfae4847427"
+        },
+        {
+          "photoKey": "286ee40ba021b164ff9b7624aca9b5f4"
+        },
+        {
+          "photoKey": "8bdf004251f063947d88f9d57d4ac419"
+        },
+        {
+          "photoKey": "005398eef271042bd8807c3cbf691ecb"
+        },
+        {
+          "photoKey": "3ee6989b910596c7da65895765334c6e"
+        },
+        {
+          "photoKey": "2e310053c4199d06acf765067eb53e6f"
+        }
+      ],
+      "communityPhotoData": null,
+      "isStaticUrls": false
+    },
+    "availabilityCount": 3,
+    "marketingTreatments": [
+      "trustedListing",
+      "paid",
+      "zillowRentalManager",
+      "multiFamilySalesListing",
+      "paidOrUnpaidMultifamily",
+      "paidMultifamily",
+      "multifamilyBasePackage"
+    ],
+    "listPriceIncludesRequiredMonthlyFees": false,
+    "isInstantTourEnabled": false,
+    "isContactable": true,
+    "isPaidBuilderNewConstruction": false
+  },
+  {
+    "zpid": "42.350254--71.12708",
+    "id": "42.350254--71.12708",
+    "providerListingId": "3dm1udv8kd8ts",
+    "imgSrc": "https://photos.zillowstatic.com/fp/c3f8533bc5039d39d1f958c42deea13b-p_e.jpg",
+    "hasImage": true,
+    "detailUrl": "/apartments/allston-ma/commonwealth-apartments/CkWTW4/",
+    "statusType": "FOR_RENT",
+    "statusText": "Commonwealth Apartments",
+    "address": "1144 Commonwealth Ave, Allston, MA",
+    "addressStreet": "1144 Commonwealth Ave # 46",
+    "addressCity": "Allston",
+    "addressState": "MA",
+    "addressZipcode": "02134",
+    "units": [
+      {
+        "price": "$1,995+",
+        "beds": "0",
+        "roomForRent": false
+      },
+      {
+        "price": "$2,150+",
+        "beds": "1",
+        "roomForRent": false
+      },
+      {
+        "price": "$2,800+",
+        "beds": "2",
+        "roomForRent": false
+      }
+    ],
+    "lotId": 2752807752,
+    "latLong": {
+      "latitude": 42.350254,
+      "longitude": -71.12708
+    },
+    "listCardRecommendation": {
+      "flexFieldRecommendations": [
+        {
+          "displayString": "Special Offer",
+          "contentType": "frSpecialOffer"
+        }
+      ]
+    },
+    "isSaved": false,
+    "buildingName": "Commonwealth Apartments",
+    "isBuilding": true,
+    "canSaveBuilding": true,
+    "has3DModel": true,
+    "isFeaturedListing": true,
+    "isShowcaseListing": false,
+    "list": true,
+    "relaxed": false,
+    "carouselPhotosComposable": {
+      "baseUrl": "https://photos.zillowstatic.com/fp/{photoKey}-p_e.jpg",
+      "communityBaseUrl": null,
+      "photoData": [
+        {
+          "photoKey": "c3f8533bc5039d39d1f958c42deea13b"
+        },
+        {
+          "photoKey": "ccc303f49eae17340d89024397f190ce"
+        },
+        {
+          "photoKey": "a33c6b3b6cc65f2c83437a304db4362e"
+        },
+        {
+          "photoKey": "67f5ba3667d9083e92156aef6ec29a52"
+        },
+        {
+          "photoKey": "63c21e994b10dfa130429482d80e7db2"
+        },
+        {
+          "photoKey": "58e20b17fc6cb5010884d19369050e2c"
+        },
+        {
+          "photoKey": "bd8b09ec4ad2cb3f3c3f151d8d7c22d2"
+        },
+        {
+          "photoKey": "ed16510ddca21d86df9f6211985cb17a"
+        },
+        {
+          "photoKey": "3c35a9ff7ae21ef0e48c3a997ccbf4f7"
+        },
+        {
+          "photoKey": "85db3b12cf3b4f905a91a90f04c80c8a"
+        },
+        {
+          "photoKey": "6cedb67475b2a6660bf7045964eafe10"
+        },
+        {
+          "photoKey": "20286fad5dd61f9e851f7620f56b0eca"
+        },
+        {
+          "photoKey": "83f69ce455c84b5e649c14c0371861fe"
+        },
+        {
+          "photoKey": "bb583687227b00c16a7ef4b45f6a5512"
+        },
+        {
+          "photoKey": "cfcce356ab4aa2f9e3a6b941feef667f"
+        },
+        {
+          "photoKey": "c0bbaa5a47f3fc59f24624dd4b9b97e4"
+        },
+        {
+          "photoKey": "cfcce356ab4aa2f9e3a6b941feef667f"
+        }
+      ],
+      "communityPhotoData": null,
+      "isStaticUrls": false
+    },
+    "availabilityCount": 10,
+    "marketingTreatments": [
+      "trustedListing",
+      "paid",
+      "multiFamilySalesListing",
+      "paidOrUnpaidMultifamily",
+      "paidMultifamily",
+      "multifamilyPremium"
+    ],
+    "listPriceIncludesRequiredMonthlyFees": false,
+    "isInstantTourEnabled": false,
+    "isContactable": true,
+    "isPaidBuilderNewConstruction": false
+  },
+  {
+    "zpid": "42.349262--71.13053",
+    "id": "42.349262--71.13053",
+    "providerListingId": "3fjusaz1gyu75",
+    "imgSrc": "https://photos.zillowstatic.com/fp/38efa04648c72da0b4d0435c586db25c-p_e.jpg",
+    "hasImage": true,
+    "detailUrl": "/apartments/boston-ma/atlas-residences/Cgy8h4/",
+    "statusType": "FOR_RENT",
+    "statusText": "Atlas Residences",
+    "address": "223 Harvard Ave, Allston, MA",
+    "addressStreet": "223 Harvard Ave Apt 6",
+    "addressCity": "Allston",
+    "addressState": "MA",
+    "addressZipcode": "02134",
+    "units": [
+      {
+        "price": "$1,995+",
+        "beds": "0",
+        "roomForRent": false
+      },
+      {
+        "price": "$2,350+",
+        "beds": "1",
+        "roomForRent": false
+      },
+      {
+        "price": "$3,000+",
+        "beds": "2",
+        "roomForRent": false
+      }
+    ],
+    "lotId": 2738061251,
+    "latLong": {
+      "latitude": 42.349262,
+      "longitude": -71.13053
+    },
+    "isSaved": false,
+    "buildingName": "Atlas Residences",
+    "isBuilding": true,
+    "canSaveBuilding": true,
+    "has3DModel": false,
+    "isFeaturedListing": true,
+    "isShowcaseListing": false,
+    "list": true,
+    "relaxed": false,
+    "carouselPhotosComposable": {
+      "baseUrl": "https://photos.zillowstatic.com/fp/{photoKey}-p_e.jpg",
+      "communityBaseUrl": null,
+      "photoData": [
+        {
+          "photoKey": "38efa04648c72da0b4d0435c586db25c"
+        },
+        {
+          "photoKey": "e65edb17139b0e8a3673c0af6c202f9b"
+        },
+        {
+          "photoKey": "e0f11d7b153ecd170e42f11001e98218"
+        },
+        {
+          "photoKey": "69595a2d636c04f431cfe6b31b23180b"
+        },
+        {
+          "photoKey": "8ecc55a6ad6753ff1cd960b2a3d21e91"
+        },
+        {
+          "photoKey": "715044e29376cf097aca494479fe993e"
+        },
+        {
+          "photoKey": "35104b582384116f234d0ba01f1f0f7d"
+        }
+      ],
+      "communityPhotoData": null,
+      "isStaticUrls": false
+    },
+    "availabilityCount": 3,
+    "marketingTreatments": [
+      "trustedListing",
+      "paid",
+      "zillowRentalManager",
+      "multiFamilySalesListing",
+      "paidOrUnpaidMultifamily",
+      "paidMultifamily",
+      "multifamilyBasePackage"
+    ],
+    "listPriceIncludesRequiredMonthlyFees": false,
+    "isInstantTourEnabled": false,
+    "isContactable": true,
+    "isPaidBuilderNewConstruction": false
+  },
+  {
+    "zpid": "42.355236--71.13463",
+    "id": "42.355236--71.13463",
+    "providerListingId": "4svs932z7ed9u",
+    "imgSrc": "https://photos.zillowstatic.com/fp/ce412299c7f99eff4c4e7a47cd3a2cd2-p_e.jpg",
+    "hasImage": true,
+    "detailUrl": "/apartments/allston-ma/hamilton-union/5Xjwqv/",
+    "statusType": "FOR_RENT",
+    "statusText": "Hamilton Union",
+    "address": "435 Cambridge St, Allston, MA",
+    "addressStreet": "435 Cambridge St # 32",
+    "addressCity": "Allston",
+    "addressState": "MA",
+    "addressZipcode": "02134",
+    "units": [
+      {
+        "price": "$2,100+",
+        "beds": "1",
+        "roomForRent": false
+      },
+      {
+        "price": "$2,300+",
+        "beds": "2",
+        "roomForRent": false
+      },
+      {
+        "price": "$2,900+",
+        "beds": "3",
+        "roomForRent": false
+      }
+    ],
+    "lotId": 1001538337,
+    "latLong": {
+      "latitude": 42.355236,
+      "longitude": -71.13463
+    },
+    "isSaved": false,
+    "buildingName": "Hamilton Union",
+    "isBuilding": true,
+    "canSaveBuilding": true,
+    "has3DModel": false,
+    "isFeaturedListing": true,
+    "isShowcaseListing": false,
+    "list": true,
+    "relaxed": false,
+    "carouselPhotosComposable": {
+      "baseUrl": "https://photos.zillowstatic.com/fp/{photoKey}-p_e.jpg",
+      "communityBaseUrl": null,
+      "photoData": [
+        {
+          "photoKey": "ce412299c7f99eff4c4e7a47cd3a2cd2"
+        },
+        {
+          "photoKey": "cb91897b5037cc902187e07fb9b0353a"
+        },
+        {
+          "photoKey": "96c0e97a108d355f14ebd51524d9f949"
+        },
+        {
+          "photoKey": "141693657df719e6dd0887a614077bef"
+        },
+        {
+          "photoKey": "41125e423b8174e26d9962a5a942bb7e"
+        },
+        {
+          "photoKey": "68ea5531cf84db1c577d0586d379dcf7"
+        },
+        {
+          "photoKey": "1376b60edd031c9bfa9888612ffc8932"
+        },
+        {
+          "photoKey": "26da557e6ac5f2a24e80681c7f93b889"
+        },
+        {
+          "photoKey": "7f3b810e56031b6d4df13c7371adfbd6"
+        },
+        {
+          "photoKey": "c29dd645eebcb41da3f514c42c0140ee"
+        },
+        {
+          "photoKey": "36ebd5b123220ced268abb8f4403aa46"
+        },
+        {
+          "photoKey": "2948540421ae9117e18aed4c3fdc0920"
+        },
+        {
+          "photoKey": "26b382c418d3a82152b2f2c1a1547f30"
+        },
+        {
+          "photoKey": "cb5a481b43a9b1b8ddd2875ce356dbf9"
+        },
+        {
+          "photoKey": "09c26f8d8f7b1dccebec9a1ac800efcb"
+        },
+        {
+          "photoKey": "1118c856f9ee6df2b7829ab60ccc7b8f"
+        },
+        {
+          "photoKey": "159f17bd54bd91cb2c27bd939b2d4b55"
+        },
+        {
+          "photoKey": "159f17bd54bd91cb2c27bd939b2d4b55"
+        }
+      ],
+      "communityPhotoData": null,
+      "isStaticUrls": false
+    },
+    "availabilityCount": 6,
+    "marketingTreatments": [
+      "trustedListing",
+      "paid",
+      "multiFamilySalesListing",
+      "paidOrUnpaidMultifamily",
+      "paidMultifamily",
+      "multifamilyEnhancedPackage"
+    ],
+    "listPriceIncludesRequiredMonthlyFees": false,
+    "isInstantTourEnabled": false,
+    "isContactable": true,
+    "isPaidBuilderNewConstruction": false
+  },
+  {
+    "zpid": "42.353413--71.125374",
+    "id": "42.353413--71.125374",
+    "providerListingId": "2snysr4eekryj",
+    "imgSrc": "https://photos.zillowstatic.com/fp/7c6b52e990a5e92515f97e21e81baabf-p_e.jpg",
+    "hasImage": true,
+    "detailUrl": "/apartments/allston-ma/gardner-street-apartments/BhZhsN/",
+    "statusType": "FOR_RENT",
+    "statusText": "Gardner Street Apartments",
+    "address": "75-84 Gardner St, Allston, MA",
+    "addressStreet": "75-84 Gardner St   # 5B",
+    "addressCity": "Allston",
+    "addressState": "MA",
+    "addressZipcode": "02134",
+    "units": [
+      {
+        "price": "$2,200+",
+        "beds": "1",
+        "roomForRent": false
+      },
+      {
+        "price": "$2,450+",
+        "beds": "2",
+        "roomForRent": false
+      }
+    ],
+    "lotId": 2459183108,
+    "latLong": {
+      "latitude": 42.353413,
+      "longitude": -71.125374
+    },
+    "isSaved": false,
+    "buildingName": "Gardner Street Apartments",
+    "isBuilding": true,
+    "canSaveBuilding": true,
+    "has3DModel": false,
+    "isFeaturedListing": true,
+    "isShowcaseListing": false,
+    "list": true,
+    "relaxed": false,
+    "carouselPhotosComposable": {
+      "baseUrl": "https://photos.zillowstatic.com/fp/{photoKey}-p_e.jpg",
+      "communityBaseUrl": null,
+      "photoData": [
+        {
+          "photoKey": "7c6b52e990a5e92515f97e21e81baabf"
+        },
+        {
+          "photoKey": "fb7e63ecc8ea7b5083807aa7bee099c1"
+        },
+        {
+          "photoKey": "b8a356ab7f37797c0ea887bf68cfe168"
+        },
+        {
+          "photoKey": "db3d86052f415f3c40acf3d6088c0124"
+        },
+        {
+          "photoKey": "4c2a9c0fc4329bae0f0e5544726ea096"
+        },
+        {
+          "photoKey": "c20cd929ebc08bbfe73678e50f6ac998"
+        },
+        {
+          "photoKey": "f3abd9d8dcf503d0e22778df40ed8ef6"
+        },
+        {
+          "photoKey": "c758087ce60cdd205d33995a8011a930"
+        },
+        {
+          "photoKey": "174e25cbad9f0d6bf77c6b2d5aaf35df"
+        },
+        {
+          "photoKey": "c3463618553496403ec902fed710eb30"
+        },
+        {
+          "photoKey": "ddc8f09733ea9dcb74e6c576438370cd"
+        },
+        {
+          "photoKey": "358664e419632e22d5322379673c96d8"
+        },
+        {
+          "photoKey": "988db1dd75c5cdcd23f411420b39e284"
+        },
+        {
+          "photoKey": "7b33eb055667fd138b333f21368a63af"
+        },
+        {
+          "photoKey": "5155178b3707b0eccf7d880e25b2df4f"
+        },
+        {
+          "photoKey": "45913db48cf317752b1d932c21ac2c9a"
+        },
+        {
+          "photoKey": "67d1ef4be7336adc608719c97e7b741d"
+        },
+        {
+          "photoKey": "9bc897171877526d72b58d3227180e22"
+        },
+        {
+          "photoKey": "50e717bc2477803aea3425286d903c7f"
+        },
+        {
+          "photoKey": "06c2f1fcddf7236c5b7aa6748041dcff"
+        },
+        {
+          "photoKey": "d48caa79766dbef3d87e4cb41900d038"
+        },
+        {
+          "photoKey": "7f6d8ddba3df7788932114f8edcb0105"
+        },
+        {
+          "photoKey": "45bc7e4fe154c4c8a02ddb54a0cd3f80"
+        },
+        {
+          "photoKey": "7c7b825a4c6b836b5202e755a9bd4b0a"
+        },
+        {
+          "photoKey": "9fb1017cefa455da945097d6a310eee5"
+        },
+        {
+          "photoKey": "e2ce45c4f8e900c7722af9593e779e19"
+        },
+        {
+          "photoKey": "8cb0c0d415af8ff84fcc794181e4d4d0"
+        },
+        {
+          "photoKey": "63eefdec29e880a4693e27f92b5135cc"
+        },
+        {
+          "photoKey": "e05c1a2de7088e7d8532bde466b547d4"
+        },
+        {
+          "photoKey": "c89f4b22112d9ea9e1db0621cf4eff3d"
+        },
+        {
+          "photoKey": "448836f7e1fbed525d887199a2a21d6d"
+        },
+        {
+          "photoKey": "9cfd7d63c6f260eab22440b934a0b02b"
+        },
+        {
+          "photoKey": "5206f1aa686406076b1a4e8ced098e88"
+        },
+        {
+          "photoKey": "4f0c2f891225c8d9f89b19b83f165528"
+        },
+        {
+          "photoKey": "f2c683fc3ae2449f7fc0a79292cd5444"
+        },
+        {
+          "photoKey": "b8df4782678601cb53c288449cb635a6"
+        },
+        {
+          "photoKey": "ca2d4913722af3446cfd726fc1341ac6"
+        },
+        {
+          "photoKey": "af64cc4e43c0458e22f150d883f79716"
+        },
+        {
+          "photoKey": "ef56515222482dc02ef010acfa7d809a"
+        },
+        {
+          "photoKey": "10577ef14c51fd83bbab278567e6fef2"
+        },
+        {
+          "photoKey": "c00e6093d8e464a231a691a21d3f4f94"
+        },
+        {
+          "photoKey": "06f966b25eb431085a90f0af208e17ca"
+        },
+        {
+          "photoKey": "9a14682054f8f7b1dc549f4e333ef319"
+        },
+        {
+          "photoKey": "ae24c9bd9901eedb197345d5b4495826"
+        },
+        {
+          "photoKey": "fed68722a87da262862443064248b00a"
+        },
+        {
+          "photoKey": "b3d7d473d999e45d7a17a399cf301720"
+        },
+        {
+          "photoKey": "f0ecc7640404eee0f65d2e0fb6936b04"
+        },
+        {
+          "photoKey": "1bfa927c2daf6d9587c734e5c549a8e7"
+        },
+        {
+          "photoKey": "7abb1e5b4096f56133cef7084be0f022"
+        },
+        {
+          "photoKey": "2f24a5e46a66576a508d8578cf60e390"
+        },
+        {
+          "photoKey": "6772d8c73c08600e7c1c2df5e3b04a23"
+        },
+        {
+          "photoKey": "26971dfa7405d22fb21d3a4bad5f458b"
+        },
+        {
+          "photoKey": "ec7e960104e5eb0e38e6ae3825042aac"
+        },
+        {
+          "photoKey": "1a101dc3568abc8b4797753932eafb44"
+        },
+        {
+          "photoKey": "2bd93ec4ed866e5b78812e4563eed734"
+        },
+        {
+          "photoKey": "b04b7b0ea472bf2d01798e8598d8a26b"
+        },
+        {
+          "photoKey": "aff63e08a703bd39b5dc669201a4804b"
+        },
+        {
+          "photoKey": "aff63e08a703bd39b5dc669201a4804b"
+        }
+      ],
+      "communityPhotoData": null,
+      "isStaticUrls": false
+    },
+    "availabilityCount": 6,
+    "marketingTreatments": [
+      "trustedListing",
+      "paid",
+      "multiFamilySalesListing",
+      "paidOrUnpaidMultifamily",
+      "paidMultifamily"
+    ],
+    "listPriceIncludesRequiredMonthlyFees": false,
+    "isInstantTourEnabled": false,
+    "isContactable": true,
+    "isPaidBuilderNewConstruction": false
+  },
+  {
+    "zpid": "42.35364--71.13968",
+    "id": "42.35364--71.13968",
+    "providerListingId": "1z5ssq6jw6spt",
+    "imgSrc": "https://photos.zillowstatic.com/fp/3a32dc5f4318a5efddb8b8951a672839-p_e.jpg",
+    "hasImage": true,
+    "detailUrl": "/apartments/boston-ma/ttoren/CgHpfT/",
+    "statusType": "FOR_RENT",
+    "statusText": "Ttoren | Modern Living. Naturally.",
+    "address": "42 N Beacon St, Boston, MA",
+    "addressStreet": "42 N  Beacon St # 401",
+    "addressCity": "Boston",
+    "addressState": "MA",
+    "addressZipcode": "02108",
+    "units": [
+      {
+        "price": "$2,250+",
+        "beds": "0",
+        "roomForRent": false
+      },
+      {
+        "price": "$2,500+",
+        "beds": "1",
+        "roomForRent": false
+      },
+      {
+        "price": "$3,000+",
+        "beds": "3",
+        "roomForRent": false
+      },
+      {
+        "price": "$4,000+",
+        "beds": "4",
+        "roomForRent": false
+      }
+    ],
+    "lotId": 2734140341,
+    "latLong": {
+      "latitude": 42.35364,
+      "longitude": -71.13968
+    },
+    "listCardRecommendation": {
+      "flexFieldRecommendations": [
+        {
+          "displayString": "Well-equipped kitchen",
+          "contentType": "homeInsight"
+        },
+        {
+          "displayString": "Special Offer",
+          "contentType": "frSpecialOffer"
+        }
+      ]
+    },
+    "isSaved": false,
+    "buildingName": "Ttoren | Modern Living. Naturally.",
+    "isBuilding": true,
+    "canSaveBuilding": true,
+    "has3DModel": false,
+    "isFeaturedListing": true,
+    "isShowcaseListing": false,
+    "list": true,
+    "relaxed": false,
+    "carouselPhotosComposable": {
+      "baseUrl": "https://photos.zillowstatic.com/fp/{photoKey}-p_e.jpg",
+      "communityBaseUrl": null,
+      "photoData": [
+        {
+          "photoKey": "3a32dc5f4318a5efddb8b8951a672839"
+        },
+        {
+          "photoKey": "cc85db4e69d9dc34d28e425afee95087"
+        },
+        {
+          "photoKey": "e9a8657b8c06cbb4a624053a08d3fd03"
+        },
+        {
+          "photoKey": "30c52a6b477edc40c1b20906e58f4cc9"
+        },
+        {
+          "photoKey": "357874fc5d46accb0163f0903ca317e8"
+        },
+        {
+          "photoKey": "4b71104c7eeef7317c67eee8c4b09260"
+        },
+        {
+          "photoKey": "2078c4488e4f3bfdfbc86447d96c2d0b"
+        },
+        {
+          "photoKey": "79314681c3908d1c15a589da532fcae7"
+        },
+        {
+          "photoKey": "0c1cc5471f2fc739e8b718f63b801ca5"
+        },
+        {
+          "photoKey": "064383417b9577da2230238d17ab6783"
+        },
+        {
+          "photoKey": "4a0fffa8e168a87153602e3651ae286c"
+        },
+        {
+          "photoKey": "b299bc42a4e55aefe5705244699b102c"
+        },
+        {
+          "photoKey": "e151c93ed0567dbcceb5c010ddd00103"
+        },
+        {
+          "photoKey": "682ae9d4c3e77ee4880bbc8793af8f4b"
+        },
+        {
+          "photoKey": "6e132f6f2187756c0e5e8d189c1bda38"
+        },
+        {
+          "photoKey": "3dee5ec01242d37a7a4ba4b6238e773a"
+        },
+        {
+          "photoKey": "09d2c7b48dc56112cbce78a94efc517c"
+        },
+        {
+          "photoKey": "2d341f0840fe3489e1d38f228512675d"
+        },
+        {
+          "photoKey": "3f7f55fb33011c1b27c1d57dc38637c5"
+        },
+        {
+          "photoKey": "adc84a530ef8071eb5d71c17e561a4bc"
+        }
+      ],
+      "communityPhotoData": null,
+      "isStaticUrls": false
+    },
+    "availabilityCount": 9,
+    "marketingTreatments": [
+      "trustedListing",
+      "paid",
+      "multiFamilySalesListing",
+      "paidOrUnpaidMultifamily",
+      "paidMultifamily",
+      "multifamilyPinnaclePackage"
+    ],
+    "listPriceIncludesRequiredMonthlyFees": false,
+    "isInstantTourEnabled": false,
+    "isContactable": true,
+    "isPaidBuilderNewConstruction": false
+  },
+  {
+    "zpid": "42.35095--71.12958",
+    "id": "42.35095--71.12958",
+    "providerListingId": "1zmjuvh8kr443",
+    "imgSrc": "https://photos.zillowstatic.com/fp/cbefcdcbc416e17cd94c6f3a9b647a58-p_e.jpg",
+    "hasImage": true,
+    "detailUrl": "/apartments/allston-ma/1197-commonwealth/Ck3fHC/",
+    "statusType": "FOR_RENT",
+    "statusText": "1197 Commonwealth",
+    "address": "1197 Commonwealth Ave, Boston, MA",
+    "addressStreet": "1197 Commonwealth Ave  Apt 24",
+    "addressCity": "Boston",
+    "addressState": "MA",
+    "addressZipcode": "02134",
+    "units": [
+      {
+        "price": "$2,300+",
+        "beds": "0",
+        "roomForRent": false
+      },
+      {
+        "price": "$2,500+",
+        "beds": "1",
+        "roomForRent": false
+      },
+      {
+        "price": "$2,900+",
+        "beds": "2",
+        "roomForRent": false
+      },
+      {
+        "price": "$4,100+",
+        "beds": "3",
+        "roomForRent": false
+      }
+    ],
+    "lotId": 2750005204,
+    "latLong": {
+      "latitude": 42.35095,
+      "longitude": -71.12958
+    },
+    "isSaved": false,
+    "buildingName": "1197 Commonwealth",
+    "isBuilding": true,
+    "canSaveBuilding": true,
+    "has3DModel": false,
+    "isFeaturedListing": true,
+    "isShowcaseListing": false,
+    "list": true,
+    "relaxed": false,
+    "carouselPhotosComposable": {
+      "baseUrl": "https://photos.zillowstatic.com/fp/{photoKey}-p_e.jpg",
+      "communityBaseUrl": null,
+      "photoData": [
+        {
+          "photoKey": "cbefcdcbc416e17cd94c6f3a9b647a58"
+        },
+        {
+          "photoKey": "a053fe598c34e8172989060c5f7d94e1"
+        },
+        {
+          "photoKey": "7f3feba3e193ec9b283dcbd969745a9a"
+        },
+        {
+          "photoKey": "d2e189e123e3005a73f6574f920b017b"
+        },
+        {
+          "photoKey": "e965d6ca834493e389e378321cc9bae6"
+        },
+        {
+          "photoKey": "79d8b5474170d5a20777317b66556bbd"
+        },
+        {
+          "photoKey": "b2b0ecfd13eb4ed300c1cc889bdb66e4"
+        },
+        {
+          "photoKey": "62fcc7b98bf099d8c3ef17ea2951fbfa"
+        },
+        {
+          "photoKey": "ae47c3abc5eb8c1cbd6710ae040c5b8a"
+        },
+        {
+          "photoKey": "f0b3eb8c8ac04f318bd2362a8eba0ed8"
+        },
+        {
+          "photoKey": "49b5f015e4cad7b6ec029671651a0425"
+        },
+        {
+          "photoKey": "8138f3ea5842456925fb37ffc5ebe8e1"
+        },
+        {
+          "photoKey": "256ed8cb0a23f8c3fd048e14ca473fd9"
+        },
+        {
+          "photoKey": "e6f550be75e15936acd6f369ab101656"
+        },
+        {
+          "photoKey": "4c01809af807485422dbd33e176a1ba7"
+        },
+        {
+          "photoKey": "e0140864b37131548cce57c780fe9401"
+        },
+        {
+          "photoKey": "51db9b503a04d2a07800ff08667dde9c"
+        },
+        {
+          "photoKey": "ce79c2fcb838eed1f6ea12c37fec7aa8"
+        },
+        {
+          "photoKey": "fe0919be4964771b223c7179b31617be"
+        },
+        {
+          "photoKey": "59cbc4c85c11f5c23a43e2cc689a95ea"
+        },
+        {
+          "photoKey": "f182437268b7c0ae8de86bf987442b56"
+        },
+        {
+          "photoKey": "000c36c4b358d8c056143b503725105b"
+        }
+      ],
+      "communityPhotoData": null,
+      "isStaticUrls": false
+    },
+    "availabilityCount": 6,
+    "marketingTreatments": [
+      "trustedListing",
+      "paid",
+      "zillowRentalManager",
+      "multiFamilySalesListing",
+      "paidOrUnpaidMultifamily",
+      "paidMultifamily",
+      "multifamilyBasePackage"
+    ],
+    "listPriceIncludesRequiredMonthlyFees": false,
+    "isInstantTourEnabled": false,
+    "isContactable": true,
+    "isPaidBuilderNewConstruction": false
+  },
+  {
+    "zpid": "42.35446--71.13185",
+    "id": "42.35446--71.13185",
+    "providerListingId": "2schc18pnx04p",
+    "imgSrc": "https://photos.zillowstatic.com/fp/e5c6affdac71fbc8d95d725f88d3bfd3-p_e.jpg",
+    "hasImage": true,
+    "detailUrl": "/apartments/allston-ma/4-12-farrington/CkG5ry/",
+    "statusType": "FOR_RENT",
+    "statusText": "4-12 Farrington",
+    "address": "4-12 Farrington Ave, Allston, MA",
+    "addressStreet": "4-12 Farrington Ave # cc061e097",
+    "addressCity": "Allston",
+    "addressState": "MA",
+    "addressZipcode": "02134",
+    "units": [
+      {
+        "price": "$2,500+",
+        "beds": "1",
+        "roomForRent": false
+      },
+      {
+        "price": "$4,000+",
+        "beds": "3",
+        "roomForRent": false
+      },
+      {
+        "price": "$6,000+",
+        "beds": "5",
+        "roomForRent": false
+      }
+    ],
+    "lotId": 2751231124,
+    "latLong": {
+      "latitude": 42.35446,
+      "longitude": -71.13185
+    },
+    "isSaved": false,
+    "buildingName": "4-12 Farrington",
+    "isBuilding": true,
+    "canSaveBuilding": true,
+    "has3DModel": false,
+    "isFeaturedListing": true,
+    "isShowcaseListing": false,
+    "list": true,
+    "relaxed": false,
+    "carouselPhotosComposable": {
+      "baseUrl": "https://photos.zillowstatic.com/fp/{photoKey}-p_e.jpg",
+      "communityBaseUrl": null,
+      "photoData": [
+        {
+          "photoKey": "e5c6affdac71fbc8d95d725f88d3bfd3"
+        },
+        {
+          "photoKey": "7de8438a3b07cc2f0b858c948fbdd73f"
+        },
+        {
+          "photoKey": "c8240f19f9b84cce7472857778ac729a"
+        },
+        {
+          "photoKey": "8ef7cda0b4e675cdbb98c46740d994fe"
+        },
+        {
+          "photoKey": "d7d3d73b27bf99a1684b2c3fd0e60332"
+        },
+        {
+          "photoKey": "edefee022d72334585d73e0f27101153"
+        },
+        {
+          "photoKey": "521504cafb1e28d745a0daab25ab60b3"
+        },
+        {
+          "photoKey": "30dc0cfe6ed28a66e12c6dcfc8d01e5d"
+        },
+        {
+          "photoKey": "4c11454ecbd376c2320bc7dc39af4821"
+        },
+        {
+          "photoKey": "384ffd00a6da9ab4234611f841236db5"
+        },
+        {
+          "photoKey": "a0f48e596e8af78ec95a8e35790646ab"
+        }
+      ],
+      "communityPhotoData": null,
+      "isStaticUrls": false
+    },
+    "availabilityCount": 3,
+    "marketingTreatments": [
+      "trustedListing",
+      "paid",
+      "zillowRentalManager",
+      "multiFamilySalesListing",
+      "paidOrUnpaidMultifamily",
+      "paidMultifamily",
+      "multifamilyBasePackage"
+    ],
+    "listPriceIncludesRequiredMonthlyFees": false,
+    "isInstantTourEnabled": false,
+    "isContactable": true,
+    "isPaidBuilderNewConstruction": false
+  },
+  {
+    "zpid": "42.35169--71.123665",
+    "id": "42.35169--71.123665",
+    "providerListingId": "1dtde5gh5755j",
+    "imgSrc": "https://photos.zillowstatic.com/fp/dee1821bd5e93c1ab67df44c71eb61b8-p_e.jpg",
+    "hasImage": true,
+    "detailUrl": "/apartments/boston-ma/1082-commonwealth-ave/Ch6DjK/",
+    "statusType": "FOR_RENT",
+    "statusText": "1082 Commonwealth Ave",
+    "address": "1082 Commonwealth Ave, Boston, MA",
+    "addressStreet": "1082 Commonwealth Ave  Apt 103",
+    "addressCity": "Boston",
+    "addressState": "MA",
+    "addressZipcode": "02215",
+    "units": [
+      {
+        "price": "$2,600+",
+        "beds": "0",
+        "roomForRent": false
+      },
+      {
+        "price": "$3,000+",
+        "beds": "1",
+        "roomForRent": false
+      },
+      {
+        "price": "$3,400+",
+        "beds": "2",
+        "roomForRent": false
+      }
+    ],
+    "lotId": 2738776811,
+    "latLong": {
+      "latitude": 42.35169,
+      "longitude": -71.123665
+    },
+    "isSaved": false,
+    "buildingName": "1082 Commonwealth Ave",
+    "isBuilding": true,
+    "canSaveBuilding": true,
+    "has3DModel": false,
+    "isFeaturedListing": true,
+    "isShowcaseListing": false,
+    "list": true,
+    "relaxed": false,
+    "carouselPhotosComposable": {
+      "baseUrl": "https://photos.zillowstatic.com/fp/{photoKey}-p_e.jpg",
+      "communityBaseUrl": null,
+      "photoData": [
+        {
+          "photoKey": "dee1821bd5e93c1ab67df44c71eb61b8"
+        },
+        {
+          "photoKey": "a294dedcde429d23b012761e768a5e64"
+        },
+        {
+          "photoKey": "ace3137e91244e140fc524ea7c8c497b"
+        },
+        {
+          "photoKey": "4b525eab6718e6d9a9615d5490efd637"
+        },
+        {
+          "photoKey": "2b2945c7c2cf423f5d673f4776f07a0e"
+        },
+        {
+          "photoKey": "c2092ac9e5e29eb53ef0c6c881ae01d1"
+        },
+        {
+          "photoKey": "3547a611e0312840528c06d84270f3e8"
+        },
+        {
+          "photoKey": "b99b82610b2ba0b885cb5617a0cefb00"
+        },
+        {
+          "photoKey": "98784dedba6c966f21c1c3addc31f40b"
+        },
+        {
+          "photoKey": "89d89458f06407749c733dd461de5685"
+        },
+        {
+          "photoKey": "2e1efb77d7a2b88a8e979b94712d9de6"
+        },
+        {
+          "photoKey": "d446832dd3c08300dd4aa5532326dd23"
+        },
+        {
+          "photoKey": "04f27accb7b1db648a9533c3f1d81557"
+        },
+        {
+          "photoKey": "df709c260984b1fe79819ead225e9236"
+        },
+        {
+          "photoKey": "32a7670381b8f209c91af978c273e661"
+        },
+        {
+          "photoKey": "f76553503b017165ba0d3fd79be07460"
+        },
+        {
+          "photoKey": "3f9a5fff0bbdbe65239bb332266fa650"
+        },
+        {
+          "photoKey": "bb6fde2730a974e77c9e63899f29b7db"
+        },
+        {
+          "photoKey": "4aa23f65a2c1a01dd1ae3eef481542de"
+        },
+        {
+          "photoKey": "eaaafbb93c1ab3c68a12258314817e0e"
+        },
+        {
+          "photoKey": "631fca5eb3c99f28e4f69d270312dec8"
+        },
+        {
+          "photoKey": "7a187a04afed9967524c1a12e6300641"
+        },
+        {
+          "photoKey": "1cf1c4f7f094921aaf01572b1c505e14"
+        },
+        {
+          "photoKey": "220a66a02203d049373f12a96be1f961"
+        }
+      ],
+      "communityPhotoData": null,
+      "isStaticUrls": false
+    },
+    "availabilityCount": 5,
+    "marketingTreatments": [
+      "trustedListing",
+      "paid",
+      "zillowRentalManager",
+      "multiFamilySalesListing",
+      "paidOrUnpaidMultifamily",
+      "paidMultifamily",
+      "multifamilyBasePackage"
+    ],
+    "listPriceIncludesRequiredMonthlyFees": false,
+    "isInstantTourEnabled": false,
+    "isContactable": true,
+    "isPaidBuilderNewConstruction": false
+  },
+  {
+    "zpid": "42.363728--71.12163",
+    "id": "42.363728--71.12163",
+    "providerListingId": "3qf3q0v6qtqs1",
+    "imgSrc": "https://photos.zillowstatic.com/fp/14799160a5e66f5dcdf01c3ac8514d3a-p_e.jpg",
+    "hasImage": true,
+    "detailUrl": "/apartments/allston-ma/verra/CjPTZj/",
+    "statusType": "FOR_RENT",
+    "statusText": "Verra",
+    "address": "50 Western Ave, Allston, MA",
+    "addressStreet": "50 Western Ave # 1431H",
+    "addressCity": "Allston",
+    "addressState": "MA",
+    "addressZipcode": "02134",
+    "units": [
+      {
+        "price": "$2,786+",
+        "beds": "0",
+        "roomForRent": false
+      },
+      {
+        "price": "$3,461+",
+        "beds": "1",
+        "roomForRent": false
+      },
+      {
+        "price": "$4,776+",
+        "beds": "2",
+        "roomForRent": false
+      }
+    ],
+    "lotId": 2746337237,
+    "latLong": {
+      "latitude": 42.363728,
+      "longitude": -71.12163
+    },
+    "isSaved": false,
+    "buildingName": "Verra",
+    "isBuilding": true,
+    "canSaveBuilding": true,
+    "has3DModel": true,
+    "isFeaturedListing": true,
+    "isShowcaseListing": false,
+    "list": true,
+    "relaxed": false,
+    "carouselPhotosComposable": {
+      "baseUrl": "https://photos.zillowstatic.com/fp/{photoKey}-p_e.jpg",
+      "communityBaseUrl": null,
+      "photoData": [
+        {
+          "photoKey": "14799160a5e66f5dcdf01c3ac8514d3a"
+        },
+        {
+          "photoKey": "57a30d2abd0e8e93771114098d1feeee"
+        },
+        {
+          "photoKey": "8ef4c501c0bf64a7e036a19e488099d9"
+        },
+        {
+          "photoKey": "f31a01cc9faf9b11d8a1fe9b3b4cc902"
+        },
+        {
+          "photoKey": "718d9ad710ee91fbb61a44ae381ce3b6"
+        },
+        {
+          "photoKey": "d901452d4ff8fd029f78e15545c8fbc4"
+        },
+        {
+          "photoKey": "7de5bbe220cffdc8f79997fb44f5bca8"
+        },
+        {
+          "photoKey": "d0b06387332499a900f08d0129a33e82"
+        },
+        {
+          "photoKey": "e55aa2ac45a2ed989507b1b779b1652d"
+        },
+        {
+          "photoKey": "21cbabd98908043c17ba2c0bf08c6b15"
+        },
+        {
+          "photoKey": "f7cc54471c321daca529a4df9e704bf2"
+        },
+        {
+          "photoKey": "d606ca87b552b583173287c085540fd1"
+        },
+        {
+          "photoKey": "57ac5cf7f3699fdbe1ab4a462e183135"
+        },
+        {
+          "photoKey": "a80d4c0d9095fa575cc7ecf69d054744"
+        },
+        {
+          "photoKey": "a1b8e2401f466111181c8aa6037e13e2"
+        },
+        {
+          "photoKey": "a107a9172830fd49ee354d2b0aeb994b"
+        },
+        {
+          "photoKey": "6a076504063885cab7a153af5c4ee1a5"
+        },
+        {
+          "photoKey": "f0e3ae923a902530a776a795c36f7e3f"
+        },
+        {
+          "photoKey": "aea6e5d36376952715aa708615937537"
+        },
+        {
+          "photoKey": "b4e6f44867cfa08b607a638961ea71e5"
+        },
+        {
+          "photoKey": "68ff91e5bf0da74b976136133446fa03"
+        },
+        {
+          "photoKey": "3038c781cef2f479c6f4f9bb5ad4bfe4"
+        },
+        {
+          "photoKey": "6e25d1cd01e447c79251d5d1cb2391ab"
+        },
+        {
+          "photoKey": "87a1550f455e4558f4b31ff847de3b28"
+        },
+        {
+          "photoKey": "225f8a832bd62a08a70ac72fe561de47"
+        },
+        {
+          "photoKey": "ce1c117864e4bfd7682c000906733c31"
+        },
+        {
+          "photoKey": "9efdff043769ceeec23fc6f3c9c5320a"
+        },
+        {
+          "photoKey": "270b79fd4aefacbc9625dec7634ec57d"
+        },
+        {
+          "photoKey": "2477acb50161d6bbbfe303f8d18c3566"
+        },
+        {
+          "photoKey": "98ff6b85a42aeca8887bc27c55920c73"
+        },
+        {
+          "photoKey": "83030260cf9d693fb0cec72bb684f484"
+        },
+        {
+          "photoKey": "c4786f587209ebbe703ffc6a366af29b"
+        },
+        {
+          "photoKey": "6855703cfaf5bd21725efbc2f545000d"
+        },
+        {
+          "photoKey": "aace65127c7d7a4a5aa6ead90d4b62ba"
+        },
+        {
+          "photoKey": "b239a4e7204eb0af664f1fe62ec7fc6c"
+        },
+        {
+          "photoKey": "e1a730449e37732c8e851fe205784d9c"
+        },
+        {
+          "photoKey": "1b3427b6a88ccb1011d0269aa7736ab3"
+        },
+        {
+          "photoKey": "95a9eacff7f7c151c4f8825f1313170e"
+        },
+        {
+          "photoKey": "a78ec4ca71dd28fd1a3cb3ecb6ba766e"
+        },
+        {
+          "photoKey": "a712bbd79720b3a2b13c5e62fa1e1401"
+        },
+        {
+          "photoKey": "807421198068e2a95e02827594d1ef76"
+        },
+        {
+          "photoKey": "5986e91f5927c5d83d226eb317f44ef3"
+        },
+        {
+          "photoKey": "1968973a762c16370ffc523ca1c4b99e"
+        },
+        {
+          "photoKey": "d3148c0febec2fdddb72c4777225cab2"
+        },
+        {
+          "photoKey": "1d25c8b6bbede1f1e96a0b6e308ce078"
+        },
+        {
+          "photoKey": "c22ea320d5e4a6bcbe9f2891d823e2af"
+        }
+      ],
+      "communityPhotoData": null,
+      "isStaticUrls": false
+    },
+    "availabilityCount": 104,
+    "marketingTreatments": [
+      "trustedListing",
+      "paid",
+      "multiFamilySalesListing",
+      "paidOrUnpaidMultifamily",
+      "paidMultifamily",
+      "multifamilyPayPerLease"
+    ],
+    "listPriceIncludesRequiredMonthlyFees": true,
+    "minBaseRent": 2786,
+    "maxBaseRent": 6241,
+    "isInstantTourEnabled": true,
+    "isContactable": true,
+    "isPaidBuilderNewConstruction": false
+  },
+  {
+    "zpid": "42.356342--71.13442",
+    "id": "42.356342--71.13442",
+    "providerListingId": "1j6xaqzuvfbq3",
+    "imgSrc": "https://photos.zillowstatic.com/fp/15b5d2f3ddf83bc9fe5de55e9e157d47-p_e.jpg",
+    "hasImage": true,
+    "detailUrl": "/apartments/allston-ma/the-indie/CgHFDC/",
+    "statusType": "FOR_RENT",
+    "statusText": "The Indie",
+    "address": "35 Braintree St, Allston, MA",
+    "addressStreet": "35 Braintree St # 721",
+    "addressCity": "Allston",
+    "addressState": "MA",
+    "addressZipcode": "02134",
+    "units": [
+      {
+        "price": "$2,795+",
+        "beds": "0",
+        "roomForRent": false
+      },
+      {
+        "price": "$3,292+",
+        "beds": "1",
+        "roomForRent": false
+      },
+      {
+        "price": "$5,365+",
+        "beds": "2",
+        "roomForRent": false
+      },
+      {
+        "price": "$5,365+",
+        "beds": "3",
+        "roomForRent": false
+      }
+    ],
+    "lotId": 2734072021,
+    "latLong": {
+      "latitude": 42.356342,
+      "longitude": -71.13442
+    },
+    "isSaved": false,
+    "buildingName": "The Indie",
+    "isBuilding": true,
+    "canSaveBuilding": true,
+    "has3DModel": false,
+    "isFeaturedListing": true,
+    "isShowcaseListing": false,
+    "list": true,
+    "relaxed": false,
+    "carouselPhotosComposable": {
+      "baseUrl": "https://photos.zillowstatic.com/fp/{photoKey}-p_e.jpg",
+      "communityBaseUrl": null,
+      "photoData": [
+        {
+          "photoKey": "15b5d2f3ddf83bc9fe5de55e9e157d47"
+        },
+        {
+          "photoKey": "80a25508e79473a0d0f95aafa2f6baf4"
+        },
+        {
+          "photoKey": "6e58aa20c18e8ba5f0adb3e80c739eae"
+        },
+        {
+          "photoKey": "92163f102bbb2696b9e22d2b87543ec9"
+        },
+        {
+          "photoKey": "7a6a726f6e841c3e3e8111233c5a8297"
+        },
+        {
+          "photoKey": "9600caef52ef5bfdb39adbd454dd1a23"
+        },
+        {
+          "photoKey": "b42e9642f3dfa0d78b161247712b536f"
+        },
+        {
+          "photoKey": "2b79489236c4c5fced36e259bd3f5bf4"
+        },
+        {
+          "photoKey": "05cac8df75dbbb846c60a08970c5acfd"
+        },
+        {
+          "photoKey": "279f7466af6613343291e646c363dcf0"
+        },
+        {
+          "photoKey": "37bda555c8bedc987bf2fcb648e3cd9e"
+        },
+        {
+          "photoKey": "bb2e1170f4a8f598a19059b7e60cfc10"
+        },
+        {
+          "photoKey": "0aba0e32aa6ce28816dd52dd7b9ca54f"
+        },
+        {
+          "photoKey": "b9d0b441e352a13f32a2342c19fd77c8"
+        },
+        {
+          "photoKey": "dc3cd82182fe74e87db6c2536c0d3952"
+        },
+        {
+          "photoKey": "d8b97893058a755c4cb8a1f966f0d4d8"
+        },
+        {
+          "photoKey": "5857bc3542b9230241c3e7aa08ad20af"
+        },
+        {
+          "photoKey": "c56b9f0ff37f36d44637024e7fcb4f45"
+        },
+        {
+          "photoKey": "85d227fc97889a1fa35307a8bf711e2d"
+        },
+        {
+          "photoKey": "9ed927962411e9cb0f9642df86f7cdd4"
+        },
+        {
+          "photoKey": "5c9ed0c1a51b4651f25583916c984336"
+        },
+        {
+          "photoKey": "d098c17bb5654638715856928efdcfb7"
+        },
+        {
+          "photoKey": "3135f497dc07df61c9bf693b97cef0fc"
+        },
+        {
+          "photoKey": "2be30619d3414134bacb68dcad014ef9"
+        },
+        {
+          "photoKey": "a421779d9f41234498cb67567811d9e7"
+        },
+        {
+          "photoKey": "d1cdf8290352ca5d2e640a2718e85782"
+        },
+        {
+          "photoKey": "f23c48c2c9f9e95417fd26d8496759a6"
+        },
+        {
+          "photoKey": "83dc2a6fa4cc819c9ce66648348611c0"
+        },
+        {
+          "photoKey": "3b914c6dfee81a10985097c0f95ef699"
+        },
+        {
+          "photoKey": "cf7d1dcd27bf280d88940b51b3f14a82"
+        },
+        {
+          "photoKey": "fc1b6435d58015a6682c0accf5dd3fac"
+        },
+        {
+          "photoKey": "7592cf62967b8a74b7abfd94d4671877"
+        },
+        {
+          "photoKey": "2718a1b5c27073f6ffdfa29533825d18"
+        },
+        {
+          "photoKey": "03ef6beac436e5b2569af788b7e0000a"
+        },
+        {
+          "photoKey": "f53599a9cac405a041ec399ff7576131"
+        },
+        {
+          "photoKey": "60db52ffae35395213e333c9f7d21931"
+        },
+        {
+          "photoKey": "74b00a72d79d503180dc6fc50990a14c"
+        },
+        {
+          "photoKey": "314b4e125beb76acfd2908542c288266"
+        },
+        {
+          "photoKey": "77e4a0dfe4af89c0f896f545208312e1"
+        },
+        {
+          "photoKey": "2b858319ccd655cf26831ec528b9c4a0"
+        },
+        {
+          "photoKey": "5a71c65418cac2a9bdd0f9a99fd9c56a"
+        },
+        {
+          "photoKey": "5fa215da836b6a53da1b399c6580c1ca"
+        },
+        {
+          "photoKey": "0014a5a6d73a5e0d3e4bb256cdfdacb7"
+        },
+        {
+          "photoKey": "a17ec1a0049d4f25c86aa4b4420a9fee"
+        },
+        {
+          "photoKey": "721eb83482131ae8749ea425e31f2c24"
+        },
+        {
+          "photoKey": "8343272207cdae578418ecea507a8b3f"
+        },
+        {
+          "photoKey": "54bcc4150ef5c234d9b09dd15d76f333"
+        },
+        {
+          "photoKey": "a07fea210abeb32ac9a34f542ce1d3c1"
+        },
+        {
+          "photoKey": "fc35994880a37e32a6b6f2c1edff1899"
+        },
+        {
+          "photoKey": "be50b6d14fc611a40c107f90252b542d"
+        },
+        {
+          "photoKey": "19577200676928fabed7c9d0ab9172bc"
+        },
+        {
+          "photoKey": "929d426cb1803441d404c3b2c327face"
+        },
+        {
+          "photoKey": "273c9e75018199034520c0d8e12c67e7"
+        },
+        {
+          "photoKey": "5a2442fdc54d453209bd1997720e63e7"
+        },
+        {
+          "photoKey": "835baee947acd87f5470ace168585c05"
+        },
+        {
+          "photoKey": "db2c247319935967f2963cc392e7f969"
+        },
+        {
+          "photoKey": "3a1dc41408b42ab376d39efa1a1971cf"
+        },
+        {
+          "photoKey": "8c3ff6aa26ad618c26c6afac44b75b6b"
+        },
+        {
+          "photoKey": "a0a552800dbfefa4db5cb46e93c87e2a"
+        },
+        {
+          "photoKey": "6b4fd8ecc1a0df358731026b43960b4e"
+        },
+        {
+          "photoKey": "2e77da3e84920ccb255b3e17772cc85d"
+        },
+        {
+          "photoKey": "8d22df1b02685f765f729af6ec9f5c1e"
+        },
+        {
+          "photoKey": "9c066e8e10ca7dd05593f3e1bc44132b"
+        },
+        {
+          "photoKey": "bedb9f9d4278615a8f1e97f8165094ae"
+        },
+        {
+          "photoKey": "0a7d15a25a03ccd1595fe58809c81a0f"
+        },
+        {
+          "photoKey": "cba6b7ab0a2e3689a99b02f39739f76b"
+        },
+        {
+          "photoKey": "e038b11a55b1138c1945ebeaca70f6c2"
+        },
+        {
+          "photoKey": "0b1a538f349d51e9c208ca9132dbc7f2"
+        },
+        {
+          "photoKey": "d11e4d5c6b075cc7c1a7b5224eac4adb"
+        },
+        {
+          "photoKey": "563afa1d7911d599d4e2cc7416e53b87"
+        },
+        {
+          "photoKey": "46b306d8e7f719fc1abaa731fbeba2d2"
+        },
+        {
+          "photoKey": "c55cfaaffd941117e8989fa4f69f9f86"
+        },
+        {
+          "photoKey": "3cc656d9bf0529fd3b7ef8c5a36ab28d"
+        },
+        {
+          "photoKey": "0deb5b524deddcb43e7ca861dc561185"
+        },
+        {
+          "photoKey": "e8b8544b5c39241e7e592dee1d282e92"
+        },
+        {
+          "photoKey": "bb83017885a6d3c0af8a26119f46293e"
+        },
+        {
+          "photoKey": "40d984df909e759ad014e6a445df7a5f"
+        },
+        {
+          "photoKey": "0309ce791a33f728d0c96deba40725fc"
+        },
+        {
+          "photoKey": "667dba966aae768fae1b4d1a3b3af2e3"
+        },
+        {
+          "photoKey": "5785c741330889a7363d60b0c47a6131"
+        },
+        {
+          "photoKey": "09acea8ede8155f2dbe80f8dccaa878f"
+        },
+        {
+          "photoKey": "0404ee9d97c6dce36d573fe989ded929"
+        },
+        {
+          "photoKey": "b2377282452ef20f7183dd5710e10307"
+        },
+        {
+          "photoKey": "edf53f8f7980ee27bd36370eebca6263"
+        },
+        {
+          "photoKey": "70106f9498ae15f177c2f8eea76b84e0"
+        },
+        {
+          "photoKey": "632a3998dadddff32c18efee6120cc64"
+        },
+        {
+          "photoKey": "27fd3b87d88e1d123071e924c2daa7f9"
+        },
+        {
+          "photoKey": "9ca3d14d5f74cc4c93eaa7423eaa86ac"
+        },
+        {
+          "photoKey": "5d1f25c319981084926fa0cfcf6739c8"
+        },
+        {
+          "photoKey": "f3135bd566653a93fced5c397169614d"
+        },
+        {
+          "photoKey": "56cb42d45bfaa4362ba2568f2a89ce29"
+        },
+        {
+          "photoKey": "08f4dbf0035785b6d247598f9376379f"
+        },
+        {
+          "photoKey": "f39518aa88daa82c21736fd95ea98a8e"
+        },
+        {
+          "photoKey": "9762f2f6f047fccbe413612e1a36f9b8"
+        }
+      ],
+      "communityPhotoData": null,
+      "isStaticUrls": false
+    },
+    "availabilityCount": 17,
+    "marketingTreatments": [
+      "trustedListing",
+      "paid",
+      "multiFamilySalesListing",
+      "paidOrUnpaidMultifamily",
+      "paidMultifamily"
+    ],
+    "listPriceIncludesRequiredMonthlyFees": true,
+    "minBaseRent": 2795,
+    "maxBaseRent": 6385,
+    "isInstantTourEnabled": false,
+    "isContactable": true,
+    "isPaidBuilderNewConstruction": false
+  },
+  {
+    "zpid": "42.35126--71.1265",
+    "id": "42.35126--71.1265",
+    "providerListingId": "4ph0w2n3hctv6",
+    "imgSrc": "https://photos.zillowstatic.com/fp/74989abdabe9d535f873537fb9fea6eb-p_e.jpg",
+    "hasImage": true,
+    "detailUrl": "/apartments/allston-ma/commonwealth-gardens/CjZXtk/",
+    "statusType": "FOR_RENT",
+    "statusText": "Commonwealth Gardens",
+    "address": "1131 Commonwealth Ave, Allston, MA",
+    "addressStreet": "1131 Commonwealth Ave  Apt 2",
+    "addressCity": "Allston",
+    "addressState": "MA",
+    "addressZipcode": "02134",
+    "units": [
+      {
+        "price": "$3,250+",
+        "beds": "3",
+        "roomForRent": false
+      }
+    ],
+    "lotId": 2747404017,
+    "latLong": {
+      "latitude": 42.35126,
+      "longitude": -71.1265
+    },
+    "isSaved": false,
+    "buildingName": "Commonwealth Gardens",
+    "isBuilding": true,
+    "canSaveBuilding": true,
+    "has3DModel": false,
+    "isFeaturedListing": true,
+    "isShowcaseListing": false,
+    "list": true,
+    "relaxed": false,
+    "carouselPhotosComposable": {
+      "baseUrl": "https://photos.zillowstatic.com/fp/{photoKey}-p_e.jpg",
+      "communityBaseUrl": null,
+      "photoData": [
+        {
+          "photoKey": "74989abdabe9d535f873537fb9fea6eb"
+        },
+        {
+          "photoKey": "3061158beac5112db064b8cbd78b8817"
+        },
+        {
+          "photoKey": "2c495b63d38de487d72548c9055e6a89"
+        },
+        {
+          "photoKey": "e128a85eb4289d2328c83f4be5ebce28"
+        },
+        {
+          "photoKey": "1d89dd2e05ed33d4203a7e5b8505730a"
+        },
+        {
+          "photoKey": "27f17b75a28654eeb3cd15492449b0d8"
+        },
+        {
+          "photoKey": "d1a7aea104abc744d99ca8f658a24eb7"
+        },
+        {
+          "photoKey": "c3a2adbff87d995df8e44ec0febaa544"
+        },
+        {
+          "photoKey": "b141250c42671ae97099556956de57bb"
+        },
+        {
+          "photoKey": "21a1b062626cb04a62386d72c3e08687"
+        },
+        {
+          "photoKey": "4728a735a23fa795a9c99956b0300a35"
+        },
+        {
+          "photoKey": "6506f087ffc7df5a5b63f59146c94fd8"
+        },
+        {
+          "photoKey": "33d4bfebdbc9884cdb8e02ce733bf479"
+        },
+        {
+          "photoKey": "0912294c9fb3acfcea06b38eac49ae1a"
+        },
+        {
+          "photoKey": "cdfb05847883aaedd397c3e786844ddb"
+        },
+        {
+          "photoKey": "fd99a276c671d46ff33daed296628cf8"
+        },
+        {
+          "photoKey": "9973e3a6d76e60a881090833304d0d76"
+        },
+        {
+          "photoKey": "8c062041ead34ae14f43d299f73c1370"
+        },
+        {
+          "photoKey": "1e3f8882270e6541613d8f5c7759b19e"
+        },
+        {
+          "photoKey": "ef0be023804acc9f0c50ad6324fe07d9"
+        },
+        {
+          "photoKey": "bf8254e53bb5588ce297cd0c85ab0ed9"
+        },
+        {
+          "photoKey": "26b6b1d10f3926c1d038176db4e8c72c"
+        },
+        {
+          "photoKey": "f7b0daba047450c2f79f74ef4514532e"
+        },
+        {
+          "photoKey": "92c055e74ee0323f07daaa7071a2a1df"
+        },
+        {
+          "photoKey": "592e07bd05dd250fc86cfcda1ba47bcd"
+        },
+        {
+          "photoKey": "48f32e4cf9a4b0f1bf5551adec71f332"
+        },
+        {
+          "photoKey": "c17de811c690280ab0c3ea334b0abb5f"
+        },
+        {
+          "photoKey": "0045e4289d8c26fbf1a30544c8425ab2"
+        },
+        {
+          "photoKey": "2a95a0c2533d81f2fe2efe8494b804d7"
+        },
+        {
+          "photoKey": "952868c44ef3f111d3739fef170ea618"
+        },
+        {
+          "photoKey": "273b404a1018df3cdddc67aeb6532a7e"
+        },
+        {
+          "photoKey": "45e854c3e50da04835ee95bd4ba9d25d"
+        },
+        {
+          "photoKey": "1faf3d3d181157535fc58f64429213a1"
+        },
+        {
+          "photoKey": "bbefd7f151ddc7666d83bddf1e27b89f"
+        },
+        {
+          "photoKey": "bd10644d70dde3dba20c168a65aa1a35"
+        },
+        {
+          "photoKey": "b73509870a7c1df02eb75f2767ab02de"
+        },
+        {
+          "photoKey": "93d2f93b877f1f5dfbd5baa3f4776a31"
+        },
+        {
+          "photoKey": "33c8bad7fb5624e5ec5d1d909c36cd4d"
+        },
+        {
+          "photoKey": "4c0a4d57c721e155296b2a7c92323cb1"
+        },
+        {
+          "photoKey": "c34aaa5a758fca8e47db86dfd85e6615"
+        },
+        {
+          "photoKey": "c829ceab15903959e0ff3310119ddba6"
+        },
+        {
+          "photoKey": "9cebd53584f3987334b6dd76c657d37d"
+        },
+        {
+          "photoKey": "77e11f9933f81790d503f4d65dff4f31"
+        },
+        {
+          "photoKey": "94401d1246cd858a2b49f0bf40098f06"
+        },
+        {
+          "photoKey": "2afbda8f478fdacd6f8f2b4c5a5272c0"
+        },
+        {
+          "photoKey": "dca3d7796168d268dae2b7ce67e44ffd"
+        },
+        {
+          "photoKey": "80673475936bdf21788c494d669cbbc1"
+        },
+        {
+          "photoKey": "5a533592ff6badafa6eee3cbae063ff1"
+        },
+        {
+          "photoKey": "01be67590257becfd270109ae023a41f"
+        },
+        {
+          "photoKey": "01be67590257becfd270109ae023a41f"
+        }
+      ],
+      "communityPhotoData": null,
+      "isStaticUrls": false
+    },
+    "availabilityCount": 3,
+    "marketingTreatments": [
+      "trustedListing",
+      "paid",
+      "multiFamilySalesListing",
+      "paidOrUnpaidMultifamily",
+      "paidMultifamily"
+    ],
+    "listPriceIncludesRequiredMonthlyFees": false,
+    "isInstantTourEnabled": false,
+    "isContactable": true,
+    "isPaidBuilderNewConstruction": false
+  },
+  {
+    "zpid": "42.352787--71.12451",
+    "id": "42.352787--71.12451",
+    "providerListingId": "5a64bybny416t",
+    "imgSrc": "https://photos.zillowstatic.com/fp/9b631b622fb79af03829ace07ee653d0-p_e.jpg",
+    "hasImage": true,
+    "detailUrl": "/apartments/boston-ma/atrium-on-commonwealth/5XjM9Q/",
+    "statusType": "FOR_RENT",
+    "statusText": "Atrium On Commonwealth",
+    "address": "1079 Commonwealth Ave, Boston, MA",
+    "addressStreet": "1079 Commonwealth Ave  Apt 454",
+    "addressCity": "Boston",
+    "addressState": "MA",
+    "addressZipcode": "02215",
+    "units": [
+      {
+        "price": "$3,650+",
+        "beds": "2",
+        "roomForRent": false
+      }
+    ],
+    "lotId": 1001469468,
+    "latLong": {
+      "latitude": 42.352787,
+      "longitude": -71.12451
+    },
+    "isSaved": false,
+    "buildingName": "Atrium On Commonwealth",
+    "isBuilding": true,
+    "canSaveBuilding": true,
+    "has3DModel": false,
+    "isFeaturedListing": true,
+    "isShowcaseListing": false,
+    "list": true,
+    "relaxed": false,
+    "carouselPhotosComposable": {
+      "baseUrl": "https://photos.zillowstatic.com/fp/{photoKey}-p_e.jpg",
+      "communityBaseUrl": null,
+      "photoData": [
+        {
+          "photoKey": "9b631b622fb79af03829ace07ee653d0"
+        },
+        {
+          "photoKey": "4be8b923e79f86cade696a93ab39d0d7"
+        },
+        {
+          "photoKey": "89d643942b77e4fa19ad7da1741f4576"
+        },
+        {
+          "photoKey": "fa253966abb23fdaf80d98516d1d593d"
+        },
+        {
+          "photoKey": "9f32c33309cd0a5d336e48713935aa4a"
+        },
+        {
+          "photoKey": "9c1577643cb70ab57f7826a035d66a20"
+        },
+        {
+          "photoKey": "07e0528861d9e32d691eaaa6899a7867"
+        },
+        {
+          "photoKey": "3a23184ed237daa4e3d425c1c9ba05db"
+        },
+        {
+          "photoKey": "8429aadbd5b569b154c187a5bf28915d"
+        },
+        {
+          "photoKey": "21066aa672b9c1cf3cbb7ecfc49c3b63"
+        },
+        {
+          "photoKey": "56f72ab43f4277d7fb7e8aa4e12d170b"
+        },
+        {
+          "photoKey": "450f86ac162dab34a07aacc551ca39a3"
+        },
+        {
+          "photoKey": "6207c332c99fccd13d20134542f22411"
+        },
+        {
+          "photoKey": "7d7eaba5063926cf1a3be60e111acc76"
+        },
+        {
+          "photoKey": "a53318e314f4392bc7db671ac981d5da"
+        },
+        {
+          "photoKey": "5fa35f538d469d1f64f29c127720e89e"
+        },
+        {
+          "photoKey": "285591eec0534c0c297686580f1b0886"
+        },
+        {
+          "photoKey": "c02242f5e0c3ca19c964a6d4c6b2dcc1"
+        },
+        {
+          "photoKey": "353c0a936ae75cf8930dc728140a9f9c"
+        },
+        {
+          "photoKey": "cd3d85eb1956048d8e79d54ab47f2d00"
+        },
+        {
+          "photoKey": "0e4a192684aa2db921a0c4d7014e3b6c"
+        },
+        {
+          "photoKey": "8dee3da4fd656ca5336ea7082e834a4b"
+        },
+        {
+          "photoKey": "032240e0b95b9ee503272e559ee6b43b"
+        },
+        {
+          "photoKey": "75fcac6c156bef171256221d36a25892"
+        },
+        {
+          "photoKey": "6d7978e4e5edd954c9b0fba2917f62ec"
+        },
+        {
+          "photoKey": "3cdca2500b04b257a317b4aa50296dcf"
+        },
+        {
+          "photoKey": "841886c897c0669c6c55972c29029272"
+        },
+        {
+          "photoKey": "78edff20175b084172e370917c6ce610"
+        },
+        {
+          "photoKey": "1bd821dc6ca96ab006ce1f6780b115b7"
+        },
+        {
+          "photoKey": "4d37d84131750f4637d5a2d695dab931"
+        },
+        {
+          "photoKey": "b4e8970bb13625c4966254fddb2fc3be"
+        },
+        {
+          "photoKey": "88244968120a2eb159c3b86fc15dfa3b"
+        },
+        {
+          "photoKey": "4846a8c28ed9699f9d50716867dec6f6"
+        },
+        {
+          "photoKey": "9d4c8b568b9351942124dea696f31610"
+        },
+        {
+          "photoKey": "b4e8970bb13625c4966254fddb2fc3be"
+        }
+      ],
+      "communityPhotoData": null,
+      "isStaticUrls": false
+    },
+    "availabilityCount": 5,
+    "marketingTreatments": [
+      "trustedListing",
+      "paid",
+      "multiFamilySalesListing",
+      "paidOrUnpaidMultifamily",
+      "paidMultifamily"
+    ],
+    "listPriceIncludesRequiredMonthlyFees": false,
+    "isInstantTourEnabled": false,
+    "isContactable": true,
+    "isPaidBuilderNewConstruction": false
+  },
+  {
+    "zpid": "42.353382--71.13034",
+    "id": "42.353382--71.13034",
+    "providerListingId": "5bbd60kb8hzxx",
+    "imgSrc": "https://photos.zillowstatic.com/fp/b10afa7f4683be6de9833d7e4b5b0b8d-p_e.jpg",
+    "hasImage": true,
+    "detailUrl": "/apartments/allston-ma/25-gardner/CjrwTP/",
+    "statusType": "FOR_RENT",
+    "statusText": "25 Gardner",
+    "address": "25 Gardner St, Allston, MA",
+    "addressStreet": "25 Gardner St # 5",
+    "addressCity": "Allston",
+    "addressState": "MA",
+    "addressZipcode": "02134",
+    "units": [
+      {
+        "price": "$5,400+",
+        "beds": "3",
+        "roomForRent": false
+      },
+      {
+        "price": "$5,400+",
+        "beds": "4",
+        "roomForRent": false
+      }
+    ],
+    "lotId": 2748978076,
+    "latLong": {
+      "latitude": 42.353382,
+      "longitude": -71.13034
+    },
+    "isSaved": false,
+    "buildingName": "25 Gardner",
+    "isBuilding": true,
+    "canSaveBuilding": true,
+    "has3DModel": false,
+    "isFeaturedListing": true,
+    "isShowcaseListing": false,
+    "list": true,
+    "relaxed": false,
+    "carouselPhotosComposable": {
+      "baseUrl": "https://photos.zillowstatic.com/fp/{photoKey}-p_e.jpg",
+      "communityBaseUrl": null,
+      "photoData": [
+        {
+          "photoKey": "b10afa7f4683be6de9833d7e4b5b0b8d"
+        },
+        {
+          "photoKey": "80e9f82df5040f1d04e032f48b441bd1"
+        },
+        {
+          "photoKey": "1ad9afc9c1144b2f0e7e8414c13b68a8"
+        },
+        {
+          "photoKey": "5e783facc1e7f2da8476817ed69c21b8"
+        },
+        {
+          "photoKey": "5c8ae3fe4c2ea208a10d0fc84145ecd6"
+        },
+        {
+          "photoKey": "2e16aa1ea5f90fdd37fe178d33599ac4"
+        },
+        {
+          "photoKey": "9014061e5a9c70eeb298ea63f2ab6cc0"
+        },
+        {
+          "photoKey": "b30f9112e3b30b359ddb98ce4c6a69a1"
+        },
+        {
+          "photoKey": "dfdca4ac662f844e14dd61dfad6bce64"
+        },
+        {
+          "photoKey": "c67e5d6c9d087a92ae52b52e466fcc77"
+        },
+        {
+          "photoKey": "95c751f569f3057eaeea9951ea3c9f26"
+        },
+        {
+          "photoKey": "9dcb4ad24aa4da73c58f8b32393b7ad6"
+        },
+        {
+          "photoKey": "5ec203c77e8328ab8f48ccd4252a8bf8"
+        },
+        {
+          "photoKey": "9a7ac070082fd749c2ef94c7760708a5"
+        },
+        {
+          "photoKey": "bb79081b62bea1b634d4f03d69917088"
+        }
+      ],
+      "communityPhotoData": null,
+      "isStaticUrls": false
+    },
+    "availabilityCount": 2,
+    "marketingTreatments": [
+      "trustedListing",
+      "paid",
+      "zillowRentalManager",
+      "multiFamilySalesListing",
+      "paidOrUnpaidMultifamily",
+      "paidMultifamily",
+      "multifamilyBasePackage"
+    ],
+    "listPriceIncludesRequiredMonthlyFees": false,
+    "isInstantTourEnabled": false,
+    "isContactable": true,
+    "isPaidBuilderNewConstruction": false
+  }
+]

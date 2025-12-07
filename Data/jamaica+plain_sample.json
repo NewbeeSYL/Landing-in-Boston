@@ -1,0 +1,1817 @@
+[
+  {
+    "zpid": "42.330517--71.11178",
+    "id": "42.330517--71.11178",
+    "providerListingId": "4e3f9rdhzt7yn",
+    "imgSrc": "https://photos.zillowstatic.com/fp/594d2e790027be0e9963d8ca7d09be62-p_e.jpg",
+    "hasImage": true,
+    "detailUrl": "/b/61-s-huntington-ave-jamaica-plain-ma-5XjB3h/",
+    "statusType": "FOR_RENT",
+    "statusText": "For Rent",
+    "address": "61 S Huntington Ave, Boston, MA",
+    "addressStreet": "61 S  Huntington Ave  Apt 103",
+    "addressCity": "Boston",
+    "addressState": "MA",
+    "addressZipcode": "02130",
+    "units": [
+      {
+        "price": "$2,050+",
+        "beds": "0",
+        "roomForRent": false
+      },
+      {
+        "price": "$3,200+",
+        "beds": "2",
+        "roomForRent": false
+      }
+    ],
+    "lotId": 1001447579,
+    "latLong": {
+      "latitude": 42.330517,
+      "longitude": -71.11178
+    },
+    "isSaved": false,
+    "isBuilding": true,
+    "canSaveBuilding": false,
+    "has3DModel": false,
+    "isFeaturedListing": true,
+    "isShowcaseListing": false,
+    "list": true,
+    "relaxed": false,
+    "carouselPhotosComposable": {
+      "baseUrl": "https://photos.zillowstatic.com/fp/{photoKey}-p_e.jpg",
+      "communityBaseUrl": null,
+      "photoData": [
+        {
+          "photoKey": "594d2e790027be0e9963d8ca7d09be62"
+        },
+        {
+          "photoKey": "fdf9844e270bf4f40f9cb860fd549e61"
+        },
+        {
+          "photoKey": "7d5b13766b0bc45450fd3f56657451c1"
+        },
+        {
+          "photoKey": "c4bb0c7a35369a4654de7ba6ffc0509f"
+        },
+        {
+          "photoKey": "1855a955d5ac8c6ddbdf6f41994d4f42"
+        },
+        {
+          "photoKey": "9d470c2d94a7c758ccd4b36129713e52"
+        },
+        {
+          "photoKey": "f54387758df31e192897cdc9d0789cfd"
+        },
+        {
+          "photoKey": "08a8926aa8599ab2fe40230607da5cf2"
+        },
+        {
+          "photoKey": "dbe412543aa52063852296882da8a82b"
+        },
+        {
+          "photoKey": "729d99c92d23d898b1526175256e81e8"
+        },
+        {
+          "photoKey": "2d1d5cfbdabf776086db7dcda8b33cc8"
+        },
+        {
+          "photoKey": "73531b3d2fb96dd7d778c3a39c8a8b55"
+        }
+      ],
+      "communityPhotoData": null,
+      "isStaticUrls": false
+    },
+    "availabilityCount": 4,
+    "marketingTreatments": [
+      "trustedListing",
+      "paid",
+      "zillowRentalManager",
+      "singleFamilyPaid",
+      "feedConnectFlatFeeFeedConnect"
+    ],
+    "listPriceIncludesRequiredMonthlyFees": false,
+    "isInstantTourEnabled": false,
+    "isContactable": false,
+    "isPaidBuilderNewConstruction": false
+  },
+  {
+    "zpid": "42.32986--71.11119",
+    "id": "42.32986--71.11119",
+    "providerListingId": "1kbwvfcx9rqe",
+    "imgSrc": "https://photos.zillowstatic.com/fp/464ec7eac1630a41833488911251b91b-p_e.jpg",
+    "hasImage": true,
+    "detailUrl": "/b/72-s-huntington-ave-jamaica-plain-ma-5fx5mw/",
+    "statusType": "FOR_RENT",
+    "statusText": "For Rent",
+    "address": "72 S Huntington Ave, Jamaica Plain, MA",
+    "addressStreet": "72 S  Huntington Ave # 11",
+    "addressCity": "Jamaica Plain",
+    "addressState": "MA",
+    "addressZipcode": "02130",
+    "units": [
+      {
+        "price": "$2,100+",
+        "beds": "1",
+        "roomForRent": false
+      }
+    ],
+    "lotId": 1037320294,
+    "latLong": {
+      "latitude": 42.32986,
+      "longitude": -71.11119
+    },
+    "isSaved": false,
+    "isBuilding": true,
+    "canSaveBuilding": false,
+    "has3DModel": false,
+    "isFeaturedListing": true,
+    "isShowcaseListing": false,
+    "list": true,
+    "relaxed": false,
+    "carouselPhotosComposable": {
+      "baseUrl": "https://photos.zillowstatic.com/fp/{photoKey}-p_e.jpg",
+      "communityBaseUrl": null,
+      "photoData": [
+        {
+          "photoKey": "464ec7eac1630a41833488911251b91b"
+        },
+        {
+          "photoKey": "7182b0292b7e7c63868333b10aa182b7"
+        },
+        {
+          "photoKey": "26f0c49538c20f55dfb1a57e83b0757c"
+        },
+        {
+          "photoKey": "d6836784288ffa8511c011698b36d2b1"
+        },
+        {
+          "photoKey": "b9790be39e88ccd55c305311c0b9e715"
+        },
+        {
+          "photoKey": "eff93f39ed1dbd0213827b4f29e1de6f"
+        },
+        {
+          "photoKey": "745b49a6fd3505208a2bd65093036921"
+        },
+        {
+          "photoKey": "b4b50d2e0d3102606d5aa9e038269974"
+        },
+        {
+          "photoKey": "9492e1744fc59b442d536e0e879ecfb5"
+        },
+        {
+          "photoKey": "0116947c58cbc17578402daea3e73715"
+        },
+        {
+          "photoKey": "e35c2d21ddccf8f0144054dcb3a30b90"
+        }
+      ],
+      "communityPhotoData": null,
+      "isStaticUrls": false
+    },
+    "availabilityCount": 2,
+    "marketingTreatments": [
+      "trustedListing",
+      "paid",
+      "zillowRentalManager",
+      "singleFamilyPaid",
+      "feedConnectFlatFeeFeedConnect"
+    ],
+    "listPriceIncludesRequiredMonthlyFees": false,
+    "isInstantTourEnabled": false,
+    "isContactable": false,
+    "isPaidBuilderNewConstruction": false
+  },
+  {
+    "zpid": "42.30277--71.111435",
+    "id": "42.30277--71.111435",
+    "providerListingId": "1a6kdr90unpsu",
+    "imgSrc": "https://photos.zillowstatic.com/fp/abd2168c91faac7e9199b56c3229f30f-p_e.jpg",
+    "hasImage": true,
+    "detailUrl": "/apartments/boston-ma/metromark/CjCyJR/",
+    "statusType": "FOR_RENT",
+    "statusText": "MetroMark",
+    "address": "3611 Washington St, Jamaica Plain, MA",
+    "addressStreet": "3611 Washington St # 2245",
+    "addressCity": "Jamaica Plain",
+    "addressState": "MA",
+    "addressZipcode": "02130",
+    "units": [
+      {
+        "price": "$2,266+",
+        "beds": "0",
+        "roomForRent": false
+      },
+      {
+        "price": "$2,299+",
+        "beds": "1",
+        "roomForRent": false
+      },
+      {
+        "price": "$3,002+",
+        "beds": "2",
+        "roomForRent": false
+      },
+      {
+        "price": "$4,620+",
+        "beds": "3",
+        "roomForRent": false
+      }
+    ],
+    "lotId": 2745217671,
+    "latLong": {
+      "latitude": 42.30277,
+      "longitude": -71.111435
+    },
+    "listCardRecommendation": {
+      "flexFieldRecommendations": [
+        {
+          "displayString": "Custom-designed domicile",
+          "contentType": "homeInsight"
+        },
+        {
+          "displayString": "Special Offer",
+          "contentType": "frSpecialOffer"
+        }
+      ]
+    },
+    "isSaved": false,
+    "buildingName": "MetroMark",
+    "isBuilding": true,
+    "canSaveBuilding": true,
+    "has3DModel": false,
+    "isFeaturedListing": true,
+    "isShowcaseListing": false,
+    "list": true,
+    "relaxed": false,
+    "carouselPhotosComposable": {
+      "baseUrl": "https://photos.zillowstatic.com/fp/{photoKey}-p_e.jpg",
+      "communityBaseUrl": null,
+      "photoData": [
+        {
+          "photoKey": "abd2168c91faac7e9199b56c3229f30f"
+        },
+        {
+          "photoKey": "6c5cb9a270efa37300c49950fdee4728"
+        },
+        {
+          "photoKey": "13f25e1f978b3edbc66c316ef3682873"
+        },
+        {
+          "photoKey": "e534cc2da2b18cad8322a267661b6330"
+        },
+        {
+          "photoKey": "525d029bcffd59e136dcf4766b2a4fdf"
+        },
+        {
+          "photoKey": "d558ce3bfb0ebebf9ce17865a3858280"
+        },
+        {
+          "photoKey": "db01e3a6d8e1b865bcba9f494d280926"
+        },
+        {
+          "photoKey": "cbc17287f44098f55deaecf880f968c3"
+        },
+        {
+          "photoKey": "44380fe495b90ccd24123f4d1c340bff"
+        },
+        {
+          "photoKey": "4bebf943bde847520f4f632497133a75"
+        },
+        {
+          "photoKey": "53aa1a2e41d7222fcd12c27eb5657772"
+        },
+        {
+          "photoKey": "c8d7d69cc465472c944ae7e4ca90d85f"
+        },
+        {
+          "photoKey": "549c65555f8a39b1adab8717d0accac1"
+        },
+        {
+          "photoKey": "2cb8d573b33e0cef0dcb8d1e4827763d"
+        },
+        {
+          "photoKey": "1b85a06d0a3d02d89b96529aae73d78b"
+        },
+        {
+          "photoKey": "10103b3dbea424f6ce9a3b6c05d994d1"
+        },
+        {
+          "photoKey": "5a94af4154650c112fa75924b3c92aae"
+        },
+        {
+          "photoKey": "4b0fbda1bcee8da4a722283e59e736e4"
+        },
+        {
+          "photoKey": "af966917b17c5e856cc4b93f11c2a632"
+        },
+        {
+          "photoKey": "d17ff5f268145586aa3a2759ec14f108"
+        },
+        {
+          "photoKey": "56b2ddadc1e622404274afd28e983d85"
+        },
+        {
+          "photoKey": "e9b6dc53e82074919caefd153b4c2087"
+        },
+        {
+          "photoKey": "4c485d53524420b820968cbab118fbdf"
+        },
+        {
+          "photoKey": "8e9b61e50e688b8eaf7b5ef9baba9d1b"
+        },
+        {
+          "photoKey": "d6fc2d3b472a577e467e9f437bbb11c0"
+        },
+        {
+          "photoKey": "e345b3374a1bd788a4d595cfb9d305d3"
+        },
+        {
+          "photoKey": "527e25791f97f1864c6a86c018f42f49"
+        },
+        {
+          "photoKey": "cd6cb5f743d4efd579c5eed6b1fd0e37"
+        },
+        {
+          "photoKey": "99a63028bdefdf8c2a5ab8ea7e43c5b9"
+        },
+        {
+          "photoKey": "77a90bc6f5ca731c45ed1d4b80628961"
+        },
+        {
+          "photoKey": "4dc6c10dea92c25e9bb1d35ad64a5bb9"
+        },
+        {
+          "photoKey": "2b9173badb7922729e7c7581c8c261eb"
+        },
+        {
+          "photoKey": "8e7124a246cb34254d560fdd823ed754"
+        },
+        {
+          "photoKey": "5642c721fa76c78948af6ae255935140"
+        },
+        {
+          "photoKey": "0df47d536f9bd725a5de16023666d9ec"
+        },
+        {
+          "photoKey": "285c21d4eb9ab7e5e7c26ab2d41294d3"
+        },
+        {
+          "photoKey": "4d03f704ef011a0dd476285068a132cd"
+        },
+        {
+          "photoKey": "5a744f0437066e670056933105d47f77"
+        },
+        {
+          "photoKey": "08eed3d63174ad9b2e4da90e6c57cd6f"
+        }
+      ],
+      "communityPhotoData": null,
+      "isStaticUrls": false
+    },
+    "availabilityCount": 15,
+    "marketingTreatments": [
+      "trustedListing",
+      "paid",
+      "multiFamilySalesListing",
+      "paidOrUnpaidMultifamily",
+      "paidMultifamily",
+      "multifamilyPremium"
+    ],
+    "listPriceIncludesRequiredMonthlyFees": true,
+    "minBaseRent": 2266,
+    "maxBaseRent": 4620,
+    "isInstantTourEnabled": false,
+    "isContactable": true,
+    "isPaidBuilderNewConstruction": false
+  },
+  {
+    "zpid": "42.31265--71.10096",
+    "id": "42.31265--71.10096",
+    "providerListingId": "1yjpmskg5rxnk",
+    "imgSrc": "https://photos.zillowstatic.com/fp/5a5bae0bfd02bacc9fdd023ab8f5f872-p_e.jpg",
+    "hasImage": true,
+    "detailUrl": "/apartments/jamaica-plain-ma/3200-washington/CkBHJ5/",
+    "statusType": "FOR_RENT",
+    "statusText": "3200 Washington",
+    "address": "3200 Washington St, Jamaica Plain, MA",
+    "addressStreet": "3200 Washington St Unit 1604",
+    "addressCity": "Jamaica Plain",
+    "addressState": "MA",
+    "addressZipcode": "02130",
+    "units": [
+      {
+        "price": "$2,295+",
+        "beds": "0",
+        "roomForRent": false
+      },
+      {
+        "price": "$3,450+",
+        "beds": "2",
+        "roomForRent": false
+      },
+      {
+        "price": "$4,395+",
+        "beds": "3",
+        "roomForRent": false
+      }
+    ],
+    "lotId": 2750783171,
+    "latLong": {
+      "latitude": 42.31265,
+      "longitude": -71.10096
+    },
+    "listCardRecommendation": {
+      "flexFieldRecommendations": [
+        {
+          "displayString": "Thoughtful layouts",
+          "contentType": "homeInsight"
+        },
+        {
+          "displayString": "Special Offer",
+          "contentType": "frSpecialOffer"
+        }
+      ]
+    },
+    "isSaved": false,
+    "buildingName": "3200 Washington",
+    "isBuilding": true,
+    "canSaveBuilding": true,
+    "has3DModel": false,
+    "isFeaturedListing": true,
+    "isShowcaseListing": false,
+    "list": true,
+    "relaxed": false,
+    "carouselPhotosComposable": {
+      "baseUrl": "https://photos.zillowstatic.com/fp/{photoKey}-p_e.jpg",
+      "communityBaseUrl": null,
+      "photoData": [
+        {
+          "photoKey": "5a5bae0bfd02bacc9fdd023ab8f5f872"
+        },
+        {
+          "photoKey": "ba7aaf7fb0cf10f91882f7d419b20ffe"
+        },
+        {
+          "photoKey": "72074bd87170129b9fb2eba2f6a09a67"
+        },
+        {
+          "photoKey": "2fa372b912fe4420c296ab3d4b800243"
+        },
+        {
+          "photoKey": "0a0e6e9828a9d5b87507f55bd6d084a8"
+        },
+        {
+          "photoKey": "778433abc175cef9d5b7d6f1df8f4cc2"
+        },
+        {
+          "photoKey": "9fdcf9d72fe980cef91a6714e310f40b"
+        },
+        {
+          "photoKey": "8b0ad8428ab32305884a9ff404358304"
+        },
+        {
+          "photoKey": "f3f57d38a78fff237cae1093039a9004"
+        },
+        {
+          "photoKey": "92986217ad80fa56217b34b647883c0f"
+        },
+        {
+          "photoKey": "ab5a62e666fe0c04031d7a4dbbbdda73"
+        },
+        {
+          "photoKey": "3ee1fa205004f7a87f08e3c507339a05"
+        },
+        {
+          "photoKey": "3c363ebca368d6ae162941a23c06fcce"
+        },
+        {
+          "photoKey": "8cc775539402ddc9f846bd0a6a7c7fa2"
+        },
+        {
+          "photoKey": "cccc40e6dd8f448a9301046a5c641948"
+        },
+        {
+          "photoKey": "ed5be3d7f907b5988f881b304511a176"
+        },
+        {
+          "photoKey": "28019817bc98e8d8154f48ebbf7ba296"
+        },
+        {
+          "photoKey": "a1935b01f6a22bf7698ab0f011bb8b05"
+        },
+        {
+          "photoKey": "e77670fe0c491b79b2f545e992d64b29"
+        },
+        {
+          "photoKey": "7445a89173a84a6557392b2af77eb2a6"
+        },
+        {
+          "photoKey": "08f97d93c43dd7e584335e1d05d445b6"
+        },
+        {
+          "photoKey": "b0979a425cd62275a672bb6e20f80a05"
+        },
+        {
+          "photoKey": "af0ad34aec0b5642fcad42b3a0ac5eda"
+        },
+        {
+          "photoKey": "18a63fe9e450cb5bbd4a41c3d7c89b32"
+        },
+        {
+          "photoKey": "f7faa9dbd68f0e27754ba11e782c074d"
+        },
+        {
+          "photoKey": "1c4c6546fd821dbde2041212c93dc328"
+        },
+        {
+          "photoKey": "7ff8860dce3e6ce376aa5fa4a93bd99f"
+        },
+        {
+          "photoKey": "ab542838f7ad05dff21260ab0f8bbb07"
+        },
+        {
+          "photoKey": "87a7bbdfd821ebdcd9281ddd8f03f3cf"
+        },
+        {
+          "photoKey": "5c542d908b6ab65f20c4c52cf0e77bed"
+        },
+        {
+          "photoKey": "5e42353df5b5020b13f3c87abf066403"
+        },
+        {
+          "photoKey": "0e6321f7500bc5b1573f358b85e66c0e"
+        },
+        {
+          "photoKey": "52b3745012e7038c4ced5b16a1b5df03"
+        },
+        {
+          "photoKey": "019286d9142b7d1b2d77c351a891a563"
+        },
+        {
+          "photoKey": "a5dd37c6d755177b6c7e59e77d9c389a"
+        },
+        {
+          "photoKey": "8e0239ce436c167d2ed9b5ffcb4a2b23"
+        },
+        {
+          "photoKey": "d120af7aef1465ee9ec08d5cdde2c365"
+        },
+        {
+          "photoKey": "55212c7aeafe880441f89339a7a9d9cd"
+        },
+        {
+          "photoKey": "1cfcc8f9b273a19c4f0f649933ca5aa0"
+        },
+        {
+          "photoKey": "d1de1d385fb8a76e67ca0f6cf550a38d"
+        },
+        {
+          "photoKey": "209baa631762e52f5bfdd27245cece21"
+        },
+        {
+          "photoKey": "b8c697033294b531e77357dd2af46d69"
+        },
+        {
+          "photoKey": "427db070502fefd03b45884ab0e9174d"
+        },
+        {
+          "photoKey": "1f1297d9fb0bc65e478210580d8f9e77"
+        },
+        {
+          "photoKey": "c877e50f791fe34cc5ac8bc8ec8935f6"
+        },
+        {
+          "photoKey": "bf4af913c6281298fcad96dcc6a8788c"
+        },
+        {
+          "photoKey": "8f2aca314dc539cdbd4b134da6c51873"
+        },
+        {
+          "photoKey": "32f6d61ff6046a0656851e90849203cd"
+        },
+        {
+          "photoKey": "86d792b16c84d3bcbd3578fcaf7246f3"
+        },
+        {
+          "photoKey": "c877e50f791fe34cc5ac8bc8ec8935f6"
+        }
+      ],
+      "communityPhotoData": null,
+      "isStaticUrls": false
+    },
+    "availabilityCount": 6,
+    "marketingTreatments": [
+      "trustedListing",
+      "paid",
+      "multiFamilySalesListing",
+      "paidOrUnpaidMultifamily",
+      "paidMultifamily",
+      "multifamilyPremiumPlusPackage"
+    ],
+    "listPriceIncludesRequiredMonthlyFees": true,
+    "minBaseRent": 2295,
+    "maxBaseRent": 4850,
+    "isInstantTourEnabled": false,
+    "isContactable": true,
+    "isPaidBuilderNewConstruction": false
+  },
+  {
+    "zpid": "42.325657--71.11242",
+    "id": "42.325657--71.11242",
+    "providerListingId": "1g54fzxa3src",
+    "imgSrc": "https://photos.zillowstatic.com/fp/8074364707577d3931fbb8e39cbdafa4-p_e.jpg",
+    "hasImage": true,
+    "detailUrl": "/apartments/boston-ma/the-brynx/CjgPVd/",
+    "statusType": "FOR_RENT",
+    "statusText": "The Brynx",
+    "address": "201 S Huntington Ave, Jamaica Plain, MA",
+    "addressStreet": "201 S  Huntington Ave # 417",
+    "addressCity": "Jamaica Plain",
+    "addressState": "MA",
+    "addressZipcode": "02130",
+    "units": [
+      {
+        "price": "$2,595+",
+        "beds": "0",
+        "roomForRent": false
+      },
+      {
+        "price": "$3,182+",
+        "beds": "1",
+        "roomForRent": false
+      },
+      {
+        "price": "$3,995+",
+        "beds": "2",
+        "roomForRent": false
+      }
+    ],
+    "lotId": 2747974519,
+    "latLong": {
+      "latitude": 42.325657,
+      "longitude": -71.11242
+    },
+    "isSaved": false,
+    "buildingName": "The Brynx",
+    "isBuilding": true,
+    "canSaveBuilding": true,
+    "has3DModel": false,
+    "isFeaturedListing": true,
+    "isShowcaseListing": false,
+    "list": true,
+    "relaxed": false,
+    "carouselPhotosComposable": {
+      "baseUrl": "https://photos.zillowstatic.com/fp/{photoKey}-p_e.jpg",
+      "communityBaseUrl": null,
+      "photoData": [
+        {
+          "photoKey": "8074364707577d3931fbb8e39cbdafa4"
+        },
+        {
+          "photoKey": "07685c4d4914fed3c8a0f90a591aea28"
+        },
+        {
+          "photoKey": "4631f492f7516beba972c19d150882cb"
+        },
+        {
+          "photoKey": "dcddd5907f85366717df5e318353b220"
+        },
+        {
+          "photoKey": "22510ea333a46eaf800bee9371e07f4a"
+        },
+        {
+          "photoKey": "3b24fc80be6c80a53d1bb1c8f9f3427a"
+        },
+        {
+          "photoKey": "f78708e7d178eb9edd128e80375fa10e"
+        },
+        {
+          "photoKey": "f8bb7146f6151183aec9558163af2e8e"
+        },
+        {
+          "photoKey": "d7c3e32b9d8889eebf17dc90bc0bf157"
+        },
+        {
+          "photoKey": "dd678c49b741d114cbb5348b3778d5c2"
+        },
+        {
+          "photoKey": "607fad5255ea862f521f56136bf77aed"
+        },
+        {
+          "photoKey": "24299739489d5db6631e67cca63fc918"
+        },
+        {
+          "photoKey": "4ffe3270e0bf9a5540a43875d0f4500f"
+        },
+        {
+          "photoKey": "1d6140b89e81f8046d31e0b93c0f6d76"
+        },
+        {
+          "photoKey": "e301ef9262abcfc0388609db2d9a0291"
+        },
+        {
+          "photoKey": "d456efe5204d06095ea27b9663c6935a"
+        },
+        {
+          "photoKey": "c3297dd04efccfbc4d1f1a21b2778941"
+        },
+        {
+          "photoKey": "6b83f708604932a109314a568a394ab2"
+        },
+        {
+          "photoKey": "2dee0bb16b7e960caa34d97fea8a13b7"
+        },
+        {
+          "photoKey": "864ad8d2901062ced3f0587813eeece4"
+        },
+        {
+          "photoKey": "43fda0deeda25161ef18ecb6efdc4f9f"
+        },
+        {
+          "photoKey": "3d3c8aee199465970c900cc770ad3e91"
+        },
+        {
+          "photoKey": "6a5916b10f537c49c372389fea3fc693"
+        },
+        {
+          "photoKey": "d66ed2d3e01cba83601ad310f015e78d"
+        },
+        {
+          "photoKey": "72a1fd31a9d8a36e61aaf94868d3bef2"
+        },
+        {
+          "photoKey": "2d8f42883e68b5de730ff050fc36c1fd"
+        }
+      ],
+      "communityPhotoData": null,
+      "isStaticUrls": false
+    },
+    "availabilityCount": 10,
+    "marketingTreatments": [
+      "trustedListing",
+      "paid",
+      "multiFamilySalesListing",
+      "paidOrUnpaidMultifamily",
+      "paidMultifamily"
+    ],
+    "listPriceIncludesRequiredMonthlyFees": false,
+    "isInstantTourEnabled": false,
+    "isContactable": true,
+    "isPaidBuilderNewConstruction": false
+  },
+  {
+    "zpid": "42.322887--71.09881",
+    "id": "42.322887--71.09881",
+    "providerListingId": "3qyact6qnu5d8",
+    "imgSrc": "https://photos.zillowstatic.com/fp/c127257536b9fe2eab847a65de83f392-p_e.jpg",
+    "hasImage": true,
+    "detailUrl": "/apartments/boston-ma/225-centre/CjjCMv/",
+    "statusType": "FOR_RENT",
+    "statusText": "225 Centre",
+    "address": "225 Centre St, Roxbury, MA",
+    "addressStreet": "225 Centre St   # 470e917ac",
+    "addressCity": "Roxbury",
+    "addressState": "MA",
+    "addressZipcode": "02119",
+    "units": [
+      {
+        "price": "$2,700+",
+        "beds": "1",
+        "roomForRent": false
+      },
+      {
+        "price": "$3,400+",
+        "beds": "2",
+        "roomForRent": false
+      },
+      {
+        "price": "$4,800+",
+        "beds": "3",
+        "roomForRent": false
+      }
+    ],
+    "lotId": 2748185477,
+    "latLong": {
+      "latitude": 42.322887,
+      "longitude": -71.09881
+    },
+    "isSaved": false,
+    "buildingName": "225 Centre",
+    "isBuilding": true,
+    "canSaveBuilding": true,
+    "has3DModel": false,
+    "isFeaturedListing": true,
+    "isShowcaseListing": false,
+    "list": true,
+    "relaxed": false,
+    "carouselPhotosComposable": {
+      "baseUrl": "https://photos.zillowstatic.com/fp/{photoKey}-p_e.jpg",
+      "communityBaseUrl": null,
+      "photoData": [
+        {
+          "photoKey": "c127257536b9fe2eab847a65de83f392"
+        },
+        {
+          "photoKey": "dd0bd90d467d623467e8f01963eef038"
+        },
+        {
+          "photoKey": "58add4fd60c1d14f04840754edb1fdf0"
+        },
+        {
+          "photoKey": "c8d8a0ca7d323ace1e1d111f36fefd40"
+        },
+        {
+          "photoKey": "810818826cc29a6b4336f6cbf7475e25"
+        },
+        {
+          "photoKey": "321e9c77934ade160bcb0189517585b7"
+        },
+        {
+          "photoKey": "379fc23f315a9aa8c3dab3dc8837d6ac"
+        },
+        {
+          "photoKey": "e4ce363f0919fa72e1ca933f479876b7"
+        },
+        {
+          "photoKey": "450da1bbc2f028c1ed9c31083d47a3ac"
+        },
+        {
+          "photoKey": "453b68fb12dc838954631ce461fc865c"
+        },
+        {
+          "photoKey": "a96738a0dc629ef65b09b5ef5a9b2ef9"
+        },
+        {
+          "photoKey": "cbf87e4066664e8c3295d4c4361d9c0f"
+        },
+        {
+          "photoKey": "8be82d5cb70faba4192434023d647eb7"
+        },
+        {
+          "photoKey": "bc4ff26d9d3b3111fb902b34cd88d55e"
+        },
+        {
+          "photoKey": "5b0a1764d41472450503f09cd68c04aa"
+        },
+        {
+          "photoKey": "1ab0e15523095e1a47708f4bb095e6fb"
+        },
+        {
+          "photoKey": "458963e9ebbca972abf84951a2ed7cda"
+        }
+      ],
+      "communityPhotoData": null,
+      "isStaticUrls": false
+    },
+    "availabilityCount": 5,
+    "marketingTreatments": [
+      "trustedListing",
+      "paid",
+      "zillowRentalManager",
+      "multiFamilySalesListing",
+      "paidOrUnpaidMultifamily",
+      "paidMultifamily",
+      "multifamilyBasePackage"
+    ],
+    "listPriceIncludesRequiredMonthlyFees": false,
+    "isInstantTourEnabled": false,
+    "isContactable": true,
+    "isPaidBuilderNewConstruction": false
+  },
+  {
+    "zpid": "42.293766--71.11627",
+    "id": "42.293766--71.11627",
+    "providerListingId": "4kjv2c3pnawp9",
+    "imgSrc": "https://photos.zillowstatic.com/fp/0e9d9a676f734fd5a4bc36abce267d12-p_e.jpg",
+    "hasImage": true,
+    "detailUrl": "/b/162-wachusett-st-jamaica-plain-ma-CpYsHg/",
+    "statusType": "FOR_RENT",
+    "statusText": "For Rent",
+    "address": "162 Wachusett St, Jamaica Plain, MA",
+    "addressStreet": "162 Wachusett St   # 2",
+    "addressCity": "Jamaica Plain",
+    "addressState": "MA",
+    "addressZipcode": "02130",
+    "units": [
+      {
+        "price": "$2,900+",
+        "beds": "2",
+        "roomForRent": false
+      },
+      {
+        "price": "$3,500+",
+        "beds": "3",
+        "roomForRent": false
+      }
+    ],
+    "lotId": 2770382515,
+    "latLong": {
+      "latitude": 42.293766,
+      "longitude": -71.11627
+    },
+    "isSaved": false,
+    "isBuilding": true,
+    "canSaveBuilding": false,
+    "has3DModel": false,
+    "isFeaturedListing": true,
+    "isShowcaseListing": false,
+    "list": true,
+    "relaxed": false,
+    "carouselPhotosComposable": {
+      "baseUrl": "https://photos.zillowstatic.com/fp/{photoKey}-p_e.jpg",
+      "communityBaseUrl": null,
+      "photoData": [
+        {
+          "photoKey": "0e9d9a676f734fd5a4bc36abce267d12"
+        },
+        {
+          "photoKey": "7db62d7b0e65ced7506075768fe409fa"
+        },
+        {
+          "photoKey": "804d7525f4491a3c32f58391f316d7e6"
+        },
+        {
+          "photoKey": "4ae3cd3fa1e2ffaf99033ae6a2a4306b"
+        },
+        {
+          "photoKey": "d4dae59229fabe7cd2f2eb912280a89c"
+        },
+        {
+          "photoKey": "0ed500a4fee17b13a5236048db9d12a7"
+        },
+        {
+          "photoKey": "e80071326de146716d13a0b3fce2e3e4"
+        },
+        {
+          "photoKey": "6016a39f510d5b15fc3b6ef8db479f4f"
+        },
+        {
+          "photoKey": "d5036b15e17dd8f7ac7146d12c44b1b0"
+        },
+        {
+          "photoKey": "c5ff51a07f4daae302590a28e905594d"
+        },
+        {
+          "photoKey": "d256912477cb10d6c3ec69c8dbea712f"
+        },
+        {
+          "photoKey": "6136e46eccc1c536f61a055a3ec3e89e"
+        },
+        {
+          "photoKey": "f00bdb090cbfbebb9396ac7b322f336c"
+        },
+        {
+          "photoKey": "31ae700e445e86a4f5b44b7c6d6278ca"
+        },
+        {
+          "photoKey": "cb6ce2c50d5dc7661e495d01e2458e60"
+        },
+        {
+          "photoKey": "fa830c2cbbe95d1198e8bf0610f74978"
+        },
+        {
+          "photoKey": "104a8c7a1b63c21c0276cb5e0a6d6153"
+        },
+        {
+          "photoKey": "b3f677a7d9e2ed5b24546e27a7c78110"
+        },
+        {
+          "photoKey": "e93fe7bc55b982d08233131f62a5bf98"
+        },
+        {
+          "photoKey": "8ec7253c44945690bbf45515e8c86a5a"
+        },
+        {
+          "photoKey": "428bf021e248c839e7f98659d8d77adb"
+        },
+        {
+          "photoKey": "a67d9a0fb024d27cab58556b156b09bc"
+        },
+        {
+          "photoKey": "bd0b3d1cfc2e101badb3f43693c003cb"
+        },
+        {
+          "photoKey": "a379014d364008e81d233781de59e910"
+        },
+        {
+          "photoKey": "2b60bd7de07c21541811ab5d61e01bda"
+        },
+        {
+          "photoKey": "7b7dbef1f51aca7bacdbc3b3451bb79c"
+        },
+        {
+          "photoKey": "f952c33df6d315919da2e2098fdaba19"
+        },
+        {
+          "photoKey": "ba838b22f0ff89309e7a7751d675f2a9"
+        }
+      ],
+      "communityPhotoData": null,
+      "isStaticUrls": false
+    },
+    "availabilityCount": 2,
+    "marketingTreatments": [
+      "paid",
+      "zillowRentalManager"
+    ],
+    "listPriceIncludesRequiredMonthlyFees": false,
+    "isInstantTourEnabled": false,
+    "isContactable": false,
+    "isPaidBuilderNewConstruction": false
+  },
+  {
+    "zpid": "42.32117--71.10362",
+    "id": "42.32117--71.10362",
+    "providerListingId": "1zvjufnv7mv6f",
+    "imgSrc": "https://photos.zillowstatic.com/fp/1e034e11fa3742869c67dcb02db095cc-p_e.jpg",
+    "hasImage": true,
+    "detailUrl": "/b/20-armstrong-st-jamaica-plain-ma-5YWSBC/",
+    "statusType": "FOR_RENT",
+    "statusText": "For Rent",
+    "address": "20 Armstrong St, Boston, MA",
+    "addressStreet": "20 Armstrong St   # 2",
+    "addressCity": "Boston",
+    "addressState": "MA",
+    "addressZipcode": "02130",
+    "units": [
+      {
+        "price": "$3,100+",
+        "beds": "2",
+        "roomForRent": false
+      }
+    ],
+    "lotId": 1006069822,
+    "latLong": {
+      "latitude": 42.32117,
+      "longitude": -71.10362
+    },
+    "isSaved": false,
+    "isBuilding": true,
+    "canSaveBuilding": false,
+    "has3DModel": false,
+    "isFeaturedListing": true,
+    "isShowcaseListing": false,
+    "list": true,
+    "relaxed": false,
+    "carouselPhotosComposable": {
+      "baseUrl": "https://photos.zillowstatic.com/fp/{photoKey}-p_e.jpg",
+      "communityBaseUrl": null,
+      "photoData": [
+        {
+          "photoKey": "1e034e11fa3742869c67dcb02db095cc"
+        },
+        {
+          "photoKey": "d069708dd2615e334cf71575822b78eb"
+        },
+        {
+          "photoKey": "9a71bd0119f1b369678d8e5c4fcf94de"
+        },
+        {
+          "photoKey": "109914779f6208d5bfd0925eac71ea7b"
+        },
+        {
+          "photoKey": "49d9c902d7020a667c23420efd033914"
+        },
+        {
+          "photoKey": "37eef80a5804f7d022545d5b7cb08525"
+        },
+        {
+          "photoKey": "da53fd31e346cc713e1a669ad62bcdd3"
+        },
+        {
+          "photoKey": "e1101b2bbc8056f3a2b55c026f3d1822"
+        },
+        {
+          "photoKey": "32d1211a34f89b054b7d3eceaf96f366"
+        },
+        {
+          "photoKey": "bcc6c8dfd55f9e85b845df3874211ee3"
+        },
+        {
+          "photoKey": "06ba1e4b6b66ed4e8507f415bdb16003"
+        },
+        {
+          "photoKey": "07bf11d716dc573c163763ccea1949a1"
+        },
+        {
+          "photoKey": "c50747910935fd9b041dcc8e9b044555"
+        },
+        {
+          "photoKey": "0bce02baf5c1e1bcf9c6003674168945"
+        }
+      ],
+      "communityPhotoData": null,
+      "isStaticUrls": false
+    },
+    "availabilityCount": 2,
+    "marketingTreatments": [
+      "trustedListing",
+      "paid",
+      "zillowRentalManager",
+      "singleFamilyPaid",
+      "feedConnectFlatFeeFeedConnect"
+    ],
+    "listPriceIncludesRequiredMonthlyFees": false,
+    "isInstantTourEnabled": false,
+    "isContactable": false,
+    "isPaidBuilderNewConstruction": false
+  },
+  {
+    "zpid": "42.32955--71.11137",
+    "id": "42.32955--71.11137",
+    "providerListingId": "3gecwa2xnvq4z",
+    "imgSrc": "https://photos.zillowstatic.com/fp/0485094273eab8d41fb29ec3baf12f3c-p_e.jpg",
+    "hasImage": true,
+    "detailUrl": "/apartments/jamaica-plain-ma/serenity/ChQRzC/",
+    "statusType": "FOR_RENT",
+    "statusText": "Serenity",
+    "address": "101 S Huntington Ave, Jamaica Plain, MA",
+    "addressStreet": "101 S  Huntington Ave # Penthouse 105",
+    "addressCity": "Jamaica Plain",
+    "addressState": "MA",
+    "addressZipcode": "02130",
+    "units": [
+      {
+        "price": "$3,582+",
+        "beds": "1",
+        "roomForRent": false
+      },
+      {
+        "price": "$4,516+",
+        "beds": "2",
+        "roomForRent": false
+      },
+      {
+        "price": "$6,441+",
+        "beds": "3",
+        "roomForRent": false
+      }
+    ],
+    "lotId": 2740686237,
+    "latLong": {
+      "latitude": 42.32955,
+      "longitude": -71.11137
+    },
+    "isSaved": false,
+    "buildingName": "Serenity",
+    "isBuilding": true,
+    "canSaveBuilding": true,
+    "has3DModel": true,
+    "isFeaturedListing": true,
+    "isShowcaseListing": false,
+    "list": true,
+    "relaxed": false,
+    "carouselPhotosComposable": {
+      "baseUrl": "https://photos.zillowstatic.com/fp/{photoKey}-p_e.jpg",
+      "communityBaseUrl": null,
+      "photoData": [
+        {
+          "photoKey": "0485094273eab8d41fb29ec3baf12f3c"
+        },
+        {
+          "photoKey": "260d35a1b6d9e32108b4c02d7d4ee3e8"
+        },
+        {
+          "photoKey": "48ddcd21a429eed3d66af5e43649e95c"
+        },
+        {
+          "photoKey": "4a5a992f9db38ea4b6ae3803ff8af31a"
+        },
+        {
+          "photoKey": "217f8acc02a81bc775196d05265ad1cf"
+        },
+        {
+          "photoKey": "9b8dcb1e63489d54c4a26bdf4976be51"
+        },
+        {
+          "photoKey": "7e6988ef67229d12c44e0340508f1c78"
+        },
+        {
+          "photoKey": "b62b0040d7ec5a51445cc674c76ffbd6"
+        },
+        {
+          "photoKey": "26682e1ebccbe7858f91113d6a0bfc8d"
+        },
+        {
+          "photoKey": "88cb62ad3d79c8f3f841b280249c48e8"
+        },
+        {
+          "photoKey": "bdbc14bc8ef66e87f4bf33f4f023bf82"
+        },
+        {
+          "photoKey": "79317509453bd73b5b21b7efbe9204e6"
+        },
+        {
+          "photoKey": "cd3823f74b19e937201af1af525e53ad"
+        },
+        {
+          "photoKey": "9ea8b9f25935b8588e6d2bf36abaf4aa"
+        },
+        {
+          "photoKey": "fba8e23455b952e8ac4bcda6fa69309c"
+        },
+        {
+          "photoKey": "2b182614694bd2f3fc4389aeb6aa0bee"
+        },
+        {
+          "photoKey": "e5368f2921c4a1f02234674bf472e7fa"
+        },
+        {
+          "photoKey": "bd418dc790da1dd84120669eff944c06"
+        },
+        {
+          "photoKey": "69b42296a8a1566e5d5afcd3b038dfd4"
+        },
+        {
+          "photoKey": "50be8a3fd6d940b0c3fb586cd0b2431d"
+        },
+        {
+          "photoKey": "722124ae0108422f31c7391c225c0e14"
+        },
+        {
+          "photoKey": "4614fe14629248f456fd769cc2d29494"
+        },
+        {
+          "photoKey": "152e7bc9ca616b961304ff7a5a2765d3"
+        },
+        {
+          "photoKey": "1c484b318cfeeb5be96e8b2ebe8ee278"
+        },
+        {
+          "photoKey": "26c631160b7dfa43e547560208a6b8b0"
+        },
+        {
+          "photoKey": "b93e82986f9ddcf3a5387ef4f1af5bae"
+        },
+        {
+          "photoKey": "224e0439ab7167027e991001849b56c8"
+        },
+        {
+          "photoKey": "4406b7a13857479201fdbe87198f26c2"
+        },
+        {
+          "photoKey": "3a637fd27b11d63005ed6f8aa33c54a2"
+        },
+        {
+          "photoKey": "f451115bc1b8817088b6c933af8c934d"
+        },
+        {
+          "photoKey": "5fefde701cb8cbe3d8768d7f1692edac"
+        },
+        {
+          "photoKey": "a0da5416ea243cfcf03d71b857f6d10b"
+        },
+        {
+          "photoKey": "caa2750bbafab700a8e40048bb05d382"
+        },
+        {
+          "photoKey": "f1e04a73857b5f75e356ebaa4c9b48b5"
+        }
+      ],
+      "communityPhotoData": null,
+      "isStaticUrls": false
+    },
+    "availabilityCount": 12,
+    "marketingTreatments": [
+      "trustedListing",
+      "paid",
+      "multiFamilySalesListing",
+      "paidOrUnpaidMultifamily",
+      "paidMultifamily",
+      "multifamilyPayPerLease"
+    ],
+    "listPriceIncludesRequiredMonthlyFees": true,
+    "minBaseRent": 3582,
+    "maxBaseRent": 6441,
+    "isInstantTourEnabled": false,
+    "isContactable": true,
+    "isPaidBuilderNewConstruction": false
+  },
+  {
+    "zpid": "42.324512--71.10784",
+    "id": "42.324512--71.10784",
+    "providerListingId": "3b3umx6hnk8yc",
+    "imgSrc": "https://photos.zillowstatic.com/fp/4530214494e6f2b73e9a81e7936e790a-p_e.jpg",
+    "hasImage": true,
+    "detailUrl": "/apartments/boston-ma/64-day-st/63Pvj3/",
+    "statusType": "FOR_RENT",
+    "statusText": "For Rent",
+    "address": "64 Day St, Jamaica Plain, MA",
+    "addressStreet": "64 Day St # 2",
+    "addressCity": "Jamaica Plain",
+    "addressState": "MA",
+    "addressZipcode": "02130",
+    "units": [
+      {
+        "price": "$3,795+",
+        "beds": "3",
+        "roomForRent": false
+      }
+    ],
+    "lotId": 1138008488,
+    "latLong": {
+      "latitude": 42.324512,
+      "longitude": -71.10784
+    },
+    "isSaved": false,
+    "isBuilding": true,
+    "canSaveBuilding": true,
+    "has3DModel": false,
+    "isFeaturedListing": true,
+    "isShowcaseListing": false,
+    "list": true,
+    "relaxed": false,
+    "carouselPhotosComposable": {
+      "baseUrl": "https://photos.zillowstatic.com/fp/{photoKey}-p_e.jpg",
+      "communityBaseUrl": null,
+      "photoData": [
+        {
+          "photoKey": "4530214494e6f2b73e9a81e7936e790a"
+        },
+        {
+          "photoKey": "85678bf8633d96abd016a101dc1dc47e"
+        },
+        {
+          "photoKey": "56894c83fa0f424436c658eeeb535dee"
+        },
+        {
+          "photoKey": "2bf38a176ee492997dc562a938c11fb4"
+        },
+        {
+          "photoKey": "22d4728c55ec6e78c83760c212585907"
+        },
+        {
+          "photoKey": "ca552641a469a8861f97fe7f3c2a7479"
+        },
+        {
+          "photoKey": "521b6a691cf7707aa1363e1a664104b1"
+        }
+      ],
+      "communityPhotoData": null,
+      "isStaticUrls": false
+    },
+    "availabilityCount": 3,
+    "marketingTreatments": [
+      "trustedListing",
+      "paid",
+      "singleFamilyPaid",
+      "feedConnectFlatFeeFeedConnect"
+    ],
+    "listPriceIncludesRequiredMonthlyFees": false,
+    "isInstantTourEnabled": false,
+    "isContactable": false,
+    "isPaidBuilderNewConstruction": false
+  },
+  {
+    "zpid": "42.322605--71.10943",
+    "id": "42.322605--71.10943",
+    "providerListingId": "3gsrkavrzdg3n",
+    "imgSrc": "https://photos.zillowstatic.com/fp/c6b2a675b41af1856431125fec7e6566-p_e.jpg",
+    "hasImage": true,
+    "detailUrl": "/b/4-mark-st-boston-ma-5j7xMb/",
+    "statusType": "FOR_RENT",
+    "statusText": "For Rent",
+    "address": "4 Mark St, Jamaica Plain, MA",
+    "addressStreet": "4 Mark St # 2",
+    "addressCity": "Jamaica Plain",
+    "addressState": "MA",
+    "addressZipcode": "02130",
+    "units": [
+      {
+        "price": "$3,850+",
+        "beds": "3",
+        "roomForRent": false
+      },
+      {
+        "price": "$4,795+",
+        "beds": "4",
+        "roomForRent": false
+      }
+    ],
+    "lotId": 1049893335,
+    "latLong": {
+      "latitude": 42.322605,
+      "longitude": -71.10943
+    },
+    "isSaved": false,
+    "isBuilding": true,
+    "canSaveBuilding": false,
+    "has3DModel": true,
+    "isFeaturedListing": true,
+    "isShowcaseListing": false,
+    "list": true,
+    "relaxed": false,
+    "carouselPhotosComposable": {
+      "baseUrl": "https://photos.zillowstatic.com/fp/{photoKey}-p_e.jpg",
+      "communityBaseUrl": null,
+      "photoData": [
+        {
+          "photoKey": "c6b2a675b41af1856431125fec7e6566"
+        },
+        {
+          "photoKey": "2e70b08dd4edaaecc6d4e4a818cda0bb"
+        },
+        {
+          "photoKey": "96d25683801f6132e8b9f88316f813ee"
+        },
+        {
+          "photoKey": "27c4511f1f1249580fd128baaa094f0d"
+        },
+        {
+          "photoKey": "225e261054e2e9895dade6d3b3861877"
+        },
+        {
+          "photoKey": "265aa10386de4616f3088f9822cbfea5"
+        },
+        {
+          "photoKey": "ed160c7c232e6fdcf46118eae8b5b221"
+        },
+        {
+          "photoKey": "902efc59e4340ca842a1dcfbb1ec34f3"
+        },
+        {
+          "photoKey": "1ef05bd5550ca2df2748da735d82bc8c"
+        },
+        {
+          "photoKey": "f67113ec36263b0034809da74026d996"
+        }
+      ],
+      "communityPhotoData": null,
+      "isStaticUrls": false
+    },
+    "availabilityCount": 3,
+    "marketingTreatments": [
+      "trustedListing",
+      "paid",
+      "singleFamilyPaid",
+      "feedConnectFlatFeeFeedConnect"
+    ],
+    "listPriceIncludesRequiredMonthlyFees": false,
+    "isInstantTourEnabled": false,
+    "isContactable": false,
+    "isPaidBuilderNewConstruction": false
+  },
+  {
+    "zpid": "42.3227--71.10962",
+    "id": "42.3227--71.10962",
+    "providerListingId": "4r7z57vhb1f5e",
+    "imgSrc": "https://photos.zillowstatic.com/fp/d6c1484afa1a916763633982ebd26ed6-p_e.jpg",
+    "hasImage": true,
+    "detailUrl": "/apartments/boston-ma/126-day-st/5j7xKs/",
+    "statusType": "FOR_RENT",
+    "statusText": "For Rent",
+    "address": "126 Day St, Boston, MA",
+    "addressStreet": "126 Day St   Apt 2",
+    "addressCity": "Boston",
+    "addressState": "MA",
+    "addressZipcode": "02130",
+    "units": [
+      {
+        "price": "$4,150+",
+        "beds": "4",
+        "roomForRent": false
+      },
+      {
+        "price": "$5,350+",
+        "beds": "5",
+        "roomForRent": false
+      }
+    ],
+    "lotId": 1049893250,
+    "latLong": {
+      "latitude": 42.3227,
+      "longitude": -71.10962
+    },
+    "isSaved": false,
+    "isBuilding": true,
+    "canSaveBuilding": true,
+    "has3DModel": true,
+    "isFeaturedListing": true,
+    "isShowcaseListing": false,
+    "list": true,
+    "relaxed": false,
+    "carouselPhotosComposable": {
+      "baseUrl": "https://photos.zillowstatic.com/fp/{photoKey}-p_e.jpg",
+      "communityBaseUrl": null,
+      "photoData": [
+        {
+          "photoKey": "d6c1484afa1a916763633982ebd26ed6"
+        },
+        {
+          "photoKey": "b59c793a0d573c76f894496d996baf38"
+        },
+        {
+          "photoKey": "34493d4e7b0113905211294039443b02"
+        },
+        {
+          "photoKey": "0e17285beec18408b1a477ddbd2d85df"
+        },
+        {
+          "photoKey": "bb3abbd96c0a18a1bedf8d3898533cd1"
+        },
+        {
+          "photoKey": "42f00b315009972837e7bf7298fffbed"
+        },
+        {
+          "photoKey": "8ce9e5ad55a6ee1e1451eb892d6ecf14"
+        },
+        {
+          "photoKey": "703883d8913a40177f947691d2264248"
+        },
+        {
+          "photoKey": "537bb62872df7041a5c0b0fdb2f12594"
+        },
+        {
+          "photoKey": "aff5d6621615143df6b4ec413cf80a13"
+        },
+        {
+          "photoKey": "bc2410295d4dd3d2993d2e41f29ae954"
+        }
+      ],
+      "communityPhotoData": null,
+      "isStaticUrls": false
+    },
+    "availabilityCount": 3,
+    "marketingTreatments": [
+      "trustedListing",
+      "paid",
+      "singleFamilyPaid",
+      "feedConnectFlatFeeFeedConnect"
+    ],
+    "listPriceIncludesRequiredMonthlyFees": false,
+    "isInstantTourEnabled": false,
+    "isContactable": false,
+    "isPaidBuilderNewConstruction": false
+  },
+  {
+    "zpid": "42.326614--71.10432",
+    "id": "42.326614--71.10432",
+    "providerListingId": "58w9evn2s0yvf",
+    "imgSrc": "https://photos.zillowstatic.com/fp/30d3ef6372297713266e380e3e87f296-p_e.jpg",
+    "hasImage": true,
+    "detailUrl": "/b/18-lawn-st-roxbury-crossing-ma-CpYt9f/",
+    "statusType": "FOR_RENT",
+    "statusText": "For Rent",
+    "address": "18 Lawn St, Mission Hill, MA",
+    "addressStreet": "18 Lawn St   # 2",
+    "addressCity": "Mission Hill",
+    "addressState": "MA",
+    "addressZipcode": "02120",
+    "units": [
+      {
+        "price": "$4,680+",
+        "beds": "3",
+        "roomForRent": false
+      },
+      {
+        "price": "$6,250+",
+        "beds": "4",
+        "roomForRent": false
+      }
+    ],
+    "lotId": 2770384621,
+    "latLong": {
+      "latitude": 42.326614,
+      "longitude": -71.10432
+    },
+    "isSaved": false,
+    "isBuilding": true,
+    "canSaveBuilding": false,
+    "has3DModel": false,
+    "isFeaturedListing": true,
+    "isShowcaseListing": false,
+    "list": true,
+    "relaxed": false,
+    "carouselPhotosComposable": {
+      "baseUrl": "https://photos.zillowstatic.com/fp/{photoKey}-p_e.jpg",
+      "communityBaseUrl": null,
+      "photoData": [
+        {
+          "photoKey": "30d3ef6372297713266e380e3e87f296"
+        },
+        {
+          "photoKey": "eaa23daa0251da93a0b38cfbb822b1ac"
+        },
+        {
+          "photoKey": "2ed7b84a97fbeecb5d495f0514eeb014"
+        },
+        {
+          "photoKey": "e9595f62fd96aaeadec0b3f112596d13"
+        },
+        {
+          "photoKey": "79d6fd2a4970cebac92ece8f21fa2ffa"
+        },
+        {
+          "photoKey": "019460522f7e9010c57ecc860d656d2d"
+        },
+        {
+          "photoKey": "6004e3f9b959e1240ca4bf4c80552c1e"
+        },
+        {
+          "photoKey": "5f812f346b52f460803d9562bb3afb1e"
+        },
+        {
+          "photoKey": "ba98327b009b33aa5c4c4c7f8ffd1cab"
+        },
+        {
+          "photoKey": "a0af8b4caf14125cacbb6e7d4a182922"
+        }
+      ],
+      "communityPhotoData": null,
+      "isStaticUrls": false
+    },
+    "availabilityCount": 3,
+    "marketingTreatments": [
+      "paid",
+      "zillowRentalManager"
+    ],
+    "listPriceIncludesRequiredMonthlyFees": false,
+    "isInstantTourEnabled": false,
+    "isContactable": false,
+    "isPaidBuilderNewConstruction": false
+  },
+  {
+    "zpid": "42.32289--71.109314",
+    "id": "42.32289--71.109314",
+    "providerListingId": "3awe272dgucty",
+    "imgSrc": "https://photos.zillowstatic.com/fp/1b1c8d76fef7233c49b1f1b9270007af-p_e.jpg",
+    "hasImage": true,
+    "detailUrl": "/apartments/boston-ma/3-mark-st/96CszB/",
+    "statusType": "FOR_RENT",
+    "statusText": "For Rent",
+    "address": "3 Mark St, Jamaica Plain, MA",
+    "addressStreet": "3 Mark St # 2",
+    "addressCity": "Jamaica Plain",
+    "addressState": "MA",
+    "addressZipcode": "02130",
+    "units": [
+      {
+        "price": "$4,795+",
+        "beds": "4",
+        "roomForRent": false
+      }
+    ],
+    "lotId": 2001547990,
+    "latLong": {
+      "latitude": 42.32289,
+      "longitude": -71.109314
+    },
+    "isSaved": false,
+    "isBuilding": true,
+    "canSaveBuilding": true,
+    "has3DModel": true,
+    "isFeaturedListing": true,
+    "isShowcaseListing": false,
+    "list": true,
+    "relaxed": false,
+    "carouselPhotosComposable": {
+      "baseUrl": "https://photos.zillowstatic.com/fp/{photoKey}-p_e.jpg",
+      "communityBaseUrl": null,
+      "photoData": [
+        {
+          "photoKey": "1b1c8d76fef7233c49b1f1b9270007af"
+        },
+        {
+          "photoKey": "2c99c8ba3b55f8da9775bcedc62a3ba6"
+        },
+        {
+          "photoKey": "126fe84db072c16cab13826f228ae0e9"
+        },
+        {
+          "photoKey": "bc1757a58efce0952a138e9b606a70bc"
+        },
+        {
+          "photoKey": "319066147f793144394378187aabce47"
+        },
+        {
+          "photoKey": "d8556de832bac387fa29a341907efd53"
+        },
+        {
+          "photoKey": "7bd7b5c2c001fc3c3cd04dc0c037b7df"
+        },
+        {
+          "photoKey": "ad3983a0b5386d221993479613cb0b10"
+        },
+        {
+          "photoKey": "88b8dd73e46e304e8c83f22eb3bef032"
+        },
+        {
+          "photoKey": "7a2182859a6f508682947ba6208e87cd"
+        }
+      ],
+      "communityPhotoData": null,
+      "isStaticUrls": false
+    },
+    "availabilityCount": 3,
+    "marketingTreatments": [
+      "trustedListing",
+      "paid",
+      "singleFamilyPaid",
+      "feedConnectFlatFeeFeedConnect"
+    ],
+    "listPriceIncludesRequiredMonthlyFees": false,
+    "isInstantTourEnabled": false,
+    "isContactable": false,
+    "isPaidBuilderNewConstruction": false
+  },
+  {
+    "zpid": "42.332237--71.11119",
+    "id": "42.332237--71.11119",
+    "providerListingId": "3q1pbs3xhk440",
+    "imgSrc": "https://photos.zillowstatic.com/fp/7d0e0a5ad088fc4ef8ecc5760c1d06b5-p_e.jpg",
+    "hasImage": true,
+    "detailUrl": "/b/882-huntington-ave-boston-ma-CjTsdp/",
+    "statusType": "FOR_RENT",
+    "statusText": "For Rent",
+    "address": "882 Huntington Ave, Boston, MA",
+    "addressStreet": "882 Huntington Ave  # 2",
+    "addressCity": "Boston",
+    "addressState": "MA",
+    "addressZipcode": "02115",
+    "units": [
+      {
+        "price": "$5,795+",
+        "beds": "3",
+        "roomForRent": false
+      },
+      {
+        "price": "$6,495+",
+        "beds": "4",
+        "roomForRent": false
+      }
+    ],
+    "lotId": 2746853603,
+    "latLong": {
+      "latitude": 42.332237,
+      "longitude": -71.11119
+    },
+    "isSaved": false,
+    "isBuilding": true,
+    "canSaveBuilding": false,
+    "has3DModel": false,
+    "isFeaturedListing": true,
+    "isShowcaseListing": false,
+    "list": true,
+    "relaxed": false,
+    "carouselPhotosComposable": {
+      "baseUrl": "https://photos.zillowstatic.com/fp/{photoKey}-p_e.jpg",
+      "communityBaseUrl": null,
+      "photoData": [
+        {
+          "photoKey": "7d0e0a5ad088fc4ef8ecc5760c1d06b5"
+        },
+        {
+          "photoKey": "ab8d38be5702975789641e7b004f25fa"
+        },
+        {
+          "photoKey": "9ed5e3308c807280782bc3c227d0a9d5"
+        },
+        {
+          "photoKey": "999cc4b8d54b91e7272d171a3668b0d3"
+        },
+        {
+          "photoKey": "5dc9ee3d1cb5e94bdf267a2642bb697c"
+        },
+        {
+          "photoKey": "25e446371d5f3e1b0dfd4db40de95007"
+        },
+        {
+          "photoKey": "0ede788d6e5deaaf83c18165c45ecfc2"
+        },
+        {
+          "photoKey": "c3f1d358132bcea18e30a93078080513"
+        },
+        {
+          "photoKey": "bbeb14d4d54d6f75282748fe623aae74"
+        },
+        {
+          "photoKey": "39d86d233bd22388ccd3b5e1003704ad"
+        },
+        {
+          "photoKey": "75b2a711536856f93801c5f26c7b83b6"
+        },
+        {
+          "photoKey": "4337ce147f8f01b4fca80afb9242582c"
+        },
+        {
+          "photoKey": "759fc40bf23d7a64db16f8b7c65a83e8"
+        }
+      ],
+      "communityPhotoData": null,
+      "isStaticUrls": false
+    },
+    "availabilityCount": 3,
+    "marketingTreatments": [
+      "trustedListing",
+      "paid",
+      "singleFamilyPaid",
+      "feedConnectFlatFeeFeedConnect"
+    ],
+    "listPriceIncludesRequiredMonthlyFees": false,
+    "isInstantTourEnabled": false,
+    "isContactable": false,
+    "isPaidBuilderNewConstruction": false
+  }
+]

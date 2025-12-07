@@ -1,0 +1,734 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>From Charles to Home — A Student Housing Explorer in Boston</title>
+  <meta name="description" content="A lightweight, single‑file prototype to explore student housing options in Boston using preferences, safety maps, and sample listings." />
+
+  <script src="https://cdn.tailwindcss.com"></script>
+
+<style>
+html { scroll-behavior: smooth; }
+.video-overlay { background: linear-gradient(180deg, rgba(0,0,0,.55) 0%, rgba(0,0,0,.35) 45%, rgba(0,0,0,.6) 100%); }
+.glass { backdrop-filter: blur(8px); background-color: rgba(255,255,255,0.08); }
+.chip { display:inline-flex; align-items:center; border:1px solid rgba(0,0,0,.1); border-radius:9999px; padding:.25rem .75rem; font-size:.875rem; }
+.card-shadow { box-shadow: 0 10px 25px rgba(0,0,0,.1), 0 4px 8px rgba(0,0,0,.06); }
+
+#home {
+  position: relative;
+}
+#home .overlay-scroll {
+  position: relative;
+  height: 240vh;
+}
+
+#home video {
+  position:absolute;
+  inset:0;
+  z-index:0;
+  width:100%;
+  height:100%;
+  object-fit:cover;
+}
+#home .video-overlay {
+  position:absolute;
+  inset:0;
+  z-index:1;
+}
+#home .overlay-scroll { 
+  position:relative; 
+  z-index:2; 
+}
+
+.home-title-sticky{
+  position: fixed;
+  left: 0;
+  right: 0;
+  padding: 0 1rem;
+  text-align: center;
+  z-index: 50;
+  pointer-events: none;
+  transition:
+    top 0.7s ease,
+    transform 0.7s ease,
+    padding 0.7s ease,
+    background 0.4s ease,
+    backdrop-filter 0.4s ease;
+}
+.home-title-sticky .title{
+  font-weight: 700;
+  letter-spacing:-0.01em;
+  font-size: clamp(28px,5vw,56px);
+  text-shadow: 0 2px 8px rgba(0,0,0,.35);
+}
+
+.home-title-sticky.at-center{
+  top: 50%;
+  transform: translateY(-50%);
+  background: transparent;
+}
+
+.home-title-sticky.at-top{
+  top: 0;
+  transform: translateY(0);
+  padding-top: 10px;
+  padding-bottom: 10px;
+  background: rgba(0,0,0,.35);
+  backdrop-filter: blur(6px);
+  -webkit-backdrop-filter: blur(6px);
+}
+
+#home .sticky-center{
+  position: fixed;
+  left: 0;
+  right: 0;
+  top: 50%;
+  transform: translateY(-50%);
+  text-align: center;
+  color: #fff;
+  z-index: 60;
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity .4s ease;
+}
+#home .sticky-center.visible{
+  opacity: 1;
+}
+
+#home .intro-line{
+  opacity: 0;
+  transform: translateY(14px);
+  transition: opacity .4s ease, transform .4s ease;
+  text-shadow: 0 2px 8px rgba(0,0,0,.35);
+}
+#home .intro-line.show{
+  opacity: 1;
+  transform: translateY(0);
+}
+#home .intro-line.hide{
+  opacity: 0;
+  transform: translateY(-6px);
+}
+
+@media (prefers-reduced-motion: reduce){
+  #home .intro-line, .home-title-sticky, .home-title-sticky .title { transition: none !important; }
+}
+
+body {
+  font-family: 'Inter', sans-serif;
+  font-weight: 400;
+  color: #fff;
+}
+
+.home-title-sticky .title {
+  font-family: 'Playfair Display', serif;
+  font-weight: 700;
+  letter-spacing: 0.01em;
+  color: #fff
+}
+
+#home .intro-line {
+  font-family: 'Inter', sans-serif;
+  font-weight: 500;
+  line-height: 1.4;
+  color: #fff
+}
+
+.home-title-sticky.hidden-title {
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity .5s ease;
+}
+
+</style>
+
+
+
+</head>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600;700&family=Inter:wght@400;500;600&display=swap">
+
+<body class="bg-zinc-50 text-zinc-900">
+
+  <section id="home" class="relative min-h-screen">
+  <video class="absolute inset-0 h-full w-full object-cover" autoplay muted loop playsinline poster="boston-aerial-poster.jpg">
+    <source src="Media/Testvideo1.mp4" type="video/mp4" />
+  </video>
+  <div class="video-overlay absolute inset-0"></div>
+
+  <div class="overlay-scroll">
+    <div id="titleTrigger" class="h-[25vh]"></div>
+
+    <div id="titleSticky" class="home-title-sticky at-center">
+      <h1 class="title">Landing in Boston</h1>
+    </div>
+
+    <div id="lineStage1" class="h-[120vh]"></div>
+    <div class="sticky-center">
+      <p id="line1" class="intro-line text-2xl sm:text-3xl font-semibold">
+        Congratulations! Now you are going to Boston for college.
+      </p>
+      <p id="line2" class="intro-line text-xl sm:text-2xl mt-6">
+        But what's next?
+      </p>
+    </div>
+    <div id="lineStage2" class="h-[60vh]"></div>
+  </div>
+</section>
+
+  <section id="preferences" class="py-12 sm:py-16">
+    <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
+      <div class="max-w-3xl">
+        <h2 class="text-2xl sm:text-3xl font-semibold">Your preferences</h2>
+      </div>
+
+      <form id="prefForm" class="mt-8 grid grid-cols-1 md:grid-cols-2 gap-6 bg-white rounded-2xl p-6 sm:p-8 card-shadow">
+        <!-- Budget -->
+        <div class="col-span-1">
+          <label class="block text-sm font-medium">Monthly budget (USD)</label>
+          <div class="mt-3 flex items-center gap-3">
+            <input id="budget" type="range" min="1500" max="5000" step="100" value="3200" class="w-full" />
+            <output id="budgetValue" class="text-sm font-semibold">$3,200</output>
+          </div>
+          <p class="mt-2 text-xs text-zinc-500">Tip: Many 1BRs in core areas are $3,000–$4,200.</p>
+        </div>
+
+
+        <!-- Areas -->
+        <div class="col-span-1 md:col-span-2">
+          <label class="block text-sm font-medium">Preferred areas (pick a few)</label>
+          <div class="mt-3 flex flex-wrap gap-2 text-sm">
+            <!-- Keep ids in sync with dataset "area" values -->
+            <label class="chip"><input class="mr-2" type="checkbox" value="Fenway" checked />Fenway / Kenmore</label>
+            <label class="chip"><input class="mr-2" type="checkbox" value="Jamaica Plain" checked />Jamaica Plain</label>
+            <label class="chip"><input class="mr-2" type="checkbox" value="Allston" checked />Allston / Brighton</label>
+            <label class="chip"><input class="mr-2" type="checkbox" value="Somerville" />Somerville</label>
+            <label class="chip"><input class="mr-2" type="checkbox" value="Back Bay" />Back Bay</label>
+            <label class="chip"><input class="mr-2" type="checkbox" value="South End" />South End</label>
+          </div>
+        </div>
+
+        <!-- Commute + Car -->
+        <div class="col-span-1">
+          <label class="block text-sm font-medium">Max commute (minutes)</label>
+          <div class="mt-3 flex items-center gap-3">
+            <input id="commute" type="range" min="10" max="60" step="5" value="30" class="w-full" />
+            <output id="commuteValue" class="text-sm font-semibold">30 min</output>
+          </div>
+        </div>
+        
+        <div class="col-span-1 md:col-span-2 flex items-center justify-between">
+          <button type="submit" class="rounded-xl bg-sky-600 text-white text-sm px-5 py-3 hover:bg-sky-700">Show recommendations</button>
+          <a href="#maps" class="text-sm text-sky-700 hover:underline">Skip to maps</a>
+        </div>
+      </form>
+    </div>
+  </section>
+
+<section id="maps" class="py-14 sm:py-20 bg-white border-t">
+  <div class="mx-auto max-w-7xl px-6 sm:px-8 lg:px-12">
+    
+    <div class="max-w-3xl">
+      <h2 class="text-2xl sm:text-3xl font-semibold text-zinc-800">
+        Safety & rent at a glance
+    
+    </div>
+
+    <div class="mt-10 grid grid-cols-1 lg:grid-cols-2 gap-10">
+      
+      <div class="bg-zinc-100 rounded-2xl border shadow-sm p-5 sm:p-6">
+        <div class="text-sm font-medium text-zinc-700 mb-3">
+           Police incidents by Boston police district
+        </div>
+        <div class="bg-white rounded-xl overflow-hidden ring-1 ring-black/5 p-4">
+          <iframe title="Safety-Relevant Police Incidents in Boston by Police District (2023)" aria-label="Choropleth map" id="datawrapper-chart-PLl5A" src="https://datawrapper.dwcdn.net/PLl5A/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="705" data-external="1"></iframe><script type="text/javascript">window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}});</script>
+          <script type="text/javascript">
+            window.addEventListener("message",function(a){
+              if(void 0!==a.data["datawrapper-height"]){
+                var e=document.querySelectorAll("iframe");
+                for(var t in a.data["datawrapper-height"])
+                  for(var r,i=0;r=e[i];i++)
+                    if(r.contentWindow===a.source){
+                      r.style.height=a.data["datawrapper-height"][t]+"px";
+                    }
+              }
+            });
+          </script>
+        </div>
+      </div>
+
+      <div class="bg-zinc-100 rounded-2xl border shadow-sm p-5 sm:p-6">
+        <div class="text-sm font-medium text-zinc-700 mb-3">
+          Average rent by zip code
+        </div>
+        <div class="bg-white rounded-xl overflow-hidden ring-1 ring-black/5 p-4">
+        <iframe title="Rent Across Boston ZIP Codes in 2025" aria-label="Choropleth map" id="datawrapper-chart-rw3eD" src="https://datawrapper.dwcdn.net/rw3eD/3/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="714" data-external="1"></iframe><script type="text/javascript">window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}});</script>      </div>
+
+    </div>
+  </div>
+</section>
+
+
+  <section id="results" class="py-12 sm:py-16">
+    <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
+      <div class="max-w-3xl">
+        <h2 class="text-2xl sm:text-3xl font-semibold">Recommendations</h2>
+            </div>
+
+      <div id="resultsSummary" class="mt-6 text-sm text-zinc-700"></div>
+
+      <div id="cards" class="mt-6 grid grid-cols-1 sm:grid-cols-2 xl:grid-cols-3 gap-6"></div>
+    </div>
+  </section>
+
+  <section id="about" class="py-12 sm:py-16 bg-white border-t">
+    <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
+      <div class="max-w-3xl">
+        <h2 class="text-2xl sm:text-3xl font-semibold">About this demo</h2>
+        <p class="mt-2 text-zinc-600">Built as a narrative + tool prototype for Northeastern students arriving in Boston.</p>
+      </div>
+
+      <div class="mt-8 grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
+        <figure class="overflow-hidden rounded-2xl border"><img src="media/DJI_20251116044521_0240_D.jpg" alt="Boston University Bridge & the Charles River" class="w-full h-48 object-cover hover:scale-105 transition" /></figure>
+        <figure class="overflow-hidden rounded-2xl border"><img src="media/DJI_20251116044534_0241_D.jpg" alt="Massachusetts Institute of Technology" class="w-full h-48 object-cover hover:scale-105 transition" /></figure>
+        <figure class="overflow-hidden rounded-2xl border"><img src="media/DJI_20251116051855_0244_D.jpg" alt="Duan Family Center for Computing & Data Sciences at Dusk" class="w-full h-48 object-cover hover:scale-105 transition" /></figure>
+      </div>
+
+      <div class="mt-8 text-sm text-zinc-600">
+        <p>Photo and Video credit: Yuanlang Shi</p>
+      </div>
+    </div>
+  </section>
+
+  <footer class="py-10 text-center text-xs text-zinc-500">
+    <p>© <span id="year"></span> From Charles to Home — student housing explorer (demo).</p>
+  </footer>
+
+  <script>
+document.getElementById('year').textContent = new Date().getFullYear();
+
+const budgetEl = document.getElementById('budget');
+const budgetValueEl = document.getElementById('budgetValue');
+const commuteEl = document.getElementById('commute');
+const commuteValueEl = document.getElementById('commuteValue');
+
+const fmtUSD = (n) => `$${n.toLocaleString()}`;
+const fmtMin = (n) => `${n} min`;
+
+const updateBudget = () => budgetValueEl.textContent = fmtUSD(Number(budgetEl.value));
+const updateCommute = () => commuteValueEl.textContent = fmtMin(Number(commuteEl.value));
+
+budgetEl.addEventListener('input', updateBudget); updateBudget();
+commuteEl.addEventListener('input', updateCommute); updateCommute();
+
+
+let SAFETY_BY_ZIP = {};
+let LISTINGS = [];
+
+
+
+function scoreListing(listing, prefs) {
+  let score = 0;
+
+  if (listing.rent > prefs.budget) return -Infinity;
+
+  if (prefs.areas.length && !prefs.areas.includes(listing.area)) {
+    return -Infinity;
+  }
+
+  if (prefs.maxCommute && listing.commuteMinutes != null) {
+    if (listing.commuteMinutes > prefs.maxCommute) {
+      return -Infinity;
+    }
+  }
+
+  if (listing.commuteMinutes != null && prefs.maxCommute) {
+    const margin = prefs.maxCommute - listing.commuteMinutes; 
+    score += Math.min(20, Math.max(0, margin / 2));
+  } else {
+
+    const commuteScore = (typeof listing.commuteScore === 'number') ? listing.commuteScore : 0.5;
+    score += commuteScore * 10;
+  }
+
+  const safetyScore = (typeof listing.safetyScore === 'number') ? listing.safetyScore : 0.5;
+  score += safetyScore * 20;
+
+  score += Math.min(20, (prefs.budget - listing.rent) / 150);
+
+  return score;
+}
+
+function renderCards(listings) {
+  const grid = document.getElementById('cards');
+  grid.innerHTML = '';
+  listings.forEach(l => {
+    const card = document.createElement('article');
+    card.className = 'bg-white rounded-2xl overflow-hidden border card-shadow flex flex-col';
+    card.innerHTML = `
+      <div class="relative aspect-[4/3] bg-zinc-100">
+        <img src="${l.image}" alt="Listing photo" class="w-full h-full object-cover" onerror="this.src='https://picsum.photos/600/450?random=${l.id}'" />
+        <span class="absolute top-3 left-3 text-xs bg-white/90 rounded-full px-2 py-1 border">${l.area}</span>
+      </div>
+      <div class="p-4 flex-1 flex flex-col">
+        <h3 class="font-medium">${l.title}</h3>
+        <p class="mt-1 text-sm text-zinc-600">${l.type} · ${l.beds} bed${l.beds!==1?'s':''} · ${l.baths} bath · ${l.nearT?'Near T':'—'} ${l.parking?'· Parking':''}</p>
+        <div class="mt-3 font-semibold">${fmtUSD(l.rent)}/mo</div>
+        <div class="mt-4 flex gap-2 text-xs">
+          <span class="chip">Safety: ${l.safety}</span>
+          <span class="chip">${l.nearT?'Transit':'Car-friendly'}</span>
+        </div>
+        <div class="mt-auto pt-4">
+          <a href="${l.link}"
+            target="_blank"
+            rel="noopener noreferrer"
+            class="inline-flex items-center gap-2 text-sm rounded-lg bg-sky-600 text-white px-3 py-2 hover:bg-sky-700">
+          View details
+          </a> 
+      </div>`;
+    grid.appendChild(card);
+  });
+}
+
+function summarize(count, prefs) {
+  const el = document.getElementById('resultsSummary');
+  const areas = prefs.areas.length ? prefs.areas.join(', ') : 'any area';
+  const commutePart = prefs.maxCommute ? `, max commute ${prefs.maxCommute} min` : '';
+
+  if (count === 0) {
+    el.textContent = `No listings found for your search (budget up to ${fmtUSD(prefs.budget)}, areas: ${areas}${commutePart}). Please try increasing your budget, selecting more areas, or adjusting your max commute.`;
+  } else {
+    el.textContent = `Showing ${count} matching listings (budget up to ${fmtUSD(prefs.budget)}, areas: ${areas}${commutePart}).`;
+  }
+}
+
+
+
+
+function getPrefs() {
+  const budgetEl = document.getElementById('budget');
+  const budget = budgetEl ? Number(budgetEl.value) : 0;
+
+  const commuteEl = document.getElementById('commute');
+  const maxCommute = commuteEl ? Number(commuteEl.value) : null;
+
+  const areaCheckboxes = document.querySelectorAll(
+    '#prefForm input[type="checkbox"][value]'
+  );
+  const areas = [...areaCheckboxes]
+    .filter(cb => cb.checked)
+    .map(cb => cb.value);
+
+  return {
+    budget,
+    maxCommute,
+    areas
+  };
+}
+
+function runFilter() {
+  const prefs = getPrefs();
+  const scored = LISTINGS
+    .map(l => ({...l, _score: scoreListing(l, prefs)}))
+    .filter(l => l._score !== -Infinity)
+    .sort((a,b) => b._score - a._score);
+  summarize(scored.length, prefs);
+  renderCards(scored);
+}
+
+document.getElementById('prefForm').addEventListener('submit', (e) => {
+  e.preventDefault();
+  runFilter();
+  document.getElementById('results').scrollIntoView({behavior:'smooth'});
+});
+
+const homeSection = document.getElementById('home');
+const titleBar    = document.getElementById('titleSticky');
+const centerBox   = document.querySelector('#home .sticky-center');
+const line1       = document.getElementById('line1');
+const line2       = document.getElementById('line2');
+
+function updateLanding() {
+  if (!homeSection || !titleBar || !centerBox || !line1 || !line2) return;
+
+  const rect = homeSection.getBoundingClientRect();
+  const viewportH = window.innerHeight || document.documentElement.clientHeight;
+
+
+  const scrolledIn = Math.min(Math.max(-rect.top, 0), viewportH * 1.5);
+  const progress = scrolledIn / (viewportH * 1.5);
+
+
+  if (progress < 0.15) {
+    titleBar.classList.add('at-center');
+    titleBar.classList.remove('at-top');
+  } else {
+    titleBar.classList.remove('at-center');
+    titleBar.classList.add('at-top');
+  }
+
+
+  if (progress < 0.15 || progress > 0.9) {
+    centerBox.classList.remove('visible');
+  } else {
+    centerBox.classList.add('visible');
+  }
+
+
+  if (progress < 0.45) {
+
+    line1.classList.add('show');
+    line1.classList.remove('hide');
+    line2.classList.remove('show');
+    line2.classList.add('hide');
+  } else if (progress < 0.85) {
+
+    line1.classList.remove('show');
+    line1.classList.add('hide');
+    line2.classList.add('show');
+    line2.classList.remove('hide');
+  } else {
+
+    line1.classList.remove('show');
+    line1.classList.add('hide');
+    line2.classList.remove('show');
+    line2.classList.add('hide');
+  }
+}
+
+function updateLanding() {
+  if (!homeSection || !titleBar || !centerBox || !line1 || !line2) return;
+
+  const rect = homeSection.getBoundingClientRect();
+  const viewportH = window.innerHeight || document.documentElement.clientHeight;
+
+  const scrolledIn = Math.min(Math.max(-rect.top, 0), viewportH * 1.5);
+  const progress = scrolledIn / (viewportH * 1.5);
+
+
+  if (progress < 0.15) {
+    titleBar.classList.add('at-center');
+    titleBar.classList.remove('at-top');
+  } else {
+    titleBar.classList.remove('at-center');
+    titleBar.classList.add('at-top');
+  }
+
+
+  if (progress < 0.15 || progress > 0.9) {
+    centerBox.classList.remove('visible');
+  } else {
+    centerBox.classList.add('visible');
+  }
+
+
+  if (progress < 0.45) {
+    line1.classList.add('show');
+    line1.classList.remove('hide');
+    line2.classList.remove('show');
+    line2.classList.add('hide');
+  } else if (progress < 0.85) {
+    line1.classList.remove('show');
+    line1.classList.add('hide');
+    line2.classList.add('show');
+    line2.classList.remove('hide');
+  } else {
+    line1.classList.add('hide');
+    line2.classList.add('hide');
+  }
+
+
+  const preferences = document.getElementById('preferences');
+  if (preferences) {
+    const prefTop = preferences.getBoundingClientRect().top;
+
+    if (prefTop <= 80) {
+
+      titleBar.classList.add('hidden-title');
+    } else {
+
+      titleBar.classList.remove('hidden-title');
+    }
+  }
+}
+
+window.addEventListener('scroll', updateLanding, { passive: true });
+window.addEventListener('resize', updateLanding, { passive: true });
+window.addEventListener('load', updateLanding);
+
+</script>
+
+<script>
+
+const AREA_FILES = [
+  { name: 'Fenway',        file: 'Data/fenway-kenmore_sample.json' },
+  { name: 'Allston',       file: 'Data/allston_sample.json' },
+  { name: 'Allston',       file: 'Data/brighton_sample.json' },
+  { name: 'Back Bay',      file: 'Data/back+bay_sample.json' },
+  { name: 'South End',     file: 'Data/south+end_sample.json' },
+  { name: 'Somerville',    file: 'Data/somerville_sample.json' },
+    { name: 'Jamaica Plain', file: 'Data/jamaica+plain_sample.json' }
+];
+
+// loadSafetyTable
+function loadSafetyTable() {
+  return fetch('Apartments/zip_safety.json')
+    .then(res => res.json())
+    .then(data => {
+      SAFETY_BY_ZIP = data;
+      console.log('✅ Safety table loaded:', Object.keys(SAFETY_BY_ZIP).length, 'ZIPs');
+    })
+    .catch(err => {
+      console.error('❌ Failed to load safety table:', err);
+      SAFETY_BY_ZIP = {};
+    });
+}
+
+function parsePrice(item) {
+  if (!item.units || !item.units.length) return 0;
+  const prices = item.units
+    .map(u => {
+      const m = u.price && u.price.match(/\$([\d,]+)/);
+      return m ? Number(m[1].replace(/,/g, '')) : null;
+    })
+    .filter(p => p !== null);
+  return prices.length ? Math.min(...prices) : 0;
+}
+
+function mapZillowToListing(item, areaName, idx) {
+  const firstUnit = item.units && item.units.length ? item.units[0] : {};
+  const beds = Number(firstUnit.beds || 0);
+  const type = firstUnit.roomForRent ? 'Room' : (beds === 0 ? 'Studio' : `${beds}BR`);
+  const rent = parsePrice(item);
+
+  const rawZip = (item.addressZipcode || '').toString().trim();
+  const zip = rawZip.padStart(5, '0');
+
+  const sInfo = SAFETY_BY_ZIP[zip] || {};
+  const safetyLevel = sInfo.level || 'medium';
+  const safetyScore = (typeof sInfo.score === 'number') ? sInfo.score : 0.5;
+
+  let commuteMinutes = null;
+  let commuteScore = 0.5;
+
+  if (
+    item.latLong &&
+    typeof item.latLong.latitude === 'number' &&
+    typeof item.latLong.longitude === 'number'
+  ) {
+    const distMeters = haversineMeters(
+      item.latLong.latitude,
+      item.latLong.longitude,
+      NEU_LAT,
+      NEU_LNG
+    );
+
+    const commute = computeCommuteFromDistanceMeters(distMeters);
+    commuteMinutes = commute.minutes;
+    commuteScore = commute.score;
+  }
+
+  return {
+    id: item.id || item.zpid || `${areaName}-${idx}`,
+    title: item.buildingName || item.statusText || item.addressStreet || 'Apartment',
+    area: areaName,
+    rent,
+    type,
+    beds,
+    baths: 1,
+
+    safety: safetyLevel,
+    safetyScore,
+
+    zip,
+    commuteMinutes,
+    commuteScore,
+
+    image: item.imgSrc,
+    link: item.detailUrl && item.detailUrl.startsWith('http')
+      ? item.detailUrl
+      : `https://www.zillow.com${item.detailUrl || ''}`
+  };
+}
+
+
+
+
+function loadAllListings() {
+  Promise.all(
+    AREA_FILES.map(area =>
+      fetch(area.file)
+        .then(res => res.json())
+        .then(data => data.map((item, idx) => mapZillowToListing(item, area.name, idx)))
+    )
+  )
+  .then(groups => {
+    LISTINGS = groups.flat();
+    console.log('✅ Housing data loaded:', LISTINGS.length);
+    runFilter();
+  })
+  .catch(err => {
+    console.error('❌ Failed to load housing data:', err);
+  });
+}
+
+window.addEventListener('DOMContentLoaded', () => {
+  loadAllListings();
+});
+
+
+loadSafetyTable().then(() => {
+  loadAllListings(); 
+});
+
+
+</script>
+
+<script>
+  // Northeastern coordinates
+  const NEU_LAT = 42.3398;
+const NEU_LNG = -71.0903;
+
+
+function haversineMeters(lat1, lon1, lat2, lon2) {
+  const R = 6371000;
+  const toRad = deg => deg * Math.PI / 180;
+
+  const dLat = toRad(lat2 - lat1);
+  const dLon = toRad(lon2 - lon1);
+  const a =
+    Math.sin(dLat / 2) * Math.sin(dLat / 2) +
+    Math.cos(toRad(lat1)) * Math.cos(toRad(lat2)) *
+    Math.sin(dLon / 2) * Math.sin(dLon / 2);
+
+  const c = 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1 - a));
+  return R * c;
+}
+
+
+function computeCommuteFromDistanceMeters(distMeters) {
+
+  const walkMinutes = distMeters / 80;
+
+  let score;
+  if (walkMinutes <= 15) {
+    score = 1;
+  } else if (walkMinutes >= 45) {
+    score = 0;
+  } else {
+    score = 1 - (walkMinutes - 15) / 30;
+  }
+
+  return {
+    minutes: walkMinutes,
+    score: score
+  };
+}
+</script>
+
+
+
+
+</body>
+</html>

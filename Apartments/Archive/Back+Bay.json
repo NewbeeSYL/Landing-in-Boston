@@ -1,0 +1,5604 @@
+[
+  {
+    "zpid": "42.346043--71.07866",
+    "id": "42.346043--71.07866",
+    "providerListingId": "413h91knajqd",
+    "imgSrc": "https://photos.zillowstatic.com/fp/79b7155904efa86b7a94414cc38dc34a-p_e.jpg",
+    "hasImage": true,
+    "detailUrl": "/apartments/boston-ma/garrison-square/CgLgFR/",
+    "statusType": "FOR_RENT",
+    "statusText": "Garrison Square",
+    "address": "7 Harcourt St, Boston, MA",
+    "addressStreet": "7 Harcourt St   # 501",
+    "addressCity": "Boston",
+    "addressState": "MA",
+    "addressZipcode": "02116",
+    "units": [
+      {
+        "price": "$3,953+",
+        "beds": "1",
+        "roomForRent": false
+      },
+      {
+        "price": "$4,408+",
+        "beds": "2",
+        "roomForRent": false
+      },
+      {
+        "price": "$7,036+",
+        "beds": "3",
+        "roomForRent": false
+      }
+    ],
+    "lotId": 2734477851,
+    "latLong": {
+      "latitude": 42.346043,
+      "longitude": -71.07866
+    },
+    "listCardRecommendation": {
+      "flexFieldRecommendations": [
+        {
+          "displayString": "Special Offer",
+          "contentType": "frSpecialOffer"
+        }
+      ]
+    },
+    "isSaved": false,
+    "buildingName": "Garrison Square",
+    "isBuilding": true,
+    "canSaveBuilding": true,
+    "has3DModel": false,
+    "isFeaturedListing": true,
+    "isShowcaseListing": false,
+    "list": true,
+    "relaxed": false,
+    "carouselPhotosComposable": {
+      "baseUrl": "https://photos.zillowstatic.com/fp/{photoKey}-p_e.jpg",
+      "communityBaseUrl": null,
+      "photoData": [
+        {
+          "photoKey": "79b7155904efa86b7a94414cc38dc34a"
+        },
+        {
+          "photoKey": "97430d389b581e717ae188e6c4ef99d3"
+        },
+        {
+          "photoKey": "70d5f0854fec4f64eb43276ef31b0f43"
+        },
+        {
+          "photoKey": "e115463fa6ba1170d353a6019974f46f"
+        },
+        {
+          "photoKey": "2a8fc761195e4ff5986eb7cea51222ac"
+        },
+        {
+          "photoKey": "3c359c0290840be15792a848aa63be44"
+        },
+        {
+          "photoKey": "48e80379f68737274582dde7e39c4836"
+        },
+        {
+          "photoKey": "15b88f5bcefaa273ce1d35e80f97aae0"
+        },
+        {
+          "photoKey": "e50649aa2cb971b2a210d9445a49037c"
+        },
+        {
+          "photoKey": "445348bb9d49097d8c96679bf2694e8e"
+        },
+        {
+          "photoKey": "e60097274748e6d19e39565462aa689c"
+        },
+        {
+          "photoKey": "fb1549a735e87da0916caf87415a4c45"
+        },
+        {
+          "photoKey": "e3af0839496c6ba1b8fdbd09cf5fe770"
+        },
+        {
+          "photoKey": "10917507a481efd676050dc02191caf3"
+        },
+        {
+          "photoKey": "0eea82654b13170cf05b950e63f47a5e"
+        },
+        {
+          "photoKey": "a209c4d0a3f5e7b2b038d31111d1c55b"
+        },
+        {
+          "photoKey": "8556263cc8c0dfdfd4e19d152649d7e7"
+        },
+        {
+          "photoKey": "be203c5020c8ab715039f4e37bdba1c5"
+        },
+        {
+          "photoKey": "9431106dc9fce5a793976d19dc6cb4dc"
+        },
+        {
+          "photoKey": "cda9251cecc590c05a0a9291330eb891"
+        },
+        {
+          "photoKey": "1437750e6e4af333067aac223bd555bd"
+        },
+        {
+          "photoKey": "3852c62b6943599780d2b92591f54adb"
+        },
+        {
+          "photoKey": "9e4baf30369063a5ff5227a709a2db63"
+        },
+        {
+          "photoKey": "ee265bf6773d4d0ac230a5dc0a82c38b"
+        },
+        {
+          "photoKey": "6ba8d0aa3c801da086f7e879f790bd77"
+        },
+        {
+          "photoKey": "428800c5931c948d22001ca0b3bf0310"
+        },
+        {
+          "photoKey": "1826084df3e68e599cbf3bd04fc91e2c"
+        },
+        {
+          "photoKey": "20850b41389c4fab68df90110efe8c2e"
+        },
+        {
+          "photoKey": "23f045523b0dd489bb2a6677d3305f0c"
+        },
+        {
+          "photoKey": "4e4dbdff0dec54d01a18ec2387b6aed5"
+        },
+        {
+          "photoKey": "87c8dae9fb751564b7562d9fd6670da3"
+        },
+        {
+          "photoKey": "7642049777a0a27a3c0ff2e984972fc0"
+        },
+        {
+          "photoKey": "e40137fbcd646e230499972a48d2b849"
+        },
+        {
+          "photoKey": "f82eddfc83146b4b2d1c2db659b366b9"
+        },
+        {
+          "photoKey": "4f8ea2b5175267982fe81ef646002f2a"
+        }
+      ],
+      "communityPhotoData": null,
+      "isStaticUrls": false
+    },
+    "availabilityCount": 12,
+    "marketingTreatments": [
+      "trustedListing",
+      "paid",
+      "multiFamilySalesListing",
+      "paidOrUnpaidMultifamily",
+      "paidMultifamily",
+      "multifamilyPinnaclePackage"
+    ],
+    "listPriceIncludesRequiredMonthlyFees": true,
+    "totalRequiredMonthlyMinFee": 10,
+    "totalRequiredMonthlyMaxFee": 15,
+    "minBaseRent": 3938,
+    "maxBaseRent": 7304,
+    "isInstantTourEnabled": true,
+    "isContactable": true,
+    "isPaidBuilderNewConstruction": false
+  },
+  {
+    "zpid": "42.35307--71.07213",
+    "id": "42.35307--71.07213",
+    "providerListingId": "2uvcshf3qtyjn",
+    "imgSrc": "https://photos.zillowstatic.com/fp/bef10ab97fdc83eded8ae0f6c0786d60-p_e.jpg",
+    "hasImage": true,
+    "detailUrl": "/apartments/boston-ma/12-commonwealth/CgGsQX/",
+    "statusType": "FOR_RENT",
+    "statusText": "12 Commonwealth",
+    "address": "12-14 Commonwealth Ave, Boston, MA",
+    "addressStreet": "12-14 Commonwealth Ave  # 604",
+    "addressCity": "Boston",
+    "addressState": "MA",
+    "addressZipcode": "02116",
+    "units": [
+      {
+        "price": "$2,900+",
+        "beds": "0",
+        "roomForRent": false
+      },
+      {
+        "price": "$2,250+",
+        "beds": "1",
+        "roomForRent": false
+      }
+    ],
+    "lotId": 2734029310,
+    "latLong": {
+      "latitude": 42.35307,
+      "longitude": -71.07213
+    },
+    "listCardRecommendation": {
+      "flexFieldRecommendations": [
+        {
+          "displayString": "Historic building",
+          "contentType": "homeInsight"
+        },
+        {
+          "displayString": "7 available units",
+          "contentType": "frUnitsAvailable"
+        }
+      ]
+    },
+    "isSaved": false,
+    "buildingName": "12 Commonwealth",
+    "isBuilding": true,
+    "canSaveBuilding": true,
+    "has3DModel": false,
+    "isFeaturedListing": true,
+    "isShowcaseListing": false,
+    "list": true,
+    "relaxed": false,
+    "carouselPhotosComposable": {
+      "baseUrl": "https://photos.zillowstatic.com/fp/{photoKey}-p_e.jpg",
+      "communityBaseUrl": null,
+      "photoData": [
+        {
+          "photoKey": "bef10ab97fdc83eded8ae0f6c0786d60"
+        },
+        {
+          "photoKey": "14f39adf4f0c71d089584465bce3effd"
+        },
+        {
+          "photoKey": "6c40f073ea627929aee8bbb30267012a"
+        },
+        {
+          "photoKey": "8d09de11ecfc0c1327792aaec50e2dd8"
+        },
+        {
+          "photoKey": "7b49f3704d40f126d48a2982056c718f"
+        },
+        {
+          "photoKey": "3e2ff3577e4bc4b8f8c55372464892ed"
+        },
+        {
+          "photoKey": "393c2208b04bb0ca6bd0275e52a6ab18"
+        },
+        {
+          "photoKey": "6799fe16d2f4ee04419c6813ace24e51"
+        },
+        {
+          "photoKey": "14233a17126266337d92e753608afca6"
+        },
+        {
+          "photoKey": "35ba8b35d08b2415d1de9410d1cb3028"
+        },
+        {
+          "photoKey": "4eb83d9d4ea7e79e794ed6e50f7f65c3"
+        },
+        {
+          "photoKey": "4dae049520cafb6c8802bfc01e46a0e1"
+        },
+        {
+          "photoKey": "856e1ce8739d5417d540abeff9e2a89f"
+        },
+        {
+          "photoKey": "5868162f4c8619c6b2fc90fad6d4371e"
+        }
+      ],
+      "communityPhotoData": null,
+      "isStaticUrls": false
+    },
+    "availabilityCount": 7,
+    "marketingTreatments": [
+      "trustedListing",
+      "paid",
+      "multiFamilySalesListing",
+      "paidOrUnpaidMultifamily",
+      "paidMultifamily",
+      "multifamilyPremium"
+    ],
+    "listPriceIncludesRequiredMonthlyFees": true,
+    "minBaseRent": 2250,
+    "maxBaseRent": 3100,
+    "isInstantTourEnabled": false,
+    "isContactable": true,
+    "isPaidBuilderNewConstruction": false
+  },
+  {
+    "zpid": "42.344627--71.08211",
+    "id": "42.344627--71.08211",
+    "providerListingId": "2buccep30vdvw",
+    "imgSrc": "https://photos.zillowstatic.com/fp/c25a9ea6f3588ca48f52affb126d141c-p_e.jpg",
+    "hasImage": true,
+    "detailUrl": "/apartments/boston-ma/the-greenhouse-apartments/5Xj9bd/",
+    "statusType": "FOR_RENT",
+    "statusText": "The Greenhouse Apartments",
+    "address": "150 Huntington Ave, Boston, MA",
+    "addressStreet": "150 Huntington Ave # 8b1c16cba",
+    "addressCity": "Boston",
+    "addressState": "MA",
+    "addressZipcode": "02115",
+    "units": [
+      {
+        "price": "$3,400+",
+        "beds": "1",
+        "roomForRent": false
+      },
+      {
+        "price": "$5,495+",
+        "beds": "2",
+        "roomForRent": false
+      },
+      {
+        "price": "$5,600+",
+        "beds": "3",
+        "roomForRent": false
+      }
+    ],
+    "lotId": 1001446547,
+    "latLong": {
+      "latitude": 42.344627,
+      "longitude": -71.08211
+    },
+    "listCardRecommendation": {
+      "flexFieldRecommendations": [
+        {
+          "displayString": "Contemporary finishes",
+          "contentType": "homeInsight"
+        },
+        {
+          "displayString": "Special Offer",
+          "contentType": "frSpecialOffer"
+        }
+      ]
+    },
+    "isSaved": false,
+    "buildingName": "The Greenhouse Apartments",
+    "isBuilding": true,
+    "canSaveBuilding": true,
+    "has3DModel": true,
+    "isFeaturedListing": true,
+    "isShowcaseListing": false,
+    "list": true,
+    "relaxed": false,
+    "carouselPhotosComposable": {
+      "baseUrl": "https://photos.zillowstatic.com/fp/{photoKey}-p_e.jpg",
+      "communityBaseUrl": null,
+      "photoData": [
+        {
+          "photoKey": "c25a9ea6f3588ca48f52affb126d141c"
+        },
+        {
+          "photoKey": "063e63ca897cd7dd434aa0edf3d6ef67"
+        },
+        {
+          "photoKey": "36e9c8349a1e24f2cebe7dc968f180f2"
+        },
+        {
+          "photoKey": "26dafd934495b90f19ae2b7dfb3dd256"
+        },
+        {
+          "photoKey": "a8604a4851c61ea6a2d2b82f4a06ec1c"
+        },
+        {
+          "photoKey": "cd1c45bd5120ee4c4602067ec6ef5884"
+        }
+      ],
+      "communityPhotoData": null,
+      "isStaticUrls": false
+    },
+    "availabilityCount": 6,
+    "marketingTreatments": [
+      "trustedListing",
+      "paid",
+      "zillowRentalManager",
+      "multiFamilySalesListing",
+      "paidOrUnpaidMultifamily",
+      "paidMultifamily",
+      "multifamilyPremium"
+    ],
+    "listPriceIncludesRequiredMonthlyFees": false,
+    "isInstantTourEnabled": false,
+    "isContactable": true,
+    "isPaidBuilderNewConstruction": false
+  },
+  {
+    "zpid": "458311781",
+    "palsId": "100066001_38e46d83bf59352b1b8522a77d5392f371122ee3232e87eb27921b81b8af6e9f",
+    "id": "458311781",
+    "rawHomeStatusCd": "ForRent",
+    "marketingStatusSimplifiedCd": "For Rent",
+    "providerListingId": "554ybauaewvex",
+    "imgSrc": "https://photos.zillowstatic.com/fp/e75772ddab0eeec74c498c54cb2380c8-p_e.jpg",
+    "hasImage": true,
+    "detailUrl": "https://www.zillow.com/apartments/boston-ma/158-181-saint-botolph-street/Cn5Y7t/",
+    "statusType": "FOR_RENT",
+    "statusText": "Apartment for rent",
+    "countryCurrency": "$",
+    "price": "$5,500/mo",
+    "unformattedPrice": 5500,
+    "address": "158-181 Saint Botolph Street, 158-181 Saint Botolph St #5, Boston, MA 02115",
+    "addressStreet": "158-181 Saint Botolph St #5",
+    "addressCity": "Boston",
+    "addressState": "MA",
+    "addressZipcode": "02115",
+    "isUndisclosedAddress": false,
+    "beds": 2,
+    "baths": 2,
+    "area": 1225,
+    "latLong": {
+      "latitude": 42.342953,
+      "longitude": -71.08284
+    },
+    "isZillowOwned": false,
+    "listCardRecommendation": {
+      "flexFieldRecommendations": [
+        {
+          "displayString": "1 day ago",
+          "contentType": "timeOnInfo"
+        }
+      ],
+      "ctaRecommendations": [
+        {
+          "displayString": "Request a tour",
+          "contentType": "REQUEST_A_TOUR"
+        }
+      ]
+    },
+    "hdpData": {
+      "homeInfo": {
+        "zpid": 458311781,
+        "streetAddress": "158-181 Saint Botolph St #5",
+        "zipcode": "02115",
+        "city": "Boston",
+        "state": "MA",
+        "latitude": 42.342953,
+        "longitude": -71.08284,
+        "price": 5500,
+        "bathrooms": 2,
+        "bedrooms": 2,
+        "livingArea": 1225,
+        "homeType": "APARTMENT",
+        "homeStatus": "FOR_RENT",
+        "daysOnZillow": 1,
+        "isFeatured": true,
+        "shouldHighlight": false,
+        "isRentalWithBasePrice": false,
+        "listing_sub_type": {},
+        "isUnmappable": false,
+        "isPreforeclosureAuction": false,
+        "homeStatusForHDP": "FOR_RENT",
+        "priceForHDP": 5500,
+        "timeOnZillow": 148094000,
+        "isNonOwnerOccupied": true,
+        "isPremierBuilder": false,
+        "isZillowOwned": false,
+        "currency": "USD",
+        "country": "USA",
+        "unit": "# 5",
+        "isShowcaseListing": false
+      }
+    },
+    "isSaved": false,
+    "isUserClaimingOwner": false,
+    "isUserConfirmedClaim": false,
+    "pgapt": "ForRent",
+    "sgapt": "For Rent",
+    "shouldShowZestimateAsPrice": false,
+    "has3DModel": false,
+    "hasVideo": false,
+    "isHomeRec": false,
+    "hasAdditionalAttributions": false,
+    "isFeaturedListing": true,
+    "isShowcaseListing": false,
+    "availabilityDate": "2026-01-01 00:00:00",
+    "list": true,
+    "relaxed": false,
+    "carouselPhotosComposable": {
+      "baseUrl": "https://photos.zillowstatic.com/fp/{photoKey}-p_e.jpg",
+      "communityBaseUrl": null,
+      "photoData": [
+        {
+          "photoKey": "e75772ddab0eeec74c498c54cb2380c8"
+        },
+        {
+          "photoKey": "c8be1ed1db4bfe01d7d3db1cd9eba816"
+        },
+        {
+          "photoKey": "ca217aeac37cd6fde7dd0df5df20e864"
+        },
+        {
+          "photoKey": "a40e85312ed692ad345cf7386f46741c"
+        },
+        {
+          "photoKey": "02a15eb88ec35d69fbe09bb905094dce"
+        },
+        {
+          "photoKey": "f2496e53591347b8ca9dafd19575a2bc"
+        },
+        {
+          "photoKey": "219b4eaa9a2f56e18a0576a3764b8333"
+        },
+        {
+          "photoKey": "f9ef4e8d8a48563ffd11a0546a6c494c"
+        },
+        {
+          "photoKey": "e0aefb6b602755fb93518792f27ae850"
+        },
+        {
+          "photoKey": "107e5e4e5d865a0c53454262feaf825d"
+        },
+        {
+          "photoKey": "dfc02109c0b9fa30e0b7e66a458f3aae"
+        },
+        {
+          "photoKey": "23cf09e3ee9d3e582ff62e9d0498a3c7"
+        },
+        {
+          "photoKey": "52eccf34a3fbdf8aec323cd81ab50675"
+        },
+        {
+          "photoKey": "720582c4590ee4a171c76bc289286d57"
+        },
+        {
+          "photoKey": "676c9dca5c712aa0ed76d6985c256f04"
+        }
+      ],
+      "communityPhotoData": null,
+      "isStaticUrls": false
+    },
+    "marketingTreatments": [
+      "trustedListing",
+      "paid",
+      "zillowRentalManager",
+      "multiFamilySalesListing",
+      "paidOrUnpaidMultifamily",
+      "paidMultifamily",
+      "multifamilyEnhancedPackage"
+    ],
+    "rooms": [],
+    "listPriceIncludesRequiredMonthlyFees": false,
+    "isPaidBuilderNewConstruction": false,
+    "factsAndFeatures": {
+      "halfBathroomCount": 1,
+      "fullBathroomCount": 1,
+      "hasFireplace": false,
+      "hasAirConditioning": false,
+      "hasSpa": false,
+      "hasPool": false
+    }
+  },
+  {
+    "zpid": "42.348106--71.07962",
+    "id": "42.348106--71.07962",
+    "providerListingId": "42cw8z1tszwkr",
+    "imgSrc": "https://photos.zillowstatic.com/fp/416339134595a1f66b63fb956ba2ee9a-p_e.jpg",
+    "hasImage": true,
+    "detailUrl": "/apartments/boston-ma/avalon-at-prudential-center/5XjTvF/",
+    "statusType": "FOR_RENT",
+    "statusText": "Avalon at Prudential Center",
+    "address": "770 Boylston St, Boston, MA",
+    "addressStreet": "770 Boylston St # df8faf113",
+    "addressCity": "Boston",
+    "addressState": "MA",
+    "addressZipcode": "02199",
+    "units": [
+      {
+        "price": "$3,159+",
+        "beds": "0",
+        "roomForRent": false
+      },
+      {
+        "price": "$3,386+",
+        "beds": "1",
+        "roomForRent": false
+      },
+      {
+        "price": "$5,174+",
+        "beds": "2",
+        "roomForRent": false
+      },
+      {
+        "price": "$13,129+",
+        "beds": "3",
+        "roomForRent": false
+      }
+    ],
+    "lotId": 1001485678,
+    "latLong": {
+      "latitude": 42.348106,
+      "longitude": -71.07962
+    },
+    "isSaved": false,
+    "buildingName": "Avalon at Prudential Center",
+    "isBuilding": true,
+    "canSaveBuilding": true,
+    "has3DModel": false,
+    "isFeaturedListing": true,
+    "isShowcaseListing": false,
+    "list": true,
+    "relaxed": false,
+    "carouselPhotosComposable": {
+      "baseUrl": "https://photos.zillowstatic.com/fp/{photoKey}-p_e.jpg",
+      "communityBaseUrl": null,
+      "photoData": [
+        {
+          "photoKey": "416339134595a1f66b63fb956ba2ee9a"
+        },
+        {
+          "photoKey": "c8c89b9f7f1a6c165a310049b8e0a7b4"
+        },
+        {
+          "photoKey": "9fd7d19170c9522700bb09a88efc6ce5"
+        },
+        {
+          "photoKey": "23cdc67265637a36131dc59feaeaf732"
+        },
+        {
+          "photoKey": "bbf88873bcbace81e3491a2087e48d18"
+        },
+        {
+          "photoKey": "90856412e16a82371e089b51fa33484f"
+        },
+        {
+          "photoKey": "14765d4bab353629367f7d1bdb440d52"
+        },
+        {
+          "photoKey": "7e7d5b3973c910f9618e554f83958120"
+        },
+        {
+          "photoKey": "a4da487e686705bf1dd38dd4cc3b5db3"
+        },
+        {
+          "photoKey": "ad971ed655eacbddc3a9110285754048"
+        },
+        {
+          "photoKey": "5378e32ea19f24c82e72935b91d594cc"
+        },
+        {
+          "photoKey": "2dcc411857cc55ebdffe066aaab49b90"
+        },
+        {
+          "photoKey": "7e9641c5cdd94797b3734978c1e4a81e"
+        },
+        {
+          "photoKey": "04e58b66bf7727220239e6af91175940"
+        },
+        {
+          "photoKey": "b6669e8d2539cb3806e7874eaa9266e1"
+        },
+        {
+          "photoKey": "c41850c0d623e1febb1ea77908749483"
+        },
+        {
+          "photoKey": "e03104fac86437b0f54dcda4173f158c"
+        },
+        {
+          "photoKey": "baeec609682dde63865bec3ea90bdff2"
+        },
+        {
+          "photoKey": "0afe955b5bb629365469352be77b5bfe"
+        },
+        {
+          "photoKey": "433e2724a4b9e50f5e6543c3d80b5071"
+        },
+        {
+          "photoKey": "03a937c8c7382d6e121430a79d33108c"
+        },
+        {
+          "photoKey": "05747f809a60eafc9410feb057433521"
+        },
+        {
+          "photoKey": "b644a9c5dcb56556ddcca2785811aa54"
+        },
+        {
+          "photoKey": "39666a8be1421faf68cab8636c3aa7c5"
+        },
+        {
+          "photoKey": "4bc7b426db55a1467b6bd67128fdb435"
+        },
+        {
+          "photoKey": "f027870a933ee56e8c47cdb2aced6082"
+        },
+        {
+          "photoKey": "0357ebe7fd42dfc15c0e7d071bef48b0"
+        },
+        {
+          "photoKey": "d1f19480d8bec6fcbc8c4a5c92d1fadf"
+        },
+        {
+          "photoKey": "0f10a9fca7eae3c4c3c92462d285d773"
+        },
+        {
+          "photoKey": "673592663aebc87d480c0a0efa938f18"
+        },
+        {
+          "photoKey": "13053ebf6d5b2b7afa56f3a0f36c54c9"
+        },
+        {
+          "photoKey": "2240ad4a2d748a5a56dd18a6764fd811"
+        },
+        {
+          "photoKey": "82adb169374da3e17f7412f2aec9dcc5"
+        },
+        {
+          "photoKey": "ade2506b8c5c288a6052e713038653e1"
+        },
+        {
+          "photoKey": "4e679ac693aabffd32139577a6ef8570"
+        },
+        {
+          "photoKey": "fec8f880e543ce056e877f5a2003887f"
+        },
+        {
+          "photoKey": "fce027f7a8a4653ec2a749914258e5a5"
+        },
+        {
+          "photoKey": "40cc0ffd5354c11b9d9eab1ce4248760"
+        },
+        {
+          "photoKey": "f4bbe2bc33fafa972ec72f2806e9c534"
+        },
+        {
+          "photoKey": "622ac7439c60b2708e23fc196339b502"
+        },
+        {
+          "photoKey": "5ec25998d6cc1ea7dc3142845d72432e"
+        },
+        {
+          "photoKey": "617dd05106a7b1f1eed89424f5580958"
+        }
+      ],
+      "communityPhotoData": null,
+      "isStaticUrls": false
+    },
+    "availabilityCount": 18,
+    "marketingTreatments": [
+      "trustedListing",
+      "paid",
+      "multiFamilySalesListing",
+      "paidOrUnpaidMultifamily",
+      "paidMultifamily",
+      "multifamilyPayPerLease"
+    ],
+    "listPriceIncludesRequiredMonthlyFees": true,
+    "totalRequiredMonthlyMinFee": 94,
+    "totalRequiredMonthlyMaxFee": 94,
+    "minBaseRent": 3065,
+    "maxBaseRent": 13035,
+    "isInstantTourEnabled": false,
+    "isContactable": true,
+    "isPaidBuilderNewConstruction": false
+  },
+  {
+    "zpid": "42.345985--71.084816",
+    "id": "42.345985--71.084816",
+    "providerListingId": "3ug6evuphxw4r",
+    "imgSrc": "https://photos.zillowstatic.com/fp/5d8c387230b84fcf240a5e9e619e8f0a-p_e.jpg",
+    "hasImage": true,
+    "detailUrl": "/apartments/boston-ma/30-dalton/CkkL7z/",
+    "statusType": "FOR_RENT",
+    "statusText": "30 Dalton",
+    "address": "30 Dalton St, Boston, MA",
+    "addressStreet": "30 Dalton St   Apt 702",
+    "addressCity": "Boston",
+    "addressState": "MA",
+    "addressZipcode": "02115",
+    "units": [
+      {
+        "price": "$3,676+",
+        "beds": "1",
+        "roomForRent": false
+      },
+      {
+        "price": "$7,836+",
+        "beds": "2",
+        "roomForRent": false
+      },
+      {
+        "price": "$16,816+",
+        "beds": "3",
+        "roomForRent": false
+      }
+    ],
+    "lotId": 2754084150,
+    "latLong": {
+      "latitude": 42.345985,
+      "longitude": -71.084816
+    },
+    "isSaved": false,
+    "buildingName": "30 Dalton",
+    "isBuilding": true,
+    "canSaveBuilding": true,
+    "has3DModel": true,
+    "isFeaturedListing": true,
+    "isShowcaseListing": false,
+    "list": true,
+    "relaxed": false,
+    "carouselPhotosComposable": {
+      "baseUrl": "https://photos.zillowstatic.com/fp/{photoKey}-p_e.jpg",
+      "communityBaseUrl": null,
+      "photoData": [
+        {
+          "photoKey": "5d8c387230b84fcf240a5e9e619e8f0a"
+        },
+        {
+          "photoKey": "ae0fa41139cb603d6fbfbedc31540c6e"
+        },
+        {
+          "photoKey": "1e54aaae5d006444ad7e8ba403cadf32"
+        },
+        {
+          "photoKey": "4408a22007d3fb91169539e796e21b41"
+        },
+        {
+          "photoKey": "c1c7030026f0e7bd53230aab29c31ba5"
+        },
+        {
+          "photoKey": "6b4cc5969ef299ca332dfe44ed4a67cc"
+        },
+        {
+          "photoKey": "edd44227dd0df0913d0db93b1212286c"
+        },
+        {
+          "photoKey": "0b01286d480450b4e094c40a6bfd329d"
+        },
+        {
+          "photoKey": "46db867deb1f462a19c48856b872de7c"
+        },
+        {
+          "photoKey": "9b03b4dac611029626491cf0ba4f5264"
+        },
+        {
+          "photoKey": "b44d9f53237eb07e4477ca715916213f"
+        },
+        {
+          "photoKey": "2d7b14205caadfe9bd9393b2b4375227"
+        },
+        {
+          "photoKey": "38dd90636c51074436219e887896043e"
+        },
+        {
+          "photoKey": "762c8ec7ed68ed40f74395461cd18796"
+        },
+        {
+          "photoKey": "0328d939d03e8e98bc109c865cc32249"
+        },
+        {
+          "photoKey": "a32590109840bc7a449fc012a5cfe5ed"
+        },
+        {
+          "photoKey": "d70f4740d833bd65d78db24b6a067911"
+        },
+        {
+          "photoKey": "a7bee54746beb9498da3cb333e72fd76"
+        },
+        {
+          "photoKey": "c066e7e185131d47b63bd6e767934e51"
+        },
+        {
+          "photoKey": "44f71e9e813aa8428c5681fc4e58a04f"
+        },
+        {
+          "photoKey": "12a46ac6399005b2bb9ec75aedeaf09c"
+        },
+        {
+          "photoKey": "4025a86dde51639edb727d37050fc62f"
+        },
+        {
+          "photoKey": "c068b1f5093de931af1d931e08a7a034"
+        },
+        {
+          "photoKey": "cb00d26fe59f57e718ec9dd80131be35"
+        },
+        {
+          "photoKey": "5a82a846ae3260bb5b744480ad088e97"
+        },
+        {
+          "photoKey": "2157c97ee5050235a5c127d2a31ce7f0"
+        },
+        {
+          "photoKey": "7a547519783328c73f28519456c4f866"
+        },
+        {
+          "photoKey": "cf3581ca03264dd409b409df3808b124"
+        },
+        {
+          "photoKey": "4515b420545c1ae00dc79ba8ad3c2714"
+        },
+        {
+          "photoKey": "2343bc7af6ba24bfe2bab669350221c3"
+        },
+        {
+          "photoKey": "1ba7359e90d254385c981ca9b7d72555"
+        },
+        {
+          "photoKey": "054194d2e27a326bc539b9227876c951"
+        },
+        {
+          "photoKey": "f896ed0926bed1b89839db35b46aeb81"
+        },
+        {
+          "photoKey": "21d4fe6225415324087c2e469b35614a"
+        }
+      ],
+      "communityPhotoData": null,
+      "isStaticUrls": false
+    },
+    "availabilityCount": 19,
+    "marketingTreatments": [
+      "trustedListing",
+      "paid",
+      "multiFamilySalesListing",
+      "paidOrUnpaidMultifamily",
+      "paidMultifamily"
+    ],
+    "listPriceIncludesRequiredMonthlyFees": true,
+    "minBaseRent": 3676,
+    "maxBaseRent": 16816,
+    "isInstantTourEnabled": false,
+    "isContactable": true,
+    "isPaidBuilderNewConstruction": false
+  },
+  {
+    "zpid": "42.34819--71.08166",
+    "id": "42.34819--71.08166",
+    "providerListingId": "3zry6e2q9e1wg",
+    "imgSrc": "https://photos.zillowstatic.com/fp/d39ea9649abd1b78f85f051a4e47f9ce-p_e.jpg",
+    "hasImage": true,
+    "detailUrl": "/apartments/boston-ma/ava-back-bay/5Xj9Zy/",
+    "statusType": "FOR_RENT",
+    "statusText": "AVA Back Bay",
+    "address": "790 Boylston St, Boston, MA",
+    "addressStreet": "790 Boylston St # 1B-1Ba-763Sqft",
+    "addressCity": "Boston",
+    "addressState": "MA",
+    "addressZipcode": "02199",
+    "units": [
+      {
+        "price": "$2,729+",
+        "beds": "0",
+        "roomForRent": false
+      },
+      {
+        "price": "$3,544+",
+        "beds": "1",
+        "roomForRent": false
+      },
+      {
+        "price": "$5,879+",
+        "beds": "2",
+        "roomForRent": false
+      },
+      {
+        "price": "$7,894+",
+        "beds": "3",
+        "roomForRent": false
+      }
+    ],
+    "lotId": 1001446514,
+    "latLong": {
+      "latitude": 42.34819,
+      "longitude": -71.08166
+    },
+    "isSaved": false,
+    "buildingName": "AVA Back Bay",
+    "isBuilding": true,
+    "canSaveBuilding": true,
+    "has3DModel": false,
+    "isFeaturedListing": true,
+    "isShowcaseListing": false,
+    "list": true,
+    "relaxed": false,
+    "carouselPhotosComposable": {
+      "baseUrl": "https://photos.zillowstatic.com/fp/{photoKey}-p_e.jpg",
+      "communityBaseUrl": null,
+      "photoData": [
+        {
+          "photoKey": "d39ea9649abd1b78f85f051a4e47f9ce"
+        },
+        {
+          "photoKey": "bfecdcc2a5f8a1cc1ccd3a36b1bc6f4b"
+        },
+        {
+          "photoKey": "68974327a5058100348763e656299869"
+        },
+        {
+          "photoKey": "c7637aad072f57c91962ecc703e2b364"
+        },
+        {
+          "photoKey": "109f38392b076251b160be4d789c8f32"
+        },
+        {
+          "photoKey": "b5127caea7606335d68d6d761a52bb9d"
+        },
+        {
+          "photoKey": "1b6b4c1e542facfdf7aeb375fee1d3a6"
+        },
+        {
+          "photoKey": "192d5b241956a6262f919b099c2e6c83"
+        },
+        {
+          "photoKey": "acf004feb94d78574f649caaaa0acfa6"
+        },
+        {
+          "photoKey": "968fbd4a55cc19e4795d496dbf2fa122"
+        },
+        {
+          "photoKey": "ae9aa8a26828f081880770ca48311472"
+        },
+        {
+          "photoKey": "9b76a872b74761e6bd8a04043325c751"
+        },
+        {
+          "photoKey": "985cb31db062b461ce7ae23cc9b74a78"
+        },
+        {
+          "photoKey": "292b0624605c39f1fe9d394bcb4657c5"
+        },
+        {
+          "photoKey": "abd95c1c64c7133743a9103e32a2d981"
+        },
+        {
+          "photoKey": "c1faab29dade0e75b00a831df9818d7c"
+        },
+        {
+          "photoKey": "fafa64251eb9cbed2c2288685efd0611"
+        },
+        {
+          "photoKey": "4c480892f1c818910eca3c09b12d880c"
+        },
+        {
+          "photoKey": "75a7bb4f44d34c95aaa3da825f41618c"
+        },
+        {
+          "photoKey": "4eddd6a6b39c5963ffca34a02775bbef"
+        },
+        {
+          "photoKey": "c2368db3b608b27c59d462d9853dc67b"
+        },
+        {
+          "photoKey": "e4bd249f5eae1e94609a8443adace06d"
+        },
+        {
+          "photoKey": "e65b01f3543a9bacda8040e95309da50"
+        },
+        {
+          "photoKey": "7658b54f230fd1aafe5bc1b248993667"
+        },
+        {
+          "photoKey": "60a34ebe085f46413cfb1d82beb2ed2b"
+        },
+        {
+          "photoKey": "8b9c5b167b1f5b638daf308a68d95b83"
+        },
+        {
+          "photoKey": "21f42d1eefb92845f479cf7e53d29270"
+        },
+        {
+          "photoKey": "a5bfbd6072188243059d9a1f86bfaec5"
+        },
+        {
+          "photoKey": "8b4a7c3f57bd04b26f557ff5f9bc170a"
+        },
+        {
+          "photoKey": "946aeea3cfc4cac5485e96befb75e450"
+        },
+        {
+          "photoKey": "e3925fd211bacb0fd2fbaf11ebecd5aa"
+        },
+        {
+          "photoKey": "ff0f7376b395f8dd4dba2a4489970bd9"
+        },
+        {
+          "photoKey": "665b4e3bbc3d21368fe528779d507549"
+        },
+        {
+          "photoKey": "5ebf0bf763fd50863421ce1df1afc15a"
+        },
+        {
+          "photoKey": "bba03c6254dd02cb19af2aef80118cdc"
+        },
+        {
+          "photoKey": "36c3fb9c9432c8d9d4ca3ef9dfa675e8"
+        },
+        {
+          "photoKey": "72aea5445647fb86f636ef7598059784"
+        },
+        {
+          "photoKey": "7945c904271f3167a0efc19ebe521b84"
+        },
+        {
+          "photoKey": "52e3ac0a18a74b9840aa401ceee9ef12"
+        },
+        {
+          "photoKey": "9fdc388db32db2720ce48c92c83ce036"
+        },
+        {
+          "photoKey": "3c5ca5450471e7401a4cd1727660701e"
+        },
+        {
+          "photoKey": "f1d8466fbd8e1a54fcf66ebbdba2d161"
+        },
+        {
+          "photoKey": "391d5ff34049d3fbb27a8e1461a50a74"
+        },
+        {
+          "photoKey": "5ee18aebbebe26f4f69f4d2b972182d2"
+        },
+        {
+          "photoKey": "c648a3d46590103a3f2b3bc7968d4d1b"
+        },
+        {
+          "photoKey": "24aca60218b896269b73848b5bc83b71"
+        },
+        {
+          "photoKey": "e9a73201b370094763ca6dd81a0ebb41"
+        },
+        {
+          "photoKey": "2b5bb38f4eafa37449514aad95ec05ed"
+        }
+      ],
+      "communityPhotoData": null,
+      "isStaticUrls": false
+    },
+    "availabilityCount": 7,
+    "marketingTreatments": [
+      "trustedListing",
+      "paid",
+      "multiFamilySalesListing",
+      "paidOrUnpaidMultifamily",
+      "paidMultifamily",
+      "multifamilyPayPerLease"
+    ],
+    "listPriceIncludesRequiredMonthlyFees": true,
+    "totalRequiredMonthlyMinFee": 94,
+    "totalRequiredMonthlyMaxFee": 94,
+    "minBaseRent": 2635,
+    "maxBaseRent": 7800,
+    "isInstantTourEnabled": false,
+    "isContactable": true,
+    "isPaidBuilderNewConstruction": false
+  },
+  {
+    "zpid": "2109265018",
+    "palsId": "100066001_1b3fe7d1f684e9e61130df38da79fcd4aa88ef873533fe3753adb9016b7d91c2",
+    "id": "2109265018",
+    "rawHomeStatusCd": "ForRent",
+    "marketingStatusSimplifiedCd": "For Rent",
+    "providerListingId": "29s3ea4d8juz",
+    "imgSrc": "https://photos.zillowstatic.com/fp/52898ed193a39679297e87a37a9c5b39-p_e.jpg",
+    "hasImage": true,
+    "detailUrl": "https://www.zillow.com/apartments/boston-ma/28-exeter-at-newbury/5Xj9Wz/",
+    "statusType": "FOR_RENT",
+    "statusText": "Apartment for rent",
+    "countryCurrency": "$",
+    "price": "$4,550/mo",
+    "unformattedPrice": 4550,
+    "address": "28 Exeter at Newbury, 28 Exeter St APT 609, Boston, MA 02116",
+    "addressStreet": "28 Exeter St APT 609",
+    "addressCity": "Boston",
+    "addressState": "MA",
+    "addressZipcode": "02116",
+    "isUndisclosedAddress": false,
+    "beds": 1,
+    "baths": 1,
+    "area": 665,
+    "latLong": {
+      "latitude": 42.350197,
+      "longitude": -71.07941
+    },
+    "isZillowOwned": false,
+    "listCardRecommendation": {
+      "ctaRecommendations": [
+        {
+          "displayString": "Request a tour",
+          "contentType": "REQUEST_A_TOUR"
+        }
+      ]
+    },
+    "hdpData": {
+      "homeInfo": {
+        "zpid": 2109265018,
+        "streetAddress": "28 Exeter St APT 609",
+        "zipcode": "02116",
+        "city": "Boston",
+        "state": "MA",
+        "latitude": 42.350197,
+        "longitude": -71.07941,
+        "price": 4550,
+        "bathrooms": 1,
+        "bedrooms": 1,
+        "livingArea": 665,
+        "homeType": "APARTMENT",
+        "homeStatus": "FOR_RENT",
+        "daysOnZillow": 84,
+        "isFeatured": true,
+        "shouldHighlight": false,
+        "isRentalWithBasePrice": false,
+        "rentZestimate": 4097,
+        "listing_sub_type": {},
+        "isUnmappable": false,
+        "isPreforeclosureAuction": false,
+        "homeStatusForHDP": "FOR_RENT",
+        "priceForHDP": 4550,
+        "timeOnZillow": 7306599000,
+        "isNonOwnerOccupied": true,
+        "isPremierBuilder": false,
+        "isZillowOwned": false,
+        "currency": "USD",
+        "country": "USA",
+        "unit": "Apt 609",
+        "isShowcaseListing": false
+      }
+    },
+    "isSaved": false,
+    "isUserClaimingOwner": false,
+    "isUserConfirmedClaim": false,
+    "pgapt": "ForRent",
+    "sgapt": "For Rent",
+    "shouldShowZestimateAsPrice": false,
+    "has3DModel": false,
+    "hasVideo": false,
+    "isHomeRec": false,
+    "hasAdditionalAttributions": false,
+    "isFeaturedListing": true,
+    "isShowcaseListing": false,
+    "availabilityDate": "2025-11-01 00:00:00",
+    "list": true,
+    "relaxed": false,
+    "carouselPhotosComposable": {
+      "baseUrl": "https://photos.zillowstatic.com/fp/{photoKey}-p_e.jpg",
+      "communityBaseUrl": null,
+      "photoData": [
+        {
+          "photoKey": "52898ed193a39679297e87a37a9c5b39"
+        },
+        {
+          "photoKey": "c4aceb5ecaba36464d2ec28a9530751c"
+        },
+        {
+          "photoKey": "333959f378947d55a9bfe6d88d36645b"
+        },
+        {
+          "photoKey": "352fc4a3b9db67bc5c06270aa8f04ae2"
+        },
+        {
+          "photoKey": "8d56a1716fe283eaa536ac0ae1cc8bf2"
+        },
+        {
+          "photoKey": "1e2610e960945085478740e63d28d599"
+        },
+        {
+          "photoKey": "612267fe3dfa5ef6a71d0aff41e2857c"
+        },
+        {
+          "photoKey": "1673586b852899b2ccf512d5a58dae9a"
+        },
+        {
+          "photoKey": "e564bbc25625bb03cfa4084c4af5d4e7"
+        },
+        {
+          "photoKey": "a2135c3b12aebcbe16a543073bf9ed36"
+        },
+        {
+          "photoKey": "4f6e144c3c72ce22b8c6e71b54e2b289"
+        },
+        {
+          "photoKey": "d3a05d3384347604ee1750218e9a029f"
+        },
+        {
+          "photoKey": "ec03e8daf5cc5d3803b979bafa1a9630"
+        }
+      ],
+      "communityPhotoData": null,
+      "isStaticUrls": false
+    },
+    "marketingTreatments": [
+      "trustedListing",
+      "paid",
+      "multiFamilySalesListing",
+      "paidOrUnpaidMultifamily",
+      "paidMultifamily",
+      "multifamilyBasePackage"
+    ],
+    "rooms": [],
+    "listPriceIncludesRequiredMonthlyFees": false,
+    "isPaidBuilderNewConstruction": false,
+    "factsAndFeatures": {
+      "fullBathroomCount": 1,
+      "hasFireplace": false,
+      "hasAirConditioning": false,
+      "hasSpa": false,
+      "hasPool": false
+    }
+  },
+  {
+    "zpid": "42.348633--71.07931",
+    "id": "42.348633--71.07931",
+    "providerListingId": "4mdyjucy20r3h",
+    "imgSrc": "https://photos.zillowstatic.com/fp/51872cfa6432c30751e1e8c2ac598ff0-p_e.jpg",
+    "hasImage": true,
+    "detailUrl": "/apartments/boston-ma/avalon-exeter/5XjTzj/",
+    "statusType": "FOR_RENT",
+    "statusText": "Avalon Exeter",
+    "address": "77 Exeter St, Boston, MA",
+    "addressStreet": "77 Exeter St # 2B-2Ba-1260Sqft",
+    "addressCity": "Boston",
+    "addressState": "MA",
+    "addressZipcode": "02116",
+    "units": [
+      {
+        "price": "$3,618+",
+        "beds": "0",
+        "roomForRent": false
+      },
+      {
+        "price": "$5,097+",
+        "beds": "1",
+        "roomForRent": false
+      },
+      {
+        "price": "$7,350+",
+        "beds": "2",
+        "roomForRent": false
+      }
+    ],
+    "lotId": 1001485898,
+    "latLong": {
+      "latitude": 42.348633,
+      "longitude": -71.07931
+    },
+    "isSaved": false,
+    "buildingName": "Avalon Exeter",
+    "isBuilding": true,
+    "canSaveBuilding": true,
+    "has3DModel": false,
+    "isFeaturedListing": true,
+    "isShowcaseListing": false,
+    "list": true,
+    "relaxed": false,
+    "carouselPhotosComposable": {
+      "baseUrl": "https://photos.zillowstatic.com/fp/{photoKey}-p_e.jpg",
+      "communityBaseUrl": null,
+      "photoData": [
+        {
+          "photoKey": "51872cfa6432c30751e1e8c2ac598ff0"
+        },
+        {
+          "photoKey": "5ff13e473f6aeb72a18b9c01463b24f8"
+        },
+        {
+          "photoKey": "53bef8adb00d5d0fce3a5fae7fac5f85"
+        },
+        {
+          "photoKey": "7ebc06399d035a5b61728bbfe5507ef4"
+        },
+        {
+          "photoKey": "25701fa9708e60ae8b5cc5cb133e0b04"
+        },
+        {
+          "photoKey": "9a2eb18b5d77272269cfb4f5e0470789"
+        },
+        {
+          "photoKey": "0b7f3c1cafc76e6152d66bad108eb37d"
+        },
+        {
+          "photoKey": "137021896b83f8a7b4f8ec78e7bc6c4d"
+        },
+        {
+          "photoKey": "2d0a95afc73d639418387ad66417c70c"
+        },
+        {
+          "photoKey": "e2e581fbf9ad9d0b668ad401e986b414"
+        },
+        {
+          "photoKey": "823d22771e1872208596a57df3f42e49"
+        },
+        {
+          "photoKey": "87504943c202c0af73baf01bbda4bc42"
+        },
+        {
+          "photoKey": "08e31c1b5a8747b6109a095f74e38aff"
+        },
+        {
+          "photoKey": "19da5ac6cdf69c575db1a242c9c8a975"
+        },
+        {
+          "photoKey": "0c86bc744ff4bd36e3bb90b9c30c551f"
+        },
+        {
+          "photoKey": "d58ee8bf1594e80fd34a4cdc99523032"
+        },
+        {
+          "photoKey": "694260b1a79875f3ed9f6e2057dcee94"
+        },
+        {
+          "photoKey": "a5cdbc7a8bd106fe23190c2342688294"
+        },
+        {
+          "photoKey": "bac31258da748d806f46f16efb514bfb"
+        },
+        {
+          "photoKey": "d7fb452ae1973739a7f6a0efdef17832"
+        },
+        {
+          "photoKey": "59ec9776af698431edf0c221d68cbb53"
+        },
+        {
+          "photoKey": "c9b1f4dfc02c1aed2ba511a4e2cf5376"
+        },
+        {
+          "photoKey": "41ac90720a200b3a5519e557b01f6de4"
+        },
+        {
+          "photoKey": "921aa62b5f6d238cd4f6a9a4429161f2"
+        },
+        {
+          "photoKey": "4fdc44a08f5809305e07990250371905"
+        },
+        {
+          "photoKey": "7742f0740f1911a4d9d8e246595a3fa1"
+        },
+        {
+          "photoKey": "65c9cd59ad6f77348c85b6a7ad1358ed"
+        },
+        {
+          "photoKey": "e88b5bc0c5cd55fc59af37d52f78cd11"
+        },
+        {
+          "photoKey": "a08d624f72287fd731b9d49691a79572"
+        },
+        {
+          "photoKey": "f72a35e8e68177f68885349f9ad37922"
+        },
+        {
+          "photoKey": "4e679ac693aabffd32139577a6ef8570"
+        },
+        {
+          "photoKey": "fec8f880e543ce056e877f5a2003887f"
+        },
+        {
+          "photoKey": "5dfe0670d72364289e102409395c5299"
+        },
+        {
+          "photoKey": "0c39aa594417f19156521fff4123aacb"
+        },
+        {
+          "photoKey": "62083fcd411ae1a6e4ee29c4acc62c5b"
+        },
+        {
+          "photoKey": "570d614a3c763ecc82b1bfac3b203e9b"
+        },
+        {
+          "photoKey": "123fe2c88b905e780719bd78009db7e2"
+        },
+        {
+          "photoKey": "b3c55a927d28aaf09e93a8f722e82e8a"
+        },
+        {
+          "photoKey": "6c2c64d5f695ceb9f00f79eb33b15392"
+        },
+        {
+          "photoKey": "6997557701e7367644d5039bacc0aa6d"
+        },
+        {
+          "photoKey": "cea4f30b9f7ea902b50b1033704604ef"
+        },
+        {
+          "photoKey": "be8b959fec36370f219ed84d632291e3"
+        },
+        {
+          "photoKey": "d9d61c411cd499e0ca45ea40878825f8"
+        }
+      ],
+      "communityPhotoData": null,
+      "isStaticUrls": false
+    },
+    "availabilityCount": 7,
+    "marketingTreatments": [
+      "trustedListing",
+      "paid",
+      "multiFamilySalesListing",
+      "paidOrUnpaidMultifamily",
+      "paidMultifamily",
+      "multifamilyPayPerLease"
+    ],
+    "listPriceIncludesRequiredMonthlyFees": true,
+    "minBaseRent": 3618,
+    "maxBaseRent": 9705,
+    "isInstantTourEnabled": false,
+    "isContactable": true,
+    "isPaidBuilderNewConstruction": false
+  },
+  {
+    "zpid": "448744165",
+    "palsId": "100066001_137d42fc86b0a63f9299f5c6e8870ab5bd0ff4de89171f77113f7a4f74662a3b",
+    "id": "448744165",
+    "rawHomeStatusCd": "ForRent",
+    "marketingStatusSimplifiedCd": "For Rent",
+    "providerListingId": "1ebk91x0zt52k",
+    "imgSrc": "https://photos.zillowstatic.com/fp/124acca5051f76ee1f9964477c2f468f-p_e.jpg",
+    "hasImage": true,
+    "detailUrl": "https://www.zillow.com/apartments/boston-ma/the-colonnade-residences/Ch79rG/",
+    "statusType": "FOR_RENT",
+    "statusText": "Apartment for rent",
+    "countryCurrency": "$",
+    "price": "$7,000+/mo",
+    "unformattedPrice": 7000,
+    "address": "The Colonnade Residences, 118 Huntington Ave, Boston, MA 02116",
+    "addressStreet": "118 Huntington Ave #5B4D6BB00",
+    "addressCity": "Boston",
+    "addressState": "MA",
+    "addressZipcode": "02116",
+    "isUndisclosedAddress": false,
+    "beds": 2,
+    "baths": 3,
+    "area": 1300,
+    "latLong": {
+      "latitude": 42.346073,
+      "longitude": -71.08031
+    },
+    "isZillowOwned": false,
+    "listCardRecommendation": {
+      "ctaRecommendations": [
+        {
+          "displayString": "Request a tour",
+          "contentType": "REQUEST_A_TOUR"
+        }
+      ]
+    },
+    "hdpData": {
+      "homeInfo": {
+        "zpid": 448744165,
+        "streetAddress": "118 Huntington Ave #5B4D6BB00",
+        "zipcode": "02116",
+        "city": "Boston",
+        "state": "MA",
+        "latitude": 42.346073,
+        "longitude": -71.08031,
+        "price": 7000,
+        "datePriceChanged": 1748329200000,
+        "bathrooms": 3,
+        "bedrooms": 2,
+        "livingArea": 1300,
+        "homeType": "APARTMENT",
+        "homeStatus": "FOR_RENT",
+        "daysOnZillow": 238,
+        "isFeatured": true,
+        "shouldHighlight": false,
+        "isRentalWithBasePrice": false,
+        "listing_sub_type": {},
+        "isUnmappable": false,
+        "isPreforeclosureAuction": false,
+        "homeStatusForHDP": "FOR_RENT",
+        "priceForHDP": 7000,
+        "priceChange": 500,
+        "timeOnZillow": 20629865000,
+        "isNonOwnerOccupied": true,
+        "isPremierBuilder": false,
+        "isZillowOwned": false,
+        "currency": "USD",
+        "country": "USA",
+        "unit": "# 5b4d6bb00",
+        "isShowcaseListing": false
+      }
+    },
+    "isSaved": false,
+    "isUserClaimingOwner": false,
+    "isUserConfirmedClaim": false,
+    "pgapt": "ForRent",
+    "sgapt": "For Rent",
+    "shouldShowZestimateAsPrice": false,
+    "has3DModel": false,
+    "hasVideo": false,
+    "isHomeRec": false,
+    "hasAdditionalAttributions": false,
+    "isFeaturedListing": true,
+    "isShowcaseListing": false,
+    "list": true,
+    "relaxed": false,
+    "carouselPhotosComposable": {
+      "baseUrl": "https://photos.zillowstatic.com/fp/{photoKey}-p_e.jpg",
+      "communityBaseUrl": null,
+      "photoData": [
+        {
+          "photoKey": "124acca5051f76ee1f9964477c2f468f"
+        },
+        {
+          "photoKey": "951af40ac5afc93cc92a694a4656f48c"
+        },
+        {
+          "photoKey": "84749e07a263eab417a5f961bfbe88b5"
+        },
+        {
+          "photoKey": "1321af0b44dc19e52ceb7586ef8645d7"
+        },
+        {
+          "photoKey": "515276c7726e6af7761bbcf4bc656ccb"
+        },
+        {
+          "photoKey": "9d27cd39292cda3e92848f1888673dbc"
+        },
+        {
+          "photoKey": "6d4ce19ee9d7d0543fb7a314ac098ab7"
+        },
+        {
+          "photoKey": "c18f7948e5c7b7165115b766be1fb037"
+        },
+        {
+          "photoKey": "c67b3107845de0f8b050e0ba485103cc"
+        },
+        {
+          "photoKey": "dab159ba5d9f53511abbf7e0e049ab2a"
+        },
+        {
+          "photoKey": "b36f944b9e3abba3d1aff4b29339afaa"
+        },
+        {
+          "photoKey": "17604c9368da36932a6e9dfa9b1c6895"
+        },
+        {
+          "photoKey": "0a8508715a57fa97981f05c2e87ce99f"
+        },
+        {
+          "photoKey": "9bac85d1e60f016c51eeb0f6b2591462"
+        },
+        {
+          "photoKey": "3a8894f86e8459166c89ecc2d554acd7"
+        },
+        {
+          "photoKey": "8e0f67884fbe18cec91022c03a87c3d2"
+        },
+        {
+          "photoKey": "2deacd577569eaf14239a8fbf3f88ab1"
+        },
+        {
+          "photoKey": "2b913acc99179bfcf4ad1a5b0138d2b8"
+        },
+        {
+          "photoKey": "fddf4faf88d5d57ae90eff30ee0dcb14"
+        },
+        {
+          "photoKey": "6d6833310c9700b0df72ad089ea65f47"
+        },
+        {
+          "photoKey": "4f2ab80479e432aa8ea2b8bd17a5c5de"
+        },
+        {
+          "photoKey": "9914c226966906e16ca5181ea6225968"
+        },
+        {
+          "photoKey": "d2c7b24a1277737efacb7a0c193026f7"
+        },
+        {
+          "photoKey": "357952039155dfcea81f21519541d3ed"
+        },
+        {
+          "photoKey": "a7676e39462b292b52d9f91c4e3488c3"
+        },
+        {
+          "photoKey": "e862e62e8bfd21d8c2099b1303ebcdff"
+        },
+        {
+          "photoKey": "0d7e4de44942ed299ff303f87dcbcecd"
+        },
+        {
+          "photoKey": "243376265c9e7051280b45fd98113c67"
+        },
+        {
+          "photoKey": "ed17008ef0fff142979c2a7f9da8b776"
+        },
+        {
+          "photoKey": "3cd09487b27439dea7ab9acdcb5a371e"
+        },
+        {
+          "photoKey": "b85da1e7a7deffa2b034582520da252d"
+        },
+        {
+          "photoKey": "f1685d9510409f03a297df2107567550"
+        },
+        {
+          "photoKey": "f10e97d2989b2fc8c474c75c3100490d"
+        },
+        {
+          "photoKey": "2db0faff7f8da47613ab51994df06879"
+        },
+        {
+          "photoKey": "8e3dc9cbd196ad9966d5c6905aa630c2"
+        },
+        {
+          "photoKey": "2620059a4bc02d9bd820acef7ae03ede"
+        },
+        {
+          "photoKey": "99788241b28e1ee8b3acd24faffe46b8"
+        },
+        {
+          "photoKey": "20414b6cece36a5532c0ae47f1aa6d38"
+        },
+        {
+          "photoKey": "367b314679ae47b87b2508356ba637a6"
+        },
+        {
+          "photoKey": "c7603584f5904ae803ff7015c65eac89"
+        },
+        {
+          "photoKey": "bede4da52f5f9f78a6ce085aff58dc1e"
+        },
+        {
+          "photoKey": "8b193f307bef31cfbbf7387232a9f45e"
+        },
+        {
+          "photoKey": "610ab47a775b3b8438283936d4228a75"
+        }
+      ],
+      "communityPhotoData": null,
+      "isStaticUrls": false
+    },
+    "marketingTreatments": [
+      "trustedListing",
+      "paid",
+      "zillowRentalManager",
+      "multiFamilySalesListing",
+      "paidOrUnpaidMultifamily",
+      "paidMultifamily",
+      "multifamilyBasePackage"
+    ],
+    "rooms": [],
+    "listPriceIncludesRequiredMonthlyFees": false,
+    "isPaidBuilderNewConstruction": false,
+    "factsAndFeatures": {
+      "halfBathroomCount": 1,
+      "fullBathroomCount": 2,
+      "hasFireplace": false,
+      "hasAirConditioning": false,
+      "hasSpa": false,
+      "hasPool": false
+    }
+  },
+  {
+    "zpid": "458030051",
+    "palsId": "100066001_9befe72c6d6a3a69c27f70672755e1f820b775fb11b86df6b405acd50f99e2d4",
+    "id": "458030051",
+    "rawHomeStatusCd": "ForRent",
+    "marketingStatusSimplifiedCd": "For Rent",
+    "providerListingId": "1u58gw3q25n7g",
+    "imgSrc": "https://photos.zillowstatic.com/fp/bc17d735effe4b3e5e469c8fd38e2429-p_e.jpg",
+    "hasImage": true,
+    "detailUrl": "https://www.zillow.com/apartments/boston-ma/the-blackstone-on-beacon/5Xj7fM/",
+    "statusType": "FOR_RENT",
+    "statusText": "Apartment for rent",
+    "countryCurrency": "$",
+    "price": "$1,995+/mo",
+    "unformattedPrice": 1995,
+    "address": "The Blackstone on Beacon, 505 Beacon St, Boston, MA 02215",
+    "addressStreet": "505 Beacon St #3D21F3964",
+    "addressCity": "Boston",
+    "addressState": "MA",
+    "addressZipcode": "02215",
+    "isUndisclosedAddress": false,
+    "beds": 0,
+    "baths": 1,
+    "area": 9999,
+    "latLong": {
+      "latitude": 42.350414,
+      "longitude": -71.09007
+    },
+    "isZillowOwned": false,
+    "listCardRecommendation": {
+      "flexFieldRecommendations": [
+        {
+          "displayString": "11 days ago",
+          "contentType": "timeOnInfo"
+        }
+      ],
+      "ctaRecommendations": [
+        {
+          "displayString": "Request a tour",
+          "contentType": "REQUEST_A_TOUR"
+        }
+      ]
+    },
+    "hdpData": {
+      "homeInfo": {
+        "zpid": 458030051,
+        "streetAddress": "505 Beacon St #3D21F3964",
+        "zipcode": "02215",
+        "city": "Boston",
+        "state": "MA",
+        "latitude": 42.350414,
+        "longitude": -71.09007,
+        "price": 1995,
+        "bathrooms": 1,
+        "bedrooms": 0,
+        "livingArea": 9999,
+        "homeType": "APARTMENT",
+        "homeStatus": "FOR_RENT",
+        "daysOnZillow": 11,
+        "isFeatured": true,
+        "shouldHighlight": false,
+        "isRentalWithBasePrice": false,
+        "listing_sub_type": {},
+        "isUnmappable": false,
+        "isPreforeclosureAuction": false,
+        "homeStatusForHDP": "FOR_RENT",
+        "priceForHDP": 1995,
+        "timeOnZillow": 1030463000,
+        "isNonOwnerOccupied": true,
+        "isPremierBuilder": false,
+        "isZillowOwned": false,
+        "currency": "USD",
+        "country": "USA",
+        "unit": "# 3d21f3964",
+        "isShowcaseListing": false
+      }
+    },
+    "isSaved": false,
+    "isUserClaimingOwner": false,
+    "isUserConfirmedClaim": false,
+    "pgapt": "ForRent",
+    "sgapt": "For Rent",
+    "shouldShowZestimateAsPrice": false,
+    "has3DModel": false,
+    "hasVideo": false,
+    "isHomeRec": false,
+    "hasAdditionalAttributions": false,
+    "isFeaturedListing": true,
+    "isShowcaseListing": false,
+    "list": true,
+    "relaxed": false,
+    "carouselPhotosComposable": {
+      "baseUrl": "https://photos.zillowstatic.com/fp/{photoKey}-p_e.jpg",
+      "communityBaseUrl": null,
+      "photoData": [
+        {
+          "photoKey": "bc17d735effe4b3e5e469c8fd38e2429"
+        },
+        {
+          "photoKey": "4b05209b5e1edc3557d2dd2ce55fdb3d"
+        },
+        {
+          "photoKey": "48fdb0d09aae74f54cd0e2b6c73fe062"
+        },
+        {
+          "photoKey": "7cf3a19c5c5aeb3b6f7aa90bf848ed35"
+        },
+        {
+          "photoKey": "9a97c9570156366ac21771b8c5d6418a"
+        },
+        {
+          "photoKey": "3ac3e38473820d726e043018c43edf95"
+        },
+        {
+          "photoKey": "d2462a168d9d4cdb5c368597c50d7a5d"
+        },
+        {
+          "photoKey": "9ea69c07725c0b8431df4fcdea11c036"
+        },
+        {
+          "photoKey": "201fd4648be16c22378136cac8a835db"
+        },
+        {
+          "photoKey": "f86fe1b3f9ea18ce2757abe89ebdf318"
+        },
+        {
+          "photoKey": "c9e4f0b80a256944d20c2e09234cfadc"
+        },
+        {
+          "photoKey": "675686c4f3b96f74e77af1180f2108b7"
+        },
+        {
+          "photoKey": "80c06fccf70c9064a5fd365b428b721a"
+        },
+        {
+          "photoKey": "90b03a278e01675d201df7ad41bd1254"
+        },
+        {
+          "photoKey": "521da7b96f3e8059e4ddb5e350b2f8ee"
+        },
+        {
+          "photoKey": "f6351dc95dcf3b6d36aaf6ecff34302e"
+        },
+        {
+          "photoKey": "21e917dfa1d2a4f72d2814b745d5d5b0"
+        },
+        {
+          "photoKey": "5b3500ed0459aee78d7a98f6cc138b0c"
+        },
+        {
+          "photoKey": "7c801a1db4e3aa438ed72bbcfea7e419"
+        },
+        {
+          "photoKey": "bb59be204464330b5bffd1c9b7e26eb2"
+        },
+        {
+          "photoKey": "2fcbdc557760aa7483104b603a0b1d94"
+        },
+        {
+          "photoKey": "e5157b9c3edbc20547cccefd9cb8db8c"
+        }
+      ],
+      "communityPhotoData": null,
+      "isStaticUrls": false
+    },
+    "marketingTreatments": [
+      "trustedListing",
+      "paid",
+      "zillowRentalManager",
+      "multiFamilySalesListing",
+      "paidOrUnpaidMultifamily",
+      "paidMultifamily",
+      "multifamilyBasePackage"
+    ],
+    "rooms": [],
+    "listPriceIncludesRequiredMonthlyFees": false,
+    "isPaidBuilderNewConstruction": false,
+    "factsAndFeatures": {
+      "fullBathroomCount": 1,
+      "hasFireplace": false,
+      "hasAirConditioning": false,
+      "hasSpa": false,
+      "hasPool": false
+    }
+  },
+  {
+    "zpid": "42.351215--71.08806",
+    "id": "42.351215--71.08806",
+    "providerListingId": "kqac7q6yvc5k",
+    "imgSrc": "https://photos.zillowstatic.com/fp/e9160947171721607063149134b99e33-p_e.jpg",
+    "hasImage": true,
+    "detailUrl": "/b/529-531-beacon-st-boston-ma-CZ98dR/",
+    "statusType": "FOR_RENT",
+    "statusText": "For Rent",
+    "address": "529-531 Beacon St, Boston, MA",
+    "addressStreet": "529-531 Beacon St # 21",
+    "addressCity": "Boston",
+    "addressState": "MA",
+    "addressZipcode": "02115",
+    "units": [
+      {
+        "price": "$3,050+",
+        "beds": "1",
+        "roomForRent": false
+      },
+      {
+        "price": "$3,600+",
+        "beds": "2",
+        "roomForRent": false
+      }
+    ],
+    "lotId": 2704531158,
+    "latLong": {
+      "latitude": 42.351215,
+      "longitude": -71.08806
+    },
+    "isSaved": false,
+    "isBuilding": true,
+    "canSaveBuilding": false,
+    "has3DModel": false,
+    "isFeaturedListing": true,
+    "isShowcaseListing": false,
+    "list": true,
+    "relaxed": false,
+    "carouselPhotosComposable": {
+      "baseUrl": "https://photos.zillowstatic.com/fp/{photoKey}-p_e.jpg",
+      "communityBaseUrl": null,
+      "photoData": [
+        {
+          "photoKey": "e9160947171721607063149134b99e33"
+        },
+        {
+          "photoKey": "720d0506732dc084d12e1e877ed2a246"
+        },
+        {
+          "photoKey": "bf34ac458d7e910808b7b65af6a3ebea"
+        },
+        {
+          "photoKey": "57e89251537786032877d67f34d104c2"
+        },
+        {
+          "photoKey": "dfa0055647a84b0479399ffdbd1a4e4b"
+        }
+      ],
+      "communityPhotoData": null,
+      "isStaticUrls": false
+    },
+    "availabilityCount": 3,
+    "marketingTreatments": [
+      "trustedListing",
+      "paid",
+      "zillowRentalManager",
+      "singleFamilyPaid",
+      "feedConnectFlatFeeFeedConnect"
+    ],
+    "listPriceIncludesRequiredMonthlyFees": false,
+    "isInstantTourEnabled": false,
+    "isContactable": false,
+    "isPaidBuilderNewConstruction": false
+  },
+  {
+    "zpid": "2082357994",
+    "palsId": "100066001_aaea26bd56810dedc5493bc7fc87b983a06c737220724369e4623a6e323b0776",
+    "id": "2082357994",
+    "rawHomeStatusCd": "ForRent",
+    "marketingStatusSimplifiedCd": "For Rent",
+    "providerListingId": "4cp6f1d33qhuh",
+    "imgSrc": "https://photos.zillowstatic.com/fp/b21a7509fdd9f9c78a76a5e00c737185-p_e.jpg",
+    "hasImage": true,
+    "detailUrl": "https://www.zillow.com/homedetails/288-Commonwealth-Ave-APT-1-Boston-MA-02115/2082357994_zpid/",
+    "statusType": "FOR_RENT",
+    "statusText": "Apartment for rent",
+    "countryCurrency": "$",
+    "price": "$10,000/mo",
+    "unformattedPrice": 10000,
+    "address": "288 Commonwealth Ave APT 1, Boston, MA 02115",
+    "addressStreet": "288 Commonwealth Ave APT 1",
+    "addressCity": "Boston",
+    "addressState": "MA",
+    "addressZipcode": "02115",
+    "isUndisclosedAddress": false,
+    "beds": 2,
+    "baths": 2,
+    "area": 1163,
+    "latLong": {
+      "latitude": 42.349644,
+      "longitude": -71.08474
+    },
+    "isZillowOwned": false,
+    "listCardRecommendation": {
+      "flexFieldRecommendations": [
+        {
+          "displayString": "7 days ago",
+          "contentType": "timeOnInfo"
+        },
+        {
+          "displayString": "Apply instantly",
+          "contentType": "frZillowApplication"
+        }
+      ],
+      "ctaRecommendations": [
+        {
+          "displayString": "Request a tour",
+          "contentType": "REQUEST_A_TOUR"
+        }
+      ]
+    },
+    "hdpData": {
+      "homeInfo": {
+        "zpid": 2082357994,
+        "streetAddress": "288 Commonwealth Ave APT 1",
+        "zipcode": "02115",
+        "city": "Boston",
+        "state": "MA",
+        "latitude": 42.349644,
+        "longitude": -71.08474,
+        "price": 10000,
+        "datePriceChanged": 1763452800000,
+        "bathrooms": 2,
+        "bedrooms": 2,
+        "livingArea": 1163,
+        "homeType": "APARTMENT",
+        "homeStatus": "FOR_RENT",
+        "daysOnZillow": 7,
+        "isFeatured": true,
+        "shouldHighlight": false,
+        "isRentalWithBasePrice": false,
+        "rentZestimate": 5686,
+        "listing_sub_type": {},
+        "priceReduction": "$2,000 (Nov 18)",
+        "isUnmappable": false,
+        "isPreforeclosureAuction": false,
+        "homeStatusForHDP": "FOR_RENT",
+        "priceForHDP": 10000,
+        "priceChange": -2000,
+        "timeOnZillow": 672253000,
+        "isNonOwnerOccupied": true,
+        "isPremierBuilder": false,
+        "isZillowOwned": false,
+        "currency": "USD",
+        "country": "USA",
+        "unit": "Apt 1",
+        "isShowcaseListing": false
+      }
+    },
+    "isSaved": false,
+    "isUserClaimingOwner": false,
+    "isUserConfirmedClaim": false,
+    "pgapt": "ForRent",
+    "sgapt": "For Rent",
+    "shouldShowZestimateAsPrice": false,
+    "has3DModel": false,
+    "hasVideo": false,
+    "isHomeRec": false,
+    "hasAdditionalAttributions": false,
+    "isFeaturedListing": true,
+    "isShowcaseListing": false,
+    "availabilityDate": "2026-01-01 00:00:00",
+    "list": true,
+    "relaxed": false,
+    "carouselPhotosComposable": {
+      "baseUrl": "https://photos.zillowstatic.com/fp/{photoKey}-p_e.jpg",
+      "communityBaseUrl": null,
+      "photoData": [
+        {
+          "photoKey": "b21a7509fdd9f9c78a76a5e00c737185"
+        },
+        {
+          "photoKey": "38c16652798c5bfeb02096a11581b1ce"
+        },
+        {
+          "photoKey": "454c05a402afdfabac4943033e0eeb7e"
+        },
+        {
+          "photoKey": "86efb2b7602d95010dfd7b51fc6db447"
+        },
+        {
+          "photoKey": "61fba9c67e1316d903e0ca7501f4bbd2"
+        },
+        {
+          "photoKey": "bae6beb8454119f30d46b066962d14c3"
+        },
+        {
+          "photoKey": "26d851a07822f05bf4762ca04fff15fc"
+        },
+        {
+          "photoKey": "264fc674176de74a610e7a3753c04955"
+        },
+        {
+          "photoKey": "c7cd853a8a952abf94cbc916ba81e430"
+        },
+        {
+          "photoKey": "c7b87c6132bf2bb7ceb62aec93159125"
+        },
+        {
+          "photoKey": "67fb0382c613005a9c7b25ff7abbaf70"
+        },
+        {
+          "photoKey": "b044b4bfbc0341cf22f61ff52e933b49"
+        },
+        {
+          "photoKey": "55d9970bd66a6b01f3deeeb214a5bf38"
+        },
+        {
+          "photoKey": "20b3eb4efc1dafb0ca37028e18fbdb91"
+        },
+        {
+          "photoKey": "10da872564ac2c9339b67a08b2bbf028"
+        },
+        {
+          "photoKey": "e61d517951d3955fe43e6d4f860232b3"
+        },
+        {
+          "photoKey": "a82e3bd90cdbeeb9d2ef61a28b52b0a6"
+        },
+        {
+          "photoKey": "dbd72f95f572eaa28ac42f1704710d86"
+        },
+        {
+          "photoKey": "92124d3a204fd20e773f46e5a4dcf199"
+        },
+        {
+          "photoKey": "d707b4906029f82e98534d21810b7af8"
+        },
+        {
+          "photoKey": "4a051d9f525f59b2648c0ecc9682f3b4"
+        },
+        {
+          "photoKey": "bfe5b7b6536f922bb2c6421c31806adb"
+        },
+        {
+          "photoKey": "de49381c2fddd034ab11abfd1feeef85"
+        },
+        {
+          "photoKey": "604a5671af4888e42ad092b60a937710"
+        },
+        {
+          "photoKey": "af043d08d36e1f5749f386e28f3d407c"
+        },
+        {
+          "photoKey": "79bf0b2dac8b8b45fea798c4d1d14076"
+        },
+        {
+          "photoKey": "38db5084f765a3c18922181935c7b191"
+        },
+        {
+          "photoKey": "1ad065d0b470b9929ef2aab6c47160df"
+        },
+        {
+          "photoKey": "3b768a8cce2874b7c8a741eb9d8082e0"
+        },
+        {
+          "photoKey": "0dc0816ea17c324f16d86967d2fea266"
+        },
+        {
+          "photoKey": "7ba7a5ee81e21e43521c4ef54e0d52b4"
+        },
+        {
+          "photoKey": "8f625a473497053acd5a16e88bcad16a"
+        },
+        {
+          "photoKey": "d0238be65b57313151ba688dc15e02e0"
+        },
+        {
+          "photoKey": "40e10d904eceaa0c956cfe85003ccfe2"
+        },
+        {
+          "photoKey": "6f57ff56a5233b0cbe4c3d87119b279e"
+        },
+        {
+          "photoKey": "23c7b5a188ced2ae7defcb269f03c964"
+        }
+      ],
+      "communityPhotoData": null,
+      "isStaticUrls": false
+    },
+    "marketingTreatments": [
+      "paid",
+      "zillowRentalManager"
+    ],
+    "rooms": [],
+    "listPriceIncludesRequiredMonthlyFees": true,
+    "baseRent": 10000,
+    "isPaidBuilderNewConstruction": false,
+    "factsAndFeatures": {
+      "fullBathroomCount": 2,
+      "hasFireplace": false,
+      "hasAirConditioning": false,
+      "hasSpa": false,
+      "hasPool": false
+    }
+  },
+  {
+    "zpid": "42.343014--71.08345",
+    "id": "42.343014--71.08345",
+    "providerListingId": "2qxxjudvmt9sn",
+    "imgSrc": "https://photos.zillowstatic.com/fp/7af03f9eb34b2e0e1291773cced3c867-p_e.jpg",
+    "hasImage": true,
+    "detailUrl": "/b/187-saint-botolph-st-boston-ma-5ZJ59v/",
+    "statusType": "FOR_RENT",
+    "statusText": "For Rent",
+    "address": "187 Saint Botolph St, Boston, MA",
+    "addressStreet": "187 Saint Botolph St   # 3",
+    "addressCity": "Boston",
+    "addressState": "MA",
+    "addressZipcode": "02115",
+    "units": [
+      {
+        "price": "$2,000+",
+        "beds": "1",
+        "roomForRent": false
+      }
+    ],
+    "lotId": 1010494851,
+    "latLong": {
+      "latitude": 42.343014,
+      "longitude": -71.08345
+    },
+    "isSaved": false,
+    "isBuilding": true,
+    "canSaveBuilding": false,
+    "has3DModel": false,
+    "isFeaturedListing": true,
+    "isShowcaseListing": false,
+    "list": true,
+    "relaxed": false,
+    "carouselPhotosComposable": {
+      "baseUrl": "https://photos.zillowstatic.com/fp/{photoKey}-p_e.jpg",
+      "communityBaseUrl": null,
+      "photoData": [
+        {
+          "photoKey": "7af03f9eb34b2e0e1291773cced3c867"
+        },
+        {
+          "photoKey": "f218370273feb76d7817417f9a309826"
+        },
+        {
+          "photoKey": "bb3b30ea2740468b697c089f867e0300"
+        },
+        {
+          "photoKey": "4b40b3fcd475f4ee4090700ce7e1f484"
+        },
+        {
+          "photoKey": "1ae214f72f43f44ceac6783aa8782114"
+        }
+      ],
+      "communityPhotoData": null,
+      "isStaticUrls": false
+    },
+    "availabilityCount": 3,
+    "marketingTreatments": [
+      "trustedListing",
+      "paid",
+      "zillowRentalManager",
+      "singleFamilyPaid",
+      "feedConnectFlatFeeFeedConnect"
+    ],
+    "listPriceIncludesRequiredMonthlyFees": false,
+    "isInstantTourEnabled": false,
+    "isContactable": false,
+    "isPaidBuilderNewConstruction": false
+  },
+  {
+    "zpid": "401903113",
+    "palsId": "100066001_2c063f52db59506f73a7da55294ee4be28de32064e073c5357172bb64a18238f",
+    "id": "401903113",
+    "rawHomeStatusCd": "ForRent",
+    "marketingStatusSimplifiedCd": "For Rent",
+    "providerListingId": "12k0584gc6bey",
+    "imgSrc": "https://photos.zillowstatic.com/fp/bbe97c1e16d708571cb92cae1358fecd-p_e.jpg",
+    "hasImage": true,
+    "detailUrl": "https://www.zillow.com/homedetails/153-Saint-Botolph-St-Boston-MA-02115/401903113_zpid/",
+    "statusType": "FOR_RENT",
+    "statusText": "Apartment for rent",
+    "countryCurrency": "$",
+    "price": "$3,200/mo",
+    "unformattedPrice": 3200,
+    "address": "153 Saint Botolph St, Boston, MA 02115",
+    "addressStreet": "153 Saint Botolph St",
+    "addressCity": "Boston",
+    "addressState": "MA",
+    "addressZipcode": "02115",
+    "isUndisclosedAddress": false,
+    "beds": 2,
+    "baths": 1,
+    "latLong": {
+      "latitude": 42.343555,
+      "longitude": -71.08269
+    },
+    "isZillowOwned": false,
+    "listCardRecommendation": {
+      "flexFieldRecommendations": [
+        {
+          "displayString": "11 days ago",
+          "contentType": "timeOnInfo"
+        },
+        {
+          "displayString": "Apply instantly",
+          "contentType": "frZillowApplication"
+        }
+      ],
+      "ctaRecommendations": [
+        {
+          "displayString": "Request a tour",
+          "contentType": "REQUEST_A_TOUR"
+        }
+      ]
+    },
+    "hdpData": {
+      "homeInfo": {
+        "zpid": 401903113,
+        "streetAddress": "153 Saint Botolph St",
+        "zipcode": "02115",
+        "city": "Boston",
+        "state": "MA",
+        "latitude": 42.343555,
+        "longitude": -71.08269,
+        "price": 3200,
+        "datePriceChanged": 1761548400000,
+        "bathrooms": 1,
+        "bedrooms": 2,
+        "homeType": "APARTMENT",
+        "homeStatus": "FOR_RENT",
+        "daysOnZillow": 11,
+        "isFeatured": true,
+        "shouldHighlight": false,
+        "isRentalWithBasePrice": false,
+        "listing_sub_type": {},
+        "priceReduction": "$25 (Oct 27)",
+        "isUnmappable": false,
+        "isPreforeclosureAuction": false,
+        "homeStatusForHDP": "FOR_RENT",
+        "priceForHDP": 3200,
+        "priceChange": -25,
+        "timeOnZillow": 1011427000,
+        "isNonOwnerOccupied": true,
+        "isPremierBuilder": false,
+        "isZillowOwned": false,
+        "currency": "USD",
+        "country": "USA",
+        "isShowcaseListing": false
+      }
+    },
+    "isSaved": false,
+    "isUserClaimingOwner": false,
+    "isUserConfirmedClaim": false,
+    "pgapt": "ForRent",
+    "sgapt": "For Rent",
+    "shouldShowZestimateAsPrice": false,
+    "has3DModel": false,
+    "hasVideo": false,
+    "isHomeRec": false,
+    "hasAdditionalAttributions": false,
+    "isFeaturedListing": true,
+    "isShowcaseListing": false,
+    "availabilityDate": "2025-12-01 00:00:00",
+    "list": true,
+    "relaxed": false,
+    "carouselPhotosComposable": {
+      "baseUrl": "https://photos.zillowstatic.com/fp/{photoKey}-p_e.jpg",
+      "communityBaseUrl": null,
+      "photoData": [
+        {
+          "photoKey": "bbe97c1e16d708571cb92cae1358fecd"
+        },
+        {
+          "photoKey": "b2703646ad3730aad76d3a141cca2982"
+        },
+        {
+          "photoKey": "1a27cc1ad990f8627caadb028d06d75f"
+        },
+        {
+          "photoKey": "75d5afd373dca35cd13bd5dda657f2c0"
+        },
+        {
+          "photoKey": "02a7e9f85e1eed7aa2c652b1ed38ade1"
+        },
+        {
+          "photoKey": "024ce3873d35a5631fa7eae67967c0bb"
+        },
+        {
+          "photoKey": "b891b9d494d28bee1553f9202fb32410"
+        }
+      ],
+      "communityPhotoData": null,
+      "isStaticUrls": false
+    },
+    "marketingTreatments": [
+      "trustedListing",
+      "paid",
+      "zillowRentalManager",
+      "singleFamilyPaid",
+      "feedConnectFlatFeeFeedConnect"
+    ],
+    "rooms": [],
+    "listPriceIncludesRequiredMonthlyFees": true,
+    "baseRent": 3200,
+    "isPaidBuilderNewConstruction": false,
+    "factsAndFeatures": {
+      "fullBathroomCount": 1,
+      "hasFireplace": false,
+      "hasAirConditioning": false,
+      "hasSpa": false,
+      "hasPool": false
+    }
+  },
+  {
+    "zpid": "59176792",
+    "palsId": "100066001_f89210cd68f52962fbf7e71d790871099855084085bb5c6781a0a61d1cb379ea",
+    "id": "59176792",
+    "rawHomeStatusCd": "ForRent",
+    "marketingStatusSimplifiedCd": "For Rent",
+    "providerListingId": "3b63tpb86qts9",
+    "imgSrc": "https://photos.zillowstatic.com/fp/5f6563b49dbd2fc6c6352a7eb57ef2d3-p_e.jpg",
+    "hasImage": true,
+    "detailUrl": "https://www.zillow.com/homedetails/160-Commonwealth-Ave-APT-702-Boston-MA-02116/59176792_zpid/",
+    "statusType": "FOR_RENT",
+    "statusText": "Apartment for rent",
+    "countryCurrency": "$",
+    "price": "$7,000/mo",
+    "unformattedPrice": 7000,
+    "address": "160 Commonwealth Ave APT 702, Boston, MA 02116",
+    "addressStreet": "160 Commonwealth Ave APT 702",
+    "addressCity": "Boston",
+    "addressState": "MA",
+    "addressZipcode": "02116",
+    "isUndisclosedAddress": false,
+    "beds": 2,
+    "baths": 3,
+    "area": 1800,
+    "latLong": {
+      "latitude": 42.35129,
+      "longitude": -71.07865
+    },
+    "isZillowOwned": false,
+    "listCardRecommendation": {
+      "flexFieldRecommendations": [
+        {
+          "displayString": "8 days ago",
+          "contentType": "timeOnInfo"
+        },
+        {
+          "displayString": "Apply instantly",
+          "contentType": "frZillowApplication"
+        }
+      ],
+      "ctaRecommendations": [
+        {
+          "displayString": "Book a tour now",
+          "contentType": "SCHEDULE_A_TOUR"
+        }
+      ]
+    },
+    "hdpData": {
+      "homeInfo": {
+        "zpid": 59176792,
+        "streetAddress": "160 Commonwealth Ave APT 702",
+        "zipcode": "02116",
+        "city": "Boston",
+        "state": "MA",
+        "latitude": 42.35129,
+        "longitude": -71.07865,
+        "price": 7000,
+        "bathrooms": 3,
+        "bedrooms": 2,
+        "livingArea": 1800,
+        "homeType": "APARTMENT",
+        "homeStatus": "FOR_RENT",
+        "daysOnZillow": 8,
+        "isFeatured": true,
+        "shouldHighlight": false,
+        "isRentalWithBasePrice": false,
+        "zestimate": 2048600,
+        "rentZestimate": 7983,
+        "listing_sub_type": {},
+        "isUnmappable": false,
+        "isPreforeclosureAuction": false,
+        "homeStatusForHDP": "FOR_RENT",
+        "priceForHDP": 7000,
+        "timeOnZillow": 743495000,
+        "isNonOwnerOccupied": true,
+        "isPremierBuilder": false,
+        "isZillowOwned": false,
+        "currency": "USD",
+        "country": "USA",
+        "taxAssessedValue": 1695500,
+        "unit": "Apt 702",
+        "isShowcaseListing": false
+      }
+    },
+    "isSaved": false,
+    "isUserClaimingOwner": false,
+    "isUserConfirmedClaim": false,
+    "pgapt": "ForRent",
+    "sgapt": "For Rent",
+    "zestimate": 2048600,
+    "shouldShowZestimateAsPrice": false,
+    "has3DModel": false,
+    "hasVideo": false,
+    "isHomeRec": false,
+    "hasAdditionalAttributions": false,
+    "isFeaturedListing": true,
+    "isShowcaseListing": false,
+    "availabilityDate": "2025-11-10 00:00:00",
+    "list": true,
+    "relaxed": false,
+    "carouselPhotosComposable": {
+      "baseUrl": "https://photos.zillowstatic.com/fp/{photoKey}-p_e.jpg",
+      "communityBaseUrl": null,
+      "photoData": [
+        {
+          "photoKey": "5f6563b49dbd2fc6c6352a7eb57ef2d3"
+        },
+        {
+          "photoKey": "b53188b4b44278f8af5bd10343f1ba9d"
+        },
+        {
+          "photoKey": "7b50eeb2d213a9f2b6474c2fed7d6a85"
+        },
+        {
+          "photoKey": "ff029f7ac4f9e742568daf08e02a5ddd"
+        },
+        {
+          "photoKey": "de0d59969f243e108e1c6ae19727dbec"
+        },
+        {
+          "photoKey": "2e7a9c731d3f6d23d3d2e71375e540f3"
+        },
+        {
+          "photoKey": "68e248aa6c9f0135f68f7b4917d54e0b"
+        },
+        {
+          "photoKey": "3534b83dd1b1001a25b1587b39c3d80c"
+        },
+        {
+          "photoKey": "972b2da9d9b010e109bb7b9cd257ac57"
+        },
+        {
+          "photoKey": "83372a52ff7ddede8ccab25fcecf81ff"
+        },
+        {
+          "photoKey": "8b4cf584a063ad828a9b14b33b6278c1"
+        },
+        {
+          "photoKey": "bb690dd08e572c01eee2bca0f43efdf5"
+        },
+        {
+          "photoKey": "81a7ef738f1e4ec146446513a658c1f0"
+        },
+        {
+          "photoKey": "b13b5bc2850c78cbaf9b02dd57781c80"
+        },
+        {
+          "photoKey": "44a06f81cd69af28160151a2d6087b10"
+        },
+        {
+          "photoKey": "f7c3d94f3908a58ed1350d75ecc4625f"
+        },
+        {
+          "photoKey": "55aac1a7e3075162f3dfde61887bdfa5"
+        },
+        {
+          "photoKey": "e82e4e0be82f17aafe28e49add354242"
+        },
+        {
+          "photoKey": "564ebfd5161f81dcc9c38a2722d1c128"
+        }
+      ],
+      "communityPhotoData": null,
+      "isStaticUrls": false
+    },
+    "marketingTreatments": [
+      "paid",
+      "zillowRentalManager"
+    ],
+    "rooms": [],
+    "listPriceIncludesRequiredMonthlyFees": true,
+    "baseRent": 7000,
+    "isPaidBuilderNewConstruction": false,
+    "factsAndFeatures": {
+      "halfBathroomCount": 1,
+      "fullBathroomCount": 2,
+      "hasFireplace": false,
+      "hasAirConditioning": false,
+      "hasSpa": false,
+      "hasPool": false
+    }
+  },
+  {
+    "zpid": "42.349598--71.08435",
+    "id": "42.349598--71.08435",
+    "providerListingId": "1mn2wpceet23v",
+    "imgSrc": "https://photos.zillowstatic.com/fp/fe7b1bcead924b93e6c502976542cda7-p_e.jpg",
+    "hasImage": true,
+    "detailUrl": "/b/25-gloucester-st-boston-ma-96BqTR/",
+    "statusType": "FOR_RENT",
+    "statusText": "For Rent",
+    "address": "25 Gloucester St, Boston, MA",
+    "addressStreet": "25 Gloucester St   # 4",
+    "addressCity": "Boston",
+    "addressState": "MA",
+    "addressZipcode": "02115",
+    "units": [
+      {
+        "price": "$2,375+",
+        "beds": "1",
+        "roomForRent": false
+      },
+      {
+        "price": "$2,995+",
+        "beds": "2",
+        "roomForRent": false
+      }
+    ],
+    "lotId": 2001424327,
+    "latLong": {
+      "latitude": 42.349598,
+      "longitude": -71.08435
+    },
+    "isSaved": false,
+    "isBuilding": true,
+    "canSaveBuilding": false,
+    "has3DModel": false,
+    "isFeaturedListing": true,
+    "isShowcaseListing": false,
+    "list": true,
+    "relaxed": false,
+    "carouselPhotosComposable": {
+      "baseUrl": "https://photos.zillowstatic.com/fp/{photoKey}-p_e.jpg",
+      "communityBaseUrl": null,
+      "photoData": [
+        {
+          "photoKey": "fe7b1bcead924b93e6c502976542cda7"
+        },
+        {
+          "photoKey": "d59774644db6070d5c8acd20203ad0fe"
+        },
+        {
+          "photoKey": "bd271f0158ca37fa0e2e1ae26ead4311"
+        },
+        {
+          "photoKey": "956777e3d96a5c2863005ae4e4910be0"
+        },
+        {
+          "photoKey": "d4e4ac48ff25bd9a43c603ef840ab066"
+        },
+        {
+          "photoKey": "e75c1cefa5a76cb24a44a2b65060a8a6"
+        }
+      ],
+      "communityPhotoData": null,
+      "isStaticUrls": false
+    },
+    "availabilityCount": 3,
+    "marketingTreatments": [
+      "trustedListing",
+      "paid",
+      "zillowRentalManager",
+      "singleFamilyPaid",
+      "feedConnectFlatFeeFeedConnect"
+    ],
+    "listPriceIncludesRequiredMonthlyFees": false,
+    "isInstantTourEnabled": false,
+    "isContactable": false,
+    "isPaidBuilderNewConstruction": false
+  },
+  {
+    "zpid": "42.350395--71.0902",
+    "id": "42.350395--71.0902",
+    "providerListingId": "4qx5fmg15yr0e",
+    "imgSrc": "https://photos.zillowstatic.com/fp/0caee1442c3c07d0184a1a8621077de7-p_e.jpg",
+    "hasImage": true,
+    "detailUrl": "/b/509-beacon-st-boston-ma-5Xj7xL/",
+    "statusType": "FOR_RENT",
+    "statusText": "For Rent",
+    "address": "509 Beacon St, Boston, MA",
+    "addressStreet": "509 Beacon St # 5R",
+    "addressCity": "Boston",
+    "addressState": "MA",
+    "addressZipcode": "02215",
+    "units": [
+      {
+        "price": "$2,900+",
+        "beds": "1",
+        "roomForRent": false
+      }
+    ],
+    "lotId": 1001442563,
+    "latLong": {
+      "latitude": 42.350395,
+      "longitude": -71.0902
+    },
+    "isSaved": false,
+    "isBuilding": true,
+    "canSaveBuilding": false,
+    "has3DModel": false,
+    "isFeaturedListing": true,
+    "isShowcaseListing": false,
+    "list": true,
+    "relaxed": false,
+    "carouselPhotosComposable": {
+      "baseUrl": "https://photos.zillowstatic.com/fp/{photoKey}-p_e.jpg",
+      "communityBaseUrl": null,
+      "photoData": [
+        {
+          "photoKey": "0caee1442c3c07d0184a1a8621077de7"
+        },
+        {
+          "photoKey": "84417f7947511af6c9e063a73120b400"
+        },
+        {
+          "photoKey": "57a366668afebaeaf4126b147c9bf7ea"
+        },
+        {
+          "photoKey": "17069e18064bfa5c4c0482b6321051d8"
+        },
+        {
+          "photoKey": "cc3f94d0147eee90dd8a1270b53e7f67"
+        },
+        {
+          "photoKey": "2806d3e1723b123df32a451bf5ac523f"
+        },
+        {
+          "photoKey": "8350904063971881cc91cdaf6437ecd1"
+        },
+        {
+          "photoKey": "836850d3044d2cfeb52eae5d4a5faac3"
+        },
+        {
+          "photoKey": "9eda1b25ff55804f283d244a5f9e1609"
+        },
+        {
+          "photoKey": "754ff6b07b6eafe7c9a3c9765f18fc3c"
+        },
+        {
+          "photoKey": "7dd764449bdf05ac357fb97bba5c12dd"
+        },
+        {
+          "photoKey": "99f2a331e024f5acd562626561bcbddd"
+        },
+        {
+          "photoKey": "411a60282db274d6682e9a6d02b0faf0"
+        },
+        {
+          "photoKey": "40582a3aaf3dd74dc3bc1a5cdaf33ae3"
+        },
+        {
+          "photoKey": "f06d926cc3fbed7a64ec277297d4de87"
+        }
+      ],
+      "communityPhotoData": null,
+      "isStaticUrls": false
+    },
+    "availabilityCount": 3,
+    "marketingTreatments": [
+      "trustedListing",
+      "paid",
+      "zillowRentalManager",
+      "singleFamilyPaid",
+      "feedConnectFlatFeeFeedConnect"
+    ],
+    "listPriceIncludesRequiredMonthlyFees": false,
+    "isInstantTourEnabled": false,
+    "isContactable": false,
+    "isPaidBuilderNewConstruction": false
+  },
+  {
+    "zpid": "42.350376--71.09028",
+    "id": "42.350376--71.09028",
+    "providerListingId": "2460epdtxwqrj",
+    "imgSrc": "https://photos.zillowstatic.com/fp/411a60282db274d6682e9a6d02b0faf0-p_e.jpg",
+    "hasImage": true,
+    "detailUrl": "/b/511-beacon-st-boston-ma-5XjYzf/",
+    "statusType": "FOR_RENT",
+    "statusText": "For Rent",
+    "address": "511 Beacon St, Boston, MA",
+    "addressStreet": "511 Beacon St # 3R",
+    "addressCity": "Boston",
+    "addressState": "MA",
+    "addressZipcode": "02215",
+    "units": [
+      {
+        "price": "$2,900+",
+        "beds": "1",
+        "roomForRent": false
+      }
+    ],
+    "lotId": 1001495499,
+    "latLong": {
+      "latitude": 42.350376,
+      "longitude": -71.09028
+    },
+    "isSaved": false,
+    "isBuilding": true,
+    "canSaveBuilding": false,
+    "has3DModel": false,
+    "isFeaturedListing": true,
+    "isShowcaseListing": false,
+    "list": true,
+    "relaxed": false,
+    "carouselPhotosComposable": {
+      "baseUrl": "https://photos.zillowstatic.com/fp/{photoKey}-p_e.jpg",
+      "communityBaseUrl": null,
+      "photoData": [
+        {
+          "photoKey": "411a60282db274d6682e9a6d02b0faf0"
+        },
+        {
+          "photoKey": "84417f7947511af6c9e063a73120b400"
+        },
+        {
+          "photoKey": "57a366668afebaeaf4126b147c9bf7ea"
+        },
+        {
+          "photoKey": "0caee1442c3c07d0184a1a8621077de7"
+        },
+        {
+          "photoKey": "17069e18064bfa5c4c0482b6321051d8"
+        },
+        {
+          "photoKey": "836850d3044d2cfeb52eae5d4a5faac3"
+        },
+        {
+          "photoKey": "7dd764449bdf05ac357fb97bba5c12dd"
+        },
+        {
+          "photoKey": "cc3f94d0147eee90dd8a1270b53e7f67"
+        },
+        {
+          "photoKey": "2806d3e1723b123df32a451bf5ac523f"
+        },
+        {
+          "photoKey": "8350904063971881cc91cdaf6437ecd1"
+        },
+        {
+          "photoKey": "754ff6b07b6eafe7c9a3c9765f18fc3c"
+        },
+        {
+          "photoKey": "9eda1b25ff55804f283d244a5f9e1609"
+        },
+        {
+          "photoKey": "99f2a331e024f5acd562626561bcbddd"
+        },
+        {
+          "photoKey": "40582a3aaf3dd74dc3bc1a5cdaf33ae3"
+        },
+        {
+          "photoKey": "f06d926cc3fbed7a64ec277297d4de87"
+        }
+      ],
+      "communityPhotoData": null,
+      "isStaticUrls": false
+    },
+    "availabilityCount": 2,
+    "marketingTreatments": [
+      "trustedListing",
+      "paid",
+      "zillowRentalManager",
+      "singleFamilyPaid",
+      "feedConnectFlatFeeFeedConnect"
+    ],
+    "listPriceIncludesRequiredMonthlyFees": false,
+    "isInstantTourEnabled": false,
+    "isContactable": false,
+    "isPaidBuilderNewConstruction": false
+  },
+  {
+    "zpid": "42.34964--71.08146",
+    "id": "42.34964--71.08146",
+    "providerListingId": "dantrgpeqsaj",
+    "imgSrc": "https://photos.zillowstatic.com/fp/5b299010277860393b954ecf5edd76a6-p_e.jpg",
+    "hasImage": true,
+    "detailUrl": "/b/232-newbury-st-boston-ma-5Xj9cH/",
+    "statusType": "FOR_RENT",
+    "statusText": "For Rent",
+    "address": "232 Newbury St, Boston, MA",
+    "addressStreet": "232 Newbury St Floor 3-ID1300",
+    "addressCity": "Boston",
+    "addressState": "MA",
+    "addressZipcode": "02116",
+    "units": [
+      {
+        "price": "$3,340+",
+        "beds": "0",
+        "roomForRent": false
+      }
+    ],
+    "lotId": 1001446578,
+    "latLong": {
+      "latitude": 42.34964,
+      "longitude": -71.08146
+    },
+    "isSaved": false,
+    "isBuilding": true,
+    "canSaveBuilding": false,
+    "has3DModel": false,
+    "isFeaturedListing": true,
+    "isShowcaseListing": false,
+    "list": true,
+    "relaxed": false,
+    "carouselPhotosComposable": {
+      "baseUrl": "https://photos.zillowstatic.com/fp/{photoKey}-p_e.jpg",
+      "communityBaseUrl": null,
+      "photoData": [
+        {
+          "photoKey": "5b299010277860393b954ecf5edd76a6"
+        },
+        {
+          "photoKey": "e080830f37e9f9f89273b34d459c465a"
+        },
+        {
+          "photoKey": "2c25ac7d95c57996dece318d8e8cc135"
+        },
+        {
+          "photoKey": "0accf627c007f399b22d2a4105b2ed97"
+        },
+        {
+          "photoKey": "5fa96b0f831165da78dc54868c53ff33"
+        },
+        {
+          "photoKey": "59694dc83d64307011ea7b3770b444ba"
+        },
+        {
+          "photoKey": "6ad0f3e1734929e9babda322630506a3"
+        },
+        {
+          "photoKey": "a064612bb23f8bc7dc088dbfc2a7a9ce"
+        },
+        {
+          "photoKey": "4e9a00c4a769ba74d1f78615a18ac591"
+        },
+        {
+          "photoKey": "6d4201a0c7eb08c368ac439759bc1897"
+        },
+        {
+          "photoKey": "8e7647e7cfc1c6069b130500dfdfcc40"
+        },
+        {
+          "photoKey": "fcdcfb4c63719f205418bf09a5c3ac50"
+        }
+      ],
+      "communityPhotoData": null,
+      "isStaticUrls": false
+    },
+    "availabilityCount": 5,
+    "marketingTreatments": [
+      "trustedListing",
+      "paid",
+      "singleFamilyPaid",
+      "feedConnectSingleFamilyFlatFee"
+    ],
+    "listPriceIncludesRequiredMonthlyFees": false,
+    "isInstantTourEnabled": false,
+    "isContactable": false,
+    "isPaidBuilderNewConstruction": false
+  },
+  {
+    "zpid": "42.34414--71.08208",
+    "id": "42.34414--71.08208",
+    "providerListingId": "746m768f24nc",
+    "imgSrc": "https://photos.zillowstatic.com/fp/55de0eaa1d81c15b845a9c2bc8366897-p_e.jpg",
+    "hasImage": true,
+    "detailUrl": "/b/129-saint-botolph-st-boston-ma-5Xjc26/",
+    "statusType": "FOR_RENT",
+    "statusText": "For Rent",
+    "address": "129 Saint Botolph St, Boston, MA",
+    "addressStreet": "129 Saint Botolph St   Apt 9",
+    "addressCity": "Boston",
+    "addressState": "MA",
+    "addressZipcode": "02115",
+    "units": [
+      {
+        "price": "$2,390+",
+        "beds": "1",
+        "roomForRent": false
+      },
+      {
+        "price": "$1,650+",
+        "beds": "2",
+        "roomForRent": false
+      }
+    ],
+    "lotId": 1001500322,
+    "latLong": {
+      "latitude": 42.34414,
+      "longitude": -71.08208
+    },
+    "isSaved": false,
+    "isBuilding": true,
+    "canSaveBuilding": false,
+    "has3DModel": false,
+    "isFeaturedListing": true,
+    "isShowcaseListing": false,
+    "list": true,
+    "relaxed": false,
+    "carouselPhotosComposable": {
+      "baseUrl": "https://photos.zillowstatic.com/fp/{photoKey}-p_e.jpg",
+      "communityBaseUrl": null,
+      "photoData": [
+        {
+          "photoKey": "55de0eaa1d81c15b845a9c2bc8366897"
+        },
+        {
+          "photoKey": "dc95c552850a1fa47afeef39960e8fdd"
+        },
+        {
+          "photoKey": "76dc0aaf479bc0a7f1532de50bf46a06"
+        },
+        {
+          "photoKey": "59feb43955f7d9503b9529fca5ad85e4"
+        },
+        {
+          "photoKey": "b2703646ad3730aad76d3a141cca2982"
+        },
+        {
+          "photoKey": "6f48a19cc0e9a1894ed11991aa45ed6c"
+        },
+        {
+          "photoKey": "41dd6c6ff4f5daca8ded55bec7de97c9"
+        },
+        {
+          "photoKey": "75d5afd373dca35cd13bd5dda657f2c0"
+        }
+      ],
+      "communityPhotoData": null,
+      "isStaticUrls": false
+    },
+    "availabilityCount": 3,
+    "marketingTreatments": [
+      "trustedListing",
+      "paid",
+      "zillowRentalManager",
+      "singleFamilyPaid",
+      "feedConnectFlatFeeFeedConnect"
+    ],
+    "listPriceIncludesRequiredMonthlyFees": false,
+    "isInstantTourEnabled": false,
+    "isContactable": false,
+    "isPaidBuilderNewConstruction": false
+  },
+  {
+    "zpid": "458294674",
+    "palsId": "100066001_a5124929e90f0a220c1d221c87493de4312ef39c6551195705cad9763893b850",
+    "id": "458294674",
+    "rawHomeStatusCd": "ForRent",
+    "marketingStatusSimplifiedCd": "For Rent",
+    "providerListingId": "52fc8p9767tab",
+    "imgSrc": "https://photos.zillowstatic.com/fp/47a447b46e05f045d0c3236419f51938-p_e.jpg",
+    "hasImage": true,
+    "detailUrl": "https://www.zillow.com/homedetails/435-Marlborough-St-3B-Boston-MA-02115/458294674_zpid/",
+    "statusType": "FOR_RENT",
+    "statusText": "House for rent",
+    "countryCurrency": "$",
+    "price": "$4,500/mo",
+    "unformattedPrice": 4500,
+    "address": "435 Marlborough St #3B, Boston, MA 02115",
+    "addressStreet": "435 Marlborough St #3B",
+    "addressCity": "Boston",
+    "addressState": "MA",
+    "addressZipcode": "02115",
+    "isUndisclosedAddress": false,
+    "beds": 1,
+    "baths": 1,
+    "area": 900,
+    "latLong": {
+      "latitude": 42.350063,
+      "longitude": -71.090004
+    },
+    "isZillowOwned": false,
+    "listCardRecommendation": {
+      "flexFieldRecommendations": [
+        {
+          "displayString": "2 days ago",
+          "contentType": "timeOnInfo"
+        }
+      ],
+      "ctaRecommendations": [
+        {
+          "displayString": "Request a tour",
+          "contentType": "REQUEST_A_TOUR"
+        }
+      ]
+    },
+    "hdpData": {
+      "homeInfo": {
+        "zpid": 458294674,
+        "streetAddress": "435 Marlborough St #3B",
+        "zipcode": "02115",
+        "city": "Boston",
+        "state": "MA",
+        "latitude": 42.350063,
+        "longitude": -71.090004,
+        "price": 4500,
+        "bathrooms": 1,
+        "bedrooms": 1,
+        "livingArea": 900,
+        "homeType": "SINGLE_FAMILY",
+        "homeStatus": "FOR_RENT",
+        "daysOnZillow": 2,
+        "isFeatured": true,
+        "shouldHighlight": false,
+        "isRentalWithBasePrice": false,
+        "listing_sub_type": {},
+        "isUnmappable": false,
+        "isPreforeclosureAuction": false,
+        "homeStatusForHDP": "FOR_RENT",
+        "priceForHDP": 4500,
+        "timeOnZillow": 214237000,
+        "isNonOwnerOccupied": true,
+        "isPremierBuilder": false,
+        "isZillowOwned": false,
+        "currency": "USD",
+        "country": "USA",
+        "unit": "# 3B",
+        "isShowcaseListing": false
+      }
+    },
+    "isSaved": false,
+    "isUserClaimingOwner": false,
+    "isUserConfirmedClaim": false,
+    "pgapt": "ForRent",
+    "sgapt": "For Rent",
+    "shouldShowZestimateAsPrice": false,
+    "has3DModel": false,
+    "hasVideo": false,
+    "isHomeRec": false,
+    "hasAdditionalAttributions": false,
+    "isFeaturedListing": true,
+    "isShowcaseListing": false,
+    "availabilityDate": "2025-11-01 00:00:00",
+    "list": true,
+    "relaxed": false,
+    "carouselPhotosComposable": {
+      "baseUrl": "https://photos.zillowstatic.com/fp/{photoKey}-p_e.jpg",
+      "communityBaseUrl": null,
+      "photoData": [
+        {
+          "photoKey": "47a447b46e05f045d0c3236419f51938"
+        },
+        {
+          "photoKey": "7248465b3db057fd5931e9cf8a6ccd5e"
+        },
+        {
+          "photoKey": "faee733e9488724dad08b30bc95bbc77"
+        },
+        {
+          "photoKey": "cc19e05c168c05335ff830d530abd36b"
+        },
+        {
+          "photoKey": "be593a4dc0c8fe0b5ba44d8546e38cbe"
+        },
+        {
+          "photoKey": "38a07d7118981b2b024c2b4feb373b5f"
+        }
+      ],
+      "communityPhotoData": null,
+      "isStaticUrls": false
+    },
+    "marketingTreatments": [
+      "trustedListing",
+      "paid",
+      "singleFamilyPaid",
+      "feedConnectFlatFeeFeedConnect"
+    ],
+    "rooms": [],
+    "listPriceIncludesRequiredMonthlyFees": false,
+    "isPaidBuilderNewConstruction": false,
+    "factsAndFeatures": {
+      "halfBathroomCount": 0,
+      "fullBathroomCount": 1,
+      "hasFireplace": false,
+      "hasAirConditioning": false,
+      "hasSpa": false,
+      "hasPool": false
+    }
+  },
+  {
+    "zpid": "2066676704",
+    "palsId": "100066001_435c352acbd79352aa90c02c191193c56f4528dff35fe537d3e9c8c13b94e738",
+    "id": "2066676704",
+    "rawHomeStatusCd": "ForRent",
+    "marketingStatusSimplifiedCd": "For Rent",
+    "providerListingId": "1t2j51fgkhj00",
+    "imgSrc": "https://photos.zillowstatic.com/fp/a0bb5ea8598d46836c3e590860d27038-p_e.jpg",
+    "hasImage": true,
+    "detailUrl": "https://www.zillow.com/homedetails/148-Saint-Botolph-St-8-Boston-MA-02115/2066676704_zpid/",
+    "statusType": "FOR_RENT",
+    "statusText": "Apartment for rent",
+    "countryCurrency": "$",
+    "price": "$2,395/mo",
+    "unformattedPrice": 2395,
+    "address": "148 Saint Botolph St #8, Boston, MA 02115",
+    "addressStreet": "148 Saint Botolph St #8",
+    "addressCity": "Boston",
+    "addressState": "MA",
+    "addressZipcode": "02115",
+    "isUndisclosedAddress": false,
+    "beds": 0,
+    "baths": 1,
+    "latLong": {
+      "latitude": 42.34335,
+      "longitude": -71.08268
+    },
+    "isZillowOwned": false,
+    "listCardRecommendation": {
+      "flexFieldRecommendations": [
+        {
+          "displayString": "Apply instantly",
+          "contentType": "frZillowApplication"
+        }
+      ],
+      "ctaRecommendations": [
+        {
+          "displayString": "Request a tour",
+          "contentType": "REQUEST_A_TOUR"
+        }
+      ]
+    },
+    "hdpData": {
+      "homeInfo": {
+        "zpid": 2066676704,
+        "streetAddress": "148 Saint Botolph St #8",
+        "zipcode": "02115",
+        "city": "Boston",
+        "state": "MA",
+        "latitude": 42.34335,
+        "longitude": -71.08268,
+        "price": 2395,
+        "datePriceChanged": 1759993200000,
+        "bathrooms": 1,
+        "bedrooms": 0,
+        "homeType": "APARTMENT",
+        "homeStatus": "FOR_RENT",
+        "daysOnZillow": 58,
+        "isFeatured": true,
+        "shouldHighlight": false,
+        "isRentalWithBasePrice": false,
+        "rentZestimate": 3060,
+        "listing_sub_type": {},
+        "priceReduction": "$80 (Oct 9)",
+        "isUnmappable": false,
+        "isPreforeclosureAuction": false,
+        "homeStatusForHDP": "FOR_RENT",
+        "priceForHDP": 2395,
+        "priceChange": -80,
+        "timeOnZillow": 5081097000,
+        "isNonOwnerOccupied": true,
+        "isPremierBuilder": false,
+        "isZillowOwned": false,
+        "currency": "USD",
+        "country": "USA",
+        "unit": "# 8",
+        "isShowcaseListing": false
+      }
+    },
+    "isSaved": false,
+    "isUserClaimingOwner": false,
+    "isUserConfirmedClaim": false,
+    "pgapt": "ForRent",
+    "sgapt": "For Rent",
+    "shouldShowZestimateAsPrice": false,
+    "has3DModel": false,
+    "hasVideo": false,
+    "isHomeRec": false,
+    "hasAdditionalAttributions": false,
+    "isFeaturedListing": true,
+    "isShowcaseListing": false,
+    "availabilityDate": "2025-12-01 00:00:00",
+    "list": true,
+    "relaxed": false,
+    "carouselPhotosComposable": {
+      "baseUrl": "https://photos.zillowstatic.com/fp/{photoKey}-p_e.jpg",
+      "communityBaseUrl": null,
+      "photoData": [
+        {
+          "photoKey": "a0bb5ea8598d46836c3e590860d27038"
+        },
+        {
+          "photoKey": "6b8444c9cab7942cdb36a103bbe0f796"
+        },
+        {
+          "photoKey": "ca20f79d2105adb2ae1744505192220c"
+        },
+        {
+          "photoKey": "bc8d27f53dc626b16f660d2c45a3d6e0"
+        },
+        {
+          "photoKey": "5f4a120aa7b84f2fc54eed860466c8cd"
+        },
+        {
+          "photoKey": "edfe236e2fb9fe97f5076f5c5b8b4bed"
+        }
+      ],
+      "communityPhotoData": null,
+      "isStaticUrls": false
+    },
+    "marketingTreatments": [
+      "trustedListing",
+      "paid",
+      "zillowRentalManager",
+      "singleFamilyPaid",
+      "feedConnectFlatFeeFeedConnect"
+    ],
+    "rooms": [],
+    "listPriceIncludesRequiredMonthlyFees": true,
+    "baseRent": 2395,
+    "isPaidBuilderNewConstruction": false,
+    "factsAndFeatures": {
+      "fullBathroomCount": 1,
+      "hasFireplace": false,
+      "hasAirConditioning": false,
+      "hasSpa": false,
+      "hasPool": false
+    }
+  },
+  {
+    "zpid": "42.34843--71.07539",
+    "id": "42.34843--71.07539",
+    "providerListingId": "5dgjgm28fpnxn",
+    "imgSrc": "https://photos.zillowstatic.com/fp/5a440b75fa437172f5bc3e53d7c2dfc6-p_e.jpg",
+    "hasImage": true,
+    "detailUrl": "/b/430-stuart-st-boston-ma-96ByP3/",
+    "statusType": "FOR_RENT",
+    "statusText": "For Rent",
+    "address": "430 Stuart St, Boston, MA",
+    "addressStreet": "430 Stuart St # 1503",
+    "addressCity": "Boston",
+    "addressState": "MA",
+    "addressZipcode": "02116",
+    "units": [
+      {
+        "price": "$4,980+",
+        "beds": "0",
+        "roomForRent": false
+      }
+    ],
+    "lotId": 2001440918,
+    "latLong": {
+      "latitude": 42.34843,
+      "longitude": -71.07539
+    },
+    "isSaved": false,
+    "isBuilding": true,
+    "canSaveBuilding": false,
+    "has3DModel": false,
+    "isFeaturedListing": true,
+    "isShowcaseListing": false,
+    "list": true,
+    "relaxed": false,
+    "carouselPhotosComposable": {
+      "baseUrl": "https://photos.zillowstatic.com/fp/{photoKey}-p_e.jpg",
+      "communityBaseUrl": null,
+      "photoData": [
+        {
+          "photoKey": "5a440b75fa437172f5bc3e53d7c2dfc6"
+        },
+        {
+          "photoKey": "bb9ea4bdebec56990cb47d5108a4dd21"
+        },
+        {
+          "photoKey": "b9a3361bb12909223866355e8a89313c"
+        },
+        {
+          "photoKey": "ee1bc8f146cf5c0a2b64084383fa123c"
+        },
+        {
+          "photoKey": "57e913d173a760653c69b2e2203be7a0"
+        },
+        {
+          "photoKey": "1fa6f85c353cf87f06c5729313b09fae"
+        },
+        {
+          "photoKey": "3199756dbb170c88cdd68af814972e84"
+        },
+        {
+          "photoKey": "18a0ed9b13f7387e907bb5b83c6bbb25"
+        },
+        {
+          "photoKey": "f72d95bcbab7c4252ba9ae998d81b8d1"
+        },
+        {
+          "photoKey": "a84eb1d5ca779fd80ef1cf8e91f9fc00"
+        },
+        {
+          "photoKey": "a35e096d407ca1a78aadfd5ea3969748"
+        },
+        {
+          "photoKey": "3dc98f6864400e376d303c068daa5e7d"
+        },
+        {
+          "photoKey": "71faa61a4962ef06d22559acd9da18df"
+        },
+        {
+          "photoKey": "1e71c151202cf11323ba9d02cb991401"
+        },
+        {
+          "photoKey": "7cf6f97b10667265f0c584c3388c64cc"
+        },
+        {
+          "photoKey": "faf52871b55d2ea59f39ac11ae71637d"
+        },
+        {
+          "photoKey": "4d3d044fd74fb6513fe875a1cdd0c04c"
+        },
+        {
+          "photoKey": "0042faf2d72812f1507814a3364f6fd7"
+        },
+        {
+          "photoKey": "d9be739c8f93401a6ea90ef092c3dd5d"
+        },
+        {
+          "photoKey": "e723b0969c6723fa19ab3108b03f7a66"
+        },
+        {
+          "photoKey": "cb776d7197dd399d95707779520bfab4"
+        },
+        {
+          "photoKey": "0260928969fa0e20329d61a6028d6ac3"
+        },
+        {
+          "photoKey": "316a61ba3f328955a0249647d126ce2a"
+        },
+        {
+          "photoKey": "42b94ca6e895b4ea259f0089cacaf72b"
+        },
+        {
+          "photoKey": "e5c8015df3dd70d27571cde136fa22fe"
+        },
+        {
+          "photoKey": "c368cfd0bcaa650551169499864ffb8d"
+        },
+        {
+          "photoKey": "abb2cfe5d3a67878b4fb37744ef6cf7b"
+        },
+        {
+          "photoKey": "a8d10bb7a274b8e850fb1a9d67fc1e8f"
+        },
+        {
+          "photoKey": "2def190cd849d8b5540129b14e1727d7"
+        },
+        {
+          "photoKey": "5d9e444abf3de983d1fb987722737a6b"
+        }
+      ],
+      "communityPhotoData": null,
+      "isStaticUrls": false
+    },
+    "availabilityCount": 4,
+    "marketingTreatments": [
+      "trustedListing",
+      "paid",
+      "singleFamilyPaid",
+      "feedConnectSingleFamilyDailyListings"
+    ],
+    "listPriceIncludesRequiredMonthlyFees": false,
+    "isInstantTourEnabled": false,
+    "isContactable": false,
+    "isPaidBuilderNewConstruction": false
+  },
+  {
+    "zpid": "439208172",
+    "palsId": "100066001_c64b84ba1d85405005c733de2fdd42479ede168f4b82708d33bce9ac93184a13",
+    "id": "439208172",
+    "rawHomeStatusCd": "ForRent",
+    "marketingStatusSimplifiedCd": "For Rent",
+    "providerListingId": "18vtg31qghv7q",
+    "imgSrc": "https://photos.zillowstatic.com/fp/c2641bb5f2ce503849e8daf2db97cf03-p_e.jpg",
+    "hasImage": true,
+    "detailUrl": "https://www.zillow.com/homedetails/139-Saint-Botolph-St-Boston-MA-02115/439208172_zpid/",
+    "statusType": "FOR_RENT",
+    "statusText": "Apartment for rent",
+    "countryCurrency": "$",
+    "price": "$3,250/mo",
+    "unformattedPrice": 3250,
+    "address": "139 Saint Botolph St, Boston, MA 02115",
+    "addressStreet": "139 Saint Botolph St",
+    "addressCity": "Boston",
+    "addressState": "MA",
+    "addressZipcode": "02115",
+    "isUndisclosedAddress": false,
+    "beds": 2,
+    "baths": 1,
+    "latLong": {
+      "latitude": 42.343697,
+      "longitude": -71.082275
+    },
+    "isZillowOwned": false,
+    "listCardRecommendation": {
+      "flexFieldRecommendations": [
+        {
+          "displayString": "11 days ago",
+          "contentType": "timeOnInfo"
+        },
+        {
+          "displayString": "Apply instantly",
+          "contentType": "frZillowApplication"
+        }
+      ],
+      "ctaRecommendations": [
+        {
+          "displayString": "Request a tour",
+          "contentType": "REQUEST_A_TOUR"
+        }
+      ]
+    },
+    "hdpData": {
+      "homeInfo": {
+        "zpid": 439208172,
+        "streetAddress": "139 Saint Botolph St",
+        "zipcode": "02115",
+        "city": "Boston",
+        "state": "MA",
+        "latitude": 42.343697,
+        "longitude": -71.082275,
+        "price": 3250,
+        "datePriceChanged": 1760598000000,
+        "bathrooms": 1,
+        "bedrooms": 2,
+        "homeType": "APARTMENT",
+        "homeStatus": "FOR_RENT",
+        "daysOnZillow": 11,
+        "isFeatured": true,
+        "shouldHighlight": false,
+        "isRentalWithBasePrice": false,
+        "listing_sub_type": {},
+        "isUnmappable": false,
+        "isPreforeclosureAuction": false,
+        "homeStatusForHDP": "FOR_RENT",
+        "priceForHDP": 3250,
+        "priceChange": 150,
+        "timeOnZillow": 1011343000,
+        "isNonOwnerOccupied": true,
+        "isPremierBuilder": false,
+        "isZillowOwned": false,
+        "currency": "USD",
+        "country": "USA",
+        "isShowcaseListing": false
+      }
+    },
+    "isSaved": false,
+    "isUserClaimingOwner": false,
+    "isUserConfirmedClaim": false,
+    "pgapt": "ForRent",
+    "sgapt": "For Rent",
+    "shouldShowZestimateAsPrice": false,
+    "has3DModel": false,
+    "hasVideo": false,
+    "isHomeRec": false,
+    "hasAdditionalAttributions": false,
+    "isFeaturedListing": true,
+    "isShowcaseListing": false,
+    "availabilityDate": "2025-12-01 00:00:00",
+    "list": true,
+    "relaxed": false,
+    "carouselPhotosComposable": {
+      "baseUrl": "https://photos.zillowstatic.com/fp/{photoKey}-p_e.jpg",
+      "communityBaseUrl": null,
+      "photoData": [
+        {
+          "photoKey": "c2641bb5f2ce503849e8daf2db97cf03"
+        },
+        {
+          "photoKey": "dbc3c72af9f28ad4dff41c153baae950"
+        },
+        {
+          "photoKey": "b110a02158db2f3b5a1dd2f3ed27c68b"
+        },
+        {
+          "photoKey": "99d6da97b6856131aed17df8e974fc5e"
+        },
+        {
+          "photoKey": "54511e46216702be01975532f8fd6695"
+        },
+        {
+          "photoKey": "fdd16f5fcdae30e0f3d947e01c3c1901"
+        },
+        {
+          "photoKey": "c25f297017840458b2a04d33aadfb0fa"
+        },
+        {
+          "photoKey": "6f48a19cc0e9a1894ed11991aa45ed6c"
+        }
+      ],
+      "communityPhotoData": null,
+      "isStaticUrls": false
+    },
+    "marketingTreatments": [
+      "trustedListing",
+      "paid",
+      "zillowRentalManager",
+      "singleFamilyPaid",
+      "feedConnectFlatFeeFeedConnect"
+    ],
+    "rooms": [],
+    "listPriceIncludesRequiredMonthlyFees": true,
+    "baseRent": 3250,
+    "isPaidBuilderNewConstruction": false,
+    "factsAndFeatures": {
+      "fullBathroomCount": 1,
+      "hasFireplace": false,
+      "hasAirConditioning": false,
+      "hasSpa": false,
+      "hasPool": false
+    }
+  },
+  {
+    "zpid": "42.34908--71.08558",
+    "id": "42.34908--71.08558",
+    "providerListingId": "4b03gc2qub868",
+    "imgSrc": "https://photos.zillowstatic.com/fp/87e0064c73ed7a38305b099cc11ddc6e-p_e.jpg",
+    "hasImage": true,
+    "detailUrl": "/b/48-hereford-st-boston-ma-ChJBRW/",
+    "statusType": "FOR_RENT",
+    "statusText": "For Rent",
+    "address": "48 Hereford St, Boston, MA",
+    "addressStreet": "48 Hereford St   # GF",
+    "addressCity": "Boston",
+    "addressState": "MA",
+    "addressZipcode": "02115",
+    "units": [
+      {
+        "price": "$2,600+",
+        "beds": "0",
+        "roomForRent": false
+      },
+      {
+        "price": "$2,900+",
+        "beds": "1",
+        "roomForRent": false
+      },
+      {
+        "price": "$3,700+",
+        "beds": "2",
+        "roomForRent": false
+      }
+    ],
+    "lotId": 2739947823,
+    "latLong": {
+      "latitude": 42.34908,
+      "longitude": -71.08558
+    },
+    "isSaved": false,
+    "isBuilding": true,
+    "canSaveBuilding": false,
+    "has3DModel": false,
+    "isFeaturedListing": true,
+    "isShowcaseListing": false,
+    "list": true,
+    "relaxed": false,
+    "carouselPhotosComposable": {
+      "baseUrl": "https://photos.zillowstatic.com/fp/{photoKey}-p_e.jpg",
+      "communityBaseUrl": null,
+      "photoData": [
+        {
+          "photoKey": "87e0064c73ed7a38305b099cc11ddc6e"
+        },
+        {
+          "photoKey": "88d10c9798be422a9f57eca572e99c37"
+        },
+        {
+          "photoKey": "a8910d27ff60f61c1aa10a015889e66b"
+        },
+        {
+          "photoKey": "199293c4795f2cad3713e434c6ebb1f9"
+        },
+        {
+          "photoKey": "305032fe0af8fc3dc3f395a1a2ffdba9"
+        },
+        {
+          "photoKey": "9d4f734c8000b6cb4070fcf500171150"
+        }
+      ],
+      "communityPhotoData": null,
+      "isStaticUrls": false
+    },
+    "availabilityCount": 5,
+    "marketingTreatments": [
+      "trustedListing",
+      "paid",
+      "zillowRentalManager",
+      "singleFamilyPaid",
+      "feedConnectFlatFeeFeedConnect"
+    ],
+    "listPriceIncludesRequiredMonthlyFees": false,
+    "isInstantTourEnabled": false,
+    "isContactable": false,
+    "isPaidBuilderNewConstruction": false
+  },
+  {
+    "zpid": "2114489406",
+    "palsId": "100066001_42e744ac3ebd43bbedf044ae4ee8bfe6dcd731f04913f916cdf56332e65169b2",
+    "id": "2114489406",
+    "rawHomeStatusCd": "ForRent",
+    "marketingStatusSimplifiedCd": "For Rent",
+    "providerListingId": "1s2mqrzxasm0",
+    "imgSrc": "https://photos.zillowstatic.com/fp/858adf3492946a899c9b6fbb4ecdc05b-p_e.jpg",
+    "hasImage": true,
+    "detailUrl": "https://www.zillow.com/homedetails/673-Boylston-St-2-Boston-MA-02116/2114489406_zpid/",
+    "statusType": "FOR_RENT",
+    "statusText": "Apartment for rent",
+    "countryCurrency": "$",
+    "price": "$10,000/mo",
+    "unformattedPrice": 10000,
+    "address": "673 Boylston St #2, Boston, MA 02116",
+    "addressStreet": "673 Boylston St #2",
+    "addressCity": "Boston",
+    "addressState": "MA",
+    "addressZipcode": "02116",
+    "isUndisclosedAddress": false,
+    "beds": 2,
+    "baths": 2,
+    "area": 1867,
+    "latLong": {
+      "latitude": 42.34996,
+      "longitude": -71.07894
+    },
+    "isZillowOwned": false,
+    "listCardRecommendation": {
+      "flexFieldRecommendations": [
+        {
+          "displayString": "Apply instantly",
+          "contentType": "frZillowApplication"
+        }
+      ],
+      "ctaRecommendations": [
+        {
+          "displayString": "Book a tour now",
+          "contentType": "SCHEDULE_A_TOUR"
+        }
+      ]
+    },
+    "hdpData": {
+      "homeInfo": {
+        "zpid": 2114489406,
+        "streetAddress": "673 Boylston St #2",
+        "zipcode": "02116",
+        "city": "Boston",
+        "state": "MA",
+        "latitude": 42.34996,
+        "longitude": -71.07894,
+        "price": 10000,
+        "datePriceChanged": 1762502400000,
+        "bathrooms": 2,
+        "bedrooms": 2,
+        "livingArea": 1867,
+        "homeType": "APARTMENT",
+        "homeStatus": "FOR_RENT",
+        "daysOnZillow": 44,
+        "isFeatured": true,
+        "shouldHighlight": false,
+        "isRentalWithBasePrice": false,
+        "rentZestimate": 6915,
+        "listing_sub_type": {},
+        "priceReduction": "$2,000 (Nov 7)",
+        "isUnmappable": false,
+        "isPreforeclosureAuction": false,
+        "homeStatusForHDP": "FOR_RENT",
+        "priceForHDP": 10000,
+        "priceChange": -2000,
+        "timeOnZillow": 3879980000,
+        "isNonOwnerOccupied": true,
+        "isPremierBuilder": false,
+        "isZillowOwned": false,
+        "currency": "USD",
+        "country": "USA",
+        "unit": "# 2",
+        "isShowcaseListing": false
+      }
+    },
+    "isSaved": false,
+    "isUserClaimingOwner": false,
+    "isUserConfirmedClaim": false,
+    "pgapt": "ForRent",
+    "sgapt": "For Rent",
+    "shouldShowZestimateAsPrice": false,
+    "has3DModel": false,
+    "hasVideo": false,
+    "isHomeRec": false,
+    "hasAdditionalAttributions": false,
+    "isFeaturedListing": true,
+    "isShowcaseListing": false,
+    "availabilityDate": "2025-12-12 00:00:00",
+    "list": true,
+    "relaxed": false,
+    "carouselPhotosComposable": {
+      "baseUrl": "https://photos.zillowstatic.com/fp/{photoKey}-p_e.jpg",
+      "communityBaseUrl": null,
+      "photoData": [
+        {
+          "photoKey": "858adf3492946a899c9b6fbb4ecdc05b"
+        },
+        {
+          "photoKey": "34ae5a4060991190b002075ed6821b4e"
+        },
+        {
+          "photoKey": "20f166ddb90dcb00aaf1c911cf798c34"
+        },
+        {
+          "photoKey": "282b7f8a940ae20020981d38a5309c30"
+        },
+        {
+          "photoKey": "eeb4ff31759932aa45cf0a5db66f6aea"
+        },
+        {
+          "photoKey": "601275d885677f320884d31eba8b937c"
+        },
+        {
+          "photoKey": "d846620492e1721b0dd31adb216e592a"
+        },
+        {
+          "photoKey": "183aa4e0d3f688d84086ba522051f321"
+        },
+        {
+          "photoKey": "bb9f30c95c380aa5cbc151e85f317325"
+        },
+        {
+          "photoKey": "17b44cd06cc157f7091cd0624aafb378"
+        },
+        {
+          "photoKey": "54882218378ae3065499d2afa7beceb1"
+        },
+        {
+          "photoKey": "d165933acf697b9eed452c9de3e57c7b"
+        },
+        {
+          "photoKey": "552af1ee8a2922c23452d1c895dcae9f"
+        },
+        {
+          "photoKey": "5134f9b25e70bcf08d2d419bc2c81b84"
+        },
+        {
+          "photoKey": "93a9a4b5019a3872cb0d2307d1aa1fec"
+        },
+        {
+          "photoKey": "433a266dc2d085e1e2470aceaa849815"
+        },
+        {
+          "photoKey": "2691686efb6bc30178cc7d22b525332a"
+        },
+        {
+          "photoKey": "79ffa6b75d6c8ca3d944ae0691363946"
+        },
+        {
+          "photoKey": "de7b6978be601e2d6feaaca9033e7b86"
+        },
+        {
+          "photoKey": "d8b264f5699474555c56e8350f58bf7f"
+        },
+        {
+          "photoKey": "b376913dd83201bd1ac3916e3a110f36"
+        },
+        {
+          "photoKey": "419ff58beb2031dcad1e4e4be0cc2951"
+        },
+        {
+          "photoKey": "5e77e168d7707b1b8a22fddcff737203"
+        }
+      ],
+      "communityPhotoData": null,
+      "isStaticUrls": false
+    },
+    "marketingTreatments": [
+      "paid",
+      "zillowRentalManager"
+    ],
+    "rooms": [],
+    "listPriceIncludesRequiredMonthlyFees": true,
+    "baseRent": 10000,
+    "isPaidBuilderNewConstruction": false,
+    "factsAndFeatures": {
+      "fullBathroomCount": 2,
+      "hasFireplace": false,
+      "hasAirConditioning": false,
+      "hasSpa": false,
+      "hasPool": false
+    }
+  },
+  {
+    "zpid": "2111551097",
+    "palsId": "100066001_6fb4a1656602d4636afb460b4ecc8d9908739c5d5fb86e2c5a69e64b97836e5c",
+    "id": "2111551097",
+    "rawHomeStatusCd": "ForRent",
+    "marketingStatusSimplifiedCd": "For Rent",
+    "providerListingId": "45d0hfqbt6fz9",
+    "imgSrc": "https://photos.zillowstatic.com/fp/f2be999f99a7cfe6e301729ed1fe2916-p_e.jpg",
+    "hasImage": true,
+    "detailUrl": "https://www.zillow.com/homedetails/92-Marlborough-St-APT-1-Boston-MA-02116/2111551097_zpid/",
+    "statusType": "FOR_RENT",
+    "statusText": "Apartment for rent",
+    "countryCurrency": "$",
+    "price": "$2,795/mo",
+    "unformattedPrice": 2795,
+    "address": "92 Marlborough St APT 1, Boston, MA 02116",
+    "addressStreet": "92 Marlborough St APT 1",
+    "addressCity": "Boston",
+    "addressState": "MA",
+    "addressZipcode": "02116",
+    "isUndisclosedAddress": false,
+    "beds": 1,
+    "baths": 1,
+    "area": 700,
+    "latLong": {
+      "latitude": 42.353313,
+      "longitude": -71.07627
+    },
+    "isZillowOwned": false,
+    "listCardRecommendation": {
+      "flexFieldRecommendations": [
+        {
+          "displayString": "11 days ago",
+          "contentType": "timeOnInfo"
+        }
+      ],
+      "ctaRecommendations": [
+        {
+          "displayString": "Request a tour",
+          "contentType": "REQUEST_A_TOUR"
+        }
+      ]
+    },
+    "hdpData": {
+      "homeInfo": {
+        "zpid": 2111551097,
+        "streetAddress": "92 Marlborough St APT 1",
+        "zipcode": "02116",
+        "city": "Boston",
+        "state": "MA",
+        "latitude": 42.353313,
+        "longitude": -71.07627,
+        "price": 2795,
+        "bathrooms": 1,
+        "bedrooms": 1,
+        "livingArea": 700,
+        "homeType": "APARTMENT",
+        "homeStatus": "FOR_RENT",
+        "daysOnZillow": 11,
+        "isFeatured": true,
+        "shouldHighlight": false,
+        "isRentalWithBasePrice": false,
+        "rentZestimate": 3219,
+        "listing_sub_type": {},
+        "isUnmappable": false,
+        "isPreforeclosureAuction": false,
+        "homeStatusForHDP": "FOR_RENT",
+        "priceForHDP": 2795,
+        "timeOnZillow": 1014498000,
+        "isNonOwnerOccupied": true,
+        "isPremierBuilder": false,
+        "isZillowOwned": false,
+        "currency": "USD",
+        "country": "USA",
+        "unit": "Apt 1",
+        "isShowcaseListing": false
+      }
+    },
+    "isSaved": false,
+    "isUserClaimingOwner": false,
+    "isUserConfirmedClaim": false,
+    "pgapt": "ForRent",
+    "sgapt": "For Rent",
+    "shouldShowZestimateAsPrice": false,
+    "has3DModel": false,
+    "hasVideo": false,
+    "isHomeRec": false,
+    "hasAdditionalAttributions": false,
+    "isFeaturedListing": true,
+    "isShowcaseListing": false,
+    "list": true,
+    "relaxed": false,
+    "carouselPhotosComposable": {
+      "baseUrl": "https://photos.zillowstatic.com/fp/{photoKey}-p_e.jpg",
+      "communityBaseUrl": null,
+      "photoData": [
+        {
+          "photoKey": "f2be999f99a7cfe6e301729ed1fe2916"
+        },
+        {
+          "photoKey": "ae7e65ea3e52f217f019f2365ee9d384"
+        },
+        {
+          "photoKey": "c79fe7a14f30dbeac42c4eb428150d68"
+        },
+        {
+          "photoKey": "de89db5d2002bf0d6743aa78efde4162"
+        },
+        {
+          "photoKey": "43986afcfd106bc245056a6c8a7170f1"
+        },
+        {
+          "photoKey": "f4f5b02f32d2f21688088ab8a4df5046"
+        },
+        {
+          "photoKey": "993304ebf28a460c32b710e06ad4fef1"
+        },
+        {
+          "photoKey": "44f64421432016e90d9603ba00ff40a1"
+        },
+        {
+          "photoKey": "5d710a8500415f40d37c1afb4c334c89"
+        },
+        {
+          "photoKey": "90b963bb77b851700c832fa4bcec7a50"
+        },
+        {
+          "photoKey": "c9395e0cd7ecfb101167f37eb1a395e9"
+        }
+      ],
+      "communityPhotoData": null,
+      "isStaticUrls": false
+    },
+    "marketingTreatments": [
+      "trustedListing",
+      "paid",
+      "singleFamilyPaid",
+      "feedConnectFlatFeeFeedConnect"
+    ],
+    "rooms": [],
+    "listPriceIncludesRequiredMonthlyFees": false,
+    "isPaidBuilderNewConstruction": false,
+    "factsAndFeatures": {
+      "halfBathroomCount": 0,
+      "fullBathroomCount": 1,
+      "hasFireplace": false,
+      "hasAirConditioning": false,
+      "hasSpa": false,
+      "hasPool": false
+    }
+  },
+  {
+    "zpid": "2089930327",
+    "palsId": "100066001_ea3056993bec64324c9289413de424d12ab936c5a780727a544fa3aff470ccac",
+    "id": "2089930327",
+    "rawHomeStatusCd": "ForRent",
+    "marketingStatusSimplifiedCd": "For Rent",
+    "providerListingId": "1j5pbaf0z0ymu",
+    "imgSrc": "https://photos.zillowstatic.com/fp/2a9ef2de6df19b12170e2a386b3c86ce-p_e.jpg",
+    "hasImage": true,
+    "detailUrl": "https://www.zillow.com/homedetails/172-Marlborough-St-APT-1F-Boston-MA-02116/2089930327_zpid/",
+    "statusType": "FOR_RENT",
+    "statusText": "Apartment for rent",
+    "countryCurrency": "$",
+    "price": "$2,495/mo",
+    "unformattedPrice": 2495,
+    "address": "172 Marlborough St APT 1F, Boston, MA 02116",
+    "addressStreet": "172 Marlborough St APT 1F",
+    "addressCity": "Boston",
+    "addressState": "MA",
+    "addressZipcode": "02116",
+    "isUndisclosedAddress": false,
+    "beds": 0,
+    "baths": 1,
+    "area": 399,
+    "latLong": {
+      "latitude": 42.3524,
+      "longitude": -71.07947
+    },
+    "isZillowOwned": false,
+    "listCardRecommendation": {
+      "flexFieldRecommendations": [
+        {
+          "displayString": "11 days ago",
+          "contentType": "timeOnInfo"
+        }
+      ],
+      "ctaRecommendations": [
+        {
+          "displayString": "Request a tour",
+          "contentType": "REQUEST_A_TOUR"
+        }
+      ]
+    },
+    "hdpData": {
+      "homeInfo": {
+        "zpid": 2089930327,
+        "streetAddress": "172 Marlborough St APT 1F",
+        "zipcode": "02116",
+        "city": "Boston",
+        "state": "MA",
+        "latitude": 42.3524,
+        "longitude": -71.07947,
+        "price": 2495,
+        "bathrooms": 1,
+        "bedrooms": 0,
+        "livingArea": 399,
+        "homeType": "APARTMENT",
+        "homeStatus": "FOR_RENT",
+        "daysOnZillow": 11,
+        "isFeatured": true,
+        "shouldHighlight": false,
+        "isRentalWithBasePrice": false,
+        "rentZestimate": 2416,
+        "listing_sub_type": {},
+        "isUnmappable": false,
+        "isPreforeclosureAuction": false,
+        "homeStatusForHDP": "FOR_RENT",
+        "priceForHDP": 2495,
+        "timeOnZillow": 1014528000,
+        "isNonOwnerOccupied": true,
+        "isPremierBuilder": false,
+        "isZillowOwned": false,
+        "currency": "USD",
+        "country": "USA",
+        "unit": "Apt 1F",
+        "isShowcaseListing": false
+      }
+    },
+    "isSaved": false,
+    "isUserClaimingOwner": false,
+    "isUserConfirmedClaim": false,
+    "pgapt": "ForRent",
+    "sgapt": "For Rent",
+    "shouldShowZestimateAsPrice": false,
+    "has3DModel": false,
+    "hasVideo": false,
+    "isHomeRec": false,
+    "hasAdditionalAttributions": false,
+    "isFeaturedListing": true,
+    "isShowcaseListing": false,
+    "list": true,
+    "relaxed": false,
+    "carouselPhotosComposable": {
+      "baseUrl": "https://photos.zillowstatic.com/fp/{photoKey}-p_e.jpg",
+      "communityBaseUrl": null,
+      "photoData": [
+        {
+          "photoKey": "2a9ef2de6df19b12170e2a386b3c86ce"
+        },
+        {
+          "photoKey": "20a7c9ff06018f3aa7562b8f0060f8d7"
+        },
+        {
+          "photoKey": "e1c3df13c246a28c20e738134e78d54c"
+        },
+        {
+          "photoKey": "a7fa0cc19f818ef11e55a7703a92a629"
+        },
+        {
+          "photoKey": "76690081cbc4dacf46472d9b68a83043"
+        },
+        {
+          "photoKey": "f9372e0eee53284fa6f71bed5729954d"
+        }
+      ],
+      "communityPhotoData": null,
+      "isStaticUrls": false
+    },
+    "marketingTreatments": [
+      "trustedListing",
+      "paid",
+      "singleFamilyPaid",
+      "feedConnectFlatFeeFeedConnect"
+    ],
+    "rooms": [],
+    "listPriceIncludesRequiredMonthlyFees": false,
+    "isPaidBuilderNewConstruction": false,
+    "factsAndFeatures": {
+      "halfBathroomCount": 0,
+      "fullBathroomCount": 1,
+      "hasFireplace": false,
+      "hasAirConditioning": false,
+      "hasSpa": false,
+      "hasPool": false
+    }
+  },
+  {
+    "zpid": "42.349373--71.08246",
+    "id": "42.349373--71.08246",
+    "providerListingId": "2dw8xw7wzqaeb",
+    "imgSrc": "https://photos.zillowstatic.com/fp/9fbd99c47a97cd77eb27aaf7aca157fa-p_e.jpg",
+    "hasImage": true,
+    "detailUrl": "/b/246-newbury-st-boston-ma-5XpMBz/",
+    "statusType": "FOR_RENT",
+    "statusText": "For Rent",
+    "address": "246 Newbury St, Boston, MA",
+    "addressStreet": "246 Newbury St # 1",
+    "addressCity": "Boston",
+    "addressState": "MA",
+    "addressZipcode": "02116",
+    "units": [
+      {
+        "price": "$4,800+",
+        "beds": "2",
+        "roomForRent": false
+      },
+      {
+        "price": "$13,250+",
+        "beds": "3",
+        "roomForRent": false
+      }
+    ],
+    "lotId": 1001940141,
+    "latLong": {
+      "latitude": 42.349373,
+      "longitude": -71.08246
+    },
+    "isSaved": false,
+    "isBuilding": true,
+    "canSaveBuilding": false,
+    "has3DModel": false,
+    "isFeaturedListing": true,
+    "isShowcaseListing": false,
+    "list": true,
+    "relaxed": false,
+    "carouselPhotosComposable": {
+      "baseUrl": "https://photos.zillowstatic.com/fp/{photoKey}-p_e.jpg",
+      "communityBaseUrl": null,
+      "photoData": [
+        {
+          "photoKey": "9fbd99c47a97cd77eb27aaf7aca157fa"
+        },
+        {
+          "photoKey": "8765ad7ef3fa5a1990cdefaf7ecbdebf"
+        },
+        {
+          "photoKey": "32d8cd2c8a801fb0447318d99e6beb46"
+        },
+        {
+          "photoKey": "d77e8a4d06c6047035d02b3b3ab87f7b"
+        },
+        {
+          "photoKey": "9fbaca1e2b28d5a14f0e35e897297cc3"
+        },
+        {
+          "photoKey": "e810e0311e7298f84eba3b329c311bba"
+        },
+        {
+          "photoKey": "1fbe001bfcaee26dba133713448b6f0f"
+        },
+        {
+          "photoKey": "b9f8e94fb407e3e47ac83e958ef7a6ef"
+        },
+        {
+          "photoKey": "f1c455a08b6ca1fdb2ee91523bb11dd1"
+        },
+        {
+          "photoKey": "14e45a41329796cf3b3913d61a3ecfe1"
+        },
+        {
+          "photoKey": "35b2394c5ea0a183912625cb415af179"
+        }
+      ],
+      "communityPhotoData": null,
+      "isStaticUrls": false
+    },
+    "availabilityCount": 2,
+    "marketingTreatments": [
+      "trustedListing",
+      "paid",
+      "singleFamilyPaid",
+      "feedConnectFlatFeeFeedConnect"
+    ],
+    "listPriceIncludesRequiredMonthlyFees": false,
+    "isInstantTourEnabled": false,
+    "isContactable": false,
+    "isPaidBuilderNewConstruction": false
+  },
+  {
+    "zpid": "42.346245--71.08662",
+    "id": "42.346245--71.08662",
+    "providerListingId": "4zsmsqjza8h7d",
+    "imgSrc": "https://photos.zillowstatic.com/fp/f48e86bc398898ed1eaa411dbc1b33df-p_e.jpg",
+    "hasImage": true,
+    "detailUrl": "/b/11-belvidere-st-boston-ma-CjTY6X/",
+    "statusType": "FOR_RENT",
+    "statusText": "For Rent",
+    "address": "11 Belvidere St, Boston, MA",
+    "addressStreet": "11 Belvidere St # 9A",
+    "addressCity": "Boston",
+    "addressState": "MA",
+    "addressZipcode": "02115",
+    "units": [
+      {
+        "price": "$4,200+",
+        "beds": "2",
+        "roomForRent": false
+      }
+    ],
+    "lotId": 2746816252,
+    "latLong": {
+      "latitude": 42.346245,
+      "longitude": -71.08662
+    },
+    "isSaved": false,
+    "isBuilding": true,
+    "canSaveBuilding": false,
+    "has3DModel": false,
+    "isFeaturedListing": true,
+    "isShowcaseListing": false,
+    "list": true,
+    "relaxed": false,
+    "carouselPhotosComposable": {
+      "baseUrl": "https://photos.zillowstatic.com/fp/{photoKey}-p_e.jpg",
+      "communityBaseUrl": null,
+      "photoData": [
+        {
+          "photoKey": "f48e86bc398898ed1eaa411dbc1b33df"
+        },
+        {
+          "photoKey": "c81bc975cae50c3e388a33f26d261dc6"
+        },
+        {
+          "photoKey": "c2b2e4bb4f8037ecf167552d74bd0177"
+        },
+        {
+          "photoKey": "2b6be1bd8ef30eb9cea85d21baf553da"
+        },
+        {
+          "photoKey": "4c961a8ff92693468353dc719fc3a99f"
+        },
+        {
+          "photoKey": "0d93d02a6479b2a1a8da658f0b7ef2f5"
+        },
+        {
+          "photoKey": "041d6e5037c36c4ea4eecd87c7689e53"
+        }
+      ],
+      "communityPhotoData": null,
+      "isStaticUrls": false
+    },
+    "availabilityCount": 2,
+    "marketingTreatments": [
+      "trustedListing",
+      "paid",
+      "singleFamilyPaid",
+      "feedConnectFlatFeeFeedConnect"
+    ],
+    "listPriceIncludesRequiredMonthlyFees": false,
+    "isInstantTourEnabled": false,
+    "isContactable": false,
+    "isPaidBuilderNewConstruction": false
+  },
+  {
+    "zpid": "59211826",
+    "palsId": "100066001_cde88dc8ce610387d74607af491c3f53cf0c36b66da91d2bf44b0d00333961cd",
+    "id": "59211826",
+    "rawHomeStatusCd": "ForRent",
+    "marketingStatusSimplifiedCd": "For Rent",
+    "providerListingId": "1bfqffqt2eq8p",
+    "imgSrc": "https://photos.zillowstatic.com/fp/9b2fb8a0895d9e21a54b78947bbec730-p_e.jpg",
+    "hasImage": true,
+    "detailUrl": "https://www.zillow.com/homedetails/1-Huntington-Ave-APT-312-Boston-MA-02116/59211826_zpid/",
+    "statusType": "FOR_RENT",
+    "statusText": "Condo for rent",
+    "countryCurrency": "$",
+    "price": "$2,700/mo",
+    "unformattedPrice": 2700,
+    "address": "1 Huntington Ave APT 312, Boston, MA 02116",
+    "addressStreet": "1 Huntington Ave APT 312",
+    "addressCity": "Boston",
+    "addressState": "MA",
+    "addressZipcode": "02116",
+    "isUndisclosedAddress": false,
+    "beds": 0,
+    "baths": 1,
+    "area": 418,
+    "latLong": {
+      "latitude": 42.34879,
+      "longitude": -71.07807
+    },
+    "isZillowOwned": false,
+    "listCardRecommendation": {
+      "flexFieldRecommendations": [
+        {
+          "displayString": "11 days ago",
+          "contentType": "timeOnInfo"
+        }
+      ],
+      "ctaRecommendations": [
+        {
+          "displayString": "Request a tour",
+          "contentType": "REQUEST_A_TOUR"
+        }
+      ]
+    },
+    "hdpData": {
+      "homeInfo": {
+        "zpid": 59211826,
+        "streetAddress": "1 Huntington Ave APT 312",
+        "zipcode": "02116",
+        "city": "Boston",
+        "state": "MA",
+        "latitude": 42.34879,
+        "longitude": -71.07807,
+        "price": 2700,
+        "bathrooms": 1,
+        "bedrooms": 0,
+        "livingArea": 418,
+        "homeType": "CONDO",
+        "homeStatus": "FOR_RENT",
+        "daysOnZillow": 11,
+        "isFeatured": true,
+        "shouldHighlight": false,
+        "isRentalWithBasePrice": false,
+        "zestimate": 556300,
+        "rentZestimate": 3056,
+        "listing_sub_type": {},
+        "isUnmappable": false,
+        "isPreforeclosureAuction": false,
+        "homeStatusForHDP": "FOR_RENT",
+        "priceForHDP": 2700,
+        "timeOnZillow": 1013638000,
+        "isNonOwnerOccupied": true,
+        "isPremierBuilder": false,
+        "isZillowOwned": false,
+        "currency": "USD",
+        "country": "USA",
+        "taxAssessedValue": 507900,
+        "unit": "Apt 312",
+        "isShowcaseListing": false
+      }
+    },
+    "isSaved": false,
+    "isUserClaimingOwner": false,
+    "isUserConfirmedClaim": false,
+    "pgapt": "ForRent",
+    "sgapt": "For Rent",
+    "zestimate": 556300,
+    "shouldShowZestimateAsPrice": false,
+    "has3DModel": false,
+    "hasVideo": false,
+    "isHomeRec": false,
+    "hasAdditionalAttributions": false,
+    "isFeaturedListing": true,
+    "isShowcaseListing": false,
+    "list": true,
+    "relaxed": false,
+    "carouselPhotosComposable": {
+      "baseUrl": "https://photos.zillowstatic.com/fp/{photoKey}-p_e.jpg",
+      "communityBaseUrl": null,
+      "photoData": [
+        {
+          "photoKey": "9b2fb8a0895d9e21a54b78947bbec730"
+        },
+        {
+          "photoKey": "402816ebdba9d1def15d738d7162cb70"
+        },
+        {
+          "photoKey": "fff88480d1b80ea0b1583cf465d9a54b"
+        },
+        {
+          "photoKey": "8aa22732ed291b15d1cb21886dbf8529"
+        },
+        {
+          "photoKey": "8e957529b338a048716339eaa9dceb6b"
+        },
+        {
+          "photoKey": "c59e5d4d88edb7cd7480ae647a44def7"
+        },
+        {
+          "photoKey": "8c75b443b0e4842947fbaf215922903b"
+        },
+        {
+          "photoKey": "2f50bbd39a1bcaaaebe693894ceea0bf"
+        },
+        {
+          "photoKey": "7121393c2c55588267a53d6f40f04fd5"
+        },
+        {
+          "photoKey": "6dc8d5a448ab3a4716598bc1123885e5"
+        }
+      ],
+      "communityPhotoData": null,
+      "isStaticUrls": false
+    },
+    "marketingTreatments": [
+      "trustedListing",
+      "paid",
+      "singleFamilyPaid",
+      "feedConnectFlatFeeFeedConnect"
+    ],
+    "rooms": [],
+    "listPriceIncludesRequiredMonthlyFees": false,
+    "isPaidBuilderNewConstruction": false,
+    "factsAndFeatures": {
+      "halfBathroomCount": 0,
+      "fullBathroomCount": 1,
+      "hasFireplace": false,
+      "hasAirConditioning": false,
+      "hasSpa": false,
+      "hasPool": false
+    }
+  },
+  {
+    "zpid": "42.34624--71.08663",
+    "id": "42.34624--71.08663",
+    "providerListingId": "2n2kc6pc60hkw",
+    "imgSrc": "https://photos.zillowstatic.com/fp/c2b2e4bb4f8037ecf167552d74bd0177-p_e.jpg",
+    "hasImage": true,
+    "detailUrl": "/b/11-belvidere-st-boston-ma-CjTY6X/",
+    "statusType": "FOR_RENT",
+    "statusText": "For Rent",
+    "address": "11 Belvidere St, Boston, MA",
+    "addressStreet": "11 Belvidere St   Apt 5",
+    "addressCity": "Boston",
+    "addressState": "MA",
+    "addressZipcode": "02115",
+    "units": [
+      {
+        "price": "$4,250+",
+        "beds": "2",
+        "roomForRent": false
+      },
+      {
+        "price": "$6,000+",
+        "beds": "3",
+        "roomForRent": false
+      }
+    ],
+    "lotId": 2746816252,
+    "latLong": {
+      "latitude": 42.34624,
+      "longitude": -71.08663
+    },
+    "isSaved": false,
+    "isBuilding": true,
+    "canSaveBuilding": false,
+    "has3DModel": false,
+    "isFeaturedListing": true,
+    "isShowcaseListing": false,
+    "list": true,
+    "relaxed": false,
+    "carouselPhotosComposable": {
+      "baseUrl": "https://photos.zillowstatic.com/fp/{photoKey}-p_e.jpg",
+      "communityBaseUrl": null,
+      "photoData": [
+        {
+          "photoKey": "c2b2e4bb4f8037ecf167552d74bd0177"
+        },
+        {
+          "photoKey": "f48e86bc398898ed1eaa411dbc1b33df"
+        },
+        {
+          "photoKey": "c81bc975cae50c3e388a33f26d261dc6"
+        },
+        {
+          "photoKey": "2b6be1bd8ef30eb9cea85d21baf553da"
+        },
+        {
+          "photoKey": "4c961a8ff92693468353dc719fc3a99f"
+        },
+        {
+          "photoKey": "0d93d02a6479b2a1a8da658f0b7ef2f5"
+        },
+        {
+          "photoKey": "041d6e5037c36c4ea4eecd87c7689e53"
+        }
+      ],
+      "communityPhotoData": null,
+      "isStaticUrls": false
+    },
+    "availabilityCount": 3,
+    "marketingTreatments": [
+      "trustedListing",
+      "paid",
+      "singleFamilyPaid",
+      "feedConnectFlatFeeFeedConnect"
+    ],
+    "listPriceIncludesRequiredMonthlyFees": false,
+    "isInstantTourEnabled": false,
+    "isContactable": false,
+    "isPaidBuilderNewConstruction": false
+  },
+  {
+    "zpid": "42.353683--71.07795",
+    "id": "42.353683--71.07795",
+    "providerListingId": "1qdh6sfm7dz5g",
+    "imgSrc": "https://photos.zillowstatic.com/fp/364ab0f675f7cec21abbb28250324eb2-p_e.jpg",
+    "hasImage": true,
+    "detailUrl": "/apartments/boston-ma/231-beacon-st/Cp7kww/",
+    "statusType": "FOR_RENT",
+    "statusText": "For Rent",
+    "address": "231 Beacon St, Boston, MA",
+    "addressStreet": "231 Beacon St   # 1F",
+    "addressCity": "Boston",
+    "addressState": "MA",
+    "addressZipcode": "02116",
+    "units": [
+      {
+        "price": "$2,400+",
+        "beds": "0",
+        "roomForRent": false
+      },
+      {
+        "price": "$4,950+",
+        "beds": "1",
+        "roomForRent": false
+      }
+    ],
+    "lotId": 2767781411,
+    "latLong": {
+      "latitude": 42.353683,
+      "longitude": -71.07795
+    },
+    "isSaved": false,
+    "isBuilding": true,
+    "canSaveBuilding": true,
+    "has3DModel": false,
+    "isFeaturedListing": true,
+    "isShowcaseListing": false,
+    "list": true,
+    "relaxed": false,
+    "carouselPhotosComposable": {
+      "baseUrl": "https://photos.zillowstatic.com/fp/{photoKey}-p_e.jpg",
+      "communityBaseUrl": null,
+      "photoData": [
+        {
+          "photoKey": "364ab0f675f7cec21abbb28250324eb2"
+        },
+        {
+          "photoKey": "dc3a0dd66c6e8fcf53eef94ab91a862e"
+        },
+        {
+          "photoKey": "0f1a6948915f0726184b967f57bccc1a"
+        },
+        {
+          "photoKey": "fe5c2bdc091fc8fa0e8cc9185d753398"
+        },
+        {
+          "photoKey": "9d4bef2c20a9820f68f869c3211bf9a8"
+        }
+      ],
+      "communityPhotoData": null,
+      "isStaticUrls": false
+    },
+    "availabilityCount": 3,
+    "marketingTreatments": [
+      "trustedListing",
+      "paid",
+      "singleFamilyPaid",
+      "feedConnectSingleFamilyDailyListings"
+    ],
+    "listPriceIncludesRequiredMonthlyFees": false,
+    "isInstantTourEnabled": false,
+    "isContactable": false,
+    "isPaidBuilderNewConstruction": false
+  },
+  {
+    "zpid": "42.34303--71.08345",
+    "id": "42.34303--71.08345",
+    "providerListingId": "2ah9tf443fg21",
+    "imgSrc": "https://photos.zillowstatic.com/fp/3209600ee31df88da8e8feb369feeee8-p_e.jpg",
+    "hasImage": true,
+    "detailUrl": "/b/187-saint-botolph-st-boston-ma-5ZJ59v/",
+    "statusType": "FOR_RENT",
+    "statusText": "For Rent",
+    "address": "187 Saint Botolph St, Boston, MA",
+    "addressStreet": "187 Saint Botolph St   # 5",
+    "addressCity": "Boston",
+    "addressState": "MA",
+    "addressZipcode": "02115",
+    "units": [
+      {
+        "price": "$1,750+",
+        "beds": "0",
+        "roomForRent": false
+      },
+      {
+        "price": "$2,025+",
+        "beds": "1",
+        "roomForRent": false
+      }
+    ],
+    "lotId": 1010494851,
+    "latLong": {
+      "latitude": 42.34303,
+      "longitude": -71.08345
+    },
+    "isSaved": false,
+    "isBuilding": true,
+    "canSaveBuilding": false,
+    "has3DModel": false,
+    "isFeaturedListing": true,
+    "isShowcaseListing": false,
+    "list": true,
+    "relaxed": false,
+    "carouselPhotosComposable": {
+      "baseUrl": "https://photos.zillowstatic.com/fp/{photoKey}-p_e.jpg",
+      "communityBaseUrl": null,
+      "photoData": [
+        {
+          "photoKey": "3209600ee31df88da8e8feb369feeee8"
+        },
+        {
+          "photoKey": "dc169c6df54c8de3379c52c2c5090bb0"
+        },
+        {
+          "photoKey": "a149f85d761891fd50d88261342a4e0d"
+        }
+      ],
+      "communityPhotoData": null,
+      "isStaticUrls": false
+    },
+    "availabilityCount": 2,
+    "marketingTreatments": [
+      "trustedListing",
+      "paid",
+      "zillowRentalManager",
+      "singleFamilyPaid",
+      "feedConnectFlatFeeFeedConnect"
+    ],
+    "listPriceIncludesRequiredMonthlyFees": false,
+    "isInstantTourEnabled": false,
+    "isContactable": false,
+    "isPaidBuilderNewConstruction": false
+  },
+  {
+    "zpid": "59176542",
+    "palsId": "100066001_e50be9d23817c95997fe2d25f927f0e5f85aaa078cf0d75636853ec99fbc9d37",
+    "id": "59176542",
+    "rawHomeStatusCd": "ForRent",
+    "marketingStatusSimplifiedCd": "For Rent",
+    "providerListingId": "34dqrpkkvpath",
+    "imgSrc": "https://photos.zillowstatic.com/fp/3c0154c97b0a119da3ff43b3f8c83a3a-p_e.jpg",
+    "hasImage": true,
+    "detailUrl": "https://www.zillow.com/homedetails/144-Commonwealth-Ave-APT-8-Boston-MA-02116/59176542_zpid/",
+    "statusType": "FOR_RENT",
+    "statusText": "Apartment for rent",
+    "countryCurrency": "$",
+    "price": "$4,200/mo",
+    "unformattedPrice": 4200,
+    "address": "144 Commonwealth Ave APT 8, Boston, MA 02116",
+    "addressStreet": "144 Commonwealth Ave APT 8",
+    "addressCity": "Boston",
+    "addressState": "MA",
+    "addressZipcode": "02116",
+    "isUndisclosedAddress": false,
+    "beds": 1,
+    "baths": 1,
+    "area": 650,
+    "latLong": {
+      "latitude": 42.35162,
+      "longitude": -71.07746
+    },
+    "isZillowOwned": false,
+    "listCardRecommendation": {
+      "flexFieldRecommendations": [
+        {
+          "displayString": "Apply instantly",
+          "contentType": "frZillowApplication"
+        }
+      ],
+      "ctaRecommendations": [
+        {
+          "displayString": "Book a tour now",
+          "contentType": "SCHEDULE_A_TOUR"
+        }
+      ]
+    },
+    "hdpData": {
+      "homeInfo": {
+        "zpid": 59176542,
+        "streetAddress": "144 Commonwealth Ave APT 8",
+        "zipcode": "02116",
+        "city": "Boston",
+        "state": "MA",
+        "latitude": 42.35162,
+        "longitude": -71.07746,
+        "price": 4200,
+        "bathrooms": 1,
+        "bedrooms": 1,
+        "livingArea": 650,
+        "homeType": "APARTMENT",
+        "homeStatus": "FOR_RENT",
+        "daysOnZillow": 39,
+        "isFeatured": true,
+        "shouldHighlight": false,
+        "isRentalWithBasePrice": false,
+        "zestimate": 697500,
+        "rentZestimate": 3424,
+        "listing_sub_type": {},
+        "isUnmappable": false,
+        "isPreforeclosureAuction": false,
+        "homeStatusForHDP": "FOR_RENT",
+        "priceForHDP": 4200,
+        "timeOnZillow": 3450907000,
+        "isNonOwnerOccupied": true,
+        "isPremierBuilder": false,
+        "isZillowOwned": false,
+        "currency": "USD",
+        "country": "USA",
+        "taxAssessedValue": 659900,
+        "unit": "Apt 8",
+        "isShowcaseListing": false
+      }
+    },
+    "isSaved": false,
+    "isUserClaimingOwner": false,
+    "isUserConfirmedClaim": false,
+    "pgapt": "ForRent",
+    "sgapt": "For Rent",
+    "zestimate": 697500,
+    "shouldShowZestimateAsPrice": false,
+    "has3DModel": false,
+    "hasVideo": false,
+    "isHomeRec": false,
+    "hasAdditionalAttributions": false,
+    "isFeaturedListing": true,
+    "isShowcaseListing": false,
+    "availabilityDate": "2025-12-01 00:00:00",
+    "list": true,
+    "relaxed": false,
+    "carouselPhotosComposable": {
+      "baseUrl": "https://photos.zillowstatic.com/fp/{photoKey}-p_e.jpg",
+      "communityBaseUrl": null,
+      "photoData": [
+        {
+          "photoKey": "3c0154c97b0a119da3ff43b3f8c83a3a"
+        },
+        {
+          "photoKey": "91989a5bc34a101f58c484a57aad7970"
+        },
+        {
+          "photoKey": "a6985d25a58b524443add0a504699c61"
+        },
+        {
+          "photoKey": "069ce67b0aff9d41aea9097c23aa294a"
+        },
+        {
+          "photoKey": "852f26d0bbefc526de3e66af5eb08a6c"
+        },
+        {
+          "photoKey": "ce24f91e91a4aa482d540b71d729ecfa"
+        },
+        {
+          "photoKey": "e7621fa290821e1dbb29dda6f4e36074"
+        },
+        {
+          "photoKey": "1a1055d49173c5c219e1f036f8983a09"
+        },
+        {
+          "photoKey": "8861e6c35dec053e201d2c86dbfedbdf"
+        },
+        {
+          "photoKey": "8430e59ca1ecdcc3c2576226a4aa8dc2"
+        },
+        {
+          "photoKey": "934256bd13b21677a67e5bf8740fa534"
+        },
+        {
+          "photoKey": "5f1abf34e8104aba2c3074bd0a12c3fc"
+        }
+      ],
+      "communityPhotoData": null,
+      "isStaticUrls": false
+    },
+    "marketingTreatments": [
+      "paid",
+      "zillowRentalManager"
+    ],
+    "rooms": [],
+    "listPriceIncludesRequiredMonthlyFees": true,
+    "baseRent": 4200,
+    "isPaidBuilderNewConstruction": false,
+    "factsAndFeatures": {
+      "fullBathroomCount": 1,
+      "hasFireplace": false,
+      "hasAirConditioning": false,
+      "hasSpa": false,
+      "hasPool": false
+    }
+  },
+  {
+    "zpid": "59176539",
+    "palsId": "100066001_65cfbbace18a6371f92024b49d9e2692bf838d9f65ebf6dc8e2e59c1745eb901",
+    "id": "59176539",
+    "rawHomeStatusCd": "ForRent",
+    "marketingStatusSimplifiedCd": "For Rent",
+    "providerListingId": "22dc3b55zq56b",
+    "imgSrc": "https://photos.zillowstatic.com/fp/907fe3929768d657a27a3c86f339aa6f-p_e.jpg",
+    "hasImage": true,
+    "detailUrl": "https://www.zillow.com/homedetails/144-Commonwealth-Ave-APT-5-Boston-MA-02116/59176539_zpid/",
+    "statusType": "FOR_RENT",
+    "statusText": "Apartment for rent",
+    "countryCurrency": "$",
+    "price": "$5,000/mo",
+    "unformattedPrice": 5000,
+    "address": "144 Commonwealth Ave APT 5, Boston, MA 02116",
+    "addressStreet": "144 Commonwealth Ave APT 5",
+    "addressCity": "Boston",
+    "addressState": "MA",
+    "addressZipcode": "02116",
+    "isUndisclosedAddress": false,
+    "beds": 1,
+    "baths": 1,
+    "area": 780,
+    "latLong": {
+      "latitude": 42.351604,
+      "longitude": -71.07746
+    },
+    "isZillowOwned": false,
+    "listCardRecommendation": {
+      "flexFieldRecommendations": [
+        {
+          "displayString": "Apply instantly",
+          "contentType": "frZillowApplication"
+        }
+      ],
+      "ctaRecommendations": [
+        {
+          "displayString": "Book a tour now",
+          "contentType": "SCHEDULE_A_TOUR"
+        }
+      ]
+    },
+    "hdpData": {
+      "homeInfo": {
+        "zpid": 59176539,
+        "streetAddress": "144 Commonwealth Ave APT 5",
+        "zipcode": "02116",
+        "city": "Boston",
+        "state": "MA",
+        "latitude": 42.351604,
+        "longitude": -71.07746,
+        "price": 5000,
+        "bathrooms": 1,
+        "bedrooms": 1,
+        "livingArea": 780,
+        "homeType": "APARTMENT",
+        "homeStatus": "FOR_RENT",
+        "daysOnZillow": 39,
+        "isFeatured": true,
+        "shouldHighlight": false,
+        "isRentalWithBasePrice": false,
+        "zestimate": 796800,
+        "rentZestimate": 3691,
+        "listing_sub_type": {},
+        "isUnmappable": false,
+        "isPreforeclosureAuction": false,
+        "homeStatusForHDP": "FOR_RENT",
+        "priceForHDP": 5000,
+        "timeOnZillow": 3451114000,
+        "isNonOwnerOccupied": true,
+        "isPremierBuilder": false,
+        "isZillowOwned": false,
+        "currency": "USD",
+        "country": "USA",
+        "taxAssessedValue": 778800,
+        "unit": "Apt 5",
+        "isShowcaseListing": false
+      }
+    },
+    "isSaved": false,
+    "isUserClaimingOwner": false,
+    "isUserConfirmedClaim": false,
+    "pgapt": "ForRent",
+    "sgapt": "For Rent",
+    "zestimate": 796800,
+    "shouldShowZestimateAsPrice": false,
+    "has3DModel": false,
+    "hasVideo": false,
+    "isHomeRec": false,
+    "hasAdditionalAttributions": false,
+    "isFeaturedListing": true,
+    "isShowcaseListing": false,
+    "availabilityDate": "2025-12-01 00:00:00",
+    "list": true,
+    "relaxed": false,
+    "carouselPhotosComposable": {
+      "baseUrl": "https://photos.zillowstatic.com/fp/{photoKey}-p_e.jpg",
+      "communityBaseUrl": null,
+      "photoData": [
+        {
+          "photoKey": "907fe3929768d657a27a3c86f339aa6f"
+        },
+        {
+          "photoKey": "a4f65cc5b5dd2b5fa07cbe5e555050a4"
+        },
+        {
+          "photoKey": "e17a3a42d0fa801d9a49cf276202e225"
+        },
+        {
+          "photoKey": "cdd09d09cf75646a05f0b53c8f1b787c"
+        },
+        {
+          "photoKey": "1fd33acebc9f74e8963d7d650e1cc195"
+        },
+        {
+          "photoKey": "a9be1c34194b6c12c1928c17c8042702"
+        },
+        {
+          "photoKey": "440e9c768a0d1e288e11769e3463de20"
+        },
+        {
+          "photoKey": "8d63796a39fd47db14a53627ea782475"
+        },
+        {
+          "photoKey": "48073f06b2575680dd854a1d3628f42f"
+        },
+        {
+          "photoKey": "8e0ac6ddd0ae091b30349174ec2ba6a2"
+        },
+        {
+          "photoKey": "837b05e9fd90a4418538c32e55a9749e"
+        },
+        {
+          "photoKey": "89d1de37371e510813e97a9515e8096b"
+        }
+      ],
+      "communityPhotoData": null,
+      "isStaticUrls": false
+    },
+    "marketingTreatments": [
+      "paid",
+      "zillowRentalManager"
+    ],
+    "rooms": [],
+    "listPriceIncludesRequiredMonthlyFees": true,
+    "baseRent": 5000,
+    "isPaidBuilderNewConstruction": false,
+    "factsAndFeatures": {
+      "fullBathroomCount": 1,
+      "hasFireplace": false,
+      "hasAirConditioning": false,
+      "hasSpa": false,
+      "hasPool": false
+    }
+  },
+  {
+    "zpid": "2078242074",
+    "palsId": "100066001_22a0a6e2436aa423d6631369a197a794015eedf03869d0bb1be9c6db44019721",
+    "id": "2078242074",
+    "rawHomeStatusCd": "ForRent",
+    "marketingStatusSimplifiedCd": "For Rent",
+    "providerListingId": "4d1cnfy8afp2",
+    "imgSrc": "https://photos.zillowstatic.com/fp/aa0fde9ff8783ce20e85adf6c2341936-p_e.jpg",
+    "hasImage": true,
+    "detailUrl": "https://www.zillow.com/homedetails/193-Saint-Botolph-St-Boston-MA-02115/2078242074_zpid/",
+    "statusType": "FOR_RENT",
+    "statusText": "Apartment for rent",
+    "countryCurrency": "$",
+    "price": "$2,050/mo",
+    "unformattedPrice": 2050,
+    "address": "193 Saint Botolph St, Boston, MA 02115",
+    "addressStreet": "193 Saint Botolph St",
+    "addressCity": "Boston",
+    "addressState": "MA",
+    "addressZipcode": "02115",
+    "isUndisclosedAddress": false,
+    "beds": 1,
+    "baths": 1,
+    "latLong": {
+      "latitude": 42.34287,
+      "longitude": -71.08357
+    },
+    "isZillowOwned": false,
+    "listCardRecommendation": {
+      "flexFieldRecommendations": [
+        {
+          "displayString": "Apply instantly",
+          "contentType": "frZillowApplication"
+        }
+      ],
+      "ctaRecommendations": [
+        {
+          "displayString": "Request a tour",
+          "contentType": "REQUEST_A_TOUR"
+        }
+      ]
+    },
+    "hdpData": {
+      "homeInfo": {
+        "zpid": 2078242074,
+        "streetAddress": "193 Saint Botolph St",
+        "zipcode": "02115",
+        "city": "Boston",
+        "state": "MA",
+        "latitude": 42.34287,
+        "longitude": -71.08357,
+        "price": 2050,
+        "datePriceChanged": 1760079600000,
+        "bathrooms": 1,
+        "bedrooms": 1,
+        "homeType": "APARTMENT",
+        "homeStatus": "FOR_RENT",
+        "daysOnZillow": 58,
+        "isFeatured": true,
+        "shouldHighlight": false,
+        "isRentalWithBasePrice": false,
+        "rentZestimate": 2790,
+        "listing_sub_type": {},
+        "isUnmappable": false,
+        "isPreforeclosureAuction": false,
+        "homeStatusForHDP": "FOR_RENT",
+        "priceForHDP": 2050,
+        "priceChange": 25,
+        "timeOnZillow": 5080830000,
+        "isNonOwnerOccupied": true,
+        "isPremierBuilder": false,
+        "isZillowOwned": false,
+        "currency": "USD",
+        "country": "USA",
+        "isShowcaseListing": false
+      }
+    },
+    "isSaved": false,
+    "isUserClaimingOwner": false,
+    "isUserConfirmedClaim": false,
+    "pgapt": "ForRent",
+    "sgapt": "For Rent",
+    "shouldShowZestimateAsPrice": false,
+    "has3DModel": false,
+    "hasVideo": false,
+    "isHomeRec": false,
+    "hasAdditionalAttributions": false,
+    "isFeaturedListing": true,
+    "isShowcaseListing": false,
+    "availabilityDate": "2025-12-01 00:00:00",
+    "list": true,
+    "relaxed": false,
+    "carouselPhotosComposable": {
+      "baseUrl": "https://photos.zillowstatic.com/fp/{photoKey}-p_e.jpg",
+      "communityBaseUrl": null,
+      "photoData": [
+        {
+          "photoKey": "aa0fde9ff8783ce20e85adf6c2341936"
+        },
+        {
+          "photoKey": "6c3c0287906ba174f3ba6f1903a253c9"
+        },
+        {
+          "photoKey": "260c3bccb246a84eb6fc2ea2c9c53e45"
+        },
+        {
+          "photoKey": "0f0fa28c3ffc2e6202a57d9e2f14afa3"
+        },
+        {
+          "photoKey": "8d4e327639634d80623431646545ccf0"
+        }
+      ],
+      "communityPhotoData": null,
+      "isStaticUrls": false
+    },
+    "marketingTreatments": [
+      "trustedListing",
+      "paid",
+      "zillowRentalManager",
+      "singleFamilyPaid",
+      "feedConnectFlatFeeFeedConnect"
+    ],
+    "rooms": [],
+    "listPriceIncludesRequiredMonthlyFees": false,
+    "isPaidBuilderNewConstruction": false,
+    "factsAndFeatures": {
+      "fullBathroomCount": 1,
+      "hasFireplace": false,
+      "hasAirConditioning": false,
+      "hasSpa": false,
+      "hasPool": false
+    }
+  },
+  {
+    "zpid": "189953554",
+    "palsId": "100066001_212590cd4c2c891dda25981bdea14938acf2626bbe19907a393330e39a5dab58",
+    "id": "189953554",
+    "rawHomeStatusCd": "ForRent",
+    "marketingStatusSimplifiedCd": "For Rent",
+    "providerListingId": "58mgb02bzc748",
+    "imgSrc": "https://photos.zillowstatic.com/fp/0b2ad9455184a3395cac1a8f025dd8af-p_e.jpg",
+    "hasImage": true,
+    "detailUrl": "https://www.zillow.com/homedetails/33-Gloucester-St-Boston-MA-02115/189953554_zpid/",
+    "statusType": "FOR_RENT",
+    "statusText": "Apartment for rent",
+    "countryCurrency": "$",
+    "price": "$2,395/mo",
+    "unformattedPrice": 2395,
+    "address": "33 Gloucester St, Boston, MA 02115",
+    "addressStreet": "33 Gloucester St",
+    "addressCity": "Boston",
+    "addressState": "MA",
+    "addressZipcode": "02115",
+    "isUndisclosedAddress": false,
+    "beds": 1,
+    "baths": 1,
+    "latLong": {
+      "latitude": 42.349445,
+      "longitude": -71.084015
+    },
+    "isZillowOwned": false,
+    "listCardRecommendation": {
+      "flexFieldRecommendations": [
+        {
+          "displayString": "Apply instantly",
+          "contentType": "frZillowApplication"
+        }
+      ],
+      "ctaRecommendations": [
+        {
+          "displayString": "Request a tour",
+          "contentType": "REQUEST_A_TOUR"
+        }
+      ]
+    },
+    "hdpData": {
+      "homeInfo": {
+        "zpid": 189953554,
+        "streetAddress": "33 Gloucester St",
+        "zipcode": "02115",
+        "city": "Boston",
+        "state": "MA",
+        "latitude": 42.349445,
+        "longitude": -71.084015,
+        "price": 2395,
+        "datePriceChanged": 1758870000000,
+        "bathrooms": 1,
+        "bedrooms": 1,
+        "homeType": "APARTMENT",
+        "homeStatus": "FOR_RENT",
+        "daysOnZillow": 62,
+        "isFeatured": true,
+        "shouldHighlight": false,
+        "isRentalWithBasePrice": false,
+        "rentZestimate": 2348,
+        "listing_sub_type": {},
+        "priceReduction": "$5 (Sep 26)",
+        "isUnmappable": false,
+        "isPreforeclosureAuction": false,
+        "homeStatusForHDP": "FOR_RENT",
+        "priceForHDP": 2395,
+        "priceChange": -5,
+        "timeOnZillow": 5421957000,
+        "isNonOwnerOccupied": true,
+        "isPremierBuilder": false,
+        "isZillowOwned": false,
+        "currency": "USD",
+        "country": "USA",
+        "taxAssessedValue": 2954900,
+        "isShowcaseListing": false
+      }
+    },
+    "isSaved": false,
+    "isUserClaimingOwner": false,
+    "isUserConfirmedClaim": false,
+    "pgapt": "ForRent",
+    "sgapt": "For Rent",
+    "shouldShowZestimateAsPrice": false,
+    "has3DModel": false,
+    "hasVideo": false,
+    "isHomeRec": false,
+    "hasAdditionalAttributions": false,
+    "isFeaturedListing": true,
+    "isShowcaseListing": false,
+    "availabilityDate": "2025-11-15 00:00:00",
+    "list": true,
+    "relaxed": false,
+    "carouselPhotosComposable": {
+      "baseUrl": "https://photos.zillowstatic.com/fp/{photoKey}-p_e.jpg",
+      "communityBaseUrl": null,
+      "photoData": [
+        {
+          "photoKey": "0b2ad9455184a3395cac1a8f025dd8af"
+        },
+        {
+          "photoKey": "fd41fbe92cf9f45141561151a003a7d1"
+        },
+        {
+          "photoKey": "566af11181b397d8c1c1bdefb9431c2b"
+        },
+        {
+          "photoKey": "bdc5445485f8d782e5df6676d14e58dd"
+        },
+        {
+          "photoKey": "d3a95a0f6f188b07d73205b2d0c4f596"
+        }
+      ],
+      "communityPhotoData": null,
+      "isStaticUrls": false
+    },
+    "marketingTreatments": [
+      "trustedListing",
+      "paid",
+      "zillowRentalManager",
+      "singleFamilyPaid",
+      "feedConnectFlatFeeFeedConnect"
+    ],
+    "rooms": [],
+    "listPriceIncludesRequiredMonthlyFees": false,
+    "isPaidBuilderNewConstruction": false,
+    "factsAndFeatures": {
+      "fullBathroomCount": 1,
+      "hasFireplace": false,
+      "hasAirConditioning": false,
+      "hasSpa": false,
+      "hasPool": false
+    }
+  },
+  {
+    "zpid": "456751434",
+    "palsId": "100066001_c2ed3c9a3c0fd0a81f42d208ff49e403de760f3e54a4daa2438b9664acccc877",
+    "id": "456751434",
+    "rawHomeStatusCd": "ForRent",
+    "marketingStatusSimplifiedCd": "For Rent",
+    "providerListingId": "4p9xtf1y59k3n",
+    "imgSrc": "https://photos.zillowstatic.com/fp/5f5fe8cf36e8cc7f423c8af4712f990c-p_e.jpg",
+    "hasImage": true,
+    "detailUrl": "https://www.zillow.com/homedetails/231-Commonwealth-Ave-3-Boston-MA-02116/456751434_zpid/",
+    "statusType": "FOR_RENT",
+    "statusText": "Apartment for rent",
+    "countryCurrency": "$",
+    "price": "$2,600/mo",
+    "unformattedPrice": 2600,
+    "address": "231 Commonwealth Ave #3, Boston, MA 02116",
+    "addressStreet": "231 Commonwealth Ave #3",
+    "addressCity": "Boston",
+    "addressState": "MA",
+    "addressZipcode": "02116",
+    "isUndisclosedAddress": false,
+    "beds": 0,
+    "baths": 1,
+    "area": 450,
+    "latLong": {
+      "latitude": 42.35121,
+      "longitude": -71.08239
+    },
+    "isZillowOwned": false,
+    "listCardRecommendation": {
+      "flexFieldRecommendations": [
+        {
+          "displayString": "Apply instantly",
+          "contentType": "frZillowApplication"
+        }
+      ],
+      "ctaRecommendations": [
+        {
+          "displayString": "Request a tour",
+          "contentType": "REQUEST_A_TOUR"
+        }
+      ]
+    },
+    "hdpData": {
+      "homeInfo": {
+        "zpid": 456751434,
+        "streetAddress": "231 Commonwealth Ave #3",
+        "zipcode": "02116",
+        "city": "Boston",
+        "state": "MA",
+        "latitude": 42.35121,
+        "longitude": -71.08239,
+        "price": 2600,
+        "bathrooms": 1,
+        "bedrooms": 0,
+        "livingArea": 450,
+        "homeType": "APARTMENT",
+        "homeStatus": "FOR_RENT",
+        "daysOnZillow": 62,
+        "isFeatured": true,
+        "shouldHighlight": false,
+        "isRentalWithBasePrice": false,
+        "listing_sub_type": {},
+        "isUnmappable": false,
+        "isPreforeclosureAuction": false,
+        "homeStatusForHDP": "FOR_RENT",
+        "priceForHDP": 2600,
+        "timeOnZillow": 5425313000,
+        "isNonOwnerOccupied": true,
+        "isPremierBuilder": false,
+        "isZillowOwned": false,
+        "currency": "USD",
+        "country": "USA",
+        "unit": "# 3",
+        "isShowcaseListing": false
+      }
+    },
+    "isSaved": false,
+    "isUserClaimingOwner": false,
+    "isUserConfirmedClaim": false,
+    "pgapt": "ForRent",
+    "sgapt": "For Rent",
+    "shouldShowZestimateAsPrice": false,
+    "has3DModel": false,
+    "hasVideo": false,
+    "isHomeRec": false,
+    "hasAdditionalAttributions": false,
+    "isFeaturedListing": true,
+    "isShowcaseListing": false,
+    "availabilityDate": "2025-12-01 00:00:00",
+    "list": true,
+    "relaxed": false,
+    "carouselPhotosComposable": {
+      "baseUrl": "https://photos.zillowstatic.com/fp/{photoKey}-p_e.jpg",
+      "communityBaseUrl": null,
+      "photoData": [
+        {
+          "photoKey": "5f5fe8cf36e8cc7f423c8af4712f990c"
+        },
+        {
+          "photoKey": "afb7f2645792af4bf74985e39edcb56d"
+        },
+        {
+          "photoKey": "32ca6aadaee9b08dbcfa9d225019db1f"
+        },
+        {
+          "photoKey": "6f88c2b36c9f20f48f81957cd7acd5aa"
+        },
+        {
+          "photoKey": "f0649b4d33213aa12494262e10b7df13"
+        },
+        {
+          "photoKey": "cc8afc231c39845593fbd7d96c777bfd"
+        },
+        {
+          "photoKey": "d107b6cd56b315ffd11806dccca3c93a"
+        },
+        {
+          "photoKey": "cfcbc12fe924fd189153ac4e1707360d"
+        },
+        {
+          "photoKey": "3cb4f01345b1e5791dcfdfe3f32bbcea"
+        },
+        {
+          "photoKey": "5a88c9a8416be2e74ed7662e10d16a06"
+        },
+        {
+          "photoKey": "94ac9fe7915c36c0234df91a1df3c9bd"
+        },
+        {
+          "photoKey": "c2e4d02ec58f17b0442b01425cd63bf4"
+        },
+        {
+          "photoKey": "10d3e03fd4fecea6774b72267e01e1c1"
+        },
+        {
+          "photoKey": "2527bb3c3620361a2cec0a6e2d8f6892"
+        },
+        {
+          "photoKey": "9f2ac7b857635395ef5764cfddbceda2"
+        },
+        {
+          "photoKey": "08c2a3efc887b771564c668078dc7b0d"
+        },
+        {
+          "photoKey": "c76257747f1fa74c57c250067deacbe7"
+        },
+        {
+          "photoKey": "da43a5898aa160d56a3b7187e540b933"
+        },
+        {
+          "photoKey": "5456680f2433c7967d6fe97920486d54"
+        },
+        {
+          "photoKey": "2a8bf9682b1e239c6b1e4c59c2a3529f"
+        },
+        {
+          "photoKey": "5b3a711a0bfef8bc912fa5d07bc14289"
+        },
+        {
+          "photoKey": "f66bbf285b8c3b5f6066f9dc5e23aa1f"
+        },
+        {
+          "photoKey": "bd4dde2cd8ab257f8b47f0db2fded858"
+        },
+        {
+          "photoKey": "fbe0580cdea7056afebfeb071c065bcd"
+        }
+      ],
+      "communityPhotoData": null,
+      "isStaticUrls": false
+    },
+    "marketingTreatments": [
+      "paid",
+      "zillowRentalManager"
+    ],
+    "rooms": [],
+    "listPriceIncludesRequiredMonthlyFees": true,
+    "baseRent": 2600,
+    "isPaidBuilderNewConstruction": false,
+    "factsAndFeatures": {
+      "fullBathroomCount": 1,
+      "hasFireplace": false,
+      "hasAirConditioning": false,
+      "hasSpa": false,
+      "hasPool": false
+    }
+  },
+  {
+    "zpid": "42.354183--71.07611",
+    "id": "42.354183--71.07611",
+    "providerListingId": "3x53kc51vvhud",
+    "imgSrc": "https://photos.zillowstatic.com/fp/a96c6d4460597cd1af99be4dcb394495-p_e.jpg",
+    "hasImage": true,
+    "detailUrl": "/b/185-beacon-st-boston-ma-CpYKPF/",
+    "statusType": "FOR_RENT",
+    "statusText": "For Rent",
+    "address": "185 Beacon St, Boston, MA",
+    "addressStreet": "185 Beacon St   Apt 2R",
+    "addressCity": "Boston",
+    "addressState": "MA",
+    "addressZipcode": "02116",
+    "units": [
+      {
+        "price": "$3,100+",
+        "beds": "1",
+        "roomForRent": false
+      }
+    ],
+    "lotId": 2770317960,
+    "latLong": {
+      "latitude": 42.354183,
+      "longitude": -71.07611
+    },
+    "isSaved": false,
+    "isBuilding": true,
+    "canSaveBuilding": false,
+    "has3DModel": false,
+    "isFeaturedListing": true,
+    "isShowcaseListing": false,
+    "list": true,
+    "relaxed": false,
+    "carouselPhotosComposable": {
+      "baseUrl": "https://photos.zillowstatic.com/fp/{photoKey}-p_e.jpg",
+      "communityBaseUrl": null,
+      "photoData": [
+        {
+          "photoKey": "a96c6d4460597cd1af99be4dcb394495"
+        },
+        {
+          "photoKey": "8f3fc543af0b223d4719830a59f1d4f5"
+        },
+        {
+          "photoKey": "4f47065a59353676eadcefd3943b39b7"
+        },
+        {
+          "photoKey": "691182f612a26af12f1321c643414bc5"
+        },
+        {
+          "photoKey": "80f5a8ca9435dc6829de2c826061d602"
+        },
+        {
+          "photoKey": "d22398fd679c966ecbb1593eb495fbf3"
+        },
+        {
+          "photoKey": "b31e76f3323ab328e035c667a16b6968"
+        }
+      ],
+      "communityPhotoData": null,
+      "isStaticUrls": false
+    },
+    "availabilityCount": 2,
+    "marketingTreatments": [
+      "trustedListing",
+      "paid",
+      "singleFamilyPaid",
+      "feedConnectSingleFamilyDailyListings"
+    ],
+    "listPriceIncludesRequiredMonthlyFees": false,
+    "isInstantTourEnabled": false,
+    "isContactable": false,
+    "isPaidBuilderNewConstruction": false
+  }
+]

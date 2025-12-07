@@ -1,0 +1,489 @@
+[
+  {
+    "zpid": "2058298877",
+    "palsId": "100066001_35a2f1b11c228fe0f26452c20f74df02bb192571c698ba57e64de2ca1742bb23",
+    "id": "2058298877",
+    "rawHomeStatusCd": "ForRent",
+    "marketingStatusSimplifiedCd": "For Rent",
+    "providerListingId": "5hfxn1vdshxac",
+    "imgSrc": "https://photos.zillowstatic.com/fp/24e6c0d398b1634a85fd1944e4f78753-p_e.jpg",
+    "hasImage": true,
+    "detailUrl": "https://www.zillow.com/homedetails/130-Ontario-St-Brighton-ON-K0K-1H0/2058298877_zpid/",
+    "statusType": "FOR_RENT",
+    "statusText": "House for rent",
+    "countryCurrency": "C$",
+    "price": "C$2,200/mo",
+    "unformattedPrice": 2200,
+    "address": "130 Ontario St, Brighton, ON K0K 1H0",
+    "addressStreet": "130 Ontario St",
+    "addressCity": "Brighton",
+    "addressState": "ON",
+    "addressZipcode": "K0K1H0",
+    "isUndisclosedAddress": false,
+    "beds": 3,
+    "baths": 1,
+    "latLong": {
+      "latitude": 44.02795,
+      "longitude": -77.74165
+    },
+    "isZillowOwned": false,
+    "listCardRecommendation": {
+      "flexFieldRecommendations": [
+        {
+          "displayString": "3 days ago",
+          "contentType": "timeOnInfo"
+        }
+      ],
+      "ctaRecommendations": [
+        {
+          "displayString": "Request a tour",
+          "contentType": "REQUEST_A_TOUR"
+        }
+      ]
+    },
+    "hdpData": {
+      "homeInfo": {
+        "zpid": 2058298877,
+        "streetAddress": "130 Ontario St",
+        "zipcode": "K0K1H0",
+        "city": "Brighton",
+        "state": "ON",
+        "latitude": 44.02795,
+        "longitude": -77.74165,
+        "price": 2200,
+        "bathrooms": 1,
+        "bedrooms": 3,
+        "homeType": "SINGLE_FAMILY",
+        "homeStatus": "FOR_RENT",
+        "daysOnZillow": 3,
+        "isFeatured": false,
+        "shouldHighlight": false,
+        "isRentalWithBasePrice": false,
+        "listing_sub_type": {},
+        "isUnmappable": false,
+        "isPreforeclosureAuction": false,
+        "homeStatusForHDP": "FOR_RENT",
+        "priceForHDP": 2200,
+        "timeOnZillow": 287475000,
+        "isNonOwnerOccupied": true,
+        "isPremierBuilder": false,
+        "isZillowOwned": false,
+        "currency": "CAD",
+        "country": "CAN",
+        "isShowcaseListing": false
+      }
+    },
+    "isSaved": false,
+    "isUserClaimingOwner": false,
+    "isUserConfirmedClaim": false,
+    "pgapt": "ForRent",
+    "sgapt": "For Rent",
+    "shouldShowZestimateAsPrice": false,
+    "has3DModel": false,
+    "hasVideo": false,
+    "isHomeRec": false,
+    "hasAdditionalAttributions": false,
+    "isFeaturedListing": false,
+    "isShowcaseListing": false,
+    "list": true,
+    "relaxed": false,
+    "carouselPhotosComposable": {
+      "baseUrl": "https://photos.zillowstatic.com/fp/{photoKey}-p_e.jpg",
+      "communityBaseUrl": null,
+      "photoData": [
+        {
+          "photoKey": "24e6c0d398b1634a85fd1944e4f78753"
+        },
+        {
+          "photoKey": "6503e92f04980b4dd232ed84c6389e92"
+        },
+        {
+          "photoKey": "a2eedd72e2de8517b34e54b892beee34"
+        },
+        {
+          "photoKey": "11feb6f126fca6c441c91747fa14f732"
+        },
+        {
+          "photoKey": "bde13f84b0dbcc457c8e79f81babcae3"
+        },
+        {
+          "photoKey": "9223c05395d4ecbddb023b8f757b704c"
+        },
+        {
+          "photoKey": "5722c262a7acc575949a9ee89ee68841"
+        },
+        {
+          "photoKey": "8bf0016eea0c7ca6ade29c827ce8862c"
+        },
+        {
+          "photoKey": "ef9567520247351064401ec11c964dc6"
+        },
+        {
+          "photoKey": "01da1bbc8c1888b794ab0844667fa945"
+        },
+        {
+          "photoKey": "5667d7154753273e3c254af4d50b64e0"
+        }
+      ],
+      "communityPhotoData": null,
+      "isStaticUrls": false
+    },
+    "rooms": [],
+    "isPaidBuilderNewConstruction": false,
+    "factsAndFeatures": {
+      "fullBathroomCount": 1,
+      "hasFireplace": false,
+      "hasAirConditioning": false,
+      "hasSpa": false,
+      "hasPool": false
+    }
+  },
+  {
+    "zpid": "44.04017--77.73919",
+    "id": "44.04017--77.73919",
+    "providerListingId": "3trbfyhfakg11",
+    "imgSrc": "https://photos.zillowstatic.com/fp/78fb8a6215719718f747f5e6b7fa180d-p_e.jpg",
+    "hasImage": true,
+    "detailUrl": "/b/21-meade-st-brighton-on-C3TLHw/",
+    "statusType": "FOR_RENT",
+    "statusText": "For Rent",
+    "address": "21 Meade St, Brighton, ON",
+    "addressStreet": "21 Meade St # 1",
+    "addressCity": "Brighton",
+    "addressState": "ON",
+    "addressZipcode": "K0K1H0",
+    "units": [
+      {
+        "price": "C$2,000+",
+        "beds": "2",
+        "roomForRent": false
+      },
+      {
+        "price": "C$2,200+",
+        "beds": "3",
+        "roomForRent": false
+      }
+    ],
+    "lotId": 2550787067,
+    "latLong": {
+      "latitude": 44.04017,
+      "longitude": -77.73919
+    },
+    "listCardRecommendation": {
+      "flexFieldRecommendations": [
+        {
+          "displayString": "13 days ago",
+          "contentType": "timeOnInfo"
+        }
+      ]
+    },
+    "isSaved": false,
+    "isBuilding": true,
+    "canSaveBuilding": false,
+    "has3DModel": false,
+    "isFeaturedListing": false,
+    "isShowcaseListing": false,
+    "list": true,
+    "relaxed": false,
+    "carouselPhotosComposable": {
+      "baseUrl": "https://photos.zillowstatic.com/fp/{photoKey}-p_e.jpg",
+      "communityBaseUrl": null,
+      "photoData": [
+        {
+          "photoKey": "78fb8a6215719718f747f5e6b7fa180d"
+        },
+        {
+          "photoKey": "0ea3e7ad5fd1608411726b98b5769ace"
+        },
+        {
+          "photoKey": "70442c6750618c725e0b923b7ba0256b"
+        },
+        {
+          "photoKey": "c256a3f8a975276b0d44316ed944a077"
+        },
+        {
+          "photoKey": "02c5be0ca6f25fe2d850e9b156a06a55"
+        },
+        {
+          "photoKey": "e1cc6eb38f50a41d4cd842845e170e60"
+        },
+        {
+          "photoKey": "0b413a65013fe4b93d6119ee86787b42"
+        },
+        {
+          "photoKey": "c92b9eddd56ab8949b81b7aff9f92fde"
+        },
+        {
+          "photoKey": "33194d9f53f83eec367fe9bbe875bb57"
+        },
+        {
+          "photoKey": "e6af2335d586d56257d5e233acc94fad"
+        },
+        {
+          "photoKey": "ce234f6d072561522fbe0d579a52dc8f"
+        },
+        {
+          "photoKey": "d5c1989d00961c87a61407eeb899ea91"
+        },
+        {
+          "photoKey": "7ff436bb962807598d5206c0f95ff3f5"
+        },
+        {
+          "photoKey": "4296e77d6a8000ab9cb082f850c5f88e"
+        },
+        {
+          "photoKey": "548052ff15f919c22dbaa38c72ce174d"
+        },
+        {
+          "photoKey": "41716b648447e60d54b957ee908d90a2"
+        },
+        {
+          "photoKey": "648c141aa2e4c52c8c68a51588559b63"
+        },
+        {
+          "photoKey": "3c65924ab4cb40afe221356b18b06bb7"
+        },
+        {
+          "photoKey": "7e2140fd5a9767aca1ee77e6df22c73e"
+        },
+        {
+          "photoKey": "1aec28a647799b0252f79eb516b11b53"
+        },
+        {
+          "photoKey": "338340248b52eb1164550381b8e22d9a"
+        },
+        {
+          "photoKey": "473fbeb8fe111fd726c8188371855a87"
+        },
+        {
+          "photoKey": "0cac1391e830df98935e8c9aa878a8e9"
+        },
+        {
+          "photoKey": "9535a60b22386caf036253d198f1786e"
+        },
+        {
+          "photoKey": "363b8fd29e557c54d35ee071d0e28a35"
+        },
+        {
+          "photoKey": "8957f6243bacbd90c73ecc8d3e31660e"
+        },
+        {
+          "photoKey": "96b516c4280f1f87af876ab76aab6c4f"
+        },
+        {
+          "photoKey": "85001cb21d29526091d363087710d363"
+        },
+        {
+          "photoKey": "1418b9c78bf103123a6dcfe252498ee7"
+        },
+        {
+          "photoKey": "5aadaffac3a9082ce3ed666b78b661df"
+        }
+      ],
+      "communityPhotoData": null,
+      "isStaticUrls": false
+    },
+    "availabilityCount": 2,
+    "listPriceIncludesRequiredMonthlyFees": false,
+    "isInstantTourEnabled": false,
+    "isContactable": false,
+    "isPaidBuilderNewConstruction": false
+  },
+  {
+    "zpid": "446116769",
+    "palsId": "100066001_308ed881305c93c0a57b363dc2392db0df4a498d20faba07b676afeb4c7bfdff",
+    "id": "446116769",
+    "rawHomeStatusCd": "ForRent",
+    "marketingStatusSimplifiedCd": "For Rent",
+    "providerListingId": "whp4nr875psz",
+    "imgSrc": "https://photos.zillowstatic.com/fp/b4459eb369f6ad1fd1d5ba8db4c6ccf6-p_e.jpg",
+    "hasImage": true,
+    "detailUrl": "https://www.zillow.com/homedetails/109-Prince-Edward-St-B-Brighton-ON-K0K-1H0/446116769_zpid/",
+    "statusType": "FOR_RENT",
+    "statusText": "Apartment for rent",
+    "countryCurrency": "C$",
+    "price": "C$2,250/mo",
+    "unformattedPrice": 2250,
+    "address": "109 Prince Edward St #B, Brighton, ON K0K 1H0",
+    "addressStreet": "109 Prince Edward St #B",
+    "addressCity": "Brighton",
+    "addressState": "ON",
+    "addressZipcode": "K0K1H0",
+    "isUndisclosedAddress": false,
+    "beds": 2,
+    "baths": 1,
+    "latLong": {
+      "latitude": 44.03609,
+      "longitude": -77.733315
+    },
+    "isZillowOwned": false,
+    "listCardRecommendation": {
+      "flexFieldRecommendations": [
+        {
+          "displayString": "18 days ago",
+          "contentType": "timeOnInfo"
+        }
+      ],
+      "ctaRecommendations": [
+        {
+          "displayString": "Request a tour",
+          "contentType": "REQUEST_A_TOUR"
+        }
+      ]
+    },
+    "hdpData": {
+      "homeInfo": {
+        "zpid": 446116769,
+        "streetAddress": "109 Prince Edward St #B",
+        "zipcode": "K0K1H0",
+        "city": "Brighton",
+        "state": "ON",
+        "latitude": 44.03609,
+        "longitude": -77.733315,
+        "price": 2250,
+        "bathrooms": 1,
+        "bedrooms": 2,
+        "homeType": "MULTI_FAMILY",
+        "homeStatus": "FOR_RENT",
+        "daysOnZillow": 18,
+        "isFeatured": false,
+        "shouldHighlight": false,
+        "isRentalWithBasePrice": false,
+        "listing_sub_type": {},
+        "isUnmappable": false,
+        "isPreforeclosureAuction": false,
+        "homeStatusForHDP": "FOR_RENT",
+        "priceForHDP": 2250,
+        "timeOnZillow": 1639028000,
+        "isNonOwnerOccupied": true,
+        "isPremierBuilder": false,
+        "isZillowOwned": false,
+        "currency": "CAD",
+        "country": "CAN",
+        "unit": "# B",
+        "isShowcaseListing": false
+      }
+    },
+    "isSaved": false,
+    "isUserClaimingOwner": false,
+    "isUserConfirmedClaim": false,
+    "pgapt": "ForRent",
+    "sgapt": "For Rent",
+    "shouldShowZestimateAsPrice": false,
+    "has3DModel": false,
+    "hasVideo": false,
+    "isHomeRec": false,
+    "hasAdditionalAttributions": false,
+    "isFeaturedListing": false,
+    "isShowcaseListing": false,
+    "list": true,
+    "relaxed": false,
+    "carouselPhotosComposable": {
+      "baseUrl": "https://photos.zillowstatic.com/fp/{photoKey}-p_e.jpg",
+      "communityBaseUrl": null,
+      "photoData": [
+        {
+          "photoKey": "b4459eb369f6ad1fd1d5ba8db4c6ccf6"
+        },
+        {
+          "photoKey": "aa56bd14be83fc9211004419a4b3db78"
+        },
+        {
+          "photoKey": "d7a792487942b68370cf36fe7d5446a5"
+        },
+        {
+          "photoKey": "a3d6767035283a41555a39c07c276a3f"
+        },
+        {
+          "photoKey": "bd8007a7a90649fd7361e35ff7ee4694"
+        },
+        {
+          "photoKey": "ea254fedba76c33ac89fae6a6895cb43"
+        },
+        {
+          "photoKey": "30403d8f131f047af322806d90f35c05"
+        },
+        {
+          "photoKey": "4fb45171a51a09c62aa577bd72303af2"
+        },
+        {
+          "photoKey": "e63d765ef4e6af83a4147ed81478ecda"
+        },
+        {
+          "photoKey": "14370432affd4c18f9cb44cc74556c39"
+        },
+        {
+          "photoKey": "35272a46d31c282837f998f839452ba2"
+        },
+        {
+          "photoKey": "b58a5d8fc27d792a0358c876cc24cd87"
+        },
+        {
+          "photoKey": "7cd1c7d84a6684d0f9d3680c66564135"
+        },
+        {
+          "photoKey": "060950cdcd38d7ebadb54d487d5bfe3f"
+        },
+        {
+          "photoKey": "73b3e9fa41d5317f6a4f8d86f2895684"
+        },
+        {
+          "photoKey": "6225493d84b379f1e8ba6d2e85738a8b"
+        },
+        {
+          "photoKey": "9a20f0cec4f4c6854d0f3fe2857ea295"
+        },
+        {
+          "photoKey": "f9b31fa54189b3905a812ef46112beb8"
+        },
+        {
+          "photoKey": "15a763303e0c9295985a2c3ec643dc00"
+        },
+        {
+          "photoKey": "5726ebc0a2667658b4a1738a96825d46"
+        },
+        {
+          "photoKey": "385bedfce82d74db18dbbe04408d58cb"
+        },
+        {
+          "photoKey": "0c01a284b3c89cac21503efc983ee6c1"
+        },
+        {
+          "photoKey": "63daf5926cdfa209c2e6bc05960f8b35"
+        },
+        {
+          "photoKey": "ad06f867db9741dfbaa1b530586b712b"
+        },
+        {
+          "photoKey": "8844b92653c818a23888bdb36e73f1bb"
+        },
+        {
+          "photoKey": "448761d1cc5d1b16a99024241d4664d0"
+        },
+        {
+          "photoKey": "004d9a7b11dba1f472ab1f7fc7cf82b5"
+        },
+        {
+          "photoKey": "224f9d13e6a51ea9384538ce7c4a6bcf"
+        },
+        {
+          "photoKey": "66d6b98a7ffb7740dcca2ffa8c590a83"
+        },
+        {
+          "photoKey": "90b76f9c4ad2ee6ebe8a26cb380fe394"
+        }
+      ],
+      "communityPhotoData": null,
+      "isStaticUrls": false
+    },
+    "rooms": [],
+    "isPaidBuilderNewConstruction": false,
+    "factsAndFeatures": {
+      "fullBathroomCount": 1,
+      "hasFireplace": false,
+      "hasAirConditioning": false,
+      "hasSpa": false,
+      "hasPool": false
+    }
+  }
+]

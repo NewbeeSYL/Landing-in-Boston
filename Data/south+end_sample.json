@@ -1,0 +1,274 @@
+[
+  {
+    "zpid": "42.101048--72.58346",
+    "id": "42.101048--72.58346",
+    "providerListingId": "2he4ev8ttvk2c",
+    "imgSrc": "https://photos.zillowstatic.com/fp/3f1810fe4b72ff2efac637565e8925ec-p_e.jpg",
+    "hasImage": true,
+    "detailUrl": "/apartments/springfield-ma/stockbridge-court/5XntTf/",
+    "statusType": "FOR_RENT",
+    "statusText": "Stockbridge Court",
+    "address": "45 Willow St, Springfield, MA",
+    "addressStreet": "45 Willow St # 35-212",
+    "addressCity": "Springfield",
+    "addressState": "MA",
+    "addressZipcode": "01103",
+    "units": [
+      {
+        "price": "$1,750+",
+        "beds": "1",
+        "roomForRent": false
+      },
+      {
+        "price": "$2,150+",
+        "beds": "2",
+        "roomForRent": false
+      }
+    ],
+    "lotId": 1001885637,
+    "latLong": {
+      "latitude": 42.101048,
+      "longitude": -72.58346
+    },
+    "listCardRecommendation": {
+      "flexFieldRecommendations": [
+        {
+          "displayString": "Outdoor courtyard",
+          "contentType": "homeInsight"
+        },
+        {
+          "displayString": "Special Offer",
+          "contentType": "frSpecialOffer"
+        }
+      ]
+    },
+    "isSaved": false,
+    "buildingName": "Stockbridge Court",
+    "isBuilding": true,
+    "canSaveBuilding": true,
+    "has3DModel": true,
+    "isFeaturedListing": true,
+    "isShowcaseListing": false,
+    "list": true,
+    "relaxed": false,
+    "carouselPhotosComposable": {
+      "baseUrl": "https://photos.zillowstatic.com/fp/{photoKey}-p_e.jpg",
+      "communityBaseUrl": null,
+      "photoData": [
+        {
+          "photoKey": "3f1810fe4b72ff2efac637565e8925ec"
+        },
+        {
+          "photoKey": "afa16358aa9086727c174ef5898c8ea4"
+        },
+        {
+          "photoKey": "760cc79ede2506dd81dfa2864fcca5fb"
+        },
+        {
+          "photoKey": "99e384fe056636e5f1af4ce269224ea7"
+        },
+        {
+          "photoKey": "e24838c2b84c8897d4439de16c2253a2"
+        },
+        {
+          "photoKey": "6e9f7105c0851e3e35bc806bbd31ee34"
+        },
+        {
+          "photoKey": "3746add06f454c13e80b36df684701fb"
+        },
+        {
+          "photoKey": "269e288e048db2fe091cfd5ae6085365"
+        },
+        {
+          "photoKey": "1dbef73fddcb2ef6967eeea659e710b7"
+        },
+        {
+          "photoKey": "a691b54c922c8acafcf9d4f338a59184"
+        },
+        {
+          "photoKey": "3c9cd5b2162dc9e89710d13388bec33c"
+        },
+        {
+          "photoKey": "a058f1dca6ab1e2da34a19f2b0a80bfa"
+        },
+        {
+          "photoKey": "daf42fb4049b8838b0ae837ff9ac27b0"
+        },
+        {
+          "photoKey": "35295930126813d79298ed734d3fffed"
+        },
+        {
+          "photoKey": "6e1eb28bfc51f7af8ab41970578b7f51"
+        },
+        {
+          "photoKey": "37a97c6c7c3a6860522b6dd1aadb401e"
+        },
+        {
+          "photoKey": "6900502bbfb29e14a5bc0c60ba4035ff"
+        },
+        {
+          "photoKey": "263680f3ba9bf62120f5935432504fdf"
+        },
+        {
+          "photoKey": "64a14dbab926d9a76f2e0c95186a8c71"
+        },
+        {
+          "photoKey": "e9b9237249acb3e65d9e20a9214b19d5"
+        },
+        {
+          "photoKey": "fd7ec95297d623ceba31c86de20fd1e4"
+        },
+        {
+          "photoKey": "f2a811bc66c200cf6a5949e3dbf5df70"
+        },
+        {
+          "photoKey": "794903e212c7db32e53c634024fbc009"
+        },
+        {
+          "photoKey": "1dbe7c64592ce5b79b4e1f3189768db2"
+        },
+        {
+          "photoKey": "d8974945b10abc3e749cc7ac8ca71e6a"
+        },
+        {
+          "photoKey": "dc0c4917ae9781019defed9999566828"
+        },
+        {
+          "photoKey": "57cef219c8de1ed936426f15c3553a04"
+        },
+        {
+          "photoKey": "5f667c4375e24f37a21ba1a6b45e1faa"
+        },
+        {
+          "photoKey": "5d2ae8fa9999ca1dc41a5d4f6f4093e6"
+        },
+        {
+          "photoKey": "aa6ef2b9ffa8109d5b85e0e790a09496"
+        },
+        {
+          "photoKey": "e830a085e7084fc82dae786df1457ff0"
+        },
+        {
+          "photoKey": "9ab99d3f3d621eccebc45b14c8ea124b"
+        },
+        {
+          "photoKey": "617ac0aa25f6d12891c1602324063199"
+        },
+        {
+          "photoKey": "da2e803b8562b84f1271d99ceb97d786"
+        },
+        {
+          "photoKey": "df60c8eb7ac4311d19286801f82da049"
+        }
+      ],
+      "communityPhotoData": null,
+      "isStaticUrls": false
+    },
+    "availabilityCount": 6,
+    "marketingTreatments": [
+      "trustedListing",
+      "paid",
+      "zillowRentalManager",
+      "multiFamilySalesListing",
+      "paidOrUnpaidMultifamily",
+      "paidMultifamily",
+      "multifamilyPremium"
+    ],
+    "listPriceIncludesRequiredMonthlyFees": false,
+    "isInstantTourEnabled": false,
+    "isContactable": true,
+    "isPaidBuilderNewConstruction": false
+  },
+  {
+    "zpid": "42.099545--72.58472",
+    "id": "42.099545--72.58472",
+    "providerListingId": "4bjd4q5f3e16e",
+    "imgSrc": "https://photos.zillowstatic.com/fp/900de464b8b9c573203123b59269859e-p_e.jpg",
+    "hasImage": true,
+    "detailUrl": "/b/15-park-st-springfield-ma-5ZBf88/",
+    "statusType": "FOR_RENT",
+    "statusText": "For Rent",
+    "address": "15 Park St, Springfield, MA",
+    "addressStreet": "15 Park St # 206",
+    "addressCity": "Springfield",
+    "addressState": "MA",
+    "addressZipcode": "01103",
+    "units": [
+      {
+        "price": "$1,775+",
+        "beds": "1",
+        "roomForRent": false
+      }
+    ],
+    "lotId": 1009858499,
+    "latLong": {
+      "latitude": 42.099545,
+      "longitude": -72.58472
+    },
+    "listCardRecommendation": {
+      "flexFieldRecommendations": [
+        {
+          "displayString": "15 days ago",
+          "contentType": "timeOnInfo"
+        }
+      ]
+    },
+    "isSaved": false,
+    "isBuilding": true,
+    "canSaveBuilding": false,
+    "has3DModel": false,
+    "isFeaturedListing": false,
+    "isShowcaseListing": false,
+    "list": true,
+    "relaxed": false,
+    "carouselPhotosComposable": {
+      "baseUrl": "https://photos.zillowstatic.com/fp/{photoKey}-p_e.jpg",
+      "communityBaseUrl": null,
+      "photoData": [
+        {
+          "photoKey": "900de464b8b9c573203123b59269859e"
+        },
+        {
+          "photoKey": "73ffcc3ae8f5f89969312a49f8c821ad"
+        },
+        {
+          "photoKey": "c65ab0d4e67ffaf11ed84b183bc8df76"
+        },
+        {
+          "photoKey": "8b102a327c04c532d1f4fd42b7951af5"
+        },
+        {
+          "photoKey": "5f2056c2eaf87ab730357c6a5bc4221b"
+        },
+        {
+          "photoKey": "b3f73cb0cedc0d0fa70f7c3da2379af3"
+        },
+        {
+          "photoKey": "e1dda920a2220b7eb5600ce3c35e5513"
+        },
+        {
+          "photoKey": "f00a93239bd86fe7b681814cf048cbb5"
+        },
+        {
+          "photoKey": "6e31377eee4c8970b08847b18fbb1c6e"
+        },
+        {
+          "photoKey": "f7fc35e043f80b9eb1d02850400b9cc5"
+        },
+        {
+          "photoKey": "5e157d02e1a8eccd8b6ec6ee8f7c4ed9"
+        }
+      ],
+      "communityPhotoData": null,
+      "isStaticUrls": false
+    },
+    "availabilityCount": 3,
+    "marketingTreatments": [
+      "zillowRentalManager"
+    ],
+    "listPriceIncludesRequiredMonthlyFees": false,
+    "isInstantTourEnabled": false,
+    "isContactable": false,
+    "isPaidBuilderNewConstruction": false
+  }
+]

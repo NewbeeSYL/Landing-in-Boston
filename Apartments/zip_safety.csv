@@ -1,0 +1,23 @@
+Zip Code,Safety Level,Safety Score
+02019,higher,1
+02108,medium,0.65
+02109,higher,1
+02111,higher,0.75
+02114,medium,0.65
+02115,lower,0.3
+02116,lower,0.15
+02118,lower,0.1
+02119,medium,0.4
+02126,higher,0.7
+02127,higher,1
+02130,lower,0
+02131,medium,0.45
+02134,lower,0.2
+02135,lower,0.05
+02136,higher,1
+02163,medium,0.55
+02199,medium,0.35
+02215,lower,0.25
+02446,higher,1
+02467,medium,0.5
+02467,medium,0.5

@@ -1,0 +1,1931 @@
+[
+  {
+    "zpid": "42.34545--71.10493",
+    "id": "42.34545--71.10493",
+    "providerListingId": "2h80v3tgqvrtn",
+    "imgSrc": "https://photos.zillowstatic.com/fp/58db0441d1fe210e7f0e0a76b01dced7-p_e.jpg",
+    "hasImage": true,
+    "detailUrl": "/b/452-park-dr-boston-ma-CpYs54/",
+    "statusType": "FOR_RENT",
+    "statusText": "For Rent",
+    "address": "452 Park Dr, Boston, MA",
+    "addressStreet": "452 Park Dr Apt 12",
+    "addressCity": "Boston",
+    "addressState": "MA",
+    "addressZipcode": "02215",
+    "units": [
+      {
+        "price": "$1,700+",
+        "beds": "1",
+        "roomForRent": false
+      },
+      {
+        "price": "$4,400+",
+        "beds": "3",
+        "roomForRent": false
+      },
+      {
+        "price": "$6,600+",
+        "beds": "4",
+        "roomForRent": false
+      }
+    ],
+    "lotId": 2770381994,
+    "latLong": {
+      "latitude": 42.34545,
+      "longitude": -71.10493
+    },
+    "isSaved": false,
+    "isBuilding": true,
+    "canSaveBuilding": false,
+    "has3DModel": false,
+    "isFeaturedListing": true,
+    "isShowcaseListing": false,
+    "list": true,
+    "relaxed": false,
+    "carouselPhotosComposable": {
+      "baseUrl": "https://photos.zillowstatic.com/fp/{photoKey}-p_e.jpg",
+      "communityBaseUrl": null,
+      "photoData": [
+        {
+          "photoKey": "58db0441d1fe210e7f0e0a76b01dced7"
+        },
+        {
+          "photoKey": "da1c7e332fe355098b6bdf4c5addb106"
+        },
+        {
+          "photoKey": "ea2cf09d5f5efc5019265c7bcd5baf57"
+        },
+        {
+          "photoKey": "c7d0e18affe78a09e2929c038dae3d80"
+        },
+        {
+          "photoKey": "123341e2c099703d1c631e147f54c35c"
+        },
+        {
+          "photoKey": "06167a1207ce871793a2ca009fc3eab7"
+        },
+        {
+          "photoKey": "2279428e9674103902fc6210f952d55e"
+        },
+        {
+          "photoKey": "0ed2143d82c127213bbde56f2aa79ab9"
+        },
+        {
+          "photoKey": "636ee93cf1abfb4eda48f84dde375d8c"
+        },
+        {
+          "photoKey": "434e91d5302854d16c231b924fffc35a"
+        },
+        {
+          "photoKey": "5c01754fe275c4702ceaac9a2e17eb3a"
+        },
+        {
+          "photoKey": "a247483cc3ef0e6fb9fc3dcf3d061564"
+        },
+        {
+          "photoKey": "c7233a0a5bf1269775ce172f1a74ba5a"
+        },
+        {
+          "photoKey": "23cdb8ade10ba2655325351859580568"
+        },
+        {
+          "photoKey": "7ec5038be3b0cdfb50dbfdd4f5997889"
+        },
+        {
+          "photoKey": "2fc114ee2915a24639940db6a72322ba"
+        },
+        {
+          "photoKey": "8eb3738dd63a7a15275e3054a44f2290"
+        },
+        {
+          "photoKey": "abf2d225482f340b45379e370d38fab7"
+        },
+        {
+          "photoKey": "468fbae51d231d9d0b279b48320da52a"
+        },
+        {
+          "photoKey": "c169e953337fddf95c91d2d97cd36147"
+        },
+        {
+          "photoKey": "eb7e74a2229493cb402b586a8c91b404"
+        },
+        {
+          "photoKey": "3f83730cdb1bbf1f3c555033f73aed1b"
+        }
+      ],
+      "communityPhotoData": null,
+      "isStaticUrls": false
+    },
+    "availabilityCount": 15,
+    "marketingTreatments": [
+      "paid",
+      "zillowRentalManager"
+    ],
+    "listPriceIncludesRequiredMonthlyFees": false,
+    "isInstantTourEnabled": false,
+    "isContactable": false,
+    "isPaidBuilderNewConstruction": false
+  },
+  {
+    "zpid": "42.34555--71.089714",
+    "id": "42.34555--71.089714",
+    "providerListingId": "32pc8bnd39nej",
+    "imgSrc": "https://photos.zillowstatic.com/fp/9ba6d6ed981641877f6ea65c591f5f40-p_e.jpg",
+    "hasImage": true,
+    "detailUrl": "/b/39-hemenway-st-boston-ma-5Xj82t/",
+    "statusType": "FOR_RENT",
+    "statusText": "For Rent",
+    "address": "39 Hemenway St, Boston, MA",
+    "addressStreet": "39 Hemenway St # 2B",
+    "addressCity": "Boston",
+    "addressState": "MA",
+    "addressZipcode": "02115",
+    "units": [
+      {
+        "price": "$2,000+",
+        "beds": "0",
+        "roomForRent": false
+      },
+      {
+        "price": "$2,995+",
+        "beds": "1",
+        "roomForRent": false
+      },
+      {
+        "price": "$3,350+",
+        "beds": "2",
+        "roomForRent": false
+      },
+      {
+        "price": "$8,500+",
+        "beds": "4",
+        "roomForRent": false
+      }
+    ],
+    "lotId": 1001442737,
+    "latLong": {
+      "latitude": 42.34555,
+      "longitude": -71.089714
+    },
+    "listCardRecommendation": {
+      "flexFieldRecommendations": [
+        {
+          "displayString": "Special Offer",
+          "contentType": "frSpecialOffer"
+        }
+      ]
+    },
+    "isSaved": false,
+    "isBuilding": true,
+    "canSaveBuilding": false,
+    "has3DModel": false,
+    "isFeaturedListing": true,
+    "isShowcaseListing": false,
+    "list": true,
+    "relaxed": false,
+    "carouselPhotosComposable": {
+      "baseUrl": "https://photos.zillowstatic.com/fp/{photoKey}-p_e.jpg",
+      "communityBaseUrl": null,
+      "photoData": [
+        {
+          "photoKey": "9ba6d6ed981641877f6ea65c591f5f40"
+        },
+        {
+          "photoKey": "0d06ee8e491f184c35c760cc9b3b1a22"
+        },
+        {
+          "photoKey": "25087c5839cf3953188c0076ffcb2ecc"
+        },
+        {
+          "photoKey": "4b71d1ebd60777a8556e5237bd23f637"
+        },
+        {
+          "photoKey": "e3f82e30823fa37ab100fe97fe957a7c"
+        },
+        {
+          "photoKey": "42cf2b67f53cd0cd9b494daea9cac7f1"
+        },
+        {
+          "photoKey": "b54de319285230330312ba9310e55dfa"
+        },
+        {
+          "photoKey": "c9f871ef3d420ca997430e2ff836048f"
+        },
+        {
+          "photoKey": "7c448b652a163361b4e8516ca5fd1e37"
+        }
+      ],
+      "communityPhotoData": null,
+      "isStaticUrls": false
+    },
+    "availabilityCount": 11,
+    "marketingTreatments": [
+      "trustedListing",
+      "paid",
+      "zillowRentalManager",
+      "singleFamilyPaid",
+      "feedConnectFlatFeeFeedConnect"
+    ],
+    "listPriceIncludesRequiredMonthlyFees": false,
+    "isInstantTourEnabled": false,
+    "isContactable": false,
+    "isPaidBuilderNewConstruction": false
+  },
+  {
+    "zpid": "42.337776--71.09954",
+    "id": "42.337776--71.09954",
+    "providerListingId": "1a73xasfny1cb",
+    "imgSrc": "https://photos.zillowstatic.com/fp/ef3f086d52d6a578ae237d478cf50db6-p_e.jpg",
+    "hasImage": true,
+    "detailUrl": "/apartments/boston-ma/11-tetlow/CjHnsR/",
+    "statusType": "FOR_RENT",
+    "statusText": "11 Tetlow",
+    "address": "11 Tetlow St, Boston, MA",
+    "addressStreet": "11 Tetlow St # 14P-17",
+    "addressCity": "Boston",
+    "addressState": "MA",
+    "addressZipcode": "02115",
+    "units": [
+      {
+        "price": "$2,250+",
+        "beds": "1",
+        "roomForRent": false
+      },
+      {
+        "price": "$2,400+",
+        "beds": "2",
+        "roomForRent": false
+      },
+      {
+        "price": "$2,900+",
+        "beds": "3",
+        "roomForRent": false
+      }
+    ],
+    "lotId": 2745668030,
+    "latLong": {
+      "latitude": 42.337776,
+      "longitude": -71.09954
+    },
+    "listCardRecommendation": {
+      "flexFieldRecommendations": [
+        {
+          "displayString": "Hardwood floors",
+          "contentType": "homeInsight"
+        },
+        {
+          "displayString": "Special Offer",
+          "contentType": "frSpecialOffer"
+        }
+      ]
+    },
+    "isSaved": false,
+    "buildingName": "11 Tetlow",
+    "isBuilding": true,
+    "canSaveBuilding": true,
+    "has3DModel": false,
+    "isFeaturedListing": true,
+    "isShowcaseListing": false,
+    "list": true,
+    "relaxed": false,
+    "carouselPhotosComposable": {
+      "baseUrl": "https://photos.zillowstatic.com/fp/{photoKey}-p_e.jpg",
+      "communityBaseUrl": null,
+      "photoData": [
+        {
+          "photoKey": "ef3f086d52d6a578ae237d478cf50db6"
+        },
+        {
+          "photoKey": "3023ea62a2cf9e26d38aa5edbcf84d10"
+        },
+        {
+          "photoKey": "d4e640d139262158fc705f3bfe41ec8d"
+        },
+        {
+          "photoKey": "f4c165f5845f27512cf9dd99ec5dc7a5"
+        },
+        {
+          "photoKey": "65d009316586e3bcec569a97a81a1fe1"
+        },
+        {
+          "photoKey": "970996a910155a5fb0e8bfe069c83c26"
+        },
+        {
+          "photoKey": "fd40b6cedb7a7e2f9efb9238116d69d8"
+        },
+        {
+          "photoKey": "1c83c074595a4530366b7c25de3cbbe5"
+        },
+        {
+          "photoKey": "b86c79a5d92093e1aa826fdae0b85f82"
+        },
+        {
+          "photoKey": "24f9cb35402e9cd9c6f7c91e480580b2"
+        },
+        {
+          "photoKey": "4ff66aa649bc22da78e88a6d28e91216"
+        },
+        {
+          "photoKey": "84d528a61e63d5849099bf173cc4d860"
+        },
+        {
+          "photoKey": "d64f9f72f2713a2d8a2aa41593283b1f"
+        },
+        {
+          "photoKey": "ae11f60663f5d295af133fb5b2e4cdca"
+        },
+        {
+          "photoKey": "88ea02ea9e5fc46fab47dbde4cee4597"
+        },
+        {
+          "photoKey": "8aea6c27ea12229871fae012bfc1c7bb"
+        },
+        {
+          "photoKey": "804cf2fe98c8112686260c447f2b884f"
+        },
+        {
+          "photoKey": "bada4f09964a97949fa5e072fc9c1ed0"
+        },
+        {
+          "photoKey": "73d9a3c5f3e7ad7b12717fe695ae3b2a"
+        },
+        {
+          "photoKey": "2b78cf8876e6d32be3460f007309c0ba"
+        },
+        {
+          "photoKey": "e09fe338640f6d73a166fedc6f30552e"
+        },
+        {
+          "photoKey": "56c88276db5863300d0d487fecd57cab"
+        },
+        {
+          "photoKey": "7c44d83dc93bd422d8cc230c3d445668"
+        }
+      ],
+      "communityPhotoData": null,
+      "isStaticUrls": false
+    },
+    "availabilityCount": 12,
+    "marketingTreatments": [
+      "trustedListing",
+      "paid",
+      "multiFamilySalesListing",
+      "paidOrUnpaidMultifamily",
+      "paidMultifamily",
+      "multifamilyPremium"
+    ],
+    "listPriceIncludesRequiredMonthlyFees": false,
+    "isInstantTourEnabled": false,
+    "isContactable": true,
+    "isPaidBuilderNewConstruction": false
+  },
+  {
+    "zpid": "42.34692--71.08802",
+    "id": "42.34692--71.08802",
+    "providerListingId": "19zsdabjq1ecq",
+    "imgSrc": "https://photos.zillowstatic.com/fp/97cdcc71aceadb15810b5b7a357a0322-p_e.jpg",
+    "hasImage": true,
+    "detailUrl": "/apartments/boston-ma/mbh-apartments/CkBbv2/",
+    "statusType": "FOR_RENT",
+    "statusText": "MBH Apartments",
+    "address": "1078 Boylston St, Boston, MA",
+    "addressStreet": "1078 Boylston St # 7538619",
+    "addressCity": "Boston",
+    "addressState": "MA",
+    "addressZipcode": "02215",
+    "units": [
+      {
+        "price": "$2,300+",
+        "beds": "0",
+        "roomForRent": false
+      },
+      {
+        "price": "$2,400+",
+        "beds": "1",
+        "roomForRent": false
+      },
+      {
+        "price": "$3,000+",
+        "beds": "2",
+        "roomForRent": false
+      },
+      {
+        "price": "$4,975+",
+        "beds": "3",
+        "roomForRent": false
+      }
+    ],
+    "lotId": 2750823054,
+    "latLong": {
+      "latitude": 42.34692,
+      "longitude": -71.08802
+    },
+    "isSaved": false,
+    "buildingName": "MBH Apartments",
+    "isBuilding": true,
+    "canSaveBuilding": true,
+    "has3DModel": false,
+    "isFeaturedListing": true,
+    "isShowcaseListing": false,
+    "list": true,
+    "relaxed": false,
+    "carouselPhotosComposable": {
+      "baseUrl": "https://photos.zillowstatic.com/fp/{photoKey}-p_e.jpg",
+      "communityBaseUrl": null,
+      "photoData": [
+        {
+          "photoKey": "97cdcc71aceadb15810b5b7a357a0322"
+        },
+        {
+          "photoKey": "7c59552360e90c8c781fdd0c3a6b8d35"
+        },
+        {
+          "photoKey": "f7890d8a7fdd3b375c0a188fd4e4e663"
+        },
+        {
+          "photoKey": "306c1445c4ca681d4cdd9e7648928024"
+        },
+        {
+          "photoKey": "b023165bb4ec266076441ec9b31d321a"
+        },
+        {
+          "photoKey": "d46192aa85069e478b861e29d8f9bfab"
+        },
+        {
+          "photoKey": "5db05351bd9843bde8d634fd317378c8"
+        },
+        {
+          "photoKey": "28fec51891b9febdaee20484e60ba5ff"
+        },
+        {
+          "photoKey": "67d81858a5b6f29693e47598ad294213"
+        },
+        {
+          "photoKey": "518ffc55b5ed38322c88f1b0d2fdc3fd"
+        },
+        {
+          "photoKey": "361872e7e2d729acc80d52ad1fd8a0b9"
+        },
+        {
+          "photoKey": "9276cc16cc916873867527ea5fa4f2ca"
+        },
+        {
+          "photoKey": "11b5a5e43e2b5c5ca4c8c310683bea00"
+        },
+        {
+          "photoKey": "665932289780cbd29c73fc5f43799e12"
+        }
+      ],
+      "communityPhotoData": null,
+      "isStaticUrls": false
+    },
+    "availabilityCount": 4,
+    "marketingTreatments": [
+      "trustedListing",
+      "paid",
+      "multiFamilySalesListing",
+      "paidOrUnpaidMultifamily",
+      "paidMultifamily"
+    ],
+    "listPriceIncludesRequiredMonthlyFees": false,
+    "isInstantTourEnabled": false,
+    "isContactable": true,
+    "isPaidBuilderNewConstruction": false
+  },
+  {
+    "zpid": "42.343067--71.09685",
+    "id": "42.343067--71.09685",
+    "providerListingId": "431nt6bd8nj1y",
+    "imgSrc": "https://photos.zillowstatic.com/fp/8804a63c7a874ccc7a4b980ef7bc15ab-p_e.jpg",
+    "hasImage": true,
+    "detailUrl": "/apartments/boston-ma/112-jersey-st./CgHxbQ/",
+    "statusType": "FOR_RENT",
+    "statusText": "112 Jersey ST.",
+    "address": "112 Jersey St, Boston, MA",
+    "addressStreet": "112 Jersey St # 82f24dfa5",
+    "addressCity": "Boston",
+    "addressState": "MA",
+    "addressZipcode": "02215",
+    "units": [
+      {
+        "price": "$2,300+",
+        "beds": "0",
+        "roomForRent": false
+      },
+      {
+        "price": "$2,600+",
+        "beds": "1",
+        "roomForRent": false
+      },
+      {
+        "price": "$3,600+",
+        "beds": "2",
+        "roomForRent": false
+      }
+    ],
+    "lotId": 2734156998,
+    "latLong": {
+      "latitude": 42.343067,
+      "longitude": -71.09685
+    },
+    "isSaved": false,
+    "buildingName": "112 Jersey ST.",
+    "isBuilding": true,
+    "canSaveBuilding": true,
+    "has3DModel": false,
+    "isFeaturedListing": true,
+    "isShowcaseListing": false,
+    "list": true,
+    "relaxed": false,
+    "carouselPhotosComposable": {
+      "baseUrl": "https://photos.zillowstatic.com/fp/{photoKey}-p_e.jpg",
+      "communityBaseUrl": null,
+      "photoData": [
+        {
+          "photoKey": "8804a63c7a874ccc7a4b980ef7bc15ab"
+        },
+        {
+          "photoKey": "af382855d6e85ed0dcc9dcc327d2a0a9"
+        },
+        {
+          "photoKey": "0e0c70db1cfee024db0165f735f7a138"
+        },
+        {
+          "photoKey": "22bcff1fe1a35bb7823862f7896ba0c6"
+        },
+        {
+          "photoKey": "31794c64843280fd656a361e7a26af85"
+        },
+        {
+          "photoKey": "a3146ce7cd88c5b7197ca0710bb347a3"
+        },
+        {
+          "photoKey": "cc627a943f6eeac6f6ea93944f0b98d8"
+        },
+        {
+          "photoKey": "8dac2b99d872fbafaffc943421584c6a"
+        },
+        {
+          "photoKey": "3f9c7b53ee75d24d5a0fb000a5e70057"
+        },
+        {
+          "photoKey": "e3e3b4415e638b6549a63da59c00ed4d"
+        },
+        {
+          "photoKey": "e80bd5d7b344cf99761947e81112abc0"
+        },
+        {
+          "photoKey": "a2e42d198480523c1ec9b349bd4f363c"
+        },
+        {
+          "photoKey": "1bc2cf19da2f29e8d7bf967cae5b82a9"
+        },
+        {
+          "photoKey": "928efe29ac6a65c6f91bd10f24d3c7c8"
+        }
+      ],
+      "communityPhotoData": null,
+      "isStaticUrls": false
+    },
+    "availabilityCount": 15,
+    "marketingTreatments": [
+      "trustedListing",
+      "paid",
+      "zillowRentalManager",
+      "multiFamilySalesListing",
+      "paidOrUnpaidMultifamily",
+      "paidMultifamily",
+      "multifamilyBasePackage"
+    ],
+    "listPriceIncludesRequiredMonthlyFees": false,
+    "isInstantTourEnabled": false,
+    "isContactable": true,
+    "isPaidBuilderNewConstruction": false
+  },
+  {
+    "zpid": "42.342857--71.10043",
+    "id": "42.342857--71.10043",
+    "providerListingId": "4v1w4g7gbhd76",
+    "imgSrc": "https://photos.zillowstatic.com/fp/10eb26874ac5e8c1f7e724201a5b4589-p_e.jpg",
+    "hasImage": true,
+    "detailUrl": "/b/122-peterborough-st-boston-ma-5fyS9K/",
+    "statusType": "FOR_RENT",
+    "statusText": "For Rent",
+    "address": "122 Peterborough St, Boston, MA",
+    "addressStreet": "122 Peterborough St   # 18",
+    "addressCity": "Boston",
+    "addressState": "MA",
+    "addressZipcode": "02215",
+    "units": [
+      {
+        "price": "$2,350+",
+        "beds": "0",
+        "roomForRent": false
+      }
+    ],
+    "lotId": 1037482062,
+    "latLong": {
+      "latitude": 42.342857,
+      "longitude": -71.10043
+    },
+    "isSaved": false,
+    "isBuilding": true,
+    "canSaveBuilding": false,
+    "has3DModel": false,
+    "isFeaturedListing": true,
+    "isShowcaseListing": false,
+    "list": true,
+    "relaxed": false,
+    "carouselPhotosComposable": {
+      "baseUrl": "https://photos.zillowstatic.com/fp/{photoKey}-p_e.jpg",
+      "communityBaseUrl": null,
+      "photoData": [
+        {
+          "photoKey": "10eb26874ac5e8c1f7e724201a5b4589"
+        },
+        {
+          "photoKey": "4f283dbe6fd611dcdbab680098311496"
+        },
+        {
+          "photoKey": "a5ac611c46ee82498cfcbdc154c35dcf"
+        },
+        {
+          "photoKey": "13e4e9ba9d83aaa40b1d7dfe6d50d217"
+        },
+        {
+          "photoKey": "432d8211a43a2726264a45c4748ca0a7"
+        },
+        {
+          "photoKey": "fe8a23a63238646b769d5424b505defe"
+        },
+        {
+          "photoKey": "a1a5aa5eeffd03ac8b056cf586b616f0"
+        },
+        {
+          "photoKey": "bff98e3b7963465a044ed30a2b663926"
+        }
+      ],
+      "communityPhotoData": null,
+      "isStaticUrls": false
+    },
+    "availabilityCount": 3,
+    "marketingTreatments": [
+      "trustedListing",
+      "paid",
+      "zillowRentalManager",
+      "singleFamilyPaid",
+      "feedConnectFlatFeeFeedConnect"
+    ],
+    "listPriceIncludesRequiredMonthlyFees": false,
+    "isInstantTourEnabled": false,
+    "isContactable": false,
+    "isPaidBuilderNewConstruction": false
+  },
+  {
+    "zpid": "42.342503--71.10181",
+    "id": "42.342503--71.10181",
+    "providerListingId": "4te5qq1mjtyff",
+    "imgSrc": "https://photos.zillowstatic.com/fp/5c601229ca4a7e38d81476bb73fc7d90-p_e.jpg",
+    "hasImage": true,
+    "detailUrl": "/b/199-peterborough-st-boston-ma-96Gbyy/",
+    "statusType": "FOR_RENT",
+    "statusText": "For Rent",
+    "address": "199 Peterborough St, Boston, MA",
+    "addressStreet": "199 Peterborough St # 3",
+    "addressCity": "Boston",
+    "addressState": "MA",
+    "addressZipcode": "02215",
+    "units": [
+      {
+        "price": "$2,550+",
+        "beds": "0",
+        "roomForRent": false
+      }
+    ],
+    "lotId": 2001869714,
+    "latLong": {
+      "latitude": 42.342503,
+      "longitude": -71.10181
+    },
+    "isSaved": false,
+    "isBuilding": true,
+    "canSaveBuilding": false,
+    "has3DModel": false,
+    "isFeaturedListing": true,
+    "isShowcaseListing": false,
+    "list": true,
+    "relaxed": false,
+    "carouselPhotosComposable": {
+      "baseUrl": "https://photos.zillowstatic.com/fp/{photoKey}-p_e.jpg",
+      "communityBaseUrl": null,
+      "photoData": [
+        {
+          "photoKey": "5c601229ca4a7e38d81476bb73fc7d90"
+        },
+        {
+          "photoKey": "99aa304bde3a564b6275ea109df2ae57"
+        },
+        {
+          "photoKey": "f589f6dfbb41c7b192dd6110f5aa9776"
+        }
+      ],
+      "communityPhotoData": null,
+      "isStaticUrls": false
+    },
+    "availabilityCount": 2,
+    "marketingTreatments": [
+      "trustedListing",
+      "paid",
+      "zillowRentalManager",
+      "singleFamilyPaid",
+      "feedConnectFlatFeeFeedConnect"
+    ],
+    "listPriceIncludesRequiredMonthlyFees": false,
+    "isInstantTourEnabled": false,
+    "isContactable": false,
+    "isPaidBuilderNewConstruction": false
+  },
+  {
+    "zpid": "42.342503--71.09579",
+    "id": "42.342503--71.09579",
+    "providerListingId": "30e9jmpq5e660",
+    "imgSrc": "https://photos.zillowstatic.com/fp/c23338bc2e00e87cbd0322ecef3dc618-p_e.jpg",
+    "hasImage": true,
+    "detailUrl": "/apartments/boston-ma/77-81-park-drive/ChRZGd/",
+    "statusType": "FOR_RENT",
+    "statusText": "77-81 Park Drive",
+    "address": "77 Park Dr, Boston, MA",
+    "addressStreet": "77 Park Dr # 1B-1Ba",
+    "addressCity": "Boston",
+    "addressState": "MA",
+    "addressZipcode": "02215",
+    "units": [
+      {
+        "price": "$2,800+",
+        "beds": "1",
+        "roomForRent": false
+      },
+      {
+        "price": "$3,495+",
+        "beds": "2",
+        "roomForRent": false
+      },
+      {
+        "price": "$4,400+",
+        "beds": "3",
+        "roomForRent": false
+      }
+    ],
+    "lotId": 2740818951,
+    "latLong": {
+      "latitude": 42.342503,
+      "longitude": -71.09579
+    },
+    "isSaved": false,
+    "buildingName": "77-81 Park Drive",
+    "isBuilding": true,
+    "canSaveBuilding": true,
+    "has3DModel": false,
+    "isFeaturedListing": true,
+    "isShowcaseListing": false,
+    "list": true,
+    "relaxed": false,
+    "carouselPhotosComposable": {
+      "baseUrl": "https://photos.zillowstatic.com/fp/{photoKey}-p_e.jpg",
+      "communityBaseUrl": null,
+      "photoData": [
+        {
+          "photoKey": "c23338bc2e00e87cbd0322ecef3dc618"
+        },
+        {
+          "photoKey": "c5f0b129b5da1676d01170d7d378f67f"
+        },
+        {
+          "photoKey": "75dbdc53620d9c62771ca6bf4f9d0b2e"
+        },
+        {
+          "photoKey": "6062ace6a786fda1e58ea8e5db62729a"
+        },
+        {
+          "photoKey": "e66055cece555b1aad3d246ae879f101"
+        },
+        {
+          "photoKey": "06b563903dbb1171294b5f7c469f20cb"
+        },
+        {
+          "photoKey": "b46b8cf0209a772fb8fab9d3606e1c9e"
+        },
+        {
+          "photoKey": "195a0340e5941b6af5f1497c6a6f811f"
+        }
+      ],
+      "communityPhotoData": null,
+      "isStaticUrls": false
+    },
+    "availabilityCount": 5,
+    "marketingTreatments": [
+      "trustedListing",
+      "paid",
+      "zillowRentalManager",
+      "multiFamilySalesListing",
+      "paidOrUnpaidMultifamily",
+      "paidMultifamily",
+      "multifamilyBasePackage"
+    ],
+    "listPriceIncludesRequiredMonthlyFees": false,
+    "isInstantTourEnabled": false,
+    "isContactable": true,
+    "isPaidBuilderNewConstruction": false
+  },
+  {
+    "zpid": "42.344498--71.08682",
+    "id": "42.344498--71.08682",
+    "providerListingId": "2j0z7gqk9b7gn",
+    "imgSrc": "https://photos.zillowstatic.com/fp/172f44eb386bf459b010f9be20a3ccde-p_e.jpg",
+    "hasImage": true,
+    "detailUrl": "/apartments/boston-ma/church-park/CkG6XM/",
+    "statusType": "FOR_RENT",
+    "statusText": "Church Park",
+    "address": "221 Massachusetts Ave, Boston, MA",
+    "addressStreet": "221 Massachusetts Ave # 614",
+    "addressCity": "Boston",
+    "addressState": "MA",
+    "addressZipcode": "02115",
+    "units": [
+      {
+        "price": "$2,965+",
+        "beds": "0",
+        "roomForRent": false
+      },
+      {
+        "price": "$3,289+",
+        "beds": "1",
+        "roomForRent": false
+      },
+      {
+        "price": "$5,097+",
+        "beds": "2",
+        "roomForRent": false
+      }
+    ],
+    "lotId": 2751232760,
+    "latLong": {
+      "latitude": 42.344498,
+      "longitude": -71.08682
+    },
+    "listCardRecommendation": {
+      "flexFieldRecommendations": [
+        {
+          "displayString": "3D Tour",
+          "contentType": "threeDHome"
+        }
+      ]
+    },
+    "isSaved": false,
+    "buildingName": "Church Park",
+    "isBuilding": true,
+    "canSaveBuilding": true,
+    "has3DModel": true,
+    "isFeaturedListing": true,
+    "isShowcaseListing": false,
+    "list": true,
+    "relaxed": false,
+    "carouselPhotosComposable": {
+      "baseUrl": "https://photos.zillowstatic.com/fp/{photoKey}-p_e.jpg",
+      "communityBaseUrl": null,
+      "photoData": [
+        {
+          "photoKey": "172f44eb386bf459b010f9be20a3ccde"
+        },
+        {
+          "photoKey": "579fe700a66aa1c5feee2b7db6e91b23"
+        },
+        {
+          "photoKey": "9655928f88f91be3bc338b8204317682"
+        },
+        {
+          "photoKey": "c78d2c6070093d88eca374daba9ec967"
+        },
+        {
+          "photoKey": "b5dcb8194ad5dedb88f2f43954dae176"
+        },
+        {
+          "photoKey": "d5eee3ea7cb17f5a5d368d687ee6b022"
+        },
+        {
+          "photoKey": "31a5e173c414abc3d39f8d10b3fdd727"
+        },
+        {
+          "photoKey": "256cf3df1d6304dc0bb83af63a16c818"
+        },
+        {
+          "photoKey": "3ee4cbb448d5a1fcfafe7a2a49c02f57"
+        },
+        {
+          "photoKey": "d35dffa68734f7fe859654cc84e17b89"
+        },
+        {
+          "photoKey": "34ca62870bc18811ad43b3e0d63d35a3"
+        },
+        {
+          "photoKey": "7b07a26960c14957adabec82d9365b99"
+        },
+        {
+          "photoKey": "baf72fdf997b2d05d57657440492e9dd"
+        },
+        {
+          "photoKey": "edb786799313b8f1ac7808f415364246"
+        },
+        {
+          "photoKey": "07d60fbabd687d45c5f18202fc656555"
+        },
+        {
+          "photoKey": "a64e7bd917f05a2b10bff151010fcb5f"
+        },
+        {
+          "photoKey": "0713cf104e22198849eb06175331e1a0"
+        },
+        {
+          "photoKey": "249ff5777f5f2bcb95759b192efc08a5"
+        },
+        {
+          "photoKey": "caec12b676a939d781695c1eb2960454"
+        },
+        {
+          "photoKey": "913ee4bebb15d28d022cb4c9a9e42b7c"
+        },
+        {
+          "photoKey": "00260719747220104775e5d0f177fc6d"
+        },
+        {
+          "photoKey": "82ef1a522d71c2ec5f4eea9415d45742"
+        },
+        {
+          "photoKey": "5893ff0c8786ed292caaaa39e9679ea4"
+        },
+        {
+          "photoKey": "dd99010ef93c63276f05f34c99cc7ed2"
+        }
+      ],
+      "communityPhotoData": null,
+      "isStaticUrls": false
+    },
+    "availabilityCount": 53,
+    "marketingTreatments": [
+      "trustedListing",
+      "paid",
+      "multiFamilySalesListing",
+      "paidOrUnpaidMultifamily",
+      "paidMultifamily",
+      "multifamilyEnhancedPackage"
+    ],
+    "listPriceIncludesRequiredMonthlyFees": true,
+    "minBaseRent": 2965,
+    "maxBaseRent": 5602,
+    "isInstantTourEnabled": false,
+    "isContactable": true,
+    "isPaidBuilderNewConstruction": false
+  },
+  {
+    "zpid": "42.344753--71.095894",
+    "id": "42.344753--71.095894",
+    "providerListingId": "2defje3xe7k4e",
+    "imgSrc": "https://photos.zillowstatic.com/fp/20d851c91aff135e269d9e1c03c20674-p_e.jpg",
+    "hasImage": true,
+    "detailUrl": "/apartments/boston-ma/the-bon/CkCD6K/",
+    "statusType": "FOR_RENT",
+    "statusText": "The Bon",
+    "address": "1260 Boylston St, Boston, MA",
+    "addressStreet": "1260 Boylston St # 0B-1Ba",
+    "addressCity": "Boston",
+    "addressState": "MA",
+    "addressZipcode": "02215",
+    "units": [
+      {
+        "price": "$3,100+",
+        "beds": "0",
+        "roomForRent": false
+      },
+      {
+        "price": "$4,000+",
+        "beds": "1",
+        "roomForRent": false
+      },
+      {
+        "price": "$5,530+",
+        "beds": "2",
+        "roomForRent": false
+      }
+    ],
+    "lotId": 2750893139,
+    "latLong": {
+      "latitude": 42.344753,
+      "longitude": -71.095894
+    },
+    "isSaved": false,
+    "buildingName": "The Bon",
+    "isBuilding": true,
+    "canSaveBuilding": true,
+    "has3DModel": false,
+    "isFeaturedListing": true,
+    "isShowcaseListing": false,
+    "list": true,
+    "relaxed": false,
+    "carouselPhotosComposable": {
+      "baseUrl": "https://photos.zillowstatic.com/fp/{photoKey}-p_e.jpg",
+      "communityBaseUrl": null,
+      "photoData": [
+        {
+          "photoKey": "20d851c91aff135e269d9e1c03c20674"
+        },
+        {
+          "photoKey": "dde46f0bd28f0ebdb852487506f1844d"
+        },
+        {
+          "photoKey": "35e9baf3442f67d789fc054867acfbe2"
+        },
+        {
+          "photoKey": "9da77c6fc23bc3d78b3e536021f5dc24"
+        },
+        {
+          "photoKey": "b700e215831ac0f70215e2504ac47424"
+        },
+        {
+          "photoKey": "0d95596ad2d335d12beb9de93c9f2599"
+        },
+        {
+          "photoKey": "67376c5091d4a49ef0c369f525a6069a"
+        },
+        {
+          "photoKey": "97e3d5e1e3ff2cbbda571e1ad4eebc0a"
+        },
+        {
+          "photoKey": "c14e99edce2325798a3c02bd945ac137"
+        },
+        {
+          "photoKey": "4326b885aee6e56d294e03ae03f4f258"
+        },
+        {
+          "photoKey": "8e7c2847dba1534bdf28bc311a6fc720"
+        },
+        {
+          "photoKey": "d3c1e3b37526a0ed0783f3b027a83be0"
+        },
+        {
+          "photoKey": "1ac18d035be4a369bac2324bd8b54c88"
+        },
+        {
+          "photoKey": "6412c431f5402d6e1babdc50acdebfae"
+        },
+        {
+          "photoKey": "e6df8fd242e9f0df44f6c55cf98c0b8e"
+        },
+        {
+          "photoKey": "41e7af0cf00f2eac7648c8b0219563fd"
+        }
+      ],
+      "communityPhotoData": null,
+      "isStaticUrls": false
+    },
+    "availabilityCount": 10,
+    "marketingTreatments": [
+      "trustedListing",
+      "paid",
+      "zillowRentalManager",
+      "multiFamilySalesListing",
+      "paidOrUnpaidMultifamily",
+      "paidMultifamily",
+      "multifamilyEnhancedPackage"
+    ],
+    "listPriceIncludesRequiredMonthlyFees": false,
+    "isInstantTourEnabled": false,
+    "isContactable": true,
+    "isPaidBuilderNewConstruction": false
+  },
+  {
+    "zpid": "42.341736--71.10004",
+    "id": "42.341736--71.10004",
+    "providerListingId": "3zgw35ejuk5gj",
+    "imgSrc": "https://photos.zillowstatic.com/fp/cf550edd9901601896169462e08bb22b-p_e.jpg",
+    "hasImage": true,
+    "detailUrl": "/b/106-queensberry-st-boston-ma-5Xj8cb/",
+    "statusType": "FOR_RENT",
+    "statusText": "For Rent",
+    "address": "106 Queensberry St, Boston, MA",
+    "addressStreet": "106 Queensberry St   # 44",
+    "addressCity": "Boston",
+    "addressState": "MA",
+    "addressZipcode": "02215",
+    "units": [
+      {
+        "price": "$3,300+",
+        "beds": "1",
+        "roomForRent": false
+      },
+      {
+        "price": "$3,700+",
+        "beds": "2",
+        "roomForRent": false
+      }
+    ],
+    "lotId": 1001444193,
+    "latLong": {
+      "latitude": 42.341736,
+      "longitude": -71.10004
+    },
+    "isSaved": false,
+    "isBuilding": true,
+    "canSaveBuilding": false,
+    "has3DModel": false,
+    "isFeaturedListing": true,
+    "isShowcaseListing": false,
+    "list": true,
+    "relaxed": false,
+    "carouselPhotosComposable": {
+      "baseUrl": "https://photos.zillowstatic.com/fp/{photoKey}-p_e.jpg",
+      "communityBaseUrl": null,
+      "photoData": [
+        {
+          "photoKey": "cf550edd9901601896169462e08bb22b"
+        },
+        {
+          "photoKey": "8fc18782065933767eaade32bd4236a4"
+        },
+        {
+          "photoKey": "3cd8d4c534fc16b8c00d607b8d0e6fbc"
+        },
+        {
+          "photoKey": "7732440a48d1f4667506450cb2bd7aec"
+        },
+        {
+          "photoKey": "009657aa04c832e06efdc1c477cfba45"
+        },
+        {
+          "photoKey": "7d4967427ddfeccde5853ab41e4f9d6e"
+        },
+        {
+          "photoKey": "95311bd42c46bb7f7a05350cc3e8539b"
+        },
+        {
+          "photoKey": "ae4b445be5c8a0fd6eb9c1debe8b21f9"
+        },
+        {
+          "photoKey": "37c16ec7cd394ee10c85d975a10b7803"
+        },
+        {
+          "photoKey": "b19c8811455378904eb741fd47d45f11"
+        }
+      ],
+      "communityPhotoData": null,
+      "isStaticUrls": false
+    },
+    "availabilityCount": 3,
+    "marketingTreatments": [
+      "trustedListing",
+      "paid",
+      "zillowRentalManager",
+      "singleFamilyPaid",
+      "feedConnectFlatFeeFeedConnect"
+    ],
+    "listPriceIncludesRequiredMonthlyFees": false,
+    "isInstantTourEnabled": false,
+    "isContactable": false,
+    "isPaidBuilderNewConstruction": false
+  },
+  {
+    "zpid": "42.342422--71.087715",
+    "id": "42.342422--71.087715",
+    "providerListingId": "2tcavyd8avxf1",
+    "imgSrc": "https://photos.zillowstatic.com/fp/45522520cb915483e03fb64b69628739-p_e.jpg",
+    "hasImage": true,
+    "detailUrl": "/apartments/boston-ma/73-gainsborough-st/5Xj9z5/",
+    "statusType": "FOR_RENT",
+    "statusText": "For Rent",
+    "address": "73 Gainsborough St, Boston, MA",
+    "addressStreet": "73 Gainsborough St Apt 202",
+    "addressCity": "Boston",
+    "addressState": "MA",
+    "addressZipcode": "02115",
+    "units": [
+      {
+        "price": "$3,400+",
+        "beds": "1",
+        "roomForRent": false
+      },
+      {
+        "price": "$9,950+",
+        "beds": "5",
+        "roomForRent": false
+      }
+    ],
+    "lotId": 1001447450,
+    "latLong": {
+      "latitude": 42.342422,
+      "longitude": -71.087715
+    },
+    "isSaved": false,
+    "isBuilding": true,
+    "canSaveBuilding": true,
+    "has3DModel": false,
+    "isFeaturedListing": true,
+    "isShowcaseListing": false,
+    "list": true,
+    "relaxed": false,
+    "carouselPhotosComposable": {
+      "baseUrl": "https://photos.zillowstatic.com/fp/{photoKey}-p_e.jpg",
+      "communityBaseUrl": null,
+      "photoData": [
+        {
+          "photoKey": "45522520cb915483e03fb64b69628739"
+        },
+        {
+          "photoKey": "1a9d34a1e1dc7196cf427cc723d9bf70"
+        },
+        {
+          "photoKey": "a9e6f49a85dc9d4c0c1561cdc60128d4"
+        },
+        {
+          "photoKey": "0ae77b1a232e6fa6b2be6573dd4ed99f"
+        },
+        {
+          "photoKey": "5a1b205b4f564604371c96a58ebc8eba"
+        },
+        {
+          "photoKey": "3e388e25ca38a80d1b89f6fb1ab2ee5c"
+        },
+        {
+          "photoKey": "036e3b3ec317ceffe063b5339e76b827"
+        }
+      ],
+      "communityPhotoData": null,
+      "isStaticUrls": false
+    },
+    "availabilityCount": 4,
+    "marketingTreatments": [
+      "trustedListing",
+      "paid",
+      "zillowRentalManager",
+      "singleFamilyPaid",
+      "feedConnectFlatFeeFeedConnect"
+    ],
+    "listPriceIncludesRequiredMonthlyFees": false,
+    "isInstantTourEnabled": false,
+    "isContactable": false,
+    "isPaidBuilderNewConstruction": false
+  },
+  {
+    "zpid": "42.342907--71.09903",
+    "id": "42.342907--71.09903",
+    "providerListingId": "23znx01v87k0x",
+    "imgSrc": "https://photos.zillowstatic.com/fp/c1ce1db4c4301be0e9aca7a6ee3e9f83-p_e.jpg",
+    "hasImage": true,
+    "detailUrl": "/apartments/boston-ma/idyl/Ch4Jc7/",
+    "statusType": "FOR_RENT",
+    "statusText": "Idyl",
+    "address": "60 Kilmarnock St, Boston, MA",
+    "addressStreet": "60 Kilmarnock St # 502",
+    "addressCity": "Boston",
+    "addressState": "MA",
+    "addressZipcode": "02215",
+    "units": [
+      {
+        "price": "$3,500+",
+        "beds": "0",
+        "roomForRent": false
+      },
+      {
+        "price": "$4,270+",
+        "beds": "1",
+        "roomForRent": false
+      },
+      {
+        "price": "$5,800+",
+        "beds": "2",
+        "roomForRent": false
+      },
+      {
+        "price": "$9,190+",
+        "beds": "3",
+        "roomForRent": false
+      }
+    ],
+    "lotId": 2738550862,
+    "latLong": {
+      "latitude": 42.342907,
+      "longitude": -71.09903
+    },
+    "listCardRecommendation": {
+      "flexFieldRecommendations": [
+        {
+          "displayString": "Tree-lined streets",
+          "contentType": "homeInsight"
+        },
+        {
+          "displayString": "Special Offer",
+          "contentType": "frSpecialOffer"
+        }
+      ]
+    },
+    "isSaved": false,
+    "buildingName": "Idyl",
+    "isBuilding": true,
+    "canSaveBuilding": true,
+    "has3DModel": false,
+    "isFeaturedListing": true,
+    "isShowcaseListing": false,
+    "list": true,
+    "relaxed": false,
+    "carouselPhotosComposable": {
+      "baseUrl": "https://photos.zillowstatic.com/fp/{photoKey}-p_e.jpg",
+      "communityBaseUrl": null,
+      "photoData": [
+        {
+          "photoKey": "c1ce1db4c4301be0e9aca7a6ee3e9f83"
+        },
+        {
+          "photoKey": "74bc68dd592f98483a1dd7815626e8a9"
+        },
+        {
+          "photoKey": "ab4980f744ed019cff76ca500ce39051"
+        },
+        {
+          "photoKey": "4c8b2746270c69a647b45e1646ff555f"
+        },
+        {
+          "photoKey": "1f6a27fa9534bb038e9d950ef189c326"
+        },
+        {
+          "photoKey": "209370fdf8c414d66b762de5d462ee7a"
+        },
+        {
+          "photoKey": "7c169b96b351d4fe553950f443361b98"
+        },
+        {
+          "photoKey": "e8c1ef1c515eaed83e02897a0056315e"
+        },
+        {
+          "photoKey": "4f91cbd99d9fea5650224bb65de994f8"
+        },
+        {
+          "photoKey": "2d1ea256035db54bbe863401445935c5"
+        },
+        {
+          "photoKey": "ebca925be949e4f0b24424a978c77c1e"
+        },
+        {
+          "photoKey": "58d684fbfc8dded64b944d00f55a2970"
+        },
+        {
+          "photoKey": "f2d1799d7b9782ceaf59bb97f3fa1033"
+        },
+        {
+          "photoKey": "9176053f1675d76679f9b3a2525f499d"
+        },
+        {
+          "photoKey": "cfcb9682f878c020028b8b2dce29a205"
+        },
+        {
+          "photoKey": "51cfc32f082c4718aac5f7d82b6ac5db"
+        },
+        {
+          "photoKey": "55029fd2100d08f38ada666ab2423bfa"
+        },
+        {
+          "photoKey": "85ad346b5a175a39ab49ff8c49f7af66"
+        },
+        {
+          "photoKey": "875cec69b23193e5ea1794337428e992"
+        },
+        {
+          "photoKey": "ed4da17db2d3fc75f9974ac0686da516"
+        },
+        {
+          "photoKey": "f1fe9b945934c2acbad8ff7dfeea3b88"
+        },
+        {
+          "photoKey": "404ca964b218ef617d3229894d7b72b5"
+        },
+        {
+          "photoKey": "904b45fc2f702939c0ca57dc3562b9e4"
+        },
+        {
+          "photoKey": "d76f67db91146ce833b0d07531c6bf74"
+        },
+        {
+          "photoKey": "95cdb446c3089f8c2c5d173632495bb2"
+        },
+        {
+          "photoKey": "b3f37c5afb28ce04d0af30563df12c71"
+        },
+        {
+          "photoKey": "10a1a575c712ba8ac37b52667470e2c1"
+        },
+        {
+          "photoKey": "afc0499da00ead4d840bec3b3d4e440c"
+        },
+        {
+          "photoKey": "c2029a194fb87fb0ca8545b2cc084e9e"
+        },
+        {
+          "photoKey": "57d803a599cf3b06ab91bb057e52c032"
+        },
+        {
+          "photoKey": "0367a83830932d9db484444234ffaf55"
+        },
+        {
+          "photoKey": "1909510cf2710b2093f4507a66dc26d7"
+        },
+        {
+          "photoKey": "5817ec03d00923e176530af59ae7d7db"
+        },
+        {
+          "photoKey": "5e0cdbca0a6559e15ce74dac64fb3a89"
+        },
+        {
+          "photoKey": "217181716fee3e8975b7e38e0a4d1095"
+        },
+        {
+          "photoKey": "9b8de1795cb36505545b7e369854d410"
+        },
+        {
+          "photoKey": "133a77d510e73486583e8d25f27d7a6c"
+        },
+        {
+          "photoKey": "7ee70307554022067bb1d4d68eefeaba"
+        },
+        {
+          "photoKey": "8dc836669ca5526054e43804262a2d46"
+        },
+        {
+          "photoKey": "82771c41c839d3444fe75fc9d977e8f4"
+        },
+        {
+          "photoKey": "e1e765959e41ebdb22cfdf6c15a988c9"
+        },
+        {
+          "photoKey": "7cef2e386ef1c051b3e18acc367138ab"
+        },
+        {
+          "photoKey": "3a83ff0405f638c56f0181cc5cc118b8"
+        },
+        {
+          "photoKey": "b418b2f0487f2116bf2f3e565938a0d3"
+        },
+        {
+          "photoKey": "911eae019759bca4ae11a501395219e8"
+        },
+        {
+          "photoKey": "49385c1e33929dd49d8cd56ccee7c597"
+        },
+        {
+          "photoKey": "882da9d821ff9de10fc237de120dd6dd"
+        },
+        {
+          "photoKey": "2506bb8813d831f7e0219ef7b8ceac39"
+        },
+        {
+          "photoKey": "424d9aeff48b3736b4138a07c0e4ef2d"
+        },
+        {
+          "photoKey": "3b957b7c9786e99a951ef9c5d6986758"
+        },
+        {
+          "photoKey": "e0104da0f9222ef8b74deede3a71937a"
+        },
+        {
+          "photoKey": "83ede8c71c94a634eaf726db70e54ce2"
+        },
+        {
+          "photoKey": "a87ff3fd5826c188d941237f076859aa"
+        },
+        {
+          "photoKey": "136c9bb9c3cbe51a4bf682594cc2b870"
+        },
+        {
+          "photoKey": "27bbc2d2dec176e3fc8ed046a3c36590"
+        },
+        {
+          "photoKey": "1e6ffd16387432dbd2232969deea4657"
+        },
+        {
+          "photoKey": "25a483ff2d7b0ed82fee69db06f17104"
+        },
+        {
+          "photoKey": "bda9982d9c7334b3fb37580842e774ae"
+        },
+        {
+          "photoKey": "4ded007cad0e67353906c6c006c077f9"
+        },
+        {
+          "photoKey": "356f46178c306018c38d87ed96893f52"
+        },
+        {
+          "photoKey": "41108dd39fc0e4128ef33ac9c4fd8370"
+        },
+        {
+          "photoKey": "2b79cfb9b564b654145633ab24b835e3"
+        },
+        {
+          "photoKey": "e3f1319c92615fc56fb1459dcb973244"
+        },
+        {
+          "photoKey": "76498462265c2ec206f27115005bfa18"
+        },
+        {
+          "photoKey": "15a2b49288aaacca1b2ffe3ce1d6bb5b"
+        },
+        {
+          "photoKey": "9815a094a246a4c32bab6e5a811eadbb"
+        },
+        {
+          "photoKey": "d9077f6a3136f3f0ba24c3f9d906ae68"
+        },
+        {
+          "photoKey": "59c15ab69b6a01bc574fa439405a0a82"
+        },
+        {
+          "photoKey": "f57d1a7061839741a33d914e5bc2aad0"
+        },
+        {
+          "photoKey": "96a93bba21af2faff45ce29e8c0f237d"
+        },
+        {
+          "photoKey": "ddb50ef635b00ab054e0a8eff83fbd95"
+        },
+        {
+          "photoKey": "10754b8420075e3f9758f8bf61d6b32b"
+        },
+        {
+          "photoKey": "dd454bcb87af62073fcf2b259cc354f9"
+        },
+        {
+          "photoKey": "9b63b39759b43e32f090b2ecbf81c29a"
+        },
+        {
+          "photoKey": "680867c54103d4750e90ecd59ee91d84"
+        },
+        {
+          "photoKey": "34b5795adb687ac1eac4a493cefdc9c1"
+        },
+        {
+          "photoKey": "0768d14b8bb209c8daba1e90f27940dd"
+        },
+        {
+          "photoKey": "a1a4295af1aadb411377d2e89a0a591f"
+        },
+        {
+          "photoKey": "afde83e85848af70544810028fdfc1ca"
+        },
+        {
+          "photoKey": "6b0efae3cd46f6501f096f459efacc4c"
+        },
+        {
+          "photoKey": "f6b65e0089bceaef593d58fe150fdda9"
+        },
+        {
+          "photoKey": "3b2e33d198d0b38252dae57685e2927b"
+        },
+        {
+          "photoKey": "15434bbbf35fd837a78601c19ed108c3"
+        },
+        {
+          "photoKey": "3a0701579cfe9c28090d05ad0129391a"
+        },
+        {
+          "photoKey": "5fe07200d8ee1da5d12ee8daaeb9545e"
+        },
+        {
+          "photoKey": "75784de2682b46341f31621ed77505f4"
+        }
+      ],
+      "communityPhotoData": null,
+      "isStaticUrls": false
+    },
+    "availabilityCount": 45,
+    "marketingTreatments": [
+      "trustedListing",
+      "paid",
+      "multiFamilySalesListing",
+      "paidOrUnpaidMultifamily",
+      "paidMultifamily",
+      "multifamilyPinnaclePackage"
+    ],
+    "listPriceIncludesRequiredMonthlyFees": true,
+    "minBaseRent": 3500,
+    "maxBaseRent": 10390,
+    "isInstantTourEnabled": false,
+    "isContactable": true,
+    "isPaidBuilderNewConstruction": false
+  },
+  {
+    "zpid": "42.344246--71.10152",
+    "id": "42.344246--71.10152",
+    "providerListingId": "348w9k80y6p8p",
+    "imgSrc": "https://photos.zillowstatic.com/fp/927c7422e526a19403e6a530f11cbd12-p_e.jpg",
+    "hasImage": true,
+    "detailUrl": "/apartments/boston-ma/fenway-triangle/5Xj8dw/",
+    "statusType": "FOR_RENT",
+    "statusText": "Fenway Triangle",
+    "address": "180 Brookline Ave, Boston, MA",
+    "addressStreet": "180 Brookline Ave # 749",
+    "addressCity": "Boston",
+    "addressState": "MA",
+    "addressZipcode": "02215",
+    "units": [
+      {
+        "price": "$4,104+",
+        "beds": "0",
+        "roomForRent": false
+      },
+      {
+        "price": "$3,775+",
+        "beds": "1",
+        "roomForRent": false
+      },
+      {
+        "price": "$4,453+",
+        "beds": "2",
+        "roomForRent": false
+      }
+    ],
+    "lotId": 1001444258,
+    "latLong": {
+      "latitude": 42.344246,
+      "longitude": -71.10152
+    },
+    "isSaved": false,
+    "buildingName": "Fenway Triangle",
+    "isBuilding": true,
+    "canSaveBuilding": true,
+    "has3DModel": false,
+    "isFeaturedListing": true,
+    "isShowcaseListing": false,
+    "list": true,
+    "relaxed": false,
+    "carouselPhotosComposable": {
+      "baseUrl": "https://photos.zillowstatic.com/fp/{photoKey}-p_e.jpg",
+      "communityBaseUrl": null,
+      "photoData": [
+        {
+          "photoKey": "927c7422e526a19403e6a530f11cbd12"
+        },
+        {
+          "photoKey": "0a025aba711cea5b1afe9cc7bb685261"
+        },
+        {
+          "photoKey": "8992efc77fafef8e360ff4638cdf9718"
+        },
+        {
+          "photoKey": "6b6bff6ab7bb25bbe4900c9a28602017"
+        },
+        {
+          "photoKey": "a56fc2d89a095a6abc4f7afd18df81e8"
+        },
+        {
+          "photoKey": "5664deafca5b7f33b346da3802255b6b"
+        },
+        {
+          "photoKey": "eb1994cb6e38b3a336c5dfa1f67d0b53"
+        },
+        {
+          "photoKey": "ba2012f8c73f6e84d7d0450c21fa135a"
+        },
+        {
+          "photoKey": "58a444d2daf81d80dbba6f1b347ff192"
+        },
+        {
+          "photoKey": "a357e322ce4d2187b9780fd9b1767201"
+        },
+        {
+          "photoKey": "2cf3989b8bd29a30467710ab1a65e73e"
+        },
+        {
+          "photoKey": "24098d736e8d6109e9e2f64882efb970"
+        },
+        {
+          "photoKey": "0c7127e95fa554f265616636b31bfc32"
+        },
+        {
+          "photoKey": "61045f32ff7b106e1cbf9a9a559ee96a"
+        },
+        {
+          "photoKey": "5964072036cb87be8aedcfbc65188c31"
+        },
+        {
+          "photoKey": "45f0a65c21e948a7290040ea24433b30"
+        },
+        {
+          "photoKey": "fbccd9360345e5ceee0f0166202e7039"
+        },
+        {
+          "photoKey": "d6ed85f739be7193e549253b5f3c92c7"
+        },
+        {
+          "photoKey": "64ecd052da618ce941c56fcbc496aed1"
+        },
+        {
+          "photoKey": "502c7e3681ad13b385f5575cd9087c2a"
+        },
+        {
+          "photoKey": "30c6c9d35b6d23165ce73e2a308927de"
+        },
+        {
+          "photoKey": "4d0c7d69982b4663d3590eaebde91caa"
+        },
+        {
+          "photoKey": "dfc42422119fd18c25bc96b9aec0bbdf"
+        },
+        {
+          "photoKey": "6f3ab7f83018047b13bc0fddf43072a7"
+        },
+        {
+          "photoKey": "27bf3a7b06b673563804ae98c779b6c3"
+        },
+        {
+          "photoKey": "40736f9b500ef8ab82ed77d13a94d9e1"
+        },
+        {
+          "photoKey": "616c2301bebe89083828ac0c945263de"
+        },
+        {
+          "photoKey": "235364be20ddb88919581f059ea26b75"
+        },
+        {
+          "photoKey": "c45a78b2a2cd9afbcfb7a8b915ed1b4e"
+        },
+        {
+          "photoKey": "ff6979e3008ccf8bdd977d448087ac80"
+        },
+        {
+          "photoKey": "7af6302fcdefeda739f7ccd3d340445d"
+        },
+        {
+          "photoKey": "7f8e04ad93d2069334a24e6fd6d687f2"
+        },
+        {
+          "photoKey": "24543f94757af489947e850a78282c48"
+        },
+        {
+          "photoKey": "9e4ddf9d187fe37208963b593ee13cf2"
+        },
+        {
+          "photoKey": "6d7e12214964668213fa458a4140108d"
+        },
+        {
+          "photoKey": "e985f6895a2822be0b6de8bd6003248b"
+        },
+        {
+          "photoKey": "6c91f47df09675b279893dd89df104e2"
+        },
+        {
+          "photoKey": "a6e352bc990de8523659b83460160653"
+        },
+        {
+          "photoKey": "b3263598e3c2d1280c452d3a0c824a2b"
+        },
+        {
+          "photoKey": "af4eaa7c008df3ae085e68e99b69b1f7"
+        },
+        {
+          "photoKey": "8a6b67c72be39cbd42ac0405da61fbe9"
+        },
+        {
+          "photoKey": "19028a81eb548b0abc41c2c99d740771"
+        },
+        {
+          "photoKey": "ad89c73fe4a0d9e5a015dc061824062d"
+        },
+        {
+          "photoKey": "5866189fe3ffa4c7930c90a267534060"
+        },
+        {
+          "photoKey": "92ea6382e536f15e542eb759f044355e"
+        },
+        {
+          "photoKey": "490113386858430bd8aea1c468bea272"
+        }
+      ],
+      "communityPhotoData": null,
+      "isStaticUrls": false
+    },
+    "availabilityCount": 24,
+    "marketingTreatments": [
+      "trustedListing",
+      "paid",
+      "multiFamilySalesListing",
+      "paidOrUnpaidMultifamily",
+      "paidMultifamily"
+    ],
+    "listPriceIncludesRequiredMonthlyFees": false,
+    "isInstantTourEnabled": false,
+    "isContactable": true,
+    "isPaidBuilderNewConstruction": false
+  },
+  {
+    "zpid": "42.34399--71.0958",
+    "id": "42.34399--71.0958",
+    "providerListingId": "3k4pavracmgse",
+    "imgSrc": "https://photos.zillowstatic.com/fp/ade95de63ee53f3312111e37c8866c83-p_e.jpg",
+    "hasImage": true,
+    "detailUrl": "/apartments/boston-ma/16-peterborough-street/Cj8wg4/",
+    "statusType": "FOR_RENT",
+    "statusText": "16 Peterborough Street",
+    "address": "16 Peterborough St, Boston, MA",
+    "addressStreet": "16 Peterborough St   # 202",
+    "addressCity": "Boston",
+    "addressState": "MA",
+    "addressZipcode": "02215",
+    "units": [
+      {
+        "price": "$4,200+",
+        "beds": "2",
+        "roomForRent": false
+      }
+    ],
+    "lotId": 2744860834,
+    "latLong": {
+      "latitude": 42.34399,
+      "longitude": -71.0958
+    },
+    "isSaved": false,
+    "buildingName": "16 Peterborough Street",
+    "isBuilding": true,
+    "canSaveBuilding": true,
+    "has3DModel": false,
+    "isFeaturedListing": true,
+    "isShowcaseListing": false,
+    "list": true,
+    "relaxed": false,
+    "carouselPhotosComposable": {
+      "baseUrl": "https://photos.zillowstatic.com/fp/{photoKey}-p_e.jpg",
+      "communityBaseUrl": null,
+      "photoData": [
+        {
+          "photoKey": "ade95de63ee53f3312111e37c8866c83"
+        },
+        {
+          "photoKey": "7e6845d42382aa750c791a39ef58337a"
+        },
+        {
+          "photoKey": "1611070e5239ebef4e2224c1ae636247"
+        },
+        {
+          "photoKey": "b606587ef5050c380230b7e7df7bb931"
+        },
+        {
+          "photoKey": "f352a3ab781150d9e147bc5977a840fb"
+        },
+        {
+          "photoKey": "2ac7de8eec3aa2cb767827218b8e2881"
+        },
+        {
+          "photoKey": "99e292caa9b4a2332009277d2f3b8233"
+        },
+        {
+          "photoKey": "c01245e9d01f449b5df51818da38bf6c"
+        },
+        {
+          "photoKey": "e4322e2de587596e58d68464afe9c596"
+        },
+        {
+          "photoKey": "cfdaa6cec2e2c9cc0633cc72a41c9a1f"
+        },
+        {
+          "photoKey": "6fdc88f63368d144585079a730e4ec52"
+        },
+        {
+          "photoKey": "5a2c1c9ca1f9067d18a6906ebe7e703f"
+        },
+        {
+          "photoKey": "dbe1a27d72feca9a777a98e1f296ddbd"
+        },
+        {
+          "photoKey": "628f76503f2a79ff191c591afbbd044e"
+        },
+        {
+          "photoKey": "4dd17cb3fc6dcb06dce16f5d173ce764"
+        },
+        {
+          "photoKey": "b9ec76744308d55401d6d3738811380f"
+        }
+      ],
+      "communityPhotoData": null,
+      "isStaticUrls": false
+    },
+    "availabilityCount": 2,
+    "marketingTreatments": [
+      "trustedListing",
+      "paid",
+      "zillowRentalManager",
+      "multiFamilySalesListing",
+      "paidOrUnpaidMultifamily",
+      "paidMultifamily",
+      "multifamilyBasePackage"
+    ],
+    "listPriceIncludesRequiredMonthlyFees": false,
+    "isInstantTourEnabled": false,
+    "isContactable": true,
+    "isPaidBuilderNewConstruction": false
+  }
+]

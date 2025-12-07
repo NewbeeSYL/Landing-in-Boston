@@ -1,0 +1,1230 @@
+[
+  {
+    "zpid": "42.101048--72.58346",
+    "id": "42.101048--72.58346",
+    "providerListingId": "2he4ev8ttvk2c",
+    "imgSrc": "https://photos.zillowstatic.com/fp/3f1810fe4b72ff2efac637565e8925ec-p_e.jpg",
+    "hasImage": true,
+    "detailUrl": "/apartments/springfield-ma/stockbridge-court/5XntTf/",
+    "statusType": "FOR_RENT",
+    "statusText": "Stockbridge Court",
+    "address": "45 Willow St, Springfield, MA",
+    "addressStreet": "45 Willow St # 35-212",
+    "addressCity": "Springfield",
+    "addressState": "MA",
+    "addressZipcode": "01103",
+    "units": [
+      {
+        "price": "$1,750+",
+        "beds": "1",
+        "roomForRent": false
+      },
+      {
+        "price": "$2,150+",
+        "beds": "2",
+        "roomForRent": false
+      }
+    ],
+    "lotId": 1001885637,
+    "latLong": {
+      "latitude": 42.101048,
+      "longitude": -72.58346
+    },
+    "listCardRecommendation": {
+      "flexFieldRecommendations": [
+        {
+          "displayString": "Outdoor courtyard",
+          "contentType": "homeInsight"
+        },
+        {
+          "displayString": "Special Offer",
+          "contentType": "frSpecialOffer"
+        }
+      ]
+    },
+    "isSaved": false,
+    "buildingName": "Stockbridge Court",
+    "isBuilding": true,
+    "canSaveBuilding": true,
+    "has3DModel": true,
+    "isFeaturedListing": true,
+    "isShowcaseListing": false,
+    "list": true,
+    "relaxed": false,
+    "carouselPhotosComposable": {
+      "baseUrl": "https://photos.zillowstatic.com/fp/{photoKey}-p_e.jpg",
+      "communityBaseUrl": null,
+      "photoData": [
+        {
+          "photoKey": "3f1810fe4b72ff2efac637565e8925ec"
+        },
+        {
+          "photoKey": "afa16358aa9086727c174ef5898c8ea4"
+        },
+        {
+          "photoKey": "760cc79ede2506dd81dfa2864fcca5fb"
+        },
+        {
+          "photoKey": "99e384fe056636e5f1af4ce269224ea7"
+        },
+        {
+          "photoKey": "e24838c2b84c8897d4439de16c2253a2"
+        },
+        {
+          "photoKey": "6e9f7105c0851e3e35bc806bbd31ee34"
+        },
+        {
+          "photoKey": "3746add06f454c13e80b36df684701fb"
+        },
+        {
+          "photoKey": "269e288e048db2fe091cfd5ae6085365"
+        },
+        {
+          "photoKey": "1dbef73fddcb2ef6967eeea659e710b7"
+        },
+        {
+          "photoKey": "a691b54c922c8acafcf9d4f338a59184"
+        },
+        {
+          "photoKey": "3c9cd5b2162dc9e89710d13388bec33c"
+        },
+        {
+          "photoKey": "a058f1dca6ab1e2da34a19f2b0a80bfa"
+        },
+        {
+          "photoKey": "daf42fb4049b8838b0ae837ff9ac27b0"
+        },
+        {
+          "photoKey": "35295930126813d79298ed734d3fffed"
+        },
+        {
+          "photoKey": "6e1eb28bfc51f7af8ab41970578b7f51"
+        },
+        {
+          "photoKey": "37a97c6c7c3a6860522b6dd1aadb401e"
+        },
+        {
+          "photoKey": "6900502bbfb29e14a5bc0c60ba4035ff"
+        },
+        {
+          "photoKey": "263680f3ba9bf62120f5935432504fdf"
+        },
+        {
+          "photoKey": "64a14dbab926d9a76f2e0c95186a8c71"
+        },
+        {
+          "photoKey": "e9b9237249acb3e65d9e20a9214b19d5"
+        },
+        {
+          "photoKey": "fd7ec95297d623ceba31c86de20fd1e4"
+        },
+        {
+          "photoKey": "f2a811bc66c200cf6a5949e3dbf5df70"
+        },
+        {
+          "photoKey": "794903e212c7db32e53c634024fbc009"
+        },
+        {
+          "photoKey": "1dbe7c64592ce5b79b4e1f3189768db2"
+        },
+        {
+          "photoKey": "d8974945b10abc3e749cc7ac8ca71e6a"
+        },
+        {
+          "photoKey": "dc0c4917ae9781019defed9999566828"
+        },
+        {
+          "photoKey": "57cef219c8de1ed936426f15c3553a04"
+        },
+        {
+          "photoKey": "5f667c4375e24f37a21ba1a6b45e1faa"
+        },
+        {
+          "photoKey": "5d2ae8fa9999ca1dc41a5d4f6f4093e6"
+        },
+        {
+          "photoKey": "aa6ef2b9ffa8109d5b85e0e790a09496"
+        },
+        {
+          "photoKey": "e830a085e7084fc82dae786df1457ff0"
+        },
+        {
+          "photoKey": "9ab99d3f3d621eccebc45b14c8ea124b"
+        },
+        {
+          "photoKey": "617ac0aa25f6d12891c1602324063199"
+        },
+        {
+          "photoKey": "da2e803b8562b84f1271d99ceb97d786"
+        },
+        {
+          "photoKey": "df60c8eb7ac4311d19286801f82da049"
+        }
+      ],
+      "communityPhotoData": null,
+      "isStaticUrls": false
+    },
+    "availabilityCount": 6,
+    "marketingTreatments": [
+      "trustedListing",
+      "paid",
+      "zillowRentalManager",
+      "multiFamilySalesListing",
+      "paidOrUnpaidMultifamily",
+      "paidMultifamily",
+      "multifamilyPremium"
+    ],
+    "listPriceIncludesRequiredMonthlyFees": false,
+    "isInstantTourEnabled": false,
+    "isContactable": true,
+    "isPaidBuilderNewConstruction": false
+  },
+  {
+    "zpid": "56201744",
+    "palsId": "100066001_f8d247d17d8c23ec424176fb3f24bd607073593a87124ae3697bb68c7686d3aa",
+    "id": "56201744",
+    "rawHomeStatusCd": "ForRent",
+    "marketingStatusSimplifiedCd": "For Rent",
+    "providerListingId": "59nw1yhv68ps3",
+    "imgSrc": "https://photos.zillowstatic.com/fp/a06f88411694d9e406ee4e4c0a8f3b77-p_e.jpg",
+    "hasImage": true,
+    "detailUrl": "https://www.zillow.com/homedetails/41-Ashmun-St-Springfield-MA-01105/56201744_zpid/",
+    "statusType": "FOR_RENT",
+    "statusText": "House for rent",
+    "countryCurrency": "$",
+    "price": "$2,400/mo",
+    "unformattedPrice": 2400,
+    "address": "41 Ashmun St, Springfield, MA 01105",
+    "addressStreet": "41 Ashmun St",
+    "addressCity": "Springfield",
+    "addressState": "MA",
+    "addressZipcode": "01105",
+    "isUndisclosedAddress": false,
+    "beds": 4,
+    "baths": 2,
+    "area": 2184,
+    "latLong": {
+      "latitude": 42.09768,
+      "longitude": -72.57818
+    },
+    "isZillowOwned": false,
+    "listCardRecommendation": {
+      "flexFieldRecommendations": [
+        {
+          "displayString": "29 days ago",
+          "contentType": "timeOnInfo"
+        },
+        {
+          "displayString": "Apply instantly",
+          "contentType": "frZillowApplication"
+        }
+      ],
+      "ctaRecommendations": [
+        {
+          "displayString": "Request a tour",
+          "contentType": "REQUEST_A_TOUR"
+        }
+      ]
+    },
+    "hdpData": {
+      "homeInfo": {
+        "zpid": 56201744,
+        "streetAddress": "41 Ashmun St",
+        "zipcode": "01105",
+        "city": "Springfield",
+        "state": "MA",
+        "latitude": 42.09768,
+        "longitude": -72.57818,
+        "price": 2400,
+        "bathrooms": 2,
+        "bedrooms": 4,
+        "livingArea": 2184,
+        "homeType": "SINGLE_FAMILY",
+        "homeStatus": "FOR_RENT",
+        "daysOnZillow": 29,
+        "isFeatured": true,
+        "shouldHighlight": false,
+        "isRentalWithBasePrice": false,
+        "zestimate": 363900,
+        "rentZestimate": 2576,
+        "listing_sub_type": {},
+        "isUnmappable": false,
+        "isPreforeclosureAuction": false,
+        "homeStatusForHDP": "FOR_RENT",
+        "priceForHDP": 2400,
+        "timeOnZillow": 2506925000,
+        "isNonOwnerOccupied": true,
+        "isPremierBuilder": false,
+        "isZillowOwned": false,
+        "currency": "USD",
+        "country": "USA",
+        "taxAssessedValue": 208500,
+        "isShowcaseListing": false
+      }
+    },
+    "isSaved": false,
+    "isUserClaimingOwner": false,
+    "isUserConfirmedClaim": false,
+    "pgapt": "ForRent",
+    "sgapt": "For Rent",
+    "zestimate": 363900,
+    "shouldShowZestimateAsPrice": false,
+    "has3DModel": false,
+    "hasVideo": false,
+    "isHomeRec": false,
+    "hasAdditionalAttributions": false,
+    "isFeaturedListing": true,
+    "isShowcaseListing": false,
+    "availabilityDate": "2025-11-04 00:00:00",
+    "list": true,
+    "relaxed": false,
+    "carouselPhotosComposable": {
+      "baseUrl": "https://photos.zillowstatic.com/fp/{photoKey}-p_e.jpg",
+      "communityBaseUrl": null,
+      "photoData": [
+        {
+          "photoKey": "a06f88411694d9e406ee4e4c0a8f3b77"
+        },
+        {
+          "photoKey": "1c68ef346e2505e1e25e49ade10d0941"
+        },
+        {
+          "photoKey": "85efec23c95d2364b558c0403dea837f"
+        },
+        {
+          "photoKey": "569faa061139faa206ab3436ed3ce3e0"
+        },
+        {
+          "photoKey": "d2c0681da0e18814df536dcf74e348dd"
+        },
+        {
+          "photoKey": "c39c8abd4140b56d3caa33488f9a67b8"
+        },
+        {
+          "photoKey": "7317a331a61f0af4ae7f6ff167daac6c"
+        },
+        {
+          "photoKey": "c58be0658bea6e0ebd63bc496460d181"
+        },
+        {
+          "photoKey": "f80254e312d7ea80391ee63f62dd52cd"
+        },
+        {
+          "photoKey": "7d5accb9434f5a78c0efefe472c3377e"
+        },
+        {
+          "photoKey": "db87571b133d48f46513c2d607b6187c"
+        },
+        {
+          "photoKey": "a6573fe00ae3cbe78ae881a7b49700d6"
+        },
+        {
+          "photoKey": "232a19e5834dadb240420ca9b1e9f2e1"
+        },
+        {
+          "photoKey": "431ed590c6ecdf476bab1ff1674702d7"
+        },
+        {
+          "photoKey": "d81186cb9d5ef7447660b9c8cf704c9c"
+        }
+      ],
+      "communityPhotoData": null,
+      "isStaticUrls": false
+    },
+    "marketingTreatments": [
+      "paid",
+      "zillowRentalManager"
+    ],
+    "rooms": [],
+    "listPriceIncludesRequiredMonthlyFees": true,
+    "baseRent": 2400,
+    "isPaidBuilderNewConstruction": false,
+    "factsAndFeatures": {
+      "halfBathroomCount": 1,
+      "fullBathroomCount": 1,
+      "hasFireplace": false,
+      "hasAirConditioning": false,
+      "hasSpa": false,
+      "hasPool": false
+    }
+  },
+  {
+    "zpid": "42.099545--72.58472",
+    "id": "42.099545--72.58472",
+    "providerListingId": "4bjd4q5f3e16e",
+    "imgSrc": "https://photos.zillowstatic.com/fp/900de464b8b9c573203123b59269859e-p_e.jpg",
+    "hasImage": true,
+    "detailUrl": "/b/15-park-st-springfield-ma-5ZBf88/",
+    "statusType": "FOR_RENT",
+    "statusText": "For Rent",
+    "address": "15 Park St, Springfield, MA",
+    "addressStreet": "15 Park St # 206",
+    "addressCity": "Springfield",
+    "addressState": "MA",
+    "addressZipcode": "01103",
+    "units": [
+      {
+        "price": "$1,775+",
+        "beds": "1",
+        "roomForRent": false
+      }
+    ],
+    "lotId": 1009858499,
+    "latLong": {
+      "latitude": 42.099545,
+      "longitude": -72.58472
+    },
+    "listCardRecommendation": {
+      "flexFieldRecommendations": [
+        {
+          "displayString": "15 days ago",
+          "contentType": "timeOnInfo"
+        }
+      ]
+    },
+    "isSaved": false,
+    "isBuilding": true,
+    "canSaveBuilding": false,
+    "has3DModel": false,
+    "isFeaturedListing": false,
+    "isShowcaseListing": false,
+    "list": true,
+    "relaxed": false,
+    "carouselPhotosComposable": {
+      "baseUrl": "https://photos.zillowstatic.com/fp/{photoKey}-p_e.jpg",
+      "communityBaseUrl": null,
+      "photoData": [
+        {
+          "photoKey": "900de464b8b9c573203123b59269859e"
+        },
+        {
+          "photoKey": "73ffcc3ae8f5f89969312a49f8c821ad"
+        },
+        {
+          "photoKey": "c65ab0d4e67ffaf11ed84b183bc8df76"
+        },
+        {
+          "photoKey": "8b102a327c04c532d1f4fd42b7951af5"
+        },
+        {
+          "photoKey": "5f2056c2eaf87ab730357c6a5bc4221b"
+        },
+        {
+          "photoKey": "b3f73cb0cedc0d0fa70f7c3da2379af3"
+        },
+        {
+          "photoKey": "e1dda920a2220b7eb5600ce3c35e5513"
+        },
+        {
+          "photoKey": "f00a93239bd86fe7b681814cf048cbb5"
+        },
+        {
+          "photoKey": "6e31377eee4c8970b08847b18fbb1c6e"
+        },
+        {
+          "photoKey": "f7fc35e043f80b9eb1d02850400b9cc5"
+        },
+        {
+          "photoKey": "5e157d02e1a8eccd8b6ec6ee8f7c4ed9"
+        }
+      ],
+      "communityPhotoData": null,
+      "isStaticUrls": false
+    },
+    "availabilityCount": 3,
+    "marketingTreatments": [
+      "zillowRentalManager"
+    ],
+    "listPriceIncludesRequiredMonthlyFees": false,
+    "isInstantTourEnabled": false,
+    "isContactable": false,
+    "isPaidBuilderNewConstruction": false
+  },
+  {
+    "zpid": "2061267571",
+    "palsId": "100066001_93bb6d1069118247a1cc7dc123c0dd9250ef85e6819482a4aea3577f83007a77",
+    "id": "2061267571",
+    "rawHomeStatusCd": "ForRent",
+    "marketingStatusSimplifiedCd": "For Rent",
+    "providerListingId": "1rfweguqafxwv",
+    "imgSrc": "https://photos.zillowstatic.com/fp/533e7f432e1db169f9f6589c3c26c5a6-p_e.jpg",
+    "hasImage": true,
+    "detailUrl": "https://www.zillow.com/homedetails/51-Acushnet-Ave-1-Springfield-MA-01105/2061267571_zpid/",
+    "statusType": "FOR_RENT",
+    "statusText": "Apartment for rent",
+    "countryCurrency": "$",
+    "price": "$1,700/mo",
+    "unformattedPrice": 1700,
+    "address": "51 Acushnet Ave #1, Springfield, MA 01105",
+    "addressStreet": "51 Acushnet Ave #1",
+    "addressCity": "Springfield",
+    "addressState": "MA",
+    "addressZipcode": "01105",
+    "isUndisclosedAddress": false,
+    "beds": 2,
+    "baths": 1,
+    "area": 1650,
+    "latLong": {
+      "latitude": 42.092457,
+      "longitude": -72.57804
+    },
+    "isZillowOwned": false,
+    "listCardRecommendation": {
+      "flexFieldRecommendations": [
+        {
+          "displayString": "74 days ago",
+          "contentType": "timeOnInfo"
+        },
+        {
+          "displayString": "Apply instantly",
+          "contentType": "frZillowApplication"
+        }
+      ],
+      "ctaRecommendations": [
+        {
+          "displayString": "Request a tour",
+          "contentType": "REQUEST_A_TOUR"
+        }
+      ]
+    },
+    "hdpData": {
+      "homeInfo": {
+        "zpid": 2061267571,
+        "streetAddress": "51 Acushnet Ave #1",
+        "zipcode": "01105",
+        "city": "Springfield",
+        "state": "MA",
+        "latitude": 42.092457,
+        "longitude": -72.57804,
+        "price": 1700,
+        "datePriceChanged": 1758006000000,
+        "bathrooms": 1,
+        "bedrooms": 2,
+        "livingArea": 1650,
+        "homeType": "APARTMENT",
+        "homeStatus": "FOR_RENT",
+        "daysOnZillow": 74,
+        "isFeatured": false,
+        "shouldHighlight": false,
+        "isRentalWithBasePrice": false,
+        "rentZestimate": 1569,
+        "listing_sub_type": {},
+        "priceReduction": "$100 (Sep 16)",
+        "isUnmappable": false,
+        "isPreforeclosureAuction": false,
+        "homeStatusForHDP": "FOR_RENT",
+        "priceForHDP": 1700,
+        "priceChange": -100,
+        "timeOnZillow": 6441799000,
+        "isNonOwnerOccupied": true,
+        "isPremierBuilder": false,
+        "isZillowOwned": false,
+        "currency": "USD",
+        "country": "USA",
+        "unit": "# 1",
+        "isShowcaseListing": false
+      }
+    },
+    "isSaved": false,
+    "isUserClaimingOwner": false,
+    "isUserConfirmedClaim": false,
+    "pgapt": "ForRent",
+    "sgapt": "For Rent",
+    "shouldShowZestimateAsPrice": false,
+    "has3DModel": false,
+    "hasVideo": false,
+    "isHomeRec": false,
+    "hasAdditionalAttributions": false,
+    "isFeaturedListing": false,
+    "isShowcaseListing": false,
+    "availabilityDate": "2025-11-01 00:00:00",
+    "list": true,
+    "relaxed": false,
+    "carouselPhotosComposable": {
+      "baseUrl": "https://photos.zillowstatic.com/fp/{photoKey}-p_e.jpg",
+      "communityBaseUrl": null,
+      "photoData": [
+        {
+          "photoKey": "533e7f432e1db169f9f6589c3c26c5a6"
+        },
+        {
+          "photoKey": "85cd8f78659e7162f0607eaf0c2a302c"
+        },
+        {
+          "photoKey": "87b47acad04d8f3dc600a9bdd83c5ff0"
+        },
+        {
+          "photoKey": "98fbfc49c544f63b38571c8926f9b527"
+        },
+        {
+          "photoKey": "ca78d868d73931ba15c36d0664a67435"
+        },
+        {
+          "photoKey": "9268c91e132c068af364f566829d90d8"
+        },
+        {
+          "photoKey": "8073b2d08a51138cd10985d6316a8929"
+        },
+        {
+          "photoKey": "4be6602b4f0db43e150be640715ce566"
+        },
+        {
+          "photoKey": "60bdc06aeaef94948078fe4ecaae6241"
+        },
+        {
+          "photoKey": "3272c69d128ddd288fecb41d3ff38180"
+        },
+        {
+          "photoKey": "e7933ab4cb90f0f13845248fb0a1fc54"
+        },
+        {
+          "photoKey": "6aabc9bda378800ff314fd82a68e15c3"
+        },
+        {
+          "photoKey": "6bf97a9a0ede751656a1da971f857e9b"
+        },
+        {
+          "photoKey": "2ede8fe6a3f01670b8e96b0ee2df9283"
+        },
+        {
+          "photoKey": "f9ca7ca2f18e8482be31be7a9a7b6e45"
+        },
+        {
+          "photoKey": "04e5051406c6935f88d5c7467b7aa1c1"
+        },
+        {
+          "photoKey": "d4af6a58800c0b8ade1ae764fc128fa5"
+        },
+        {
+          "photoKey": "0319a4a872267631de2f454fe108d1a0"
+        }
+      ],
+      "communityPhotoData": null,
+      "isStaticUrls": false
+    },
+    "marketingTreatments": [
+      "zillowRentalManager"
+    ],
+    "rooms": [],
+    "listPriceIncludesRequiredMonthlyFees": false,
+    "isPaidBuilderNewConstruction": false,
+    "factsAndFeatures": {
+      "fullBathroomCount": 1,
+      "hasFireplace": false,
+      "hasAirConditioning": false,
+      "hasSpa": false,
+      "hasPool": false
+    }
+  },
+  {
+    "zpid": "443823950",
+    "palsId": "100066001_ab032a9efbbcaa6ced66a47c4d7c3b3e57f2d8322527e1b7c1efeed1b1007e3d",
+    "id": "443823950",
+    "rawHomeStatusCd": "ForRent",
+    "marketingStatusSimplifiedCd": "For Rent",
+    "providerListingId": "3w5hz0n638c25",
+    "imgSrc": "https://photos.zillowstatic.com/fp/d9d8fd5ee7d1b67e8e776b806f74d31d-p_e.jpg",
+    "hasImage": true,
+    "detailUrl": "https://www.zillow.com/homedetails/76-Maple-St-4-Springfield-MA-01105/443823950_zpid/",
+    "statusType": "FOR_RENT",
+    "statusText": "Apartment for rent",
+    "countryCurrency": "$",
+    "price": "$1,350/mo",
+    "unformattedPrice": 1350,
+    "address": "76 Maple St #4, Springfield, MA 01105",
+    "addressStreet": "76 Maple St #4",
+    "addressCity": "Springfield",
+    "addressState": "MA",
+    "addressZipcode": "01105",
+    "isUndisclosedAddress": false,
+    "beds": 1,
+    "baths": 1,
+    "area": 600,
+    "latLong": {
+      "latitude": 42.10162,
+      "longitude": -72.58221
+    },
+    "isZillowOwned": false,
+    "listCardRecommendation": {
+      "flexFieldRecommendations": [
+        {
+          "displayString": "104 days ago",
+          "contentType": "timeOnInfo"
+        },
+        {
+          "displayString": "Apply instantly",
+          "contentType": "frZillowApplication"
+        }
+      ],
+      "ctaRecommendations": [
+        {
+          "displayString": "Book a tour now",
+          "contentType": "SCHEDULE_A_TOUR"
+        }
+      ]
+    },
+    "hdpData": {
+      "homeInfo": {
+        "zpid": 443823950,
+        "streetAddress": "76 Maple St #4",
+        "zipcode": "01105",
+        "city": "Springfield",
+        "state": "MA",
+        "latitude": 42.10162,
+        "longitude": -72.58221,
+        "price": 1350,
+        "bathrooms": 1,
+        "bedrooms": 1,
+        "livingArea": 600,
+        "homeType": "APARTMENT",
+        "homeStatus": "FOR_RENT",
+        "daysOnZillow": 104,
+        "isFeatured": false,
+        "shouldHighlight": false,
+        "isRentalWithBasePrice": false,
+        "listing_sub_type": {},
+        "isUnmappable": false,
+        "isPreforeclosureAuction": false,
+        "homeStatusForHDP": "FOR_RENT",
+        "priceForHDP": 1350,
+        "timeOnZillow": 8988562000,
+        "isNonOwnerOccupied": true,
+        "isPremierBuilder": false,
+        "isZillowOwned": false,
+        "currency": "USD",
+        "country": "USA",
+        "unit": "# 4",
+        "isShowcaseListing": false
+      }
+    },
+    "isSaved": false,
+    "isUserClaimingOwner": false,
+    "isUserConfirmedClaim": false,
+    "pgapt": "ForRent",
+    "sgapt": "For Rent",
+    "shouldShowZestimateAsPrice": false,
+    "has3DModel": false,
+    "hasVideo": false,
+    "isHomeRec": false,
+    "hasAdditionalAttributions": false,
+    "isFeaturedListing": false,
+    "isShowcaseListing": false,
+    "list": true,
+    "relaxed": false,
+    "carouselPhotosComposable": {
+      "baseUrl": "https://photos.zillowstatic.com/fp/{photoKey}-p_e.jpg",
+      "communityBaseUrl": null,
+      "photoData": [
+        {
+          "photoKey": "d9d8fd5ee7d1b67e8e776b806f74d31d"
+        },
+        {
+          "photoKey": "771578a9d28f723f439a2ab1dafea4a2"
+        },
+        {
+          "photoKey": "b2d896b58439606ca793555832732629"
+        },
+        {
+          "photoKey": "9ed646b95c7007396fe1b59ef5ee7af0"
+        },
+        {
+          "photoKey": "e6e068e9292a47dcf75d754fe9dabcf8"
+        },
+        {
+          "photoKey": "fbf925ca9cd18398e728aefed2167d7e"
+        },
+        {
+          "photoKey": "ee0837ec8cc2d10eb365d936df1ef912"
+        },
+        {
+          "photoKey": "f45325fce305571973341af3ad409fb0"
+        },
+        {
+          "photoKey": "b192211e1f4d3d78fd567c1fefca0767"
+        },
+        {
+          "photoKey": "3d5e96764018ea7fe5598286b5a9db53"
+        }
+      ],
+      "communityPhotoData": null,
+      "isStaticUrls": false
+    },
+    "marketingTreatments": [
+      "zillowRentalManager"
+    ],
+    "rooms": [],
+    "listPriceIncludesRequiredMonthlyFees": true,
+    "baseRent": 1350,
+    "isPaidBuilderNewConstruction": false,
+    "factsAndFeatures": {
+      "fullBathroomCount": 1,
+      "hasFireplace": false,
+      "hasAirConditioning": false,
+      "hasSpa": false,
+      "hasPool": false
+    }
+  },
+  {
+    "zpid": "448909936",
+    "palsId": "100066001_cfa38ac6b8725a8780ad9cba7536aaaa1481882644934cb158daa40255c8b2c3",
+    "id": "448909936",
+    "rawHomeStatusCd": "ForRent",
+    "marketingStatusSimplifiedCd": "For Rent",
+    "providerListingId": "3js2047mawz0m",
+    "imgSrc": "https://photos.zillowstatic.com/fp/b9c31a118c8d76e49ff7d2a5812fdb0b-p_e.jpg",
+    "hasImage": true,
+    "detailUrl": "https://www.zillow.com/homedetails/108-Marble-St-2-Springfield-MA-01105/448909936_zpid/",
+    "statusType": "FOR_RENT",
+    "statusText": "Apartment for rent",
+    "countryCurrency": "$",
+    "price": "$2,000/mo",
+    "unformattedPrice": 2000,
+    "address": "108 Marble St #2, Springfield, MA 01105",
+    "addressStreet": "108 Marble St #2",
+    "addressCity": "Springfield",
+    "addressState": "MA",
+    "addressZipcode": "01105",
+    "isUndisclosedAddress": false,
+    "beds": 3,
+    "baths": 1,
+    "area": 999,
+    "latLong": {
+      "latitude": 42.095806,
+      "longitude": -72.57832
+    },
+    "isZillowOwned": false,
+    "listCardRecommendation": {
+      "flexFieldRecommendations": [
+        {
+          "displayString": "10 days ago",
+          "contentType": "timeOnInfo"
+        }
+      ],
+      "ctaRecommendations": [
+        {
+          "displayString": "Request a tour",
+          "contentType": "REQUEST_A_TOUR"
+        }
+      ]
+    },
+    "hdpData": {
+      "homeInfo": {
+        "zpid": 448909936,
+        "streetAddress": "108 Marble St #2",
+        "zipcode": "01105",
+        "city": "Springfield",
+        "state": "MA",
+        "latitude": 42.095806,
+        "longitude": -72.57832,
+        "price": 2000,
+        "datePriceChanged": 1762588800000,
+        "bathrooms": 1,
+        "bedrooms": 3,
+        "livingArea": 999,
+        "homeType": "APARTMENT",
+        "homeStatus": "FOR_RENT",
+        "daysOnZillow": 10,
+        "isFeatured": false,
+        "shouldHighlight": false,
+        "isRentalWithBasePrice": false,
+        "listing_sub_type": {},
+        "isUnmappable": false,
+        "isPreforeclosureAuction": false,
+        "homeStatusForHDP": "FOR_RENT",
+        "priceForHDP": 2000,
+        "priceChange": 100,
+        "timeOnZillow": 937475000,
+        "isNonOwnerOccupied": true,
+        "isPremierBuilder": false,
+        "isZillowOwned": false,
+        "currency": "USD",
+        "country": "USA",
+        "unit": "# 2",
+        "isShowcaseListing": false
+      }
+    },
+    "isSaved": false,
+    "isUserClaimingOwner": false,
+    "isUserConfirmedClaim": false,
+    "pgapt": "ForRent",
+    "sgapt": "For Rent",
+    "shouldShowZestimateAsPrice": false,
+    "has3DModel": false,
+    "hasVideo": false,
+    "isHomeRec": false,
+    "hasAdditionalAttributions": false,
+    "isFeaturedListing": false,
+    "isShowcaseListing": false,
+    "list": true,
+    "relaxed": false,
+    "carouselPhotosComposable": {
+      "baseUrl": "https://photos.zillowstatic.com/fp/{photoKey}-p_e.jpg",
+      "communityBaseUrl": null,
+      "photoData": [
+        {
+          "photoKey": "b9c31a118c8d76e49ff7d2a5812fdb0b"
+        },
+        {
+          "photoKey": "242f31586df02f7e26d2acb9cdd3dad6"
+        },
+        {
+          "photoKey": "58fcbb11acbc5ccd9aaaf9b5c097b9ff"
+        },
+        {
+          "photoKey": "c4c4ebd85ed9f14f8235789b39c0e3fc"
+        },
+        {
+          "photoKey": "6ea7268636baa81e5c811b806e90bd5e"
+        },
+        {
+          "photoKey": "db5eb00d92c247da24e814856da622cb"
+        },
+        {
+          "photoKey": "dd61dec1451b9d50cc91424729f70a15"
+        }
+      ],
+      "communityPhotoData": null,
+      "isStaticUrls": false
+    },
+    "marketingTreatments": [
+      "zillowRentalManager"
+    ],
+    "rooms": [],
+    "listPriceIncludesRequiredMonthlyFees": true,
+    "baseRent": 2000,
+    "isPaidBuilderNewConstruction": false,
+    "factsAndFeatures": {
+      "fullBathroomCount": 1,
+      "hasFireplace": false,
+      "hasAirConditioning": false,
+      "hasSpa": false,
+      "hasPool": false
+    }
+  },
+  {
+    "zpid": "193566343",
+    "palsId": "100066001_3e43db37abc05745791fe12906004f2c6cdfa67fec0b10a38608221976953c9e",
+    "id": "193566343",
+    "rawHomeStatusCd": "ForRent",
+    "marketingStatusSimplifiedCd": "For Rent",
+    "providerListingId": "2ger3ejaa41wq",
+    "imgSrc": "https://photos.zillowstatic.com/fp/82f45b83746dfa92d5ed30ac8fe25ca7-p_e.jpg",
+    "hasImage": true,
+    "detailUrl": "https://www.zillow.com/apartments/springfield-ma/48-50-acushnet-ave/CnGY3P/",
+    "statusType": "FOR_RENT",
+    "statusText": "Apartment for rent",
+    "countryCurrency": "$",
+    "price": "$1,250/mo",
+    "unformattedPrice": 1250,
+    "address": "48-50 Acushnet Ave, 48-50 Acushnet Ave, Springfield, MA 01105",
+    "addressStreet": "48-50 Acushnet Ave",
+    "addressCity": "Springfield",
+    "addressState": "MA",
+    "addressZipcode": "01105",
+    "isUndisclosedAddress": false,
+    "beds": 2,
+    "baths": 1,
+    "latLong": {
+      "latitude": 42.09265,
+      "longitude": -72.57857
+    },
+    "isZillowOwned": false,
+    "listCardRecommendation": {
+      "ctaRecommendations": [
+        {
+          "displayString": "Request a tour",
+          "contentType": "REQUEST_A_TOUR"
+        }
+      ]
+    },
+    "hdpData": {
+      "homeInfo": {
+        "zpid": 193566343,
+        "streetAddress": "48-50 Acushnet Ave",
+        "zipcode": "01105",
+        "city": "Springfield",
+        "state": "MA",
+        "latitude": 42.09265,
+        "longitude": -72.57857,
+        "price": 1250,
+        "datePriceChanged": 1763193600000,
+        "bathrooms": 1,
+        "bedrooms": 2,
+        "homeType": "APARTMENT",
+        "homeStatus": "FOR_RENT",
+        "daysOnZillow": 106,
+        "isFeatured": true,
+        "shouldHighlight": false,
+        "isRentalWithBasePrice": false,
+        "rentZestimate": 1542,
+        "listing_sub_type": {},
+        "priceReduction": "$125 (Nov 15)",
+        "isUnmappable": false,
+        "isPreforeclosureAuction": false,
+        "homeStatusForHDP": "FOR_RENT",
+        "priceForHDP": 1250,
+        "priceChange": -125,
+        "timeOnZillow": 9171669000,
+        "isNonOwnerOccupied": true,
+        "isPremierBuilder": false,
+        "isZillowOwned": false,
+        "currency": "USD",
+        "country": "USA",
+        "taxAssessedValue": 251900,
+        "isShowcaseListing": false
+      }
+    },
+    "isSaved": false,
+    "isUserClaimingOwner": false,
+    "isUserConfirmedClaim": false,
+    "pgapt": "ForRent",
+    "sgapt": "For Rent",
+    "shouldShowZestimateAsPrice": false,
+    "has3DModel": false,
+    "hasVideo": false,
+    "isHomeRec": false,
+    "hasAdditionalAttributions": false,
+    "isFeaturedListing": true,
+    "isShowcaseListing": false,
+    "list": true,
+    "relaxed": false,
+    "carouselPhotosComposable": {
+      "baseUrl": "https://photos.zillowstatic.com/fp/{photoKey}-p_e.jpg",
+      "communityBaseUrl": null,
+      "photoData": [
+        {
+          "photoKey": "82f45b83746dfa92d5ed30ac8fe25ca7"
+        },
+        {
+          "photoKey": "95ce77bc6f68f73568f884ce0fd27eb6"
+        },
+        {
+          "photoKey": "208302cb35c85ff58c0b0d4cdd732f8e"
+        },
+        {
+          "photoKey": "2edc0bc3c6c0280538bef44b169ec92f"
+        },
+        {
+          "photoKey": "c45c9c30e042bf6f73b0cf48501b75c6"
+        },
+        {
+          "photoKey": "6fc58b8b9146c7b789ff4141c6788e33"
+        }
+      ],
+      "communityPhotoData": null,
+      "isStaticUrls": false
+    },
+    "marketingTreatments": [
+      "trustedListing",
+      "paid",
+      "multiFamilySalesListing",
+      "paidOrUnpaidMultifamily",
+      "feedConnectFlatFeeFeedConnect"
+    ],
+    "rooms": [],
+    "listPriceIncludesRequiredMonthlyFees": false,
+    "isPaidBuilderNewConstruction": false,
+    "factsAndFeatures": {
+      "halfBathroomCount": 0,
+      "fullBathroomCount": 1,
+      "hasFireplace": false,
+      "hasAirConditioning": false,
+      "hasSpa": false,
+      "hasPool": false
+    }
+  },
+  {
+    "zpid": "456262030",
+    "palsId": "100066001_6fc89080493427c3d9721227d765860610b5cbf0902ded216c64583a2884519a",
+    "id": "456262030",
+    "rawHomeStatusCd": "ForRent",
+    "marketingStatusSimplifiedCd": "For Rent",
+    "providerListingId": "1cxfa7b58tb55",
+    "imgSrc": "https://photos.zillowstatic.com/fp/b35e0692ae8f4b5e2cae007a2e1c855d-p_e.jpg",
+    "hasImage": true,
+    "detailUrl": "https://www.zillow.com/homedetails/96-Central-St-FLOOR-2-Springfield-MA-01105/456262030_zpid/",
+    "statusType": "FOR_RENT",
+    "statusText": "Apartment for rent",
+    "countryCurrency": "$",
+    "price": "$1,900/mo",
+    "unformattedPrice": 1900,
+    "address": "96 Central St FLOOR 2, Springfield, MA 01105",
+    "addressStreet": "96 Central St FLOOR 2",
+    "addressCity": "Springfield",
+    "addressState": "MA",
+    "addressZipcode": "01105",
+    "isUndisclosedAddress": false,
+    "beds": 3,
+    "baths": 1,
+    "area": 925,
+    "latLong": {
+      "latitude": 42.09872,
+      "longitude": -72.5798
+    },
+    "isZillowOwned": false,
+    "listCardRecommendation": {
+      "flexFieldRecommendations": [
+        {
+          "displayString": "53 days ago",
+          "contentType": "timeOnInfo"
+        }
+      ],
+      "ctaRecommendations": [
+        {
+          "displayString": "Request a tour",
+          "contentType": "REQUEST_A_TOUR"
+        }
+      ]
+    },
+    "hdpData": {
+      "homeInfo": {
+        "zpid": 456262030,
+        "streetAddress": "96 Central St FLOOR 2",
+        "zipcode": "01105",
+        "city": "Springfield",
+        "state": "MA",
+        "latitude": 42.09872,
+        "longitude": -72.5798,
+        "price": 1900,
+        "bathrooms": 1,
+        "bedrooms": 3,
+        "livingArea": 925,
+        "homeType": "APARTMENT",
+        "homeStatus": "FOR_RENT",
+        "daysOnZillow": 53,
+        "isFeatured": false,
+        "shouldHighlight": false,
+        "isRentalWithBasePrice": false,
+        "listing_sub_type": {},
+        "isUnmappable": false,
+        "isPreforeclosureAuction": false,
+        "homeStatusForHDP": "FOR_RENT",
+        "priceForHDP": 1900,
+        "timeOnZillow": 4615385000,
+        "isNonOwnerOccupied": true,
+        "isPremierBuilder": false,
+        "isZillowOwned": false,
+        "currency": "USD",
+        "country": "USA",
+        "unit": "Floor 2",
+        "isShowcaseListing": false
+      }
+    },
+    "isSaved": false,
+    "isUserClaimingOwner": false,
+    "isUserConfirmedClaim": false,
+    "pgapt": "ForRent",
+    "sgapt": "For Rent",
+    "shouldShowZestimateAsPrice": false,
+    "has3DModel": false,
+    "hasVideo": false,
+    "isHomeRec": false,
+    "hasAdditionalAttributions": false,
+    "isFeaturedListing": false,
+    "isShowcaseListing": false,
+    "list": true,
+    "relaxed": false,
+    "carouselPhotosComposable": {
+      "baseUrl": "https://photos.zillowstatic.com/fp/{photoKey}-p_e.jpg",
+      "communityBaseUrl": null,
+      "photoData": [
+        {
+          "photoKey": "b35e0692ae8f4b5e2cae007a2e1c855d"
+        },
+        {
+          "photoKey": "31e7dca2552017d57523c40edfaeca86"
+        },
+        {
+          "photoKey": "53bbd9b872f080a53a23026fcc99ce87"
+        },
+        {
+          "photoKey": "d3ad3245445b1e0a94dea487aa9e0e6f"
+        },
+        {
+          "photoKey": "a1c00f7a0c2396499a40a4bb723e475c"
+        },
+        {
+          "photoKey": "e1d6d9229110f2987f0cc07307ac9099"
+        },
+        {
+          "photoKey": "6612fb74acd9011cb499bf88f452d2d1"
+        },
+        {
+          "photoKey": "75a1ab1fe7303541b33e11c470c043b6"
+        },
+        {
+          "photoKey": "a7b5be25558852605a039be5e20afb47"
+        },
+        {
+          "photoKey": "d5a8f13ea131e3aaf52af8e94fc59b38"
+        },
+        {
+          "photoKey": "60772c7a3ac88b4d1965fbe7ecf7c709"
+        },
+        {
+          "photoKey": "b9181540cd2c0d0c1c0db4cea6d8bdc3"
+        },
+        {
+          "photoKey": "6f0f2b16f76429cc6dc3fbd2dd234d08"
+        },
+        {
+          "photoKey": "0da42212628ab87309b6276d49864a6f"
+        },
+        {
+          "photoKey": "58ae38e6eb2a43b9f32160da3f5d5c73"
+        },
+        {
+          "photoKey": "31e4a0732e5cf25ecff1af3993a35f04"
+        },
+        {
+          "photoKey": "a427b12f2b245319be0736601ed69c04"
+        },
+        {
+          "photoKey": "5c347aca2fb6394931db587cf3c5ec9e"
+        },
+        {
+          "photoKey": "e6fdd84411c638260628b62684afdc8f"
+        },
+        {
+          "photoKey": "e60058a80c68a0fa6b575561d398a642"
+        },
+        {
+          "photoKey": "f066271df69c8a42034c691bd771a271"
+        },
+        {
+          "photoKey": "b7d0f9032dc475577d5a763bc5a32825"
+        },
+        {
+          "photoKey": "44c07589a40a2157b8f6e92b625f1af5"
+        },
+        {
+          "photoKey": "66b41dfbc4adc89085fe0c6ebaf365af"
+        },
+        {
+          "photoKey": "a66fb9ccde52c2dbdc2a4d7284a91530"
+        },
+        {
+          "photoKey": "49dcb691e519c32549f864861fbb2754"
+        },
+        {
+          "photoKey": "f51a07c667aa05c226fd9b3a13f29db3"
+        },
+        {
+          "photoKey": "f8eb793769f601020e5cc0e1c5d36b65"
+        }
+      ],
+      "communityPhotoData": null,
+      "isStaticUrls": false
+    },
+    "rooms": [],
+    "listPriceIncludesRequiredMonthlyFees": false,
+    "isPaidBuilderNewConstruction": false,
+    "factsAndFeatures": {
+      "fullBathroomCount": 1,
+      "hasFireplace": false,
+      "hasAirConditioning": false,
+      "hasSpa": false,
+      "hasPool": false
+    }
+  }
+]
